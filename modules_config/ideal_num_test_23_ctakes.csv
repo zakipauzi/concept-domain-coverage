@@ -1,0 +1,17 @@
+module,ideal_num
+ctakes-assertion,4
+ctakes-chunker,1
+ctakes-context-tokenizer,6
+ctakes-core,8
+ctakes-coreference,6
+ctakes-dependency-parser,8
+ctakes-dictionary-lookup-fast,8
+ctakes-lvg,9
+ctakes-ne-contexts,9
+ctakes-pos-tagger,7
+ctakes-preprocessor,1
+ctakes-relation-extractor,3
+ctakes-temporal,3
+ctakes-utils,7
+ctakes-ytex,9
+ctakes-ytex-uima,7
