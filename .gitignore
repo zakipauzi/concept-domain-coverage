@@ -1,6 +1,10 @@
 # do not commit the repo data
 repo/*
-gpt_vec/*
+gpt_dom_vec/*
 gpt_code_vec/*
 gpt_test_vec/*
+gpt_doc_vec/*
+archived_gpt_vec/*
+archived_gpt_code_vec/*
+archived_gpt_test_vec/*
 .env
