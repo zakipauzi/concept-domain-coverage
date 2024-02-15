@@ -12,4 +12,13 @@ archived_gpt_vec/*
 archived_gpt_code_vec/*
 archived_gpt_test_vec/*
 UAE-Large-V1/*
+code_ci_res_angle/*.csv
+code_ci_res_sow2v/*.csv
+code_ci_res_gpt/*.csv
+test_ci_res_angle/*.csv
+test_ci_res_sow2v/*.csv
+test_ci_res_gpt/*.csv
+doc_ci_res_angle/*.csv
+doc_ci_res_sow2v/*.csv
+doc_ci_res_gpt/*.csv
 .env
