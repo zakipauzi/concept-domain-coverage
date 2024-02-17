@@ -21,4 +21,5 @@ test_ci_res_gpt/*.csv
 doc_ci_res_angle/*.csv
 doc_ci_res_sow2v/*.csv
 doc_ci_res_gpt/*.csv
+trace_results/**/*.csv
 .env
