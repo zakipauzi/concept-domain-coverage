@@ -1,0 +1,169 @@
+project_name,module,domain,sim_score
+07_druid,extensions-contrib,analytics,0.7318744010943996
+07_druid,extensions-contrib,"extract, transform, load",0.7306787967690435
+07_druid,extensions-contrib,scheduler,0.7290383228630923
+07_druid,extensions-contrib,benchmark,0.7273141761764956
+07_druid,extensions-contrib,unit testing,0.7266694075353274
+07_druid,extensions-contrib,serialization,0.7261821551711571
+07_druid,extensions-contrib,schema migration,0.7252352464226198
+07_druid,extensions-contrib,data visualization,0.7252012467356392
+07_druid,extensions-contrib,big data,0.7234552342211
+07_druid,extensions-contrib,web crawler,0.7223336896758311
+07_druid,extensions-contrib,sorting algorithm,0.7217159347451052
+07_druid,extensions-contrib,compiler,0.7211471348962859
+07_druid,extensions-contrib,time series,0.7210166530590623
+07_druid,extensions-contrib,Parser combinator,0.7209800631022822
+07_druid,extensions-contrib,data compression,0.7194746827823446
+07_druid,extensions-contrib,test automation,0.7194123052969608
+07_druid,extensions-contrib,middleware,0.7191451791847525
+07_druid,extensions-contrib,database,0.7190322741363067
+07_druid,extensions-contrib,data,0.7182895790670327
+07_druid,extensions-contrib,data structure,0.7181324317735998
+07_druid,extensions-contrib,code generation,0.7178484038530638
+07_druid,extensions-contrib,WebSocket,0.717635932372618
+07_druid,extensions-contrib,server,0.7175760299275662
+07_druid,extensions-contrib,statistics,0.7166116116742199
+07_druid,extensions-contrib,validator,0.7165623892981752
+07_druid,extensions-contrib,image compression,0.7162917548760379
+07_druid,extensions-contrib,client,0.7161038386895828
+07_druid,extensions-contrib,image,0.7148957094163872
+07_druid,extensions-contrib,algorithm,0.7135602626921809
+07_druid,extensions-contrib,stream processing,0.7126006800779641
+07_druid,extensions-contrib,microservices,0.7123652632687725
+07_druid,extensions-contrib,backup,0.7121250333089529
+07_druid,extensions-contrib,documentation,0.7120446659238199
+07_druid,extensions-contrib,information retrieval,0.7118748170701552
+07_druid,extensions-contrib,graph database,0.7117552125508024
+07_druid,extensions-contrib,pattern matching,0.7113930806944044
+07_druid,extensions-contrib,user interface,0.7109392257132409
+07_druid,extensions-contrib,object–relational mapping,0.7108554574385704
+07_druid,extensions-contrib,web scraping,0.7108366163396932
+07_druid,extensions-contrib,static program analysis tool,0.7101377708375955
+07_druid,extensions-contrib,web server,0.7100255330974148
+07_druid,extensions-contrib,kernel,0.709823695999643
+07_druid,extensions-contrib,cluster analysis,0.7096555273381713
+07_druid,extensions-contrib,data science,0.7093943842434931
+07_druid,extensions-contrib,data mining,0.7093430696197148
+07_druid,extensions-contrib,plot,0.7089472167228725
+07_druid,extensions-contrib,data analysis,0.7081155357846495
+07_druid,extensions-contrib,distributed database,0.7080482273819615
+07_druid,extensions-contrib,parsing,0.7078637489788204
+07_druid,extensions-contrib,static site generator,0.7077925193673531
+07_druid,extensions-contrib,cloud computing,0.707575457686906
+07_druid,extensions-contrib,web service,0.7075564825552916
+07_druid,extensions-contrib,search,0.7074047276097275
+07_druid,extensions-contrib,distributed system,0.7070367046194062
+07_druid,extensions-contrib,automation,0.7060649205522181
+07_druid,extensions-contrib,software testing,0.7060400304843296
+07_druid,extensions-contrib,machine learning,0.705868718330228
+07_druid,extensions-contrib,search engine,0.705317565698993
+07_druid,extensions-contrib,image segmentation,0.7053153254952871
+07_druid,extensions-contrib,sentiment analysis,0.705157213000147
+07_druid,extensions-contrib,command-line interface,0.7050280830167588
+07_druid,extensions-contrib,dependency injection,0.7048336847101618
+07_druid,extensions-contrib,email,0.7047827320625574
+07_druid,extensions-contrib,graph algorithm,0.7043051640200829
+07_druid,extensions-contrib,information extraction,0.7036840617682043
+07_druid,extensions-contrib,Containerization,0.7034034210954975
+07_druid,extensions-contrib,HTTP client,0.7032029528796392
+07_druid,extensions-contrib,synchronization,0.7028056592564677
+07_druid,extensions-contrib,database management,0.7021804933656188
+07_druid,extensions-contrib,static program analysis,0.702168467715216
+07_druid,extensions-contrib,distributed computing,0.7020364304361503
+07_druid,extensions-contrib,anomaly detection,0.701804061397671
+07_druid,extensions-contrib,Kalman filter,0.7017383644728501
+07_druid,extensions-contrib,website,0.7016518047389414
+07_druid,extensions-contrib,game server,0.7015490690522829
+07_druid,extensions-contrib,logging,0.70151346795726
+07_druid,extensions-contrib,HTTP server,0.700965946307642
+07_druid,extensions-contrib,web application,0.7007951753903605
+07_druid,extensions-contrib,data binding,0.7005932813819586
+07_druid,extensions-contrib,image recognition,0.700556633505981
+07_druid,extensions-contrib,recommender system,0.7002470094593126
+07_druid,extensions-contrib,encryption,0.6999495900846189
+07_druid,extensions-contrib,authentication,0.6999463469811953
+07_druid,extensions-contrib,file system,0.699778118747747
+07_druid,extensions-contrib,regular expression,0.6990811925229199
+07_druid,extensions-contrib,computer data storage,0.6984517691243581
+07_druid,extensions-contrib,streaming media,0.6983861875429271
+07_druid,extensions-contrib,support vector machine,0.6982980118396112
+07_druid,extensions-contrib,continuous integration,0.6979907249223842
+07_druid,extensions-contrib,long short-term memory,0.6977251061934481
+07_druid,extensions-contrib,computer configuration,0.6975516972089397
+07_druid,extensions-contrib,smart contract,0.6974998365172971
+07_druid,extensions-contrib,image classification,0.6970948412827639
+07_druid,extensions-contrib,Semantic Web,0.6967485527431899
+07_druid,extensions-contrib,security,0.6963139634810442
+07_druid,extensions-contrib,mobile application development,0.6956406907879075
+07_druid,extensions-contrib,convolutional neural network,0.6951117354110443
+07_druid,extensions-contrib,regression analysis,0.6949815435289342
+07_druid,extensions-contrib,Image analysis,0.6948977626224553
+07_druid,extensions-contrib,translation,0.6948361022526115
+07_druid,extensions-contrib,deep neural network,0.6941693060989025
+07_druid,extensions-contrib,Malware Analysis,0.6941169210789044
+07_druid,extensions-contrib,Web Components,0.693852998904104
+07_druid,extensions-contrib,video,0.6934560986447419
+07_druid,extensions-contrib,image captioning,0.6928735475927191
+07_druid,extensions-contrib,design,0.6924962963327427
+07_druid,extensions-contrib,object detection,0.6924736893122303
+07_druid,extensions-contrib,Bayesian inference,0.6918100501610766
+07_druid,extensions-contrib,facial recognition system,0.6915807073435485
+07_druid,extensions-contrib,mathematical optimization,0.6915774786662174
+07_druid,extensions-contrib,back end,0.6912255322546559
+07_druid,extensions-contrib,software development,0.6907627345126041
+07_druid,extensions-contrib,linear regression,0.6905889235228668
+07_druid,extensions-contrib,game engine,0.6904702071847206
+07_druid,extensions-contrib,language model,0.6903736056150421
+07_druid,extensions-contrib,instant messaging,0.6902958163269015
+07_druid,extensions-contrib,internet of things,0.6901514778002663
+07_druid,extensions-contrib,front end,0.6899092406625434
+07_druid,extensions-contrib,word embedding,0.6893731166405372
+07_druid,extensions-contrib,network analysis,0.6892021713469252
+07_druid,extensions-contrib,web application security,0.6891691021654078
+07_druid,extensions-contrib,blockchain,0.6890510237021383
+07_druid,extensions-contrib,password manager,0.6887336986504262
+07_druid,extensions-contrib,signal processing,0.6887176559999385
+07_druid,extensions-contrib,computer vision,0.6882472121951577
+07_druid,extensions-contrib,distributed multimedia communications platform,0.688019843710209
+07_druid,extensions-contrib,application performance management,0.6879324581084434
+07_druid,extensions-contrib,recurrent neural network,0.6878026879952807
+07_druid,extensions-contrib,package management system,0.6875752820648116
+07_druid,extensions-contrib,graphical user interface,0.6875322052736577
+07_druid,extensions-contrib,deep learning,0.6871549549607998
+07_druid,extensions-contrib,algorithmic trading,0.6867298918344129
+07_druid,extensions-contrib,geographic information system,0.6860638243531695
+07_druid,extensions-contrib,web browser engine,0.6860260240633776
+07_druid,extensions-contrib,penetration test,0.685939469791069
+07_druid,extensions-contrib,artificial neural network,0.6858811213144557
+07_druid,extensions-contrib,text classification,0.6854726877101809
+07_druid,extensions-contrib,embedded system,0.6854541987346064
+07_druid,extensions-contrib,information processing,0.6853039831340548
+07_druid,extensions-contrib,audio signal processing,0.6852634297729499
+07_druid,extensions-contrib,text processing,0.6849819095521887
+07_druid,extensions-contrib,natural language processing,0.6841547066418057
+07_druid,extensions-contrib,face detection,0.6833798658903709
+07_druid,extensions-contrib,linear algebra,0.682869654434533
+07_druid,extensions-contrib,finance,0.6826769272028133
+07_druid,extensions-contrib,computational science,0.6826629834508053
+07_druid,extensions-contrib,optical character recognition,0.6824196046630336
+07_druid,extensions-contrib,operating system,0.6822206197588885
+07_druid,extensions-contrib,File Transfer Protocol,0.6821787414430011
+07_druid,extensions-contrib,3D modeling,0.682030677218588
+07_druid,extensions-contrib,digital image processing,0.6819240802031722
+07_druid,extensions-contrib,web development,0.6816872018172939
+07_druid,extensions-contrib,content management system,0.6816456467228906
+07_druid,extensions-contrib,Q-learning,0.6815258953852774
+07_druid,extensions-contrib,artificial intelligence,0.6805053594403117
+07_druid,extensions-contrib,computer graphics,0.6799670007985703
+07_druid,extensions-contrib,stock market,0.6792951331849862
+07_druid,extensions-contrib,malware,0.6791786891816858
+07_druid,extensions-contrib,electronic trading platform,0.6790639129062359
+07_druid,extensions-contrib,3D computer graphics,0.6773475927408663
+07_druid,extensions-contrib,cryptocurrency,0.6752714725806519
+07_druid,extensions-contrib,reinforcement learning,0.6743765853701598
+07_druid,extensions-contrib,digital security,0.6724541022800441
+07_druid,extensions-contrib,computational biology,0.6723889959507513
+07_druid,extensions-contrib,telecommunications network,0.6711055536980886
+07_druid,extensions-contrib,mathematical finance,0.6677596812206075
+07_druid,extensions-contrib,World Wide Web,0.6676829846477361
+07_druid,extensions-contrib,digital audio,0.6634219020353473

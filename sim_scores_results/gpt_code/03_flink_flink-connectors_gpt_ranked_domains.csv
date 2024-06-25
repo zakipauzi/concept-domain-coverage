@@ -1,0 +1,182 @@
+project_name,module,domain,sim_score
+03_flink,flink-connectors,schema migration,0.756844635254732
+03_flink,flink-connectors,serialization,0.742872058681296
+03_flink,flink-connectors,stream processing,0.7417224072655055
+03_flink,flink-connectors,database,0.7414866658606881
+03_flink,flink-connectors,Parser combinator,0.7407339808309082
+03_flink,flink-connectors,data structure,0.739828774328542
+03_flink,flink-connectors,debugger,0.737946352437997
+03_flink,flink-connectors,"extract, transform, load",0.7351260535308548
+03_flink,flink-connectors,compiler,0.7342935946440879
+03_flink,flink-connectors,parsing,0.7341864795742895
+03_flink,flink-connectors,code generation,0.7335460369542719
+03_flink,flink-connectors,benchmark,0.733370232606097
+03_flink,flink-connectors,interpreter,0.7331693820616771
+03_flink,flink-connectors,information extraction,0.7330864895066873
+03_flink,flink-connectors,analytics,0.7328498196666788
+03_flink,flink-connectors,graph,0.7326657293317187
+03_flink,flink-connectors,big data,0.7322468241439779
+03_flink,flink-connectors,pattern matching,0.7317692757212448
+03_flink,flink-connectors,data,0.7315719872424329
+03_flink,flink-connectors,scheduler,0.7315602371277644
+03_flink,flink-connectors,knowledge graph,0.7309701594050316
+03_flink,flink-connectors,data visualization,0.7307636022441751
+03_flink,flink-connectors,data compression,0.7306764712000011
+03_flink,flink-connectors,distributed database,0.7304724661527425
+03_flink,flink-connectors,unit testing,0.7304514801867533
+03_flink,flink-connectors,middleware,0.7302741628221052
+03_flink,flink-connectors,syntax highlighting,0.7301489426099086
+03_flink,flink-connectors,plot,0.7299324697586546
+03_flink,flink-connectors,user interface,0.7296924474155736
+03_flink,flink-connectors,kernel,0.7284622502020743
+03_flink,flink-connectors,object–relational mapping,0.7280779950843659
+03_flink,flink-connectors,data mining,0.7274752089869299
+03_flink,flink-connectors,algorithm,0.7269542699916993
+03_flink,flink-connectors,backup,0.7267870503768172
+03_flink,flink-connectors,image,0.7260748942154583
+03_flink,flink-connectors,data binding,0.7259038284894657
+03_flink,flink-connectors,database management,0.725729048609323
+03_flink,flink-connectors,dependency injection,0.7253494449622275
+03_flink,flink-connectors,sorting algorithm,0.7253346834838119
+03_flink,flink-connectors,server,0.7253264489516831
+03_flink,flink-connectors,distributed system,0.7252868134370549
+03_flink,flink-connectors,validator,0.7252319104493089
+03_flink,flink-connectors,data science,0.7252112682741286
+03_flink,flink-connectors,client,0.7250228776210722
+03_flink,flink-connectors,graph database,0.7247812180841533
+03_flink,flink-connectors,WebSocket,0.7247325051572573
+03_flink,flink-connectors,statistics,0.7244328313396157
+03_flink,flink-connectors,business dashboard,0.7240352552355628
+03_flink,flink-connectors,time series,0.7235082086144067
+03_flink,flink-connectors,image compression,0.7229364608928583
+03_flink,flink-connectors,file system,0.7227716001320315
+03_flink,flink-connectors,software design pattern,0.7216243338628173
+03_flink,flink-connectors,search,0.7209784777180626
+03_flink,flink-connectors,data analysis,0.7205829869588747
+03_flink,flink-connectors,computer configuration,0.7201792335978324
+03_flink,flink-connectors,static program analysis tool,0.7195183106496497
+03_flink,flink-connectors,test automation,0.7193921009268427
+03_flink,flink-connectors,functional programming,0.7190186188206037
+03_flink,flink-connectors,router,0.7187816058656659
+03_flink,flink-connectors,software testing,0.7185081368735022
+03_flink,flink-connectors,regular expression,0.7184166951425127
+03_flink,flink-connectors,command-line interface,0.7181515312011222
+03_flink,flink-connectors,email,0.7180500496754841
+03_flink,flink-connectors,random forest,0.7179185157814512
+03_flink,flink-connectors,text processing,0.7177950751271571
+03_flink,flink-connectors,text classification,0.7173314482947535
+03_flink,flink-connectors,Semantic Web,0.7168658585873446
+03_flink,flink-connectors,encryption,0.716817849452029
+03_flink,flink-connectors,cluster analysis,0.71677819444322
+03_flink,flink-connectors,translation,0.7167641853244151
+03_flink,flink-connectors,automation,0.7167136656239295
+03_flink,flink-connectors,sequencing,0.7163579439244624
+03_flink,flink-connectors,streaming media,0.7160306076334382
+03_flink,flink-connectors,information processing,0.7157434994501698
+03_flink,flink-connectors,static program analysis,0.7155291035701139
+03_flink,flink-connectors,computer programming,0.7155198356990019
+03_flink,flink-connectors,graph algorithm,0.7154129286052577
+03_flink,flink-connectors,logging,0.7152587912715949
+03_flink,flink-connectors,website,0.7152501899160152
+03_flink,flink-connectors,synchronization,0.7152288448129956
+03_flink,flink-connectors,sentiment analysis,0.7151816082805306
+03_flink,flink-connectors,image recognition,0.7150913910148528
+03_flink,flink-connectors,authentication,0.7149490821098696
+03_flink,flink-connectors,distributed computing,0.7145235813451776
+03_flink,flink-connectors,computer data storage,0.7135285228793944
+03_flink,flink-connectors,image captioning,0.7132330195104266
+03_flink,flink-connectors,virtual machine,0.712977950554696
+03_flink,flink-connectors,language model,0.7125559509849412
+03_flink,flink-connectors,machine learning,0.7123050244817543
+03_flink,flink-connectors,long short-term memory,0.7122776113155181
+03_flink,flink-connectors,shell tool,0.7122339282318334
+03_flink,flink-connectors,web server,0.7121765577025434
+03_flink,flink-connectors,text editor,0.7119345639489709
+03_flink,flink-connectors,microservices,0.711496850365013
+03_flink,flink-connectors,regression analysis,0.7112570666493885
+03_flink,flink-connectors,natural language processing,0.7110032440155671
+03_flink,flink-connectors,cloud computing,0.7109981551263399
+03_flink,flink-connectors,virtualization,0.7109271656389428
+03_flink,flink-connectors,software architecture,0.7108739619164729
+03_flink,flink-connectors,software development,0.7107348541951728
+03_flink,flink-connectors,word embedding,0.7105922733957907
+03_flink,flink-connectors,named-entity recognition,0.7105480362115344
+03_flink,flink-connectors,web service,0.7103119058492309
+03_flink,flink-connectors,security,0.7101778038252566
+03_flink,flink-connectors,design,0.7100188025124273
+03_flink,flink-connectors,continuous integration,0.7098457165206913
+03_flink,flink-connectors,signal processing,0.709841807189658
+03_flink,flink-connectors,text mining,0.7096203890400297
+03_flink,flink-connectors,Web Components,0.709295283211839
+03_flink,flink-connectors,front end,0.7087990034340501
+03_flink,flink-connectors,support vector machine,0.7085217435677316
+03_flink,flink-connectors,software engineering,0.7084063946373509
+03_flink,flink-connectors,web application,0.7083430144648196
+03_flink,flink-connectors,anomaly detection,0.7083169993232113
+03_flink,flink-connectors,lexical analysis,0.708039807458472
+03_flink,flink-connectors,recommender system,0.7079201147600722
+03_flink,flink-connectors,computer vision,0.7078642830792841
+03_flink,flink-connectors,question answering,0.7076074553821711
+03_flink,flink-connectors,HTTP server,0.7076070396693324
+03_flink,flink-connectors,linear algebra,0.7073010859040281
+03_flink,flink-connectors,static site generator,0.7070261068211107
+03_flink,flink-connectors,network analysis,0.7069757383488304
+03_flink,flink-connectors,Image analysis,0.7069463455416598
+03_flink,flink-connectors,operating system,0.7067946914080823
+03_flink,flink-connectors,Bayesian inference,0.7066649149491402
+03_flink,flink-connectors,embedded system,0.7064966413329601
+03_flink,flink-connectors,graphical user interface,0.7061747990261151
+03_flink,flink-connectors,linear regression,0.7057092782256351
+03_flink,flink-connectors,convolutional neural network,0.7053562798488985
+03_flink,flink-connectors,File Transfer Protocol,0.7051000548542806
+03_flink,flink-connectors,deep neural network,0.7047404462302365
+03_flink,flink-connectors,geographic information,0.7047297189564303
+03_flink,flink-connectors,HTTP client,0.7045790140389722
+03_flink,flink-connectors,Malware Analysis,0.7045675603293159
+03_flink,flink-connectors,back end,0.7044269375850029
+03_flink,flink-connectors,mathematical optimization,0.7042889858613854
+03_flink,flink-connectors,object detection,0.704024401208524
+03_flink,flink-connectors,smart contract,0.7033318801668654
+03_flink,flink-connectors,internet of things,0.7032645144883418
+03_flink,flink-connectors,game server,0.7010878051784633
+03_flink,flink-connectors,facial recognition system,0.7008810043310071
+03_flink,flink-connectors,penetration test,0.7007134975653618
+03_flink,flink-connectors,audio signal processing,0.7006825350998699
+03_flink,flink-connectors,password manager,0.7003207923823046
+03_flink,flink-connectors,integrated development environment,0.7001280753552557
+03_flink,flink-connectors,algorithmic trading,0.7000310891413838
+03_flink,flink-connectors,e-commerce,0.6998591673565021
+03_flink,flink-connectors,web browser,0.6996365612805237
+03_flink,flink-connectors,blockchain,0.6992297616605975
+03_flink,flink-connectors,instant messaging,0.6988512439702198
+03_flink,flink-connectors,geographic information system,0.6980671897146405
+03_flink,flink-connectors,mobile application development,0.6980010926890452
+03_flink,flink-connectors,natural language,0.6975904128561841
+03_flink,flink-connectors,network security,0.6967400902311827
+03_flink,flink-connectors,package management system,0.6964705133178772
+03_flink,flink-connectors,optical character recognition,0.696226188992339
+03_flink,flink-connectors,malware,0.6962138078002187
+03_flink,flink-connectors,deep learning,0.6958945545797302
+03_flink,flink-connectors,artificial neural network,0.6958248936538209
+03_flink,flink-connectors,face detection,0.6954498655875205
+03_flink,flink-connectors,application performance management,0.6954380829629038
+03_flink,flink-connectors,neural network,0.6953795440932415
+03_flink,flink-connectors,3D modeling,0.6952851512181208
+03_flink,flink-connectors,web application security,0.6948876301818059
+03_flink,flink-connectors,computational science,0.6948644029839738
+03_flink,flink-connectors,game engine,0.6947571763612194
+03_flink,flink-connectors,web development,0.6945981036743822
+03_flink,flink-connectors,artificial intelligence,0.6942038806516292
+03_flink,flink-connectors,distributed multimedia communications platform,0.6934737272722772
+03_flink,flink-connectors,computational biology,0.6933945385136937
+03_flink,flink-connectors,Q-learning,0.6924571596963824
+03_flink,flink-connectors,digital image processing,0.6920814192476799
+03_flink,flink-connectors,electronic trading platform,0.6909650221677602
+03_flink,flink-connectors,content management system,0.6903689087423888
+03_flink,flink-connectors,stock market,0.6898157902174794
+03_flink,flink-connectors,cryptocurrency,0.6893915788263594
+03_flink,flink-connectors,reinforcement learning,0.681400891362308
+03_flink,flink-connectors,digital security,0.679513668572938
+03_flink,flink-connectors,World Wide Web,0.6783780478173819
+03_flink,flink-connectors,digital audio,0.6766792718552824
+03_flink,flink-connectors,telecommunications network,0.676622812657693

@@ -1,0 +1,113 @@
+project_name,module,domain,sim_score
+03_flink,flink-kubernetes,microservices,0.7623903573311216
+03_flink,flink-kubernetes,DevOps,0.7618244175402062
+03_flink,flink-kubernetes,kernel,0.7539303380039395
+03_flink,flink-kubernetes,continuous deployment,0.7510341325847675
+03_flink,flink-kubernetes,server,0.7401204709756742
+03_flink,flink-kubernetes,scheduler,0.7390989734859595
+03_flink,flink-kubernetes,web service,0.7338134312625635
+03_flink,flink-kubernetes,cloud computing,0.7329958100799048
+03_flink,flink-kubernetes,"extract, transform, load",0.7328438636842103
+03_flink,flink-kubernetes,user interface,0.7316842785332337
+03_flink,flink-kubernetes,client,0.7309119511747563
+03_flink,flink-kubernetes,unit testing,0.730404499042426
+03_flink,flink-kubernetes,dependency injection,0.7291899731915215
+03_flink,flink-kubernetes,WebSocket,0.7289799141465232
+03_flink,flink-kubernetes,documentation,0.7277423284726344
+03_flink,flink-kubernetes,data visualization,0.727277813810739
+03_flink,flink-kubernetes,web crawler,0.7264204706177817
+03_flink,flink-kubernetes,network monitoring,0.7263232441697531
+03_flink,flink-kubernetes,benchmark,0.7256669851842834
+03_flink,flink-kubernetes,compiler,0.7253413476206279
+03_flink,flink-kubernetes,distributed system,0.7238770149787259
+03_flink,flink-kubernetes,middleware,0.7233742832005389
+03_flink,flink-kubernetes,analytics,0.7225408874166841
+03_flink,flink-kubernetes,algorithm,0.722478600319278
+03_flink,flink-kubernetes,cluster analysis,0.7223144846168854
+03_flink,flink-kubernetes,database,0.7222559693607419
+03_flink,flink-kubernetes,web server,0.7221594193818226
+03_flink,flink-kubernetes,distributed computing,0.7217551459776508
+03_flink,flink-kubernetes,game server,0.7214149686495133
+03_flink,flink-kubernetes,virtual machine,0.7213666590629622
+03_flink,flink-kubernetes,package management system,0.7213019155556284
+03_flink,flink-kubernetes,data structure,0.7209031256374812
+03_flink,flink-kubernetes,test automation,0.7207782183644262
+03_flink,flink-kubernetes,command-line interface,0.7198486013357978
+03_flink,flink-kubernetes,automation,0.7196674620760631
+03_flink,flink-kubernetes,serialization,0.7189296930854411
+03_flink,flink-kubernetes,machine learning,0.7188682964048003
+03_flink,flink-kubernetes,website,0.7186935868492049
+03_flink,flink-kubernetes,big data,0.7180997269718473
+03_flink,flink-kubernetes,Web Components,0.7165855879612982
+03_flink,flink-kubernetes,web application,0.7158355418526209
+03_flink,flink-kubernetes,pattern matching,0.7157097430729448
+03_flink,flink-kubernetes,security,0.7142331804107948
+03_flink,flink-kubernetes,data,0.7139640248931342
+03_flink,flink-kubernetes,application performance management,0.7137992654007859
+03_flink,flink-kubernetes,web scraping,0.7130807172909529
+03_flink,flink-kubernetes,object–relational mapping,0.7129889500344185
+03_flink,flink-kubernetes,distributed database,0.7128153336026176
+03_flink,flink-kubernetes,software testing,0.7122083715906825
+03_flink,flink-kubernetes,back end,0.7118378732212407
+03_flink,flink-kubernetes,network security,0.7112222004774708
+03_flink,flink-kubernetes,computer configuration,0.709858175322401
+03_flink,flink-kubernetes,web application security,0.7093152528741261
+03_flink,flink-kubernetes,language model,0.7092022364331869
+03_flink,flink-kubernetes,embedded system,0.7089267589480664
+03_flink,flink-kubernetes,password manager,0.7084667240830742
+03_flink,flink-kubernetes,HTTP client,0.7082019445132937
+03_flink,flink-kubernetes,data binding,0.7079372455271307
+03_flink,flink-kubernetes,graphical user interface,0.7078443785807413
+03_flink,flink-kubernetes,HTTP server,0.7075684118289204
+03_flink,flink-kubernetes,file system,0.7073909612309145
+03_flink,flink-kubernetes,stream processing,0.7073039517322455
+03_flink,flink-kubernetes,smart contract,0.7070568080741932
+03_flink,flink-kubernetes,graph database,0.7066352335085372
+03_flink,flink-kubernetes,streaming media,0.7066269259981207
+03_flink,flink-kubernetes,design,0.7063995788727065
+03_flink,flink-kubernetes,object detection,0.7061362477426252
+03_flink,flink-kubernetes,recommender system,0.7056063530615161
+03_flink,flink-kubernetes,software development,0.7054351819827357
+03_flink,flink-kubernetes,support vector machine,0.7047154441449106
+03_flink,flink-kubernetes,logging,0.7040388679562815
+03_flink,flink-kubernetes,internet of things,0.7034338976130027
+03_flink,flink-kubernetes,reactive programming,0.7032885498442805
+03_flink,flink-kubernetes,blockchain,0.7031825258608743
+03_flink,flink-kubernetes,computer data storage,0.7027884696944222
+03_flink,flink-kubernetes,word embedding,0.7023643762615799
+03_flink,flink-kubernetes,penetration test,0.702343754088067
+03_flink,flink-kubernetes,static site generator,0.7021995281225899
+03_flink,flink-kubernetes,content management system,0.7021250129344025
+03_flink,flink-kubernetes,Malware Analysis,0.7018591960720361
+03_flink,flink-kubernetes,data compression,0.7017945873901343
+03_flink,flink-kubernetes,long short-term memory,0.7016091494886177
+03_flink,flink-kubernetes,software architecture,0.7015821948364697
+03_flink,flink-kubernetes,data analysis,0.7014703239732402
+03_flink,flink-kubernetes,continuous integration,0.700202773155891
+03_flink,flink-kubernetes,operating system,0.6998895536038587
+03_flink,flink-kubernetes,integrated development environment,0.6998490593334484
+03_flink,flink-kubernetes,natural language processing,0.6990441077289726
+03_flink,flink-kubernetes,malware,0.6984805491064294
+03_flink,flink-kubernetes,web development,0.698462831510361
+03_flink,flink-kubernetes,static program analysis tool,0.6984587907872768
+03_flink,flink-kubernetes,game engine,0.6983797031696467
+03_flink,flink-kubernetes,functional programming,0.697303819342148
+03_flink,flink-kubernetes,reinforcement learning,0.6968054953938012
+03_flink,flink-kubernetes,distributed multimedia communications platform,0.6966199653276234
+03_flink,flink-kubernetes,text classification,0.6942257749030352
+03_flink,flink-kubernetes,regular expression,0.6937629955910795
+03_flink,flink-kubernetes,information processing,0.6903845188779306
+03_flink,flink-kubernetes,instant messaging,0.6901524595699424
+03_flink,flink-kubernetes,text processing,0.6900987289359753
+03_flink,flink-kubernetes,static program analysis,0.6897978753785908
+03_flink,flink-kubernetes,telecommunications network,0.6882684131211079
+03_flink,flink-kubernetes,File Transfer Protocol,0.686264466385481
+03_flink,flink-kubernetes,geographic information system,0.68534982663402
+03_flink,flink-kubernetes,signal processing,0.6846392195374921
+03_flink,flink-kubernetes,question answering,0.683863529138925
+03_flink,flink-kubernetes,linear regression,0.6817959288104886
+03_flink,flink-kubernetes,digital security,0.6793268452268066
+03_flink,flink-kubernetes,optical character recognition,0.6791893574865924
+03_flink,flink-kubernetes,World Wide Web,0.6783515310580944
+03_flink,flink-kubernetes,digital image processing,0.6783024716361138
+03_flink,flink-kubernetes,digital audio,0.6567057385940268

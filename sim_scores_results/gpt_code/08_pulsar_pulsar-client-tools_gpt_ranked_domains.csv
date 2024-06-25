@@ -1,0 +1,108 @@
+project_name,module,domain,sim_score
+08_pulsar,pulsar-client-tools,command-line interface,0.7554763502778765
+08_pulsar,pulsar-client-tools,schema migration,0.7297530272946271
+08_pulsar,pulsar-client-tools,shell tool,0.7285312016468358
+08_pulsar,pulsar-client-tools,client,0.7262703603847654
+08_pulsar,pulsar-client-tools,user interface,0.7258502516268911
+08_pulsar,pulsar-client-tools,unit testing,0.7235091508869395
+08_pulsar,pulsar-client-tools,benchmark,0.7234905194508283
+08_pulsar,pulsar-client-tools,server,0.7217554832513218
+08_pulsar,pulsar-client-tools,package management system,0.7189011790517835
+08_pulsar,pulsar-client-tools,test automation,0.7171392241636074
+08_pulsar,pulsar-client-tools,backup,0.7168822034257682
+08_pulsar,pulsar-client-tools,database,0.7148945845885275
+08_pulsar,pulsar-client-tools,graphical user interface,0.7140501787292632
+08_pulsar,pulsar-client-tools,validator,0.7137432863892159
+08_pulsar,pulsar-client-tools,static program analysis tool,0.7136093414144455
+08_pulsar,pulsar-client-tools,computer configuration,0.7126963275808209
+08_pulsar,pulsar-client-tools,interpreter,0.7125774159362055
+08_pulsar,pulsar-client-tools,middleware,0.7123949548492265
+08_pulsar,pulsar-client-tools,scheduler,0.7121986103858671
+08_pulsar,pulsar-client-tools,data,0.712160623720594
+08_pulsar,pulsar-client-tools,data structure,0.7120928137857017
+08_pulsar,pulsar-client-tools,file system,0.7120437412196163
+08_pulsar,pulsar-client-tools,chatbot,0.7117379900400067
+08_pulsar,pulsar-client-tools,pattern matching,0.7109423511869212
+08_pulsar,pulsar-client-tools,automation,0.7103499659870798
+08_pulsar,pulsar-client-tools,dependency injection,0.7095246880752363
+08_pulsar,pulsar-client-tools,analytics,0.709322488772401
+08_pulsar,pulsar-client-tools,internet bot,0.708974280212933
+08_pulsar,pulsar-client-tools,data compression,0.7087933588879146
+08_pulsar,pulsar-client-tools,HTTP client,0.708608994305824
+08_pulsar,pulsar-client-tools,knowledge graph,0.7081430361925692
+08_pulsar,pulsar-client-tools,website,0.7079961633023635
+08_pulsar,pulsar-client-tools,algorithm,0.7079295993511365
+08_pulsar,pulsar-client-tools,data binding,0.7072459855016517
+08_pulsar,pulsar-client-tools,smart contract,0.707091578777983
+08_pulsar,pulsar-client-tools,database management,0.7064933963566953
+08_pulsar,pulsar-client-tools,Containerization,0.7060973529378529
+08_pulsar,pulsar-client-tools,software testing,0.7056845603600043
+08_pulsar,pulsar-client-tools,web server,0.7053514302130457
+08_pulsar,pulsar-client-tools,plot,0.7052692470301183
+08_pulsar,pulsar-client-tools,microservices,0.705197286082759
+08_pulsar,pulsar-client-tools,security,0.7045773676522019
+08_pulsar,pulsar-client-tools,password manager,0.7041263404968366
+08_pulsar,pulsar-client-tools,instant messaging,0.7034138781852418
+08_pulsar,pulsar-client-tools,static program analysis,0.7032968909305218
+08_pulsar,pulsar-client-tools,data visualization,0.7031587573265823
+08_pulsar,pulsar-client-tools,serialization,0.7031543217351971
+08_pulsar,pulsar-client-tools,HTTP server,0.7027439733497358
+08_pulsar,pulsar-client-tools,web service,0.7020350865723732
+08_pulsar,pulsar-client-tools,logging,0.7018461918371677
+08_pulsar,pulsar-client-tools,"extract, transform, load",0.7011934219888012
+08_pulsar,pulsar-client-tools,stream processing,0.700636027373142
+08_pulsar,pulsar-client-tools,File Transfer Protocol,0.7004087451810989
+08_pulsar,pulsar-client-tools,information retrieval,0.7002940522875315
+08_pulsar,pulsar-client-tools,text editor,0.7000450206739638
+08_pulsar,pulsar-client-tools,encryption,0.6999928046416738
+08_pulsar,pulsar-client-tools,cloud computing,0.6981170711659437
+08_pulsar,pulsar-client-tools,language model,0.6980876670026415
+08_pulsar,pulsar-client-tools,web scraping,0.6980686597450235
+08_pulsar,pulsar-client-tools,text processing,0.6977917495778306
+08_pulsar,pulsar-client-tools,operating system,0.6976517363707452
+08_pulsar,pulsar-client-tools,data analysis,0.6973879194041152
+08_pulsar,pulsar-client-tools,web application,0.6973774846605161
+08_pulsar,pulsar-client-tools,distributed multimedia communications platform,0.6970258557756828
+08_pulsar,pulsar-client-tools,sorting algorithm,0.6967032707857421
+08_pulsar,pulsar-client-tools,distributed computing,0.6964919481502092
+08_pulsar,pulsar-client-tools,application performance management,0.6964761110441653
+08_pulsar,pulsar-client-tools,mobile application development,0.6958064141802803
+08_pulsar,pulsar-client-tools,information extraction,0.6957965239404988
+08_pulsar,pulsar-client-tools,recommender system,0.6948814048473319
+08_pulsar,pulsar-client-tools,penetration test,0.6948298995996753
+08_pulsar,pulsar-client-tools,machine learning,0.6944672488071953
+08_pulsar,pulsar-client-tools,design,0.6942483002676597
+08_pulsar,pulsar-client-tools,computer data storage,0.6937658703872818
+08_pulsar,pulsar-client-tools,regular expression,0.6936827430810719
+08_pulsar,pulsar-client-tools,big data,0.693563067952576
+08_pulsar,pulsar-client-tools,data mining,0.6934142923051021
+08_pulsar,pulsar-client-tools,web application security,0.6920386116463092
+08_pulsar,pulsar-client-tools,content management system,0.6917497626974504
+08_pulsar,pulsar-client-tools,back end,0.6915296754839524
+08_pulsar,pulsar-client-tools,text classification,0.6915112183874537
+08_pulsar,pulsar-client-tools,Web Components,0.6910396683656314
+08_pulsar,pulsar-client-tools,distributed database,0.6909401148585577
+08_pulsar,pulsar-client-tools,object–relational mapping,0.6908160678825808
+08_pulsar,pulsar-client-tools,virtual machine,0.6897176758127087
+08_pulsar,pulsar-client-tools,continuous integration,0.6892244159692384
+08_pulsar,pulsar-client-tools,linear regression,0.6891842600101964
+08_pulsar,pulsar-client-tools,front end,0.6889833875899485
+08_pulsar,pulsar-client-tools,time series,0.6883695358902285
+08_pulsar,pulsar-client-tools,streaming media,0.6875110492039337
+08_pulsar,pulsar-client-tools,web development,0.6849801202465348
+08_pulsar,pulsar-client-tools,Semantic Web,0.684192651579504
+08_pulsar,pulsar-client-tools,integrated development environment,0.6828317485014485
+08_pulsar,pulsar-client-tools,telecommunications network,0.6822989338063166
+08_pulsar,pulsar-client-tools,web browser engine,0.6822766503530312
+08_pulsar,pulsar-client-tools,embedded system,0.680557139165587
+08_pulsar,pulsar-client-tools,information processing,0.6803138556629356
+08_pulsar,pulsar-client-tools,game engine,0.6789831156325701
+08_pulsar,pulsar-client-tools,optical character recognition,0.6789308108310567
+08_pulsar,pulsar-client-tools,word embedding,0.6779159571198848
+08_pulsar,pulsar-client-tools,object detection,0.6742958288793006
+08_pulsar,pulsar-client-tools,digital security,0.6737434948042367
+08_pulsar,pulsar-client-tools,3D modeling,0.6731345552842423
+08_pulsar,pulsar-client-tools,geographic information system,0.6686163443908545
+08_pulsar,pulsar-client-tools,digital audio,0.666880747770557
+08_pulsar,pulsar-client-tools,digital image processing,0.6667947078951576
+08_pulsar,pulsar-client-tools,World Wide Web,0.6626239006583956

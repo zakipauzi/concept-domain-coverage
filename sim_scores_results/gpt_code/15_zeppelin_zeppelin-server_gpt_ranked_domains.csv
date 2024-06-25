@@ -1,0 +1,133 @@
+project_name,module,domain,sim_score
+15_zeppelin,zeppelin-server,web service,0.7657529529657988
+15_zeppelin,zeppelin-server,web application,0.7613449653399709
+15_zeppelin,zeppelin-server,web application security,0.7597674661028828
+15_zeppelin,zeppelin-server,authentication,0.7574498977832576
+15_zeppelin,zeppelin-server,user interface,0.7564751387353283
+15_zeppelin,zeppelin-server,information retrieval,0.7548596506087759
+15_zeppelin,zeppelin-server,middleware,0.7542451037100055
+15_zeppelin,zeppelin-server,server,0.7535473847979485
+15_zeppelin,zeppelin-server,web server,0.7535347675507973
+15_zeppelin,zeppelin-server,client,0.7481991196332369
+15_zeppelin,zeppelin-server,email,0.7459004010988297
+15_zeppelin,zeppelin-server,website,0.7456888515927707
+15_zeppelin,zeppelin-server,password manager,0.7455590978692139
+15_zeppelin,zeppelin-server,instant messaging,0.7452207551948762
+15_zeppelin,zeppelin-server,WebSocket,0.7445842820973845
+15_zeppelin,zeppelin-server,web crawler,0.7443446130292939
+15_zeppelin,zeppelin-server,HTTP server,0.7441519611663787
+15_zeppelin,zeppelin-server,interpreter,0.7430490091374498
+15_zeppelin,zeppelin-server,HTTP client,0.7429568555050614
+15_zeppelin,zeppelin-server,network security,0.7429216379492201
+15_zeppelin,zeppelin-server,chatbot,0.7426152636157984
+15_zeppelin,zeppelin-server,internet bot,0.7408397794178434
+15_zeppelin,zeppelin-server,unit testing,0.7400267744800565
+15_zeppelin,zeppelin-server,microservices,0.7390983333414254
+15_zeppelin,zeppelin-server,database,0.7387876313117796
+15_zeppelin,zeppelin-server,data binding,0.7386872607465227
+15_zeppelin,zeppelin-server,syntax highlighting,0.738371417500618
+15_zeppelin,zeppelin-server,security,0.7383473635045938
+15_zeppelin,zeppelin-server,search,0.7380930978968946
+15_zeppelin,zeppelin-server,web browser,0.7378964162368005
+15_zeppelin,zeppelin-server,encryption,0.7378868918154954
+15_zeppelin,zeppelin-server,command-line interface,0.7378390742742242
+15_zeppelin,zeppelin-server,image,0.7372443805223221
+15_zeppelin,zeppelin-server,kernel,0.7369388959168863
+15_zeppelin,zeppelin-server,data,0.7366207452204714
+15_zeppelin,zeppelin-server,pattern matching,0.7361339176271489
+15_zeppelin,zeppelin-server,software testing,0.7356079699187686
+15_zeppelin,zeppelin-server,DevOps,0.7355959373523551
+15_zeppelin,zeppelin-server,application performance management,0.7351020638751835
+15_zeppelin,zeppelin-server,dependency injection,0.7348523651126943
+15_zeppelin,zeppelin-server,web scraping,0.734538943616499
+15_zeppelin,zeppelin-server,computer configuration,0.7339878176557004
+15_zeppelin,zeppelin-server,web browser engine,0.7335625590644876
+15_zeppelin,zeppelin-server,serialization,0.7331363219845128
+15_zeppelin,zeppelin-server,cloud computing,0.7324777889778482
+15_zeppelin,zeppelin-server,Web Components,0.7324493276198261
+15_zeppelin,zeppelin-server,scheduler,0.7320509074758356
+15_zeppelin,zeppelin-server,text processing,0.7318406735200984
+15_zeppelin,zeppelin-server,language model,0.7315087902425541
+15_zeppelin,zeppelin-server,shell tool,0.7314708096743312
+15_zeppelin,zeppelin-server,test automation,0.7312159669092695
+15_zeppelin,zeppelin-server,text classification,0.7310036990512048
+15_zeppelin,zeppelin-server,validator,0.730598274104289
+15_zeppelin,zeppelin-server,analytics,0.7305978017212773
+15_zeppelin,zeppelin-server,recommender system,0.7304597044683383
+15_zeppelin,zeppelin-server,question answering,0.7296957737437528
+15_zeppelin,zeppelin-server,game server,0.7288789533415677
+15_zeppelin,zeppelin-server,automation,0.7288746631027212
+15_zeppelin,zeppelin-server,Containerization,0.7282830578744783
+15_zeppelin,zeppelin-server,graphical user interface,0.7277867273140379
+15_zeppelin,zeppelin-server,back end,0.7276470947802933
+15_zeppelin,zeppelin-server,image captioning,0.7275872008264577
+15_zeppelin,zeppelin-server,content management system,0.7275678144072906
+15_zeppelin,zeppelin-server,mobile computing,0.7270245919762326
+15_zeppelin,zeppelin-server,data structure,0.7269412224347647
+15_zeppelin,zeppelin-server,text editor,0.7266876899283374
+15_zeppelin,zeppelin-server,distributed system,0.7261324700737741
+15_zeppelin,zeppelin-server,package management system,0.7260819820533873
+15_zeppelin,zeppelin-server,Malware Analysis,0.7257880607166872
+15_zeppelin,zeppelin-server,distributed multimedia communications platform,0.7256339830434437
+15_zeppelin,zeppelin-server,penetration test,0.725454492287712
+15_zeppelin,zeppelin-server,embedded system,0.7253729004848964
+15_zeppelin,zeppelin-server,static site generator,0.7253423471205671
+15_zeppelin,zeppelin-server,benchmark,0.7245943000272882
+15_zeppelin,zeppelin-server,translation,0.7243174701365018
+15_zeppelin,zeppelin-server,front end,0.7240914786317081
+15_zeppelin,zeppelin-server,file system,0.7237433247701595
+15_zeppelin,zeppelin-server,logging,0.7237155706578174
+15_zeppelin,zeppelin-server,File Transfer Protocol,0.7235942250978681
+15_zeppelin,zeppelin-server,plot,0.7234087548851756
+15_zeppelin,zeppelin-server,internet of things,0.7233924606338633
+15_zeppelin,zeppelin-server,information processing,0.7223740198348659
+15_zeppelin,zeppelin-server,machine learning,0.7213184786486925
+15_zeppelin,zeppelin-server,streaming media,0.7212450508716113
+15_zeppelin,zeppelin-server,algorithm,0.721211136666969
+15_zeppelin,zeppelin-server,data visualization,0.7211229268323929
+15_zeppelin,zeppelin-server,World Wide Web,0.7210241199594007
+15_zeppelin,zeppelin-server,stream processing,0.7179379209516321
+15_zeppelin,zeppelin-server,object–relational mapping,0.7179016753462429
+15_zeppelin,zeppelin-server,signal processing,0.7177229325619611
+15_zeppelin,zeppelin-server,text mining,0.7173537934153786
+15_zeppelin,zeppelin-server,operating system,0.7173069828102231
+15_zeppelin,zeppelin-server,distributed computing,0.7172750809901178
+15_zeppelin,zeppelin-server,regular expression,0.7170731200074169
+15_zeppelin,zeppelin-server,design,0.7170583395242285
+15_zeppelin,zeppelin-server,optical character recognition,0.7165516575621995
+15_zeppelin,zeppelin-server,malware,0.7162022021803875
+15_zeppelin,zeppelin-server,cryptography,0.7159639875876259
+15_zeppelin,zeppelin-server,artificial neural network,0.7158862688785543
+15_zeppelin,zeppelin-server,object detection,0.7150519582341531
+15_zeppelin,zeppelin-server,computer data storage,0.7147783484363273
+15_zeppelin,zeppelin-server,word embedding,0.7144383800223586
+15_zeppelin,zeppelin-server,anomaly detection,0.7143534615734477
+15_zeppelin,zeppelin-server,graph database,0.7143486937248816
+15_zeppelin,zeppelin-server,smart contract,0.7141360891405671
+15_zeppelin,zeppelin-server,convolutional neural network,0.7138122909013149
+15_zeppelin,zeppelin-server,data compression,0.7134419072390268
+15_zeppelin,zeppelin-server,data analysis,0.7133690953262977
+15_zeppelin,zeppelin-server,telecommunications network,0.7131015763053747
+15_zeppelin,zeppelin-server,distributed database,0.7123416972403142
+15_zeppelin,zeppelin-server,time series,0.7116265649752219
+15_zeppelin,zeppelin-server,support vector machine,0.7109492631844907
+15_zeppelin,zeppelin-server,big data,0.7109265052898468
+15_zeppelin,zeppelin-server,data science,0.7100525318166868
+15_zeppelin,zeppelin-server,continuous integration,0.709160990427645
+15_zeppelin,zeppelin-server,reactive programming,0.708381383629482
+15_zeppelin,zeppelin-server,artificial intelligence,0.7081809468825204
+15_zeppelin,zeppelin-server,electronic trading platform,0.7077250265635819
+15_zeppelin,zeppelin-server,lexical analysis,0.7072824969950521
+15_zeppelin,zeppelin-server,sorting algorithm,0.7068948802074568
+15_zeppelin,zeppelin-server,static program analysis,0.7067975664226653
+15_zeppelin,zeppelin-server,continuous delivery,0.7056894858491456
+15_zeppelin,zeppelin-server,game engine,0.7052305340311983
+15_zeppelin,zeppelin-server,digital security,0.7030270951758032
+15_zeppelin,zeppelin-server,geographic information system,0.7029968266664659
+15_zeppelin,zeppelin-server,linear regression,0.7023203549077783
+15_zeppelin,zeppelin-server,cryptocurrency,0.6991824591216723
+15_zeppelin,zeppelin-server,blockchain,0.6984779614187973
+15_zeppelin,zeppelin-server,banking industry,0.6955606126176855
+15_zeppelin,zeppelin-server,Kalman filter,0.6938726593835822
+15_zeppelin,zeppelin-server,digital image processing,0.6903967197683475
+15_zeppelin,zeppelin-server,digital audio,0.6814756944635358

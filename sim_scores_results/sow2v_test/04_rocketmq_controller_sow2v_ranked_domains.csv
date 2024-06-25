@@ -1,0 +1,17 @@
+project_name,module,domain,sim_score
+04_rocketmq,controller,client,0.5679002688888889
+04_rocketmq,controller,server,0.5522979688888889
+04_rocketmq,controller,database,0.4060653244444445
+04_rocketmq,controller,scheduler,0.40542555555555554
+04_rocketmq,controller,logging,0.38356529333333333
+04_rocketmq,controller,blockchain,0.34965578111111106
+04_rocketmq,controller,security,0.32767423111111105
+04_rocketmq,controller,data,0.32220962
+04_rocketmq,controller,microservices,0.3188817522222222
+04_rocketmq,controller,email,0.28302740555555556
+04_rocketmq,controller,analytics,0.2683761
+04_rocketmq,controller,website,0.21058178777777778
+04_rocketmq,controller,automation,0.19648817666666665
+04_rocketmq,controller,robotics,0.12566774277777779
+04_rocketmq,controller,serialization,0.1071325468888889
+04_rocketmq,controller,benchmark,0.006792409555555557

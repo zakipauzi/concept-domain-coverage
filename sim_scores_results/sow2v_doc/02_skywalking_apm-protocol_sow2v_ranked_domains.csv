@@ -1,0 +1,12 @@
+project_name,module,domain,sim_score
+02_skywalking,apm-protocol,client,0.43766095555555556
+02_skywalking,apm-protocol,analytics,0.4217786677777778
+02_skywalking,apm-protocol,server,0.37883859000000003
+02_skywalking,apm-protocol,statistics,0.3752081533333333
+02_skywalking,apm-protocol,security,0.3497482344444445
+02_skywalking,apm-protocol,automation,0.2898237077777778
+02_skywalking,apm-protocol,data,0.26063721666666667
+02_skywalking,apm-protocol,database,0.25647580555555555
+02_skywalking,apm-protocol,microservices,0.20706145666666667
+02_skywalking,apm-protocol,website,0.18958711888888888
+02_skywalking,apm-protocol,plot,0.009272216992222223

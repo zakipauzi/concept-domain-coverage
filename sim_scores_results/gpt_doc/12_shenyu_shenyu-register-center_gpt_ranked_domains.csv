@@ -1,0 +1,99 @@
+project_name,module,domain,sim_score
+12_shenyu,shenyu-register-center,user interface,0.7893056529029616
+12_shenyu,shenyu-register-center,validator,0.7648569457920058
+12_shenyu,shenyu-register-center,middleware,0.7640446975082568
+12_shenyu,shenyu-register-center,scheduler,0.7632771323572946
+12_shenyu,shenyu-register-center,web scraping,0.7629550492865221
+12_shenyu,shenyu-register-center,test automation,0.7626489143253434
+12_shenyu,shenyu-register-center,client,0.7566991611458649
+12_shenyu,shenyu-register-center,web application,0.7538639106569092
+12_shenyu,shenyu-register-center,command-line interface,0.7530669989839194
+12_shenyu,shenyu-register-center,recommender system,0.7529689737244694
+12_shenyu,shenyu-register-center,search,0.7518877638633967
+12_shenyu,shenyu-register-center,pattern matching,0.7511181263039253
+12_shenyu,shenyu-register-center,website,0.7510704063249793
+12_shenyu,shenyu-register-center,router,0.7508275001386805
+12_shenyu,shenyu-register-center,server,0.7506123561316644
+12_shenyu,shenyu-register-center,front end,0.7498798903015242
+12_shenyu,shenyu-register-center,content management system,0.7496416722268064
+12_shenyu,shenyu-register-center,web application security,0.7495717311891175
+12_shenyu,shenyu-register-center,graphical user interface,0.7481611123000874
+12_shenyu,shenyu-register-center,automation,0.7470909352948525
+12_shenyu,shenyu-register-center,password manager,0.7463116345966068
+12_shenyu,shenyu-register-center,compiler,0.746271212115059
+12_shenyu,shenyu-register-center,unit testing,0.7457295613358876
+12_shenyu,shenyu-register-center,static site generator,0.7449806543062096
+12_shenyu,shenyu-register-center,WebSocket,0.7445063548088068
+12_shenyu,shenyu-register-center,Web Components,0.744150421406031
+12_shenyu,shenyu-register-center,HTTP client,0.7437111862417459
+12_shenyu,shenyu-register-center,web server,0.7436329701330681
+12_shenyu,shenyu-register-center,regular expression,0.7415233042207381
+12_shenyu,shenyu-register-center,email,0.7414305940882306
+12_shenyu,shenyu-register-center,software testing,0.7414164594817869
+12_shenyu,shenyu-register-center,reactive programming,0.7408787375354133
+12_shenyu,shenyu-register-center,data binding,0.740871768965621
+12_shenyu,shenyu-register-center,web browser,0.7397118989433493
+12_shenyu,shenyu-register-center,machine learning,0.7395018709908356
+12_shenyu,shenyu-register-center,database,0.73871416658518
+12_shenyu,shenyu-register-center,web service,0.7386587964966688
+12_shenyu,shenyu-register-center,backup,0.7370128354229801
+12_shenyu,shenyu-register-center,instant messaging,0.7367083840577529
+12_shenyu,shenyu-register-center,package management system,0.7356972586718562
+12_shenyu,shenyu-register-center,game server,0.7352830715709919
+12_shenyu,shenyu-register-center,back end,0.735230092436723
+12_shenyu,shenyu-register-center,object detection,0.734998977569772
+12_shenyu,shenyu-register-center,data structure,0.7344305926985772
+12_shenyu,shenyu-register-center,data,0.7341096025787177
+12_shenyu,shenyu-register-center,analytics,0.7329957548007289
+12_shenyu,shenyu-register-center,application performance management,0.732712596222028
+12_shenyu,shenyu-register-center,HTTP server,0.7316806869378603
+12_shenyu,shenyu-register-center,security,0.7313802148826832
+12_shenyu,shenyu-register-center,computer configuration,0.7306289267216757
+12_shenyu,shenyu-register-center,benchmark,0.7303871613864141
+12_shenyu,shenyu-register-center,language model,0.7303479854121456
+12_shenyu,shenyu-register-center,game engine,0.7302581665702665
+12_shenyu,shenyu-register-center,smart contract,0.7301631884869901
+12_shenyu,shenyu-register-center,Semantic Web,0.7289919704613591
+12_shenyu,shenyu-register-center,file system,0.7282463872267007
+12_shenyu,shenyu-register-center,static program analysis tool,0.7270180172174532
+12_shenyu,shenyu-register-center,malware,0.7260333777186956
+12_shenyu,shenyu-register-center,File Transfer Protocol,0.724159901180743
+12_shenyu,shenyu-register-center,virtual machine,0.7237621675757847
+12_shenyu,shenyu-register-center,serialization,0.7236315387842565
+12_shenyu,shenyu-register-center,translation,0.7228877314413834
+12_shenyu,shenyu-register-center,logging,0.722233430676519
+12_shenyu,shenyu-register-center,internet of things,0.7202414014491492
+12_shenyu,shenyu-register-center,World Wide Web,0.7201019005898439
+12_shenyu,shenyu-register-center,signal processing,0.7200867375523934
+12_shenyu,shenyu-register-center,semi-supervised learning,0.7187155342352483
+12_shenyu,shenyu-register-center,optical character recognition,0.7184091944416123
+12_shenyu,shenyu-register-center,Malware Analysis,0.7170872139148212
+12_shenyu,shenyu-register-center,stream processing,0.7170440613387439
+12_shenyu,shenyu-register-center,static program analysis,0.7151888799680812
+12_shenyu,shenyu-register-center,streaming media,0.7149975862257936
+12_shenyu,shenyu-register-center,penetration test,0.7149665070437073
+12_shenyu,shenyu-register-center,microservices,0.7144466816953982
+12_shenyu,shenyu-register-center,text classification,0.7142201374482879
+12_shenyu,shenyu-register-center,object–relational mapping,0.7140206306540494
+12_shenyu,shenyu-register-center,data compression,0.7135185098994947
+12_shenyu,shenyu-register-center,embedded system,0.7130753295563184
+12_shenyu,shenyu-register-center,distributed system,0.7120592527467964
+12_shenyu,shenyu-register-center,encryption,0.7112851238783312
+12_shenyu,shenyu-register-center,database management,0.711225044801711
+12_shenyu,shenyu-register-center,virtualization,0.7111195866627291
+12_shenyu,shenyu-register-center,time series,0.7109091105211465
+12_shenyu,shenyu-register-center,support vector machine,0.7108369896422286
+12_shenyu,shenyu-register-center,text processing,0.7105348047231447
+12_shenyu,shenyu-register-center,cloud computing,0.7095791034663663
+12_shenyu,shenyu-register-center,artificial intelligence,0.709406107224084
+12_shenyu,shenyu-register-center,information processing,0.7087451443225824
+12_shenyu,shenyu-register-center,blockchain,0.7083267504047761
+12_shenyu,shenyu-register-center,continuous integration,0.706843070952601
+12_shenyu,shenyu-register-center,big data,0.7050910051394902
+12_shenyu,shenyu-register-center,computer data storage,0.703624817718629
+12_shenyu,shenyu-register-center,artificial neural network,0.7029587234697874
+12_shenyu,shenyu-register-center,geographic information system,0.694647299766475
+12_shenyu,shenyu-register-center,distributed database,0.6920247385615627
+12_shenyu,shenyu-register-center,cluster analysis,0.6885502333761504
+12_shenyu,shenyu-register-center,distributed computing,0.6863973746068561
+12_shenyu,shenyu-register-center,telecommunications network,0.6771860863524768

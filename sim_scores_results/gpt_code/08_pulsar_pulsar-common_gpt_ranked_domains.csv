@@ -1,0 +1,186 @@
+project_name,module,domain,sim_score
+08_pulsar,pulsar-common,WebSocket,0.726871853626435
+08_pulsar,pulsar-common,schema migration,0.7265581437922527
+08_pulsar,pulsar-common,middleware,0.7229932372962162
+08_pulsar,pulsar-common,data structure,0.721032825790088
+08_pulsar,pulsar-common,debugger,0.7208223410143297
+08_pulsar,pulsar-common,benchmark,0.7203307936191541
+08_pulsar,pulsar-common,scheduler,0.720318295581741
+08_pulsar,pulsar-common,user interface,0.7201138511886881
+08_pulsar,pulsar-common,unit testing,0.7198706964802813
+08_pulsar,pulsar-common,data,0.7195924998194126
+08_pulsar,pulsar-common,serialization,0.7194162328376227
+08_pulsar,pulsar-common,backup,0.7191406177230151
+08_pulsar,pulsar-common,business dashboard,0.7179236497137216
+08_pulsar,pulsar-common,database,0.7177913947210867
+08_pulsar,pulsar-common,server,0.717790604149432
+08_pulsar,pulsar-common,analytics,0.7176677124588479
+08_pulsar,pulsar-common,statistics,0.7171970832758098
+08_pulsar,pulsar-common,validator,0.7170313015037566
+08_pulsar,pulsar-common,client,0.7160149563825187
+08_pulsar,pulsar-common,encryption,0.7157810833734888
+08_pulsar,pulsar-common,code generation,0.7153855319090113
+08_pulsar,pulsar-common,data compression,0.7153724355832308
+08_pulsar,pulsar-common,knowledge graph,0.713872087041751
+08_pulsar,pulsar-common,router,0.7132343003719614
+08_pulsar,pulsar-common,information retrieval,0.7130385911020657
+08_pulsar,pulsar-common,kernel,0.712311864990904
+08_pulsar,pulsar-common,compiler,0.7119900530290794
+08_pulsar,pulsar-common,image,0.7115661869972959
+08_pulsar,pulsar-common,shell tool,0.7108795781946694
+08_pulsar,pulsar-common,algorithm,0.7108453067788749
+08_pulsar,pulsar-common,interpreter,0.7108144732175075
+08_pulsar,pulsar-common,website,0.7107568511865479
+08_pulsar,pulsar-common,password manager,0.7107246351141354
+08_pulsar,pulsar-common,"extract, transform, load",0.7102640573431512
+08_pulsar,pulsar-common,HTTP client,0.7101316508668369
+08_pulsar,pulsar-common,simulation,0.7098541939650458
+08_pulsar,pulsar-common,static program analysis tool,0.7098046316701302
+08_pulsar,pulsar-common,software design pattern,0.7093253656023608
+08_pulsar,pulsar-common,pattern matching,0.7092945623450672
+08_pulsar,pulsar-common,security,0.7092770905695915
+08_pulsar,pulsar-common,big data,0.7092164655219934
+08_pulsar,pulsar-common,command-line interface,0.7091445243246745
+08_pulsar,pulsar-common,network monitoring,0.7088550365331647
+08_pulsar,pulsar-common,authentication,0.7087103023600752
+08_pulsar,pulsar-common,test automation,0.7085269608374078
+08_pulsar,pulsar-common,microservices,0.7084922432066164
+08_pulsar,pulsar-common,data binding,0.708298525723939
+08_pulsar,pulsar-common,File Transfer Protocol,0.7082763534495038
+08_pulsar,pulsar-common,web service,0.7076411298822028
+08_pulsar,pulsar-common,file system,0.7071676297235601
+08_pulsar,pulsar-common,network security,0.7070534861272469
+08_pulsar,pulsar-common,object–relational mapping,0.7069663522462893
+08_pulsar,pulsar-common,smart contract,0.7069095498495522
+08_pulsar,pulsar-common,distributed system,0.7065407752560628
+08_pulsar,pulsar-common,package management system,0.706356806356053
+08_pulsar,pulsar-common,topic modeling,0.7062714016589489
+08_pulsar,pulsar-common,dependency injection,0.7054443017773862
+08_pulsar,pulsar-common,synchronization,0.7053953504200975
+08_pulsar,pulsar-common,image compression,0.7051370939403058
+08_pulsar,pulsar-common,long short-term memory,0.7050997039833238
+08_pulsar,pulsar-common,data visualization,0.7049821350176493
+08_pulsar,pulsar-common,Parser combinator,0.7049493785236918
+08_pulsar,pulsar-common,blockchain,0.7049337437778411
+08_pulsar,pulsar-common,database management,0.7048935343963872
+08_pulsar,pulsar-common,plot,0.7047530568579956
+08_pulsar,pulsar-common,Containerization,0.7041477553075637
+08_pulsar,pulsar-common,web crawler,0.7041357478992177
+08_pulsar,pulsar-common,computer benchmarking,0.7038559367339311
+08_pulsar,pulsar-common,search,0.7035645220404259
+08_pulsar,pulsar-common,web server,0.703536373775358
+08_pulsar,pulsar-common,random forest,0.7035281389697731
+08_pulsar,pulsar-common,web application security,0.7034624066081077
+08_pulsar,pulsar-common,static site generator,0.7034073347924928
+08_pulsar,pulsar-common,software testing,0.7029430057226329
+08_pulsar,pulsar-common,static program analysis,0.7029329162121284
+08_pulsar,pulsar-common,language model,0.7028606027658904
+08_pulsar,pulsar-common,automation,0.7026781574624263
+08_pulsar,pulsar-common,logging,0.7024102226315185
+08_pulsar,pulsar-common,time series,0.7023077792506882
+08_pulsar,pulsar-common,web application,0.7019083452565682
+08_pulsar,pulsar-common,internet bot,0.7017731842789283
+08_pulsar,pulsar-common,parsing,0.7016479854730746
+08_pulsar,pulsar-common,instant messaging,0.7016315980918331
+08_pulsar,pulsar-common,stream processing,0.7015880500656418
+08_pulsar,pulsar-common,distributed database,0.7013226139267114
+08_pulsar,pulsar-common,HTTP server,0.7013200073756166
+08_pulsar,pulsar-common,camera,0.7011839727061857
+08_pulsar,pulsar-common,sorting algorithm,0.7008386791978429
+08_pulsar,pulsar-common,cryptography,0.7007604762358172
+08_pulsar,pulsar-common,information extraction,0.7004382112012223
+08_pulsar,pulsar-common,continuous deployment,0.6995362859619675
+08_pulsar,pulsar-common,distributed multimedia communications platform,0.6993501705212316
+08_pulsar,pulsar-common,natural language understanding,0.6990922099805386
+08_pulsar,pulsar-common,continuous delivery,0.6986490992485259
+08_pulsar,pulsar-common,network analysis,0.6984151613908742
+08_pulsar,pulsar-common,internet of things,0.6983441333630144
+08_pulsar,pulsar-common,graph database,0.6983067553097111
+08_pulsar,pulsar-common,data mining,0.6981645939414589
+08_pulsar,pulsar-common,web scraping,0.6980912970973611
+08_pulsar,pulsar-common,streaming media,0.6977265623364918
+08_pulsar,pulsar-common,recommender system,0.6973804302381762
+08_pulsar,pulsar-common,mobile application development,0.6972552916476722
+08_pulsar,pulsar-common,computer configuration,0.6968703411899458
+08_pulsar,pulsar-common,computer data storage,0.6967393680342923
+08_pulsar,pulsar-common,data analysis,0.6963984220599096
+08_pulsar,pulsar-common,cloud computing,0.6962798545121962
+08_pulsar,pulsar-common,cluster analysis,0.6959070792084092
+08_pulsar,pulsar-common,Semantic Web,0.6956700595563592
+08_pulsar,pulsar-common,Web Components,0.6956344684231407
+08_pulsar,pulsar-common,data science,0.6955705722489312
+08_pulsar,pulsar-common,graph algorithm,0.6952422722678219
+08_pulsar,pulsar-common,penetration test,0.6951742384577739
+08_pulsar,pulsar-common,distributed computing,0.6951082798134754
+08_pulsar,pulsar-common,graphical user interface,0.6950215159262024
+08_pulsar,pulsar-common,speech synthesis,0.6945100142489182
+08_pulsar,pulsar-common,sentiment analysis,0.6937269843060784
+08_pulsar,pulsar-common,machine learning,0.6936340754713656
+08_pulsar,pulsar-common,natural language processing,0.6932635400204646
+08_pulsar,pulsar-common,application performance management,0.6930636613939934
+08_pulsar,pulsar-common,content management system,0.6922749371709045
+08_pulsar,pulsar-common,game server,0.6920496940982828
+08_pulsar,pulsar-common,text processing,0.6917151690217744
+08_pulsar,pulsar-common,design,0.6914284497306773
+08_pulsar,pulsar-common,named-entity recognition,0.6913086057852715
+08_pulsar,pulsar-common,signal processing,0.691091581077701
+08_pulsar,pulsar-common,continuous integration,0.6907082067860285
+08_pulsar,pulsar-common,regular expression,0.690239171985454
+08_pulsar,pulsar-common,virtual machine,0.6900945202809368
+08_pulsar,pulsar-common,image recognition,0.6897051766387329
+08_pulsar,pulsar-common,text editor,0.6895634337244435
+08_pulsar,pulsar-common,information processing,0.6895447261046791
+08_pulsar,pulsar-common,algorithmic trading,0.6894215408105724
+08_pulsar,pulsar-common,embedded system,0.6893725297867177
+08_pulsar,pulsar-common,cryptocurrency,0.6889160018827675
+08_pulsar,pulsar-common,text classification,0.6887711825913784
+08_pulsar,pulsar-common,anomaly detection,0.6887251838895746
+08_pulsar,pulsar-common,web browser,0.6885646333551132
+08_pulsar,pulsar-common,semi-supervised learning,0.688494613892368
+08_pulsar,pulsar-common,back end,0.6884538441083828
+08_pulsar,pulsar-common,front end,0.688283940016905
+08_pulsar,pulsar-common,linear regression,0.6880710657414516
+08_pulsar,pulsar-common,image segmentation,0.6879943189005947
+08_pulsar,pulsar-common,stock market,0.6879255732147546
+08_pulsar,pulsar-common,electronic trading platform,0.6878770495091248
+08_pulsar,pulsar-common,font,0.6876887120566331
+08_pulsar,pulsar-common,video,0.6876100208703642
+08_pulsar,pulsar-common,web browser engine,0.6869935797100767
+08_pulsar,pulsar-common,geographic information,0.6867876483020882
+08_pulsar,pulsar-common,support vector machine,0.6867355048789888
+08_pulsar,pulsar-common,digital security,0.686604656117154
+08_pulsar,pulsar-common,text mining,0.6861756069097317
+08_pulsar,pulsar-common,deep neural network,0.6861666269319806
+08_pulsar,pulsar-common,mobile computing,0.6861440207370214
+08_pulsar,pulsar-common,web development,0.6860526592327756
+08_pulsar,pulsar-common,facial recognition system,0.6860159152035509
+08_pulsar,pulsar-common,natural language,0.6858375011135829
+08_pulsar,pulsar-common,Bayesian inference,0.6851998163557964
+08_pulsar,pulsar-common,mathematical optimization,0.6847878902771736
+08_pulsar,pulsar-common,transfer learning,0.6842989210959277
+08_pulsar,pulsar-common,operating system,0.6842758961390536
+08_pulsar,pulsar-common,word embedding,0.6836141628866428
+08_pulsar,pulsar-common,telecommunications network,0.6833847269942279
+08_pulsar,pulsar-common,object detection,0.6821093842072086
+08_pulsar,pulsar-common,optical character recognition,0.6820994279294578
+08_pulsar,pulsar-common,computer science,0.6808100414731935
+08_pulsar,pulsar-common,geographic information system,0.6803276791909829
+08_pulsar,pulsar-common,Kalman filter,0.679219873558075
+08_pulsar,pulsar-common,artificial neural network,0.6791714515685593
+08_pulsar,pulsar-common,neural network,0.6786733650659513
+08_pulsar,pulsar-common,deep learning,0.6786618668376586
+08_pulsar,pulsar-common,computer vision,0.6781066273299059
+08_pulsar,pulsar-common,video processing,0.6778789849882263
+08_pulsar,pulsar-common,audio signal processing,0.6775717743919046
+08_pulsar,pulsar-common,virtual reality,0.6770747776035044
+08_pulsar,pulsar-common,linear algebra,0.6759466990781312
+08_pulsar,pulsar-common,computational science,0.6758682840878898
+08_pulsar,pulsar-common,artificial intelligence,0.6756406509963753
+08_pulsar,pulsar-common,World Wide Web,0.6755679504307389
+08_pulsar,pulsar-common,game engine,0.6745384811629861
+08_pulsar,pulsar-common,face detection,0.6731972511437605
+08_pulsar,pulsar-common,reinforcement learning,0.6731690390117112
+08_pulsar,pulsar-common,3D modeling,0.6718412509273192
+08_pulsar,pulsar-common,digital image processing,0.671363644365133
+08_pulsar,pulsar-common,3D computer graphics,0.6654693769835669
+08_pulsar,pulsar-common,digital audio,0.6612278184249809

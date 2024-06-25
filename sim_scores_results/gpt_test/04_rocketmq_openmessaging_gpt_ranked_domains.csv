@@ -1,0 +1,96 @@
+project_name,module,domain,sim_score
+04_rocketmq,openmessaging,WebSocket,0.7568197341703462
+04_rocketmq,openmessaging,client,0.7557117262805231
+04_rocketmq,openmessaging,serialization,0.7411381800625914
+04_rocketmq,openmessaging,HTTP client,0.7384121731856941
+04_rocketmq,openmessaging,dependency injection,0.7377602258163425
+04_rocketmq,openmessaging,web service,0.7346779958172337
+04_rocketmq,openmessaging,server,0.7344673774262938
+04_rocketmq,openmessaging,middleware,0.7335311485021989
+04_rocketmq,openmessaging,instant messaging,0.7330754939705748
+04_rocketmq,openmessaging,unit testing,0.7313318574004476
+04_rocketmq,openmessaging,data binding,0.7310814649266413
+04_rocketmq,openmessaging,synchronization,0.731062777980394
+04_rocketmq,openmessaging,user interface,0.7297472003803902
+04_rocketmq,openmessaging,stream processing,0.7290816459359499
+04_rocketmq,openmessaging,scheduler,0.7261184716804933
+04_rocketmq,openmessaging,data structure,0.7253232222503456
+04_rocketmq,openmessaging,microservices,0.7243507053390209
+04_rocketmq,openmessaging,compiler,0.7229774470880281
+04_rocketmq,openmessaging,validator,0.7223940983711956
+04_rocketmq,openmessaging,data,0.7221947847591692
+04_rocketmq,openmessaging,database,0.7212317456680626
+04_rocketmq,openmessaging,router,0.7210332024566593
+04_rocketmq,openmessaging,reactive programming,0.7199872082590109
+04_rocketmq,openmessaging,File Transfer Protocol,0.7199226648907939
+04_rocketmq,openmessaging,test automation,0.7193045521950263
+04_rocketmq,openmessaging,random forest,0.7183358203550062
+04_rocketmq,openmessaging,Containerization,0.7174059986532447
+04_rocketmq,openmessaging,pattern matching,0.7173439916719433
+04_rocketmq,openmessaging,data compression,0.7163057365744214
+04_rocketmq,openmessaging,benchmark,0.7162086573396631
+04_rocketmq,openmessaging,streaming media,0.71584219241282
+04_rocketmq,openmessaging,language model,0.7158312944962965
+04_rocketmq,openmessaging,distributed multimedia communications platform,0.7156659854218776
+04_rocketmq,openmessaging,automation,0.7156255579064084
+04_rocketmq,openmessaging,web application,0.7155797426605461
+04_rocketmq,openmessaging,web server,0.7154456145012288
+04_rocketmq,openmessaging,logging,0.7133044142867111
+04_rocketmq,openmessaging,signal processing,0.7128339128265425
+04_rocketmq,openmessaging,internet of things,0.7128077633284231
+04_rocketmq,openmessaging,HTTP server,0.7123426942956077
+04_rocketmq,openmessaging,cloud computing,0.7120660687642676
+04_rocketmq,openmessaging,smart contract,0.7117750763576958
+04_rocketmq,openmessaging,website,0.7110057046653924
+04_rocketmq,openmessaging,web scraping,0.7108633432732011
+04_rocketmq,openmessaging,big data,0.7107299343860908
+04_rocketmq,openmessaging,distributed database,0.7103074491188447
+04_rocketmq,openmessaging,information extraction,0.710110964187101
+04_rocketmq,openmessaging,encryption,0.7089772353921322
+04_rocketmq,openmessaging,continuous integration,0.7087604536370269
+04_rocketmq,openmessaging,DevOps,0.7085599992413952
+04_rocketmq,openmessaging,security,0.707846656388645
+04_rocketmq,openmessaging,application performance management,0.7077936306663916
+04_rocketmq,openmessaging,back end,0.7076020797216308
+04_rocketmq,openmessaging,computer configuration,0.7072795601939109
+04_rocketmq,openmessaging,distributed computing,0.706982963384615
+04_rocketmq,openmessaging,recommender system,0.7056398654855298
+04_rocketmq,openmessaging,software testing,0.7054938439319842
+04_rocketmq,openmessaging,text processing,0.704725711484036
+04_rocketmq,openmessaging,penetration test,0.7047253147024924
+04_rocketmq,openmessaging,statistics,0.7038014190576708
+04_rocketmq,openmessaging,information processing,0.7036618858459252
+04_rocketmq,openmessaging,object–relational mapping,0.7032082666591137
+04_rocketmq,openmessaging,web application security,0.7029984385986479
+04_rocketmq,openmessaging,file system,0.7029070295264993
+04_rocketmq,openmessaging,package management system,0.7016195268690604
+04_rocketmq,openmessaging,password manager,0.7011581282316173
+04_rocketmq,openmessaging,telecommunications network,0.6999260644245934
+04_rocketmq,openmessaging,computer data storage,0.6993049377301387
+04_rocketmq,openmessaging,time series,0.6981702406601198
+04_rocketmq,openmessaging,deep neural network,0.6981014868410641
+04_rocketmq,openmessaging,design,0.6978718285618957
+04_rocketmq,openmessaging,Bayesian inference,0.6974206427712552
+04_rocketmq,openmessaging,audio signal processing,0.6972087314737527
+04_rocketmq,openmessaging,machine learning,0.6970801623114421
+04_rocketmq,openmessaging,Semantic Web,0.6952331122146505
+04_rocketmq,openmessaging,text classification,0.6950356803861246
+04_rocketmq,openmessaging,content management system,0.6947443107403933
+04_rocketmq,openmessaging,regular expression,0.6945142501413807
+04_rocketmq,openmessaging,object detection,0.693620144518985
+04_rocketmq,openmessaging,artificial intelligence,0.6913774711321944
+04_rocketmq,openmessaging,operating system,0.690822063880029
+04_rocketmq,openmessaging,image classification,0.6906380907456412
+04_rocketmq,openmessaging,neural network,0.6902244852191911
+04_rocketmq,openmessaging,deep learning,0.6891121745608433
+04_rocketmq,openmessaging,word embedding,0.6891038654399682
+04_rocketmq,openmessaging,lexical analysis,0.6890036017470317
+04_rocketmq,openmessaging,data science,0.6869047967431999
+04_rocketmq,openmessaging,World Wide Web,0.685753526448626
+04_rocketmq,openmessaging,optical character recognition,0.6837838308493449
+04_rocketmq,openmessaging,digital image processing,0.6778655293766824
+04_rocketmq,openmessaging,3D modeling,0.6759104968854523
+04_rocketmq,openmessaging,digital audio,0.6752601203232749
+04_rocketmq,openmessaging,digital security,0.6733468263241414
+04_rocketmq,openmessaging,computational biology,0.6689021395774662
+04_rocketmq,openmessaging,geographic information system,0.6665540467401075

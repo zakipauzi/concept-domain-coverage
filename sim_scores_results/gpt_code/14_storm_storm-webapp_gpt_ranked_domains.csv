@@ -1,0 +1,104 @@
+project_name,module,domain,sim_score
+14_storm,storm-webapp,web crawler,0.7514486365362216
+14_storm,storm-webapp,web server,0.7469087436703612
+14_storm,storm-webapp,HTTP server,0.7435950245849452
+14_storm,storm-webapp,middleware,0.7428744541134823
+14_storm,storm-webapp,user interface,0.7427758141203169
+14_storm,storm-webapp,server,0.7384718949261901
+14_storm,storm-webapp,web application,0.738059315010875
+14_storm,storm-webapp,HTTP client,0.7372184045565857
+14_storm,storm-webapp,web application security,0.7361685993302092
+14_storm,storm-webapp,pattern matching,0.7354705887799391
+14_storm,storm-webapp,unit testing,0.7353425449539525
+14_storm,storm-webapp,client,0.7350086421667977
+14_storm,storm-webapp,WebSocket,0.7339068406973989
+14_storm,storm-webapp,validator,0.7321156331779213
+14_storm,storm-webapp,website,0.7318028472641878
+14_storm,storm-webapp,web service,0.7309344177655901
+14_storm,storm-webapp,command-line interface,0.7307054565974173
+14_storm,storm-webapp,Malware Analysis,0.7304199407073755
+14_storm,storm-webapp,"extract, transform, load",0.7303552419516641
+14_storm,storm-webapp,benchmark,0.7290814151762726
+14_storm,storm-webapp,interpreter,0.7290356142343319
+14_storm,storm-webapp,data,0.7280391361138222
+14_storm,storm-webapp,web scraping,0.7278520293943342
+14_storm,storm-webapp,static site generator,0.7274102945600373
+14_storm,storm-webapp,computer configuration,0.7273067418567793
+14_storm,storm-webapp,test automation,0.7271896313216708
+14_storm,storm-webapp,search engine,0.7270937445435848
+14_storm,storm-webapp,data visualization,0.7262791702527932
+14_storm,storm-webapp,database,0.7261143844411626
+14_storm,storm-webapp,data structure,0.7253227428009564
+14_storm,storm-webapp,stream processing,0.724863921381989
+14_storm,storm-webapp,analytics,0.7245293476250847
+14_storm,storm-webapp,password manager,0.7245065624671552
+14_storm,storm-webapp,authentication,0.7244671014160143
+14_storm,storm-webapp,search,0.7242444193578909
+14_storm,storm-webapp,file system,0.7238394599568215
+14_storm,storm-webapp,data binding,0.7234077467696213
+14_storm,storm-webapp,logging,0.7230500108601507
+14_storm,storm-webapp,software testing,0.7219942388720981
+14_storm,storm-webapp,web browser,0.7215769612374842
+14_storm,storm-webapp,static program analysis tool,0.7197352412284804
+14_storm,storm-webapp,microservices,0.7195747279088116
+14_storm,storm-webapp,serialization,0.7195141379296879
+14_storm,storm-webapp,graphical user interface,0.719220791745161
+14_storm,storm-webapp,data compression,0.7190834264333372
+14_storm,storm-webapp,penetration test,0.7188069199280005
+14_storm,storm-webapp,distributed system,0.7182256609001206
+14_storm,storm-webapp,dependency injection,0.7182241604225559
+14_storm,storm-webapp,application performance management,0.7181360896329715
+14_storm,storm-webapp,File Transfer Protocol,0.718087378524481
+14_storm,storm-webapp,algorithm,0.7176638310406744
+14_storm,storm-webapp,package management system,0.7173292453138498
+14_storm,storm-webapp,web browser engine,0.7168869501217199
+14_storm,storm-webapp,software development,0.7161501574276593
+14_storm,storm-webapp,automation,0.7159006002164188
+14_storm,storm-webapp,game server,0.7158014791251878
+14_storm,storm-webapp,shell tool,0.7156073613359301
+14_storm,storm-webapp,streaming media,0.7145510546737833
+14_storm,storm-webapp,Web Components,0.7142464263419466
+14_storm,storm-webapp,security,0.7135703776039182
+14_storm,storm-webapp,graph database,0.7135262525689181
+14_storm,storm-webapp,signal processing,0.7134508065449816
+14_storm,storm-webapp,data analysis,0.7131804503463883
+14_storm,storm-webapp,virtual machine,0.7126829696654517
+14_storm,storm-webapp,content management system,0.712619299311102
+14_storm,storm-webapp,big data,0.7123025655765556
+14_storm,storm-webapp,back end,0.7121234388542224
+14_storm,storm-webapp,regular expression,0.7119474877561485
+14_storm,storm-webapp,anomaly detection,0.7105950632326693
+14_storm,storm-webapp,text processing,0.7102657158179283
+14_storm,storm-webapp,long short-term memory,0.7096234597869623
+14_storm,storm-webapp,text classification,0.709462877397597
+14_storm,storm-webapp,instant messaging,0.7093353809204839
+14_storm,storm-webapp,time series,0.709328170105722
+14_storm,storm-webapp,linear regression,0.7088789747477605
+14_storm,storm-webapp,static program analysis,0.7087850746978501
+14_storm,storm-webapp,language model,0.7087802090706661
+14_storm,storm-webapp,recommender system,0.7082643449987718
+14_storm,storm-webapp,object–relational mapping,0.7070428256676402
+14_storm,storm-webapp,computer data storage,0.70681890689883
+14_storm,storm-webapp,question answering,0.7065958523803458
+14_storm,storm-webapp,machine learning,0.7062979054242934
+14_storm,storm-webapp,object detection,0.7047338532009995
+14_storm,storm-webapp,cloud computing,0.7038213078182207
+14_storm,storm-webapp,support vector machine,0.7036117295904987
+14_storm,storm-webapp,continuous integration,0.7035977465370764
+14_storm,storm-webapp,information processing,0.703118981791267
+14_storm,storm-webapp,continuous delivery,0.7028432747816239
+14_storm,storm-webapp,internet of things,0.7023401686160154
+14_storm,storm-webapp,embedded system,0.7018518136535915
+14_storm,storm-webapp,World Wide Web,0.7007280405814788
+14_storm,storm-webapp,Kalman filter,0.7006461536048011
+14_storm,storm-webapp,image captioning,0.7002885845211616
+14_storm,storm-webapp,distributed computing,0.6997483296321412
+14_storm,storm-webapp,operating system,0.6995401732436527
+14_storm,storm-webapp,reactive programming,0.6973911544892697
+14_storm,storm-webapp,audio signal processing,0.6966430631189898
+14_storm,storm-webapp,game engine,0.6960634653687746
+14_storm,storm-webapp,geographic information system,0.695866959269107
+14_storm,storm-webapp,smart contract,0.694306626664683
+14_storm,storm-webapp,telecommunications network,0.6937587484716937
+14_storm,storm-webapp,Bidirectional recurrent neural networks,0.6890728527448091
+14_storm,storm-webapp,artificial intelligence,0.6790172034817077

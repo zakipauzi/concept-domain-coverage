@@ -1,0 +1,135 @@
+project_name,module,domain,sim_score
+03_flink,flink-libraries,pattern matching,0.5974855355555555
+03_flink,flink-libraries,stream processing,0.5813193966666667
+03_flink,flink-libraries,functional programming,0.5792902855555555
+03_flink,flink-libraries,Parser combinator,0.5768425588888888
+03_flink,flink-libraries,data compression,0.5581240722222222
+03_flink,flink-libraries,static program analysis,0.557000688888889
+03_flink,flink-libraries,code generation,0.5561974277777778
+03_flink,flink-libraries,static program analysis tool,0.5555067088888889
+03_flink,flink-libraries,synchronization,0.5548587611111111
+03_flink,flink-libraries,data binding,0.5531079999999999
+03_flink,flink-libraries,scheduler,0.5516070933333332
+03_flink,flink-libraries,serialization,0.5510420777777777
+03_flink,flink-libraries,text processing,0.5490449477777778
+03_flink,flink-libraries,information processing,0.5477643777777778
+03_flink,flink-libraries,software design pattern,0.543844591111111
+03_flink,flink-libraries,data,0.540349258888889
+03_flink,flink-libraries,automation,0.5389724777777779
+03_flink,flink-libraries,algorithm,0.5372025988888889
+03_flink,flink-libraries,validator,0.5366692944444444
+03_flink,flink-libraries,test automation,0.5349644466666665
+03_flink,flink-libraries,smart contract,0.5331634155555556
+03_flink,flink-libraries,language model,0.5329602322222222
+03_flink,flink-libraries,data structure,0.5296446666666667
+03_flink,flink-libraries,time series,0.5279383944444445
+03_flink,flink-libraries,benchmark,0.5254464099999999
+03_flink,flink-libraries,object–relational mapping,0.5222049133333333
+03_flink,flink-libraries,graphical user interface,0.5212403144444445
+03_flink,flink-libraries,algorithmic trading,0.5196732211111111
+03_flink,flink-libraries,continuous integration,0.5188736277777778
+03_flink,flink-libraries,compiler,0.51837838
+03_flink,flink-libraries,embedded system,0.5162484455555556
+03_flink,flink-libraries,natural language,0.5150606022222223
+03_flink,flink-libraries,application performance management,0.5148893122222222
+03_flink,flink-libraries,graph,0.5128111866666667
+03_flink,flink-libraries,unit testing,0.5125389144444444
+03_flink,flink-libraries,back end,0.510727628888889
+03_flink,flink-libraries,front end,0.5103767399999999
+03_flink,flink-libraries,search,0.5101688366666666
+03_flink,flink-libraries,user interface,0.5101633744444444
+03_flink,flink-libraries,instant messaging,0.5091504522222222
+03_flink,flink-libraries,cluster analysis,0.5082868866666667
+03_flink,flink-libraries,game engine,0.5076226444444445
+03_flink,flink-libraries,database,0.5070254844444444
+03_flink,flink-libraries,logging,0.5060265755555555
+03_flink,flink-libraries,computer data storage,0.5058292555555556
+03_flink,flink-libraries,software architecture,0.5047941222222223
+03_flink,flink-libraries,Kalman filter,0.5045765088888889
+03_flink,flink-libraries,computer science,0.5042659622222222
+03_flink,flink-libraries,distributed computing,0.5042260033333333
+03_flink,flink-libraries,software testing,0.5041858622222223
+03_flink,flink-libraries,long short-term memory,0.5040173222222222
+03_flink,flink-libraries,data analysis,0.5029857622222222
+03_flink,flink-libraries,anomaly detection,0.5029068811111111
+03_flink,flink-libraries,linear regression,0.5021466644444444
+03_flink,flink-libraries,backup,0.5012034144444444
+03_flink,flink-libraries,artificial intelligence,0.5010328811111111
+03_flink,flink-libraries,graph database,0.5009627188888889
+03_flink,flink-libraries,software development,0.5004639377777778
+03_flink,flink-libraries,Naive Bayes classifier,0.5003792922222223
+03_flink,flink-libraries,command-line interface,0.500157521111111
+03_flink,flink-libraries,named-entity recognition,0.49991020999999997
+03_flink,flink-libraries,encryption,0.49990523666666664
+03_flink,flink-libraries,internet bot,0.49912755
+03_flink,flink-libraries,machine learning,0.4988829566666666
+03_flink,flink-libraries,regular expression,0.4988624566666667
+03_flink,flink-libraries,signal processing,0.4983351744444444
+03_flink,flink-libraries,graph algorithm,0.4973840355555556
+03_flink,flink-libraries,optical character recognition,0.49643112666666667
+03_flink,flink-libraries,integrated development environment,0.49566633666666665
+03_flink,flink-libraries,blockchain,0.4951412977777778
+03_flink,flink-libraries,File Transfer Protocol,0.49487569111111107
+03_flink,flink-libraries,Web Components,0.4943567011111111
+03_flink,flink-libraries,reinforcement learning,0.49400803555555556
+03_flink,flink-libraries,evolutionary algorithm,0.49353724333333343
+03_flink,flink-libraries,continuous deployment,0.4932822855555556
+03_flink,flink-libraries,data mining,0.49301591111111115
+03_flink,flink-libraries,electronic trading platform,0.49295402
+03_flink,flink-libraries,natural language processing,0.4929234977777777
+03_flink,flink-libraries,server,0.49265242000000004
+03_flink,flink-libraries,distributed system,0.49214429666666665
+03_flink,flink-libraries,web crawler,0.49202141000000005
+03_flink,flink-libraries,analytics,0.49154335222222223
+03_flink,flink-libraries,data science,0.4892074388888889
+03_flink,flink-libraries,support vector machine,0.48885072444444444
+03_flink,flink-libraries,website,0.4887187966666666
+03_flink,flink-libraries,regression analysis,0.4881627322222222
+03_flink,flink-libraries,dependency injection,0.48666065444444445
+03_flink,flink-libraries,sorting algorithm,0.4857582044444444
+03_flink,flink-libraries,data visualization,0.4855665777777778
+03_flink,flink-libraries,design,0.48516228000000006
+03_flink,flink-libraries,web browser,0.48430507111111115
+03_flink,flink-libraries,client,0.4834888855555556
+03_flink,flink-libraries,web application,0.48289585111111105
+03_flink,flink-libraries,distributed database,0.4810755177777778
+03_flink,flink-libraries,digital image processing,0.48090063222222224
+03_flink,flink-libraries,content management system,0.4796393766666667
+03_flink,flink-libraries,big data,0.4789099777777778
+03_flink,flink-libraries,audio signal processing,0.47833677555555565
+03_flink,flink-libraries,home automation,0.4776903966666667
+03_flink,flink-libraries,security,0.4758453111111111
+03_flink,flink-libraries,digital audio,0.47529969555555557
+03_flink,flink-libraries,microservices,0.4742942733333334
+03_flink,flink-libraries,World Wide Web,0.4739996577777778
+03_flink,flink-libraries,word embedding,0.4734196277777778
+03_flink,flink-libraries,visualization,0.47327743555555557
+03_flink,flink-libraries,geographic information system,0.4728855722222223
+03_flink,flink-libraries,text classification,0.47215918444444444
+03_flink,flink-libraries,image recognition,0.4716430955555555
+03_flink,flink-libraries,penetration test,0.4712152666666667
+03_flink,flink-libraries,web service,0.47016230333333336
+03_flink,flink-libraries,deep neural network,0.4670616111111111
+03_flink,flink-libraries,HTTP server,0.46645216777777776
+03_flink,flink-libraries,distributed multimedia communications platform,0.46525652999999995
+03_flink,flink-libraries,HTTP client,0.4643684877777777
+03_flink,flink-libraries,file system,0.46357122444444454
+03_flink,flink-libraries,recommender system,0.46336583333333337
+03_flink,flink-libraries,streaming media,0.46333078888888884
+03_flink,flink-libraries,internet of things,0.46038266888888896
+03_flink,flink-libraries,face detection,0.4591514222222222
+03_flink,flink-libraries,search engine,0.4585940477777778
+03_flink,flink-libraries,deep learning,0.45744066333333333
+03_flink,flink-libraries,web server,0.45567741333333334
+03_flink,flink-libraries,package management system,0.4547683022222222
+03_flink,flink-libraries,stock market,0.45222414111111114
+03_flink,flink-libraries,computer vision,0.45179413111111116
+03_flink,flink-libraries,object detection,0.45147021666666665
+03_flink,flink-libraries,facial recognition system,0.4502353211111111
+03_flink,flink-libraries,operating system,0.4493191644444445
+03_flink,flink-libraries,mobile application development,0.44702655333333335
+03_flink,flink-libraries,digital security,0.4458579100000001
+03_flink,flink-libraries,telecommunications network,0.44208336888888883
+03_flink,flink-libraries,web application security,0.4355301422222222
+03_flink,flink-libraries,computer configuration,0.43494636666666664
+03_flink,flink-libraries,cloud computing,0.43328915999999995

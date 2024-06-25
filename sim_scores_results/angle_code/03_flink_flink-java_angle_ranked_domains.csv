@@ -1,0 +1,131 @@
+project_name,module,domain,sim_score
+03_flink,flink-java,Parser combinator,0.5814127155555556
+03_flink,flink-java,stream processing,0.5773882477777778
+03_flink,flink-java,data compression,0.5757755177777777
+03_flink,flink-java,functional programming,0.57309662
+03_flink,flink-java,data structure,0.5641231277777777
+03_flink,flink-java,data,0.5640582933333333
+03_flink,flink-java,code generation,0.5615498400000001
+03_flink,flink-java,pattern matching,0.5603830922222222
+03_flink,flink-java,algorithm,0.5577628888888888
+03_flink,flink-java,sequencing,0.5564524655555556
+03_flink,flink-java,object–relational mapping,0.5546390011111112
+03_flink,flink-java,text processing,0.5523285588888888
+03_flink,flink-java,cluster analysis,0.5509383866666666
+03_flink,flink-java,compiler,0.5509288033333334
+03_flink,flink-java,static program analysis,0.5502240933333334
+03_flink,flink-java,data analysis,0.5469183377777779
+03_flink,flink-java,static program analysis tool,0.5447530711111112
+03_flink,flink-java,information processing,0.539651168888889
+03_flink,flink-java,language model,0.539129131111111
+03_flink,flink-java,database,0.5361527977777778
+03_flink,flink-java,serialization,0.5338979788888889
+03_flink,flink-java,mathematical optimization,0.5331809211111112
+03_flink,flink-java,sorting algorithm,0.5330294833333333
+03_flink,flink-java,analytics,0.5316776144444444
+03_flink,flink-java,linear algebra,0.5310661544444444
+03_flink,flink-java,machine translation,0.5307624011111112
+03_flink,flink-java,data binding,0.5307365833333333
+03_flink,flink-java,random forest,0.529374738888889
+03_flink,flink-java,information extraction,0.5293600788888889
+03_flink,flink-java,data mining,0.5253483055555557
+03_flink,flink-java,data visualization,0.5242270455555555
+03_flink,flink-java,information retrieval,0.5232621266666667
+03_flink,flink-java,signal processing,0.5193046400000001
+03_flink,flink-java,classification,0.5189058477777778
+03_flink,flink-java,linear regression,0.5175151866666667
+03_flink,flink-java,genetic algorithm,0.5173346544444444
+03_flink,flink-java,distributed computing,0.5173008255555556
+03_flink,flink-java,graphical user interface,0.5171191177777776
+03_flink,flink-java,benchmark,0.5170652877777777
+03_flink,flink-java,distributed system,0.5160721366666666
+03_flink,flink-java,database management,0.5149749755555555
+03_flink,flink-java,time series,0.5147843266666666
+03_flink,flink-java,question answering,0.5144070955555555
+03_flink,flink-java,automation,0.5130410622222222
+03_flink,flink-java,computer data storage,0.512960238888889
+03_flink,flink-java,regression analysis,0.5112624277777778
+03_flink,flink-java,evolutionary algorithm,0.5112028755555555
+03_flink,flink-java,application performance management,0.5110272577777778
+03_flink,flink-java,machine learning,0.5106285533333332
+03_flink,flink-java,test automation,0.5095104544444444
+03_flink,flink-java,geographic information system,0.5094528333333332
+03_flink,flink-java,continuous integration,0.5089945655555556
+03_flink,flink-java,mathematics,0.5086630744444444
+03_flink,flink-java,data science,0.5085916622222222
+03_flink,flink-java,distributed database,0.5081767655555556
+03_flink,flink-java,support vector machine,0.5075741922222222
+03_flink,flink-java,user interface,0.5064866644444445
+03_flink,flink-java,big data,0.5063856644444444
+03_flink,flink-java,named-entity recognition,0.5063052777777777
+03_flink,flink-java,statistics,0.506207128888889
+03_flink,flink-java,artificial intelligence,0.505543968888889
+03_flink,flink-java,optical character recognition,0.5053844900000001
+03_flink,flink-java,text editor,0.5050331033333334
+03_flink,flink-java,computer science,0.5042876855555556
+03_flink,flink-java,game engine,0.5037415322222223
+03_flink,flink-java,natural language,0.5037107122222223
+03_flink,flink-java,algorithmic trading,0.5035990533333332
+03_flink,flink-java,static site generator,0.5029593977777779
+03_flink,flink-java,command-line interface,0.5028099977777778
+03_flink,flink-java,front end,0.5025291488888889
+03_flink,flink-java,back end,0.5021231733333333
+03_flink,flink-java,text mining,0.5016791
+03_flink,flink-java,natural language processing,0.5008141755555555
+03_flink,flink-java,validator,0.5007430222222222
+03_flink,flink-java,audio signal processing,0.5007184766666666
+03_flink,flink-java,network analysis,0.5004872666666667
+03_flink,flink-java,long short-term memory,0.49951728666666667
+03_flink,flink-java,graph algorithm,0.4979402022222222
+03_flink,flink-java,Kalman filter,0.49660464444444447
+03_flink,flink-java,smart contract,0.4965494688888889
+03_flink,flink-java,anomaly detection,0.4953280266666666
+03_flink,flink-java,logistic regression model,0.49521711777777777
+03_flink,flink-java,client,0.49519242666666663
+03_flink,flink-java,search,0.49498150222222226
+03_flink,flink-java,software development,0.4948088055555555
+03_flink,flink-java,server,0.4941146744444445
+03_flink,flink-java,embedded system,0.49292050666666665
+03_flink,flink-java,translation,0.49177765888888886
+03_flink,flink-java,unit testing,0.4909058833333333
+03_flink,flink-java,artificial neural network,0.48755013666666663
+03_flink,flink-java,blockchain,0.48693285111111106
+03_flink,flink-java,content management system,0.48593192333333335
+03_flink,flink-java,package management system,0.48489335888888896
+03_flink,flink-java,web crawler,0.48371795333333334
+03_flink,flink-java,file system,0.48327090333333333
+03_flink,flink-java,neural machine translation,0.4826002388888889
+03_flink,flink-java,sentiment analysis,0.4822850822222222
+03_flink,flink-java,text classification,0.48028264444444446
+03_flink,flink-java,website,0.47879173555555554
+03_flink,flink-java,dependency injection,0.4782956933333333
+03_flink,flink-java,software testing,0.47826439666666665
+03_flink,flink-java,logging,0.47530002666666665
+03_flink,flink-java,instant messaging,0.47463479222222227
+03_flink,flink-java,object detection,0.4715037644444445
+03_flink,flink-java,Web Components,0.4704992811111111
+03_flink,flink-java,reinforcement learning,0.46982565444444446
+03_flink,flink-java,convolutional neural network,0.4695911733333333
+03_flink,flink-java,microservices,0.4687327244444444
+03_flink,flink-java,deep learning,0.46736415333333325
+03_flink,flink-java,web service,0.4659553855555555
+03_flink,flink-java,recommender system,0.4622647433333333
+03_flink,flink-java,File Transfer Protocol,0.4602884188888889
+03_flink,flink-java,image classification,0.4597989144444445
+03_flink,flink-java,regular expression,0.4589378155555555
+03_flink,flink-java,World Wide Web,0.45836610666666666
+03_flink,flink-java,web application,0.4572159166666666
+03_flink,flink-java,electronic trading platform,0.4539506944444444
+03_flink,flink-java,computer configuration,0.4501830044444444
+03_flink,flink-java,search engine,0.44980241
+03_flink,flink-java,penetration test,0.44633894333333335
+03_flink,flink-java,web server,0.4454900066666666
+03_flink,flink-java,security,0.4419880422222222
+03_flink,flink-java,operating system,0.4416885422222222
+03_flink,flink-java,HTTP server,0.44154194555555554
+03_flink,flink-java,cryptocurrency,0.4410557044444444
+03_flink,flink-java,streaming media,0.44047045333333334
+03_flink,flink-java,cloud computing,0.4400680022222222
+03_flink,flink-java,telecommunications network,0.4317285788888889
+03_flink,flink-java,stock market,0.42534504888888885
+03_flink,flink-java,web application security,0.3952719155555556

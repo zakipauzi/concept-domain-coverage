@@ -1,0 +1,162 @@
+project_name,module,domain,sim_score
+05_shardingsphere,kernel,schema migration,0.5947566077777778
+05_shardingsphere,kernel,database management,0.5895514955555555
+05_shardingsphere,kernel,database,0.5893235766666667
+05_shardingsphere,kernel,stream processing,0.5872609
+05_shardingsphere,kernel,distributed database,0.5815408211111112
+05_shardingsphere,kernel,object–relational mapping,0.5707594666666667
+05_shardingsphere,kernel,"extract, transform, load",0.5583397533333333
+05_shardingsphere,kernel,static program analysis,0.5554027911111111
+05_shardingsphere,kernel,data,0.555091168888889
+05_shardingsphere,kernel,continuous integration,0.5530256911111111
+05_shardingsphere,kernel,static program analysis tool,0.5529851377777777
+05_shardingsphere,kernel,back end,0.550046571111111
+05_shardingsphere,kernel,code generation,0.549316471111111
+05_shardingsphere,kernel,Parser combinator,0.5463374388888889
+05_shardingsphere,kernel,application performance management,0.5457759288888888
+05_shardingsphere,kernel,graph database,0.5455359577777777
+05_shardingsphere,kernel,routing,0.5447374611111111
+05_shardingsphere,kernel,pattern matching,0.5445933644444445
+05_shardingsphere,kernel,content management system,0.5419018411111112
+05_shardingsphere,kernel,static site generator,0.541336178888889
+05_shardingsphere,kernel,distributed computing,0.5410718355555556
+05_shardingsphere,kernel,functional programming,0.5409475566666666
+05_shardingsphere,kernel,information processing,0.5404473433333332
+05_shardingsphere,kernel,text processing,0.5382624933333333
+05_shardingsphere,kernel,automation,0.5381149911111112
+05_shardingsphere,kernel,distributed system,0.5371228266666667
+05_shardingsphere,kernel,software engineering,0.5367889400000001
+05_shardingsphere,kernel,analytics,0.536071951111111
+05_shardingsphere,kernel,middleware,0.5351814322222223
+05_shardingsphere,kernel,scheduler,0.534480488888889
+05_shardingsphere,kernel,software design pattern,0.5341393122222222
+05_shardingsphere,kernel,continuous deployment,0.533819311111111
+05_shardingsphere,kernel,smart contract,0.5334508455555557
+05_shardingsphere,kernel,algorithm,0.5325452444444445
+05_shardingsphere,kernel,data binding,0.5323878022222223
+05_shardingsphere,kernel,synchronization,0.5306878744444443
+05_shardingsphere,kernel,language model,0.5297214722222222
+05_shardingsphere,kernel,Semantic Web,0.5296848244444444
+05_shardingsphere,kernel,data structure,0.52913075
+05_shardingsphere,kernel,server,0.528857341111111
+05_shardingsphere,kernel,computer data storage,0.5275008888888889
+05_shardingsphere,kernel,data analysis,0.5247231822222223
+05_shardingsphere,kernel,compiler,0.5230321944444444
+05_shardingsphere,kernel,data compression,0.5230046377777778
+05_shardingsphere,kernel,DevOps,0.5225855222222222
+05_shardingsphere,kernel,graphical user interface,0.5214237444444445
+05_shardingsphere,kernel,parsing,0.5200908777777777
+05_shardingsphere,kernel,test automation,0.5196888455555555
+05_shardingsphere,kernel,software development,0.5192319755555554
+05_shardingsphere,kernel,data visualization,0.5172826322222223
+05_shardingsphere,kernel,shell tool,0.5172213711111111
+05_shardingsphere,kernel,network analysis,0.5163808288888888
+05_shardingsphere,kernel,embedded system,0.51619101
+05_shardingsphere,kernel,game server,0.5155934111111111
+05_shardingsphere,kernel,user interface,0.51553249
+05_shardingsphere,kernel,natural language,0.5144962344444445
+05_shardingsphere,kernel,web browser engine,0.5143207277777777
+05_shardingsphere,kernel,front end,0.5142356422222222
+05_shardingsphere,kernel,big data,0.5138691522222223
+05_shardingsphere,kernel,Web Components,0.5133743744444444
+05_shardingsphere,kernel,package management system,0.5133617822222223
+05_shardingsphere,kernel,logging,0.5129389833333333
+05_shardingsphere,kernel,geographic information system,0.5110565055555555
+05_shardingsphere,kernel,natural language processing,0.508855858888889
+05_shardingsphere,kernel,benchmark,0.5084424022222223
+05_shardingsphere,kernel,cluster analysis,0.5083338922222223
+05_shardingsphere,kernel,command-line interface,0.5072675366666666
+05_shardingsphere,kernel,question answering,0.50705307
+05_shardingsphere,kernel,serialization,0.50608897
+05_shardingsphere,kernel,data mining,0.5052352877777778
+05_shardingsphere,kernel,dependency injection,0.5044914955555555
+05_shardingsphere,kernel,File Transfer Protocol,0.5044525277777778
+05_shardingsphere,kernel,information retrieval,0.5038658422222223
+05_shardingsphere,kernel,web application,0.5034528444444444
+05_shardingsphere,kernel,interpreter,0.5027052866666666
+05_shardingsphere,kernel,electronic trading platform,0.5022221266666667
+05_shardingsphere,kernel,algorithmic trading,0.5021113555555555
+05_shardingsphere,kernel,blockchain,0.5018810966666666
+05_shardingsphere,kernel,microservices,0.5007207
+05_shardingsphere,kernel,game engine,0.5000888166666666
+05_shardingsphere,kernel,sorting algorithm,0.49934318555555557
+05_shardingsphere,kernel,search,0.4989360288888889
+05_shardingsphere,kernel,client,0.49882569222222223
+05_shardingsphere,kernel,web server,0.4981007577777778
+05_shardingsphere,kernel,World Wide Web,0.4973011477777779
+05_shardingsphere,kernel,data science,0.497294018888889
+05_shardingsphere,kernel,website,0.4972265
+05_shardingsphere,kernel,time series,0.49607910111111114
+05_shardingsphere,kernel,automated machine learning,0.4954307566666667
+05_shardingsphere,kernel,backup,0.49452411
+05_shardingsphere,kernel,transfer learning,0.4939140511111111
+05_shardingsphere,kernel,anomaly detection,0.4936898566666667
+05_shardingsphere,kernel,long short-term memory,0.49228473777777776
+05_shardingsphere,kernel,image captioning,0.49222356777777776
+05_shardingsphere,kernel,artificial intelligence,0.49150780111111103
+05_shardingsphere,kernel,hyperparameter optimization,0.49135320888888895
+05_shardingsphere,kernel,validator,0.49130483999999996
+05_shardingsphere,kernel,machine learning,0.4908958644444444
+05_shardingsphere,kernel,HTTP server,0.4905873333333333
+05_shardingsphere,kernel,Bidirectional recurrent neural networks,0.49049477444444445
+05_shardingsphere,kernel,instant messaging,0.4903637799999999
+05_shardingsphere,kernel,web service,0.48967835111111113
+05_shardingsphere,kernel,file system,0.4886212133333333
+05_shardingsphere,kernel,classification,0.48747730333333333
+05_shardingsphere,kernel,genetic algorithm,0.48739278333333336
+05_shardingsphere,kernel,signal processing,0.48724621888888886
+05_shardingsphere,kernel,regression analysis,0.4870461533333334
+05_shardingsphere,kernel,software testing,0.48679722888888893
+05_shardingsphere,kernel,linear regression,0.48521475555555554
+05_shardingsphere,kernel,web crawler,0.48349991444444446
+05_shardingsphere,kernel,e-commerce,0.48348914555555556
+05_shardingsphere,kernel,router,0.48320500999999993
+05_shardingsphere,kernel,translation,0.4830802855555556
+05_shardingsphere,kernel,network monitoring,0.4824118355555556
+05_shardingsphere,kernel,evolutionary algorithm,0.4816735511111111
+05_shardingsphere,kernel,cloud computing,0.4815497011111111
+05_shardingsphere,kernel,kernel,0.4810817111111112
+05_shardingsphere,kernel,plot,0.48013458444444446
+05_shardingsphere,kernel,Image analysis,0.47999102111111114
+05_shardingsphere,kernel,internet bot,0.47890636333333325
+05_shardingsphere,kernel,streaming media,0.47816275111111106
+05_shardingsphere,kernel,cryptography,0.47813259999999996
+05_shardingsphere,kernel,computer configuration,0.47471500555555557
+05_shardingsphere,kernel,encryption,0.4742666666666666
+05_shardingsphere,kernel,reinforcement learning,0.47360014555555563
+05_shardingsphere,kernel,sentiment analysis,0.47344605888888897
+05_shardingsphere,kernel,semi-supervised learning,0.4720350566666666
+05_shardingsphere,kernel,web scraping,0.47091512444444444
+05_shardingsphere,kernel,statistics,0.47069554888888887
+05_shardingsphere,kernel,support vector machine,0.47054135333333336
+05_shardingsphere,kernel,HTTP client,0.47016608
+05_shardingsphere,kernel,optical character recognition,0.46967042555555555
+05_shardingsphere,kernel,image,0.4692884455555556
+05_shardingsphere,kernel,password manager,0.46914389
+05_shardingsphere,kernel,unit testing,0.4680959377777778
+05_shardingsphere,kernel,3D modeling,0.46805101111111114
+05_shardingsphere,kernel,neural network,0.46678504555555556
+05_shardingsphere,kernel,recommender system,0.46658832777777776
+05_shardingsphere,kernel,audio signal processing,0.46647032999999993
+05_shardingsphere,kernel,image segmentation,0.46529367888888884
+05_shardingsphere,kernel,malware,0.46429767111111114
+05_shardingsphere,kernel,Malware Analysis,0.4633312244444444
+05_shardingsphere,kernel,search engine,0.4601640577777778
+05_shardingsphere,kernel,telecommunications network,0.4588184833333333
+05_shardingsphere,kernel,artificial neural network,0.4577007822222222
+05_shardingsphere,kernel,internet of things,0.45693713
+05_shardingsphere,kernel,banking industry,0.4563988955555555
+05_shardingsphere,kernel,security,0.45630544333333334
+05_shardingsphere,kernel,convolutional neural network,0.4549178477777778
+05_shardingsphere,kernel,object detection,0.4508751555555555
+05_shardingsphere,kernel,deep learning,0.45056323
+05_shardingsphere,kernel,operating system,0.45020608222222225
+05_shardingsphere,kernel,web application security,0.4497865833333333
+05_shardingsphere,kernel,WebSocket,0.4494494333333333
+05_shardingsphere,kernel,bitcoin,0.4482141755555556
+05_shardingsphere,kernel,penetration test,0.4469203033333333
+05_shardingsphere,kernel,network security,0.4436852966666667
+05_shardingsphere,kernel,cryptocurrency,0.4401745055555556
+05_shardingsphere,kernel,stock market,0.4259457544444445
+05_shardingsphere,kernel,regular expression,0.4241775833333333
+05_shardingsphere,kernel,digital security,0.39952440888888885

@@ -1,0 +1,143 @@
+project_name,module,domain,sim_score
+01_dubbo,dubbo-cluster,dependency injection,0.567975405
+01_dubbo,dubbo-cluster,unit testing,0.5571817333333334
+01_dubbo,dubbo-cluster,middleware,0.5536092466666667
+01_dubbo,dubbo-cluster,routing,0.5505044166666667
+01_dubbo,dubbo-cluster,HTTP client,0.5419608666666667
+01_dubbo,dubbo-cluster,test automation,0.5364496049999999
+01_dubbo,dubbo-cluster,game server,0.535465835
+01_dubbo,dubbo-cluster,scheduler,0.5324965183333333
+01_dubbo,dubbo-cluster,static site generator,0.532409165
+01_dubbo,dubbo-cluster,application performance management,0.5309229683333333
+01_dubbo,dubbo-cluster,web service,0.5274880999999999
+01_dubbo,dubbo-cluster,smart contract,0.5270049266666667
+01_dubbo,dubbo-cluster,Web Components,0.52427295
+01_dubbo,dubbo-cluster,static program analysis tool,0.5240040816666666
+01_dubbo,dubbo-cluster,web browser engine,0.5234266833333335
+01_dubbo,dubbo-cluster,microservices,0.52326876
+01_dubbo,dubbo-cluster,static program analysis,0.5228030366666667
+01_dubbo,dubbo-cluster,software testing,0.5165458266666667
+01_dubbo,dubbo-cluster,client,0.5156262433333333
+01_dubbo,dubbo-cluster,data binding,0.5140906166666667
+01_dubbo,dubbo-cluster,back end,0.5122911266666667
+01_dubbo,dubbo-cluster,front end,0.5117090333333333
+01_dubbo,dubbo-cluster,code generation,0.5116356816666667
+01_dubbo,dubbo-cluster,validator,0.5107103316666667
+01_dubbo,dubbo-cluster,pattern matching,0.5092278549999999
+01_dubbo,dubbo-cluster,user interface,0.5079529333333334
+01_dubbo,dubbo-cluster,server,0.5071802400000001
+01_dubbo,dubbo-cluster,automation,0.5067987883333334
+01_dubbo,dubbo-cluster,web application,0.506189895
+01_dubbo,dubbo-cluster,graphical user interface,0.5039189766666666
+01_dubbo,dubbo-cluster,router,0.5034353916666666
+01_dubbo,dubbo-cluster,HTTP server,0.5033066666666667
+01_dubbo,dubbo-cluster,serialization,0.5022564150000001
+01_dubbo,dubbo-cluster,command-line interface,0.5016295133333334
+01_dubbo,dubbo-cluster,rendering,0.4984709116666666
+01_dubbo,dubbo-cluster,distributed computing,0.4980173666666667
+01_dubbo,dubbo-cluster,Containerization,0.49792592500000005
+01_dubbo,dubbo-cluster,continuous integration,0.4971790666666666
+01_dubbo,dubbo-cluster,"extract, transform, load",0.49605334333333334
+01_dubbo,dubbo-cluster,Parser combinator,0.495745845
+01_dubbo,dubbo-cluster,instant messaging,0.49527769166666674
+01_dubbo,dubbo-cluster,authentication,0.4941029483333333
+01_dubbo,dubbo-cluster,web server,0.4930023283333334
+01_dubbo,dubbo-cluster,stream processing,0.49256812666666666
+01_dubbo,dubbo-cluster,web browser,0.49233130833333333
+01_dubbo,dubbo-cluster,shell tool,0.48949980833333334
+01_dubbo,dubbo-cluster,website,0.48941590833333337
+01_dubbo,dubbo-cluster,object–relational mapping,0.48583975833333337
+01_dubbo,dubbo-cluster,web crawler,0.48539636833333333
+01_dubbo,dubbo-cluster,password manager,0.48539175
+01_dubbo,dubbo-cluster,Semantic Web,0.4838079516666667
+01_dubbo,dubbo-cluster,distributed system,0.4836815983333333
+01_dubbo,dubbo-cluster,WebSocket,0.48295310333333336
+01_dubbo,dubbo-cluster,game engine,0.4813981416666666
+01_dubbo,dubbo-cluster,penetration test,0.4777726516666667
+01_dubbo,dubbo-cluster,data,0.4775119483333334
+01_dubbo,dubbo-cluster,network analysis,0.47741771166666663
+01_dubbo,dubbo-cluster,benchmark,0.4772698033333334
+01_dubbo,dubbo-cluster,File Transfer Protocol,0.4766700883333333
+01_dubbo,dubbo-cluster,World Wide Web,0.47643681666666665
+01_dubbo,dubbo-cluster,search,0.47585598999999995
+01_dubbo,dubbo-cluster,compiler,0.47486113999999996
+01_dubbo,dubbo-cluster,web application security,0.47481629833333333
+01_dubbo,dubbo-cluster,network monitoring,0.4747641466666666
+01_dubbo,dubbo-cluster,virtual machine,0.47288895000000003
+01_dubbo,dubbo-cluster,content management system,0.4718029666666667
+01_dubbo,dubbo-cluster,language model,0.47007370833333334
+01_dubbo,dubbo-cluster,reinforcement learning,0.4682940983333333
+01_dubbo,dubbo-cluster,design,0.46799077000000006
+01_dubbo,dubbo-cluster,logging,0.46672952500000003
+01_dubbo,dubbo-cluster,email,0.4647131966666667
+01_dubbo,dubbo-cluster,algorithm,0.46435783833333333
+01_dubbo,dubbo-cluster,information processing,0.46434002166666666
+01_dubbo,dubbo-cluster,machine translation,0.4639713216666666
+01_dubbo,dubbo-cluster,package management system,0.4630369083333333
+01_dubbo,dubbo-cluster,web scraping,0.46210972499999997
+01_dubbo,dubbo-cluster,artificial intelligence,0.46204301166666667
+01_dubbo,dubbo-cluster,geographic information system,0.4610870883333334
+01_dubbo,dubbo-cluster,blockchain,0.4598195050000001
+01_dubbo,dubbo-cluster,computational science,0.459644865
+01_dubbo,dubbo-cluster,random forest,0.458299005
+01_dubbo,dubbo-cluster,internet of things,0.4569079166666667
+01_dubbo,dubbo-cluster,analytics,0.456553395
+01_dubbo,dubbo-cluster,database,0.45525031166666663
+01_dubbo,dubbo-cluster,natural language,0.4551855283333333
+01_dubbo,dubbo-cluster,Bayesian inference,0.4548651316666667
+01_dubbo,dubbo-cluster,telecommunications network,0.454716265
+01_dubbo,dubbo-cluster,cloud computing,0.45431832833333335
+01_dubbo,dubbo-cluster,security,0.45397906166666663
+01_dubbo,dubbo-cluster,computer configuration,0.4535638583333333
+01_dubbo,dubbo-cluster,machine learning,0.45233272333333335
+01_dubbo,dubbo-cluster,text editor,0.45171951166666663
+01_dubbo,dubbo-cluster,streaming media,0.4513935966666666
+01_dubbo,dubbo-cluster,backup,0.45110691166666667
+01_dubbo,dubbo-cluster,text processing,0.4492288766666667
+01_dubbo,dubbo-cluster,linear regression,0.4484118733333333
+01_dubbo,dubbo-cluster,data structure,0.44756249500000006
+01_dubbo,dubbo-cluster,distributed database,0.4474050583333333
+01_dubbo,dubbo-cluster,cluster analysis,0.4449588766666667
+01_dubbo,dubbo-cluster,data compression,0.44366958333333334
+01_dubbo,dubbo-cluster,classification,0.44282693
+01_dubbo,dubbo-cluster,electronic trading platform,0.4425914366666667
+01_dubbo,dubbo-cluster,search engine,0.4425466816666667
+01_dubbo,dubbo-cluster,data analysis,0.44142168500000006
+01_dubbo,dubbo-cluster,support vector machine,0.44140569833333326
+01_dubbo,dubbo-cluster,encryption,0.4408003383333334
+01_dubbo,dubbo-cluster,data science,0.44023147166666665
+01_dubbo,dubbo-cluster,regular expression,0.4393894716666667
+01_dubbo,dubbo-cluster,recommender system,0.4381587633333333
+01_dubbo,dubbo-cluster,big data,0.4380144716666667
+01_dubbo,dubbo-cluster,Kalman filter,0.437516345
+01_dubbo,dubbo-cluster,graph database,0.43439340666666665
+01_dubbo,dubbo-cluster,artificial neural network,0.4340560116666666
+01_dubbo,dubbo-cluster,deep neural network,0.4324398916666667
+01_dubbo,dubbo-cluster,data visualization,0.4321231216666666
+01_dubbo,dubbo-cluster,Malware Analysis,0.4314585233333333
+01_dubbo,dubbo-cluster,long short-term memory,0.4314501033333333
+01_dubbo,dubbo-cluster,computer data storage,0.430700015
+01_dubbo,dubbo-cluster,algorithmic trading,0.4300941683333333
+01_dubbo,dubbo-cluster,natural language processing,0.4295696033333334
+01_dubbo,dubbo-cluster,graph algorithm,0.42872253500000007
+01_dubbo,dubbo-cluster,data mining,0.42671904833333324
+01_dubbo,dubbo-cluster,file system,0.42644393999999997
+01_dubbo,dubbo-cluster,deep learning,0.42505360166666667
+01_dubbo,dubbo-cluster,text mining,0.42229505166666664
+01_dubbo,dubbo-cluster,Image analysis,0.4219838466666667
+01_dubbo,dubbo-cluster,optical character recognition,0.42060952333333335
+01_dubbo,dubbo-cluster,text classification,0.417812365
+01_dubbo,dubbo-cluster,digital image processing,0.41471942666666667
+01_dubbo,dubbo-cluster,signal processing,0.4146620916666666
+01_dubbo,dubbo-cluster,sorting algorithm,0.41424284833333336
+01_dubbo,dubbo-cluster,digital security,0.41325485666666667
+01_dubbo,dubbo-cluster,operating system,0.40967889500000004
+01_dubbo,dubbo-cluster,cryptocurrency,0.4089648366666667
+01_dubbo,dubbo-cluster,time series,0.4035554733333333
+01_dubbo,dubbo-cluster,object detection,0.40154594500000007
+01_dubbo,dubbo-cluster,word embedding,0.4014400216666667
+01_dubbo,dubbo-cluster,image segmentation,0.39896332333333334
+01_dubbo,dubbo-cluster,digital audio,0.39843752333333327
+01_dubbo,dubbo-cluster,image classification,0.39822778666666664
+01_dubbo,dubbo-cluster,audio signal processing,0.3940890716666667
+01_dubbo,dubbo-cluster,stock market,0.3597529383333334

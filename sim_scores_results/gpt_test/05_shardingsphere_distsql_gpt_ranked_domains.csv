@@ -1,0 +1,90 @@
+project_name,module,domain,sim_score
+05_shardingsphere,distsql,code generation,0.7593212926777113
+05_shardingsphere,distsql,data structure,0.7423991887296044
+05_shardingsphere,distsql,unit testing,0.7418150885110216
+05_shardingsphere,distsql,data compression,0.741234084404594
+05_shardingsphere,distsql,computer data storage,0.7392413398507294
+05_shardingsphere,distsql,schema migration,0.7376712086567514
+05_shardingsphere,distsql,compiler,0.7352354430208209
+05_shardingsphere,distsql,static program analysis tool,0.7314859952140349
+05_shardingsphere,distsql,serialization,0.7310543065182395
+05_shardingsphere,distsql,stream processing,0.7254399379826332
+05_shardingsphere,distsql,static site generator,0.7240892084653147
+05_shardingsphere,distsql,translation,0.7238696749408156
+05_shardingsphere,distsql,object–relational mapping,0.7222792855379598
+05_shardingsphere,distsql,data,0.7222330909713246
+05_shardingsphere,distsql,file system,0.7215990463099127
+05_shardingsphere,distsql,data mining,0.7211510903009356
+05_shardingsphere,distsql,user interface,0.7209723695277604
+05_shardingsphere,distsql,distributed system,0.7205654476537485
+05_shardingsphere,distsql,static program analysis,0.7202295982918729
+05_shardingsphere,distsql,sorting algorithm,0.7193852900226104
+05_shardingsphere,distsql,dependency injection,0.7193084795447079
+05_shardingsphere,distsql,validator,0.7192865872353665
+05_shardingsphere,distsql,interpreter,0.7187397506013475
+05_shardingsphere,distsql,parsing,0.7181186272338042
+05_shardingsphere,distsql,data visualization,0.7172800695680728
+05_shardingsphere,distsql,object detection,0.7172039871461944
+05_shardingsphere,distsql,database management,0.7164345663533955
+05_shardingsphere,distsql,data binding,0.7160655061996808
+05_shardingsphere,distsql,database,0.7158620673098762
+05_shardingsphere,distsql,language model,0.7123155414466195
+05_shardingsphere,distsql,support vector machine,0.7123024515063022
+05_shardingsphere,distsql,distributed database,0.7113543521193799
+05_shardingsphere,distsql,pattern matching,0.7112846219571775
+05_shardingsphere,distsql,synchronization,0.7110144360139646
+05_shardingsphere,distsql,algorithm,0.7104461512433186
+05_shardingsphere,distsql,command-line interface,0.7089913768218962
+05_shardingsphere,distsql,big data,0.7080565102890493
+05_shardingsphere,distsql,software testing,0.707474126887572
+05_shardingsphere,distsql,analytics,0.7073700636749665
+05_shardingsphere,distsql,recommender system,0.707070131195728
+05_shardingsphere,distsql,automation,0.706521951676919
+05_shardingsphere,distsql,web scraping,0.7059614753352681
+05_shardingsphere,distsql,streaming media,0.7055709704660442
+05_shardingsphere,distsql,File Transfer Protocol,0.7055232292986797
+05_shardingsphere,distsql,data science,0.7047183402657727
+05_shardingsphere,distsql,client,0.7038117996478922
+05_shardingsphere,distsql,cluster analysis,0.7036943470976063
+05_shardingsphere,distsql,website,0.7033346490604181
+05_shardingsphere,distsql,middleware,0.7031641740766057
+05_shardingsphere,distsql,penetration test,0.7030825106301207
+05_shardingsphere,distsql,optical character recognition,0.7030008949931891
+05_shardingsphere,distsql,graph database,0.7026877975094395
+05_shardingsphere,distsql,Web Components,0.7025363856297545
+05_shardingsphere,distsql,data analysis,0.7024090817154482
+05_shardingsphere,distsql,convolutional neural network,0.7016538550584073
+05_shardingsphere,distsql,server,0.7015333038527393
+05_shardingsphere,distsql,content management system,0.7012692501683461
+05_shardingsphere,distsql,Semantic Web,0.7012558831226323
+05_shardingsphere,distsql,Image analysis,0.7011557824806811
+05_shardingsphere,distsql,graphical user interface,0.6985310998033517
+05_shardingsphere,distsql,regular expression,0.6980313655032108
+05_shardingsphere,distsql,embedded system,0.6969922090914444
+05_shardingsphere,distsql,Parser combinator,0.6969854856998723
+05_shardingsphere,distsql,software engineering,0.6968453436393561
+05_shardingsphere,distsql,package management system,0.6968265695131182
+05_shardingsphere,distsql,security,0.6960531921232752
+05_shardingsphere,distsql,email,0.6959478190661533
+05_shardingsphere,distsql,text processing,0.6951028322429128
+05_shardingsphere,distsql,regression analysis,0.6934254662457745
+05_shardingsphere,distsql,linear regression,0.6930734073075383
+05_shardingsphere,distsql,signal processing,0.6915554946039146
+05_shardingsphere,distsql,information processing,0.6911632866913776
+05_shardingsphere,distsql,natural language processing,0.6908125347784012
+05_shardingsphere,distsql,logging,0.6907520669258542
+05_shardingsphere,distsql,password manager,0.6906350613325725
+05_shardingsphere,distsql,operating system,0.6903946894810833
+05_shardingsphere,distsql,back end,0.6902577728117861
+05_shardingsphere,distsql,web service,0.6898993249690856
+05_shardingsphere,distsql,web application,0.6896778987679838
+05_shardingsphere,distsql,web server,0.689227579123259
+05_shardingsphere,distsql,microservices,0.6870485786421586
+05_shardingsphere,distsql,artificial neural network,0.6845941976041797
+05_shardingsphere,distsql,smart contract,0.6844533534856335
+05_shardingsphere,distsql,natural language,0.6828313347454402
+05_shardingsphere,distsql,web application security,0.6757795015621035
+05_shardingsphere,distsql,instant messaging,0.6735284679940859
+05_shardingsphere,distsql,HTTP server,0.6729167993830841
+05_shardingsphere,distsql,web browser engine,0.6704364882982186
+05_shardingsphere,distsql,World Wide Web,0.6602524834752658

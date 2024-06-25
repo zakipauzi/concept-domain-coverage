@@ -1,0 +1,141 @@
+project_name,module,domain,sim_score
+12_shenyu,shenyu-common,"extract, transform, load",0.7376425996553998
+12_shenyu,shenyu-common,unit testing,0.7360651654829684
+12_shenyu,shenyu-common,data structure,0.7339613560545506
+12_shenyu,shenyu-common,schema migration,0.731940479529368
+12_shenyu,shenyu-common,test automation,0.7318266619344546
+12_shenyu,shenyu-common,code generation,0.7317677927701407
+12_shenyu,shenyu-common,user interface,0.7315000542268599
+12_shenyu,shenyu-common,middleware,0.7313949242811216
+12_shenyu,shenyu-common,backup,0.730905153372555
+12_shenyu,shenyu-common,compiler,0.7298545953942589
+12_shenyu,shenyu-common,web crawler,0.7279267560687186
+12_shenyu,shenyu-common,static program analysis tool,0.7276739423248272
+12_shenyu,shenyu-common,validator,0.7273212018068542
+12_shenyu,shenyu-common,scheduler,0.7266737197605475
+12_shenyu,shenyu-common,algorithm,0.7260632948877899
+12_shenyu,shenyu-common,serialization,0.7256411103954726
+12_shenyu,shenyu-common,benchmark,0.7255826821363487
+12_shenyu,shenyu-common,dependency injection,0.7254292424232207
+12_shenyu,shenyu-common,static site generator,0.724474865241538
+12_shenyu,shenyu-common,interpreter,0.7239500253913618
+12_shenyu,shenyu-common,data,0.7233980096436716
+12_shenyu,shenyu-common,password manager,0.7233489612154884
+12_shenyu,shenyu-common,information retrieval,0.7229724836515463
+12_shenyu,shenyu-common,command-line interface,0.7226462892520523
+12_shenyu,shenyu-common,website,0.722341314157883
+12_shenyu,shenyu-common,sorting algorithm,0.7213558547666392
+12_shenyu,shenyu-common,shell tool,0.7211785300280293
+12_shenyu,shenyu-common,WebSocket,0.7211349267080258
+12_shenyu,shenyu-common,server,0.7210096847738978
+12_shenyu,shenyu-common,software design pattern,0.7207188443135035
+12_shenyu,shenyu-common,analytics,0.7201979112493995
+12_shenyu,shenyu-common,database,0.7197904687659077
+12_shenyu,shenyu-common,automation,0.7195992322820958
+12_shenyu,shenyu-common,software testing,0.7189433679223405
+12_shenyu,shenyu-common,search,0.7183302614573415
+12_shenyu,shenyu-common,data binding,0.7182794432002895
+12_shenyu,shenyu-common,kernel,0.7178510830423298
+12_shenyu,shenyu-common,client,0.7173379639935696
+12_shenyu,shenyu-common,long short-term memory,0.7172882027416996
+12_shenyu,shenyu-common,Parser combinator,0.7169399138907044
+12_shenyu,shenyu-common,internet bot,0.7169028121077347
+12_shenyu,shenyu-common,pattern matching,0.716588896735473
+12_shenyu,shenyu-common,static program analysis,0.7158720298755132
+12_shenyu,shenyu-common,animation,0.715768878944532
+12_shenyu,shenyu-common,synchronization,0.7157046219045134
+12_shenyu,shenyu-common,random forest,0.7150988142013046
+12_shenyu,shenyu-common,package management system,0.7148255147046526
+12_shenyu,shenyu-common,language model,0.714718161434472
+12_shenyu,shenyu-common,authentication,0.7143588806304416
+12_shenyu,shenyu-common,web server,0.7138646656558659
+12_shenyu,shenyu-common,encryption,0.7136866797797756
+12_shenyu,shenyu-common,file system,0.7135882764286732
+12_shenyu,shenyu-common,smart contract,0.713237776412674
+12_shenyu,shenyu-common,information extraction,0.7132077889062561
+12_shenyu,shenyu-common,web scraping,0.7127596009493438
+12_shenyu,shenyu-common,graph algorithm,0.7124678707054568
+12_shenyu,shenyu-common,email,0.7118253376361223
+12_shenyu,shenyu-common,data compression,0.7117851942206206
+12_shenyu,shenyu-common,security,0.7115610596812096
+12_shenyu,shenyu-common,web application,0.711476562198831
+12_shenyu,shenyu-common,web service,0.7112288506784541
+12_shenyu,shenyu-common,game engine,0.7111481842090428
+12_shenyu,shenyu-common,translation,0.7104445332348046
+12_shenyu,shenyu-common,front end,0.709710082451789
+12_shenyu,shenyu-common,web application security,0.7091805294171316
+12_shenyu,shenyu-common,Semantic Web,0.7089746366120092
+12_shenyu,shenyu-common,HTTP client,0.7089385116799891
+12_shenyu,shenyu-common,data visualization,0.7086120077097918
+12_shenyu,shenyu-common,big data,0.7085995703099185
+12_shenyu,shenyu-common,penetration test,0.7080244068520626
+12_shenyu,shenyu-common,back end,0.707935884404989
+12_shenyu,shenyu-common,Web Components,0.707844276422058
+12_shenyu,shenyu-common,computer configuration,0.7078282950571024
+12_shenyu,shenyu-common,web development,0.7077255869167444
+12_shenyu,shenyu-common,object–relational mapping,0.707615143888152
+12_shenyu,shenyu-common,computer benchmarking,0.706713544157327
+12_shenyu,shenyu-common,logging,0.7065658297934976
+12_shenyu,shenyu-common,database management,0.7063249413255395
+12_shenyu,shenyu-common,graphical user interface,0.7063157909887832
+12_shenyu,shenyu-common,graph database,0.706302976790222
+12_shenyu,shenyu-common,game server,0.7062281118913747
+12_shenyu,shenyu-common,content management system,0.7062055465565755
+12_shenyu,shenyu-common,blockchain,0.7052926171828416
+12_shenyu,shenyu-common,machine learning,0.7049185158795335
+12_shenyu,shenyu-common,data mining,0.704844922514524
+12_shenyu,shenyu-common,distributed system,0.7047942530743336
+12_shenyu,shenyu-common,evolutionary algorithm,0.7043302474396546
+12_shenyu,shenyu-common,HTTP server,0.7043117849320631
+12_shenyu,shenyu-common,Malware Analysis,0.7033925749913508
+12_shenyu,shenyu-common,regular expression,0.7033789580156944
+12_shenyu,shenyu-common,object detection,0.7031848262204736
+12_shenyu,shenyu-common,microservices,0.7029468149097173
+12_shenyu,shenyu-common,Containerization,0.7028203539006177
+12_shenyu,shenyu-common,support vector machine,0.7019543549810313
+12_shenyu,shenyu-common,data analysis,0.701371680220137
+12_shenyu,shenyu-common,natural language processing,0.7013641842956535
+12_shenyu,shenyu-common,quantum computer,0.7010650898760945
+12_shenyu,shenyu-common,application performance management,0.7007014826505276
+12_shenyu,shenyu-common,recommender system,0.7006517274717502
+12_shenyu,shenyu-common,malware,0.7005766944984577
+12_shenyu,shenyu-common,embedded system,0.7005435207667976
+12_shenyu,shenyu-common,functional programming,0.7000116265741758
+12_shenyu,shenyu-common,mathematical optimization,0.6999784712996038
+12_shenyu,shenyu-common,signal processing,0.6996243949539203
+12_shenyu,shenyu-common,linear regression,0.6993886054930473
+12_shenyu,shenyu-common,web browser engine,0.6993120192437723
+12_shenyu,shenyu-common,audio signal processing,0.6985503582238582
+12_shenyu,shenyu-common,File Transfer Protocol,0.698521149928252
+12_shenyu,shenyu-common,instant messaging,0.6984714673517404
+12_shenyu,shenyu-common,information processing,0.6981093392656774
+12_shenyu,shenyu-common,continuous integration,0.6974467434396767
+12_shenyu,shenyu-common,streaming media,0.6973858152619357
+12_shenyu,shenyu-common,web browser,0.6969482106682325
+12_shenyu,shenyu-common,stream processing,0.6967455795865249
+12_shenyu,shenyu-common,data science,0.6966024893408154
+12_shenyu,shenyu-common,time series,0.6961149961203676
+12_shenyu,shenyu-common,computer data storage,0.6957433312657983
+12_shenyu,shenyu-common,distributed database,0.6954472945809489
+12_shenyu,shenyu-common,cryptography,0.6954155662020076
+12_shenyu,shenyu-common,word embedding,0.6951211131768811
+12_shenyu,shenyu-common,distributed multimedia communications platform,0.6940708528697377
+12_shenyu,shenyu-common,Bayesian inference,0.694044534289426
+12_shenyu,shenyu-common,optical character recognition,0.693294668060445
+12_shenyu,shenyu-common,natural language,0.6932022614637916
+12_shenyu,shenyu-common,text processing,0.6922887887178066
+12_shenyu,shenyu-common,reinforcement learning,0.6915521822644115
+12_shenyu,shenyu-common,cloud computing,0.6911439965255434
+12_shenyu,shenyu-common,operating system,0.6908394254065564
+12_shenyu,shenyu-common,video processing,0.6907907770394863
+12_shenyu,shenyu-common,linear algebra,0.6904917417131312
+12_shenyu,shenyu-common,artificial intelligence,0.6902424022168177
+12_shenyu,shenyu-common,3D modeling,0.689122361964688
+12_shenyu,shenyu-common,text classification,0.688795448519002
+12_shenyu,shenyu-common,artificial neural network,0.6883688393779577
+12_shenyu,shenyu-common,distributed computing,0.6868236806246218
+12_shenyu,shenyu-common,World Wide Web,0.6850146293020651
+12_shenyu,shenyu-common,geographic information system,0.6846864664253667
+12_shenyu,shenyu-common,cluster analysis,0.6846458658642063
+12_shenyu,shenyu-common,computational science,0.6755220980973622
+12_shenyu,shenyu-common,telecommunications network,0.6744016572833678

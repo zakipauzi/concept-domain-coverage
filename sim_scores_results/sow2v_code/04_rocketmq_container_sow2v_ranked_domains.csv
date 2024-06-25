@@ -1,0 +1,14 @@
+project_name,module,domain,sim_score
+04_rocketmq,container,server,0.5901128233333334
+04_rocketmq,container,client,0.5803888833333333
+04_rocketmq,container,database,0.4138571549999999
+04_rocketmq,container,middleware,0.39052798000000005
+04_rocketmq,container,data,0.36811528333333327
+04_rocketmq,container,logging,0.33591773166666666
+04_rocketmq,container,security,0.307217615
+04_rocketmq,container,synchronization,0.26194722500000006
+04_rocketmq,container,microservices,0.2361385
+04_rocketmq,container,blockchain,0.23340957333333331
+04_rocketmq,container,website,0.19603212433333336
+04_rocketmq,container,analytics,0.170344375
+04_rocketmq,container,automation,0.07829412433333334

@@ -1,0 +1,92 @@
+project_name,module,domain,sim_score
+12_shenyu,shenyu-client,HTTP client,0.5746156128571428
+12_shenyu,shenyu-client,validator,0.5703466928571429
+12_shenyu,shenyu-client,client,0.5614034614285714
+12_shenyu,shenyu-client,dependency injection,0.54813312
+12_shenyu,shenyu-client,unit testing,0.5446083328571428
+12_shenyu,shenyu-client,serialization,0.5350748771428572
+12_shenyu,shenyu-client,smart contract,0.5309860414285714
+12_shenyu,shenyu-client,web service,0.5301937042857143
+12_shenyu,shenyu-client,test automation,0.5088711942857143
+12_shenyu,shenyu-client,web application,0.5061213999999999
+12_shenyu,shenyu-client,static program analysis,0.5060775414285714
+12_shenyu,shenyu-client,software testing,0.5056546199999999
+12_shenyu,shenyu-client,Web Components,0.50371191
+12_shenyu,shenyu-client,data binding,0.5014851528571429
+12_shenyu,shenyu-client,microservices,0.4974289442857143
+12_shenyu,shenyu-client,object–relational mapping,0.48771264142857146
+12_shenyu,shenyu-client,application performance management,0.4861260314285714
+12_shenyu,shenyu-client,front end,0.4828426885714286
+12_shenyu,shenyu-client,authentication,0.4816843185714285
+12_shenyu,shenyu-client,back end,0.48132912
+12_shenyu,shenyu-client,middleware,0.48022256428571436
+12_shenyu,shenyu-client,pattern matching,0.47650249142857143
+12_shenyu,shenyu-client,code generation,0.4762852214285714
+12_shenyu,shenyu-client,HTTP server,0.4749742985714286
+12_shenyu,shenyu-client,WebSocket,0.47350795142857144
+12_shenyu,shenyu-client,game server,0.4730297685714286
+12_shenyu,shenyu-client,stream processing,0.4726810071428571
+12_shenyu,shenyu-client,penetration test,0.4721013471428571
+12_shenyu,shenyu-client,Semantic Web,0.46935701142857145
+12_shenyu,shenyu-client,static site generator,0.4690444671428571
+12_shenyu,shenyu-client,web application security,0.46755682000000004
+12_shenyu,shenyu-client,web browser engine,0.46641639571428567
+12_shenyu,shenyu-client,automation,0.4662666857142857
+12_shenyu,shenyu-client,benchmark,0.46559114142857133
+12_shenyu,shenyu-client,server,0.4646921571428571
+12_shenyu,shenyu-client,instant messaging,0.4623279814285714
+12_shenyu,shenyu-client,distributed computing,0.46202522428571424
+12_shenyu,shenyu-client,data,0.4600144842857143
+12_shenyu,shenyu-client,website,0.4573918028571428
+12_shenyu,shenyu-client,language model,0.45675482142857143
+12_shenyu,shenyu-client,user interface,0.4543796814285714
+12_shenyu,shenyu-client,command-line interface,0.4540779742857143
+12_shenyu,shenyu-client,natural language,0.45332922142857146
+12_shenyu,shenyu-client,logging,0.45075239714285714
+12_shenyu,shenyu-client,File Transfer Protocol,0.4503978757142857
+12_shenyu,shenyu-client,graphical user interface,0.4486501228571429
+12_shenyu,shenyu-client,cloud computing,0.4440058314285715
+12_shenyu,shenyu-client,regular expression,0.44355341285714284
+12_shenyu,shenyu-client,translation,0.4414624957142857
+12_shenyu,shenyu-client,web server,0.4413211971428571
+12_shenyu,shenyu-client,compiler,0.4400607971428571
+12_shenyu,shenyu-client,Bayesian inference,0.4395459128571429
+12_shenyu,shenyu-client,backup,0.43733082714285715
+12_shenyu,shenyu-client,web browser,0.43685678285714286
+12_shenyu,shenyu-client,game engine,0.43590661571428574
+12_shenyu,shenyu-client,text processing,0.4332798028571429
+12_shenyu,shenyu-client,continuous integration,0.43279405142857147
+12_shenyu,shenyu-client,data compression,0.4315702157142858
+12_shenyu,shenyu-client,database,0.42897224857142857
+12_shenyu,shenyu-client,content management system,0.42885564
+12_shenyu,shenyu-client,web scraping,0.4267011471428571
+12_shenyu,shenyu-client,World Wide Web,0.42231513000000004
+12_shenyu,shenyu-client,malware,0.4219335342857143
+12_shenyu,shenyu-client,data science,0.42174395000000003
+12_shenyu,shenyu-client,blockchain,0.4216204571428571
+12_shenyu,shenyu-client,embedded system,0.42019628285714283
+12_shenyu,shenyu-client,geographic information system,0.4201497471428572
+12_shenyu,shenyu-client,data analysis,0.41780193714285707
+12_shenyu,shenyu-client,information processing,0.41694960285714283
+12_shenyu,shenyu-client,security,0.41519204857142855
+12_shenyu,shenyu-client,anomaly detection,0.41410799000000004
+12_shenyu,shenyu-client,router,0.4131012185714286
+12_shenyu,shenyu-client,big data,0.4110912814285715
+12_shenyu,shenyu-client,package management system,0.41008704571428567
+12_shenyu,shenyu-client,analytics,0.4070945414285715
+12_shenyu,shenyu-client,streaming media,0.4066728957142857
+12_shenyu,shenyu-client,data structure,0.4011715185714286
+12_shenyu,shenyu-client,telecommunications network,0.39986192285714284
+12_shenyu,shenyu-client,time series,0.39813529714285717
+12_shenyu,shenyu-client,information extraction,0.39807942571428573
+12_shenyu,shenyu-client,signal processing,0.3952648385714285
+12_shenyu,shenyu-client,object detection,0.3926898371428571
+12_shenyu,shenyu-client,Malware Analysis,0.3913714842857142
+12_shenyu,shenyu-client,long short-term memory,0.39090105857142854
+12_shenyu,shenyu-client,computer data storage,0.38448754714285716
+12_shenyu,shenyu-client,deep learning,0.38388221714285714
+12_shenyu,shenyu-client,bitcoin,0.37852459714285713
+12_shenyu,shenyu-client,audio signal processing,0.37695072142857144
+12_shenyu,shenyu-client,computer configuration,0.3667637385714286
+12_shenyu,shenyu-client,file system,0.35420033
+12_shenyu,shenyu-client,operating system,0.33909357285714287

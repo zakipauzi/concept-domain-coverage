@@ -1,0 +1,155 @@
+project_name,module,domain,sim_score
+04_rocketmq,common,WebSocket,0.7619635979418082
+04_rocketmq,common,benchmark,0.7580404877251693
+04_rocketmq,common,scheduler,0.7578134892045456
+04_rocketmq,common,user interface,0.7524454592602895
+04_rocketmq,common,data structure,0.7515519934452316
+04_rocketmq,common,debugger,0.7515187152987336
+04_rocketmq,common,server,0.7474073179749539
+04_rocketmq,common,documentation,0.7466447072295517
+04_rocketmq,common,backup,0.7455780257219828
+04_rocketmq,common,middleware,0.7455467322536032
+04_rocketmq,common,unit testing,0.7452003767171564
+04_rocketmq,common,network monitoring,0.7450594026195841
+04_rocketmq,common,internet bot,0.744816150541652
+04_rocketmq,common,statistics,0.7441956888573132
+04_rocketmq,common,analytics,0.7441800269951205
+04_rocketmq,common,client,0.7439079722591018
+04_rocketmq,common,database,0.7434016096605471
+04_rocketmq,common,serialization,0.7431153783965195
+04_rocketmq,common,compiler,0.7425295801066413
+04_rocketmq,common,data,0.7421829182494292
+04_rocketmq,common,distributed system,0.7420957993249495
+04_rocketmq,common,kernel,0.74158164216551
+04_rocketmq,common,long short-term memory,0.741536175762774
+04_rocketmq,common,file system,0.7408911447042221
+04_rocketmq,common,synchronization,0.7407411952123146
+04_rocketmq,common,router,0.7406835938079773
+04_rocketmq,common,time series,0.7401895926282618
+04_rocketmq,common,automation,0.7400139130387132
+04_rocketmq,common,command-line interface,0.7398904393679374
+04_rocketmq,common,website,0.7395023798147592
+04_rocketmq,common,web server,0.7390810546816333
+04_rocketmq,common,algorithm,0.7390796579816584
+04_rocketmq,common,data compression,0.7388278544711592
+04_rocketmq,common,email,0.7382274399194126
+04_rocketmq,common,computer configuration,0.738191061720572
+04_rocketmq,common,test automation,0.7377526004366215
+04_rocketmq,common,instant messaging,0.7370313146884898
+04_rocketmq,common,stream processing,0.7367831804113529
+04_rocketmq,common,big data,0.73634724974675
+04_rocketmq,common,knowledge graph,0.7354785780192167
+04_rocketmq,common,code generation,0.7354132274107196
+04_rocketmq,common,validator,0.7347049810726725
+04_rocketmq,common,HTTP client,0.7339601197408872
+04_rocketmq,common,logging,0.7336493919978646
+04_rocketmq,common,web service,0.7336050382748585
+04_rocketmq,common,security,0.7334972841982124
+04_rocketmq,common,image compression,0.733461731241296
+04_rocketmq,common,pattern matching,0.733345879690574
+04_rocketmq,common,game server,0.733105561023886
+04_rocketmq,common,blockchain,0.7330545159554986
+04_rocketmq,common,encryption,0.7323334149466308
+04_rocketmq,common,HTTP server,0.7317278916076244
+04_rocketmq,common,web application,0.7310660589712055
+04_rocketmq,common,translation,0.7308442195967496
+04_rocketmq,common,File Transfer Protocol,0.7307506143993624
+04_rocketmq,common,random forest,0.7305476377282312
+04_rocketmq,common,sorting algorithm,0.7305208500967204
+04_rocketmq,common,microservices,0.7305057432375243
+04_rocketmq,common,package management system,0.7294959599020431
+04_rocketmq,common,distributed multimedia communications platform,0.728649109896512
+04_rocketmq,common,continuous integration,0.7286050972564379
+04_rocketmq,common,front end,0.728459631159887
+04_rocketmq,common,streaming media,0.7282804073606685
+04_rocketmq,common,distributed database,0.7281548462890799
+04_rocketmq,common,Web Components,0.7280373957380466
+04_rocketmq,common,content management system,0.727999280342459
+04_rocketmq,common,signal processing,0.7279655214847911
+04_rocketmq,common,software testing,0.7279409290364239
+04_rocketmq,common,shell tool,0.7277947893224744
+04_rocketmq,common,text processing,0.7277756021860782
+04_rocketmq,common,database management,0.7274805444040773
+04_rocketmq,common,network analysis,0.727078292126149
+04_rocketmq,common,graphical user interface,0.726901010483625
+04_rocketmq,common,dependency injection,0.726891933561141
+04_rocketmq,common,data binding,0.7268695759765694
+04_rocketmq,common,back end,0.726798074032583
+04_rocketmq,common,Parser combinator,0.7257325556209655
+04_rocketmq,common,password manager,0.7253890478932826
+04_rocketmq,common,distributed computing,0.7253271124173578
+04_rocketmq,common,operating system,0.725198195598089
+04_rocketmq,common,embedded system,0.7250388053327017
+04_rocketmq,common,electronic trading platform,0.7245960393937545
+04_rocketmq,common,computer data storage,0.7242505388435524
+04_rocketmq,common,machine learning,0.7242380765104109
+04_rocketmq,common,recommender system,0.7240859483389445
+04_rocketmq,common,stock market,0.7234676625187109
+04_rocketmq,common,web application security,0.7232872225088381
+04_rocketmq,common,smart contract,0.7231857844748716
+04_rocketmq,common,static program analysis tool,0.72314338030274
+04_rocketmq,common,game engine,0.722808593830275
+04_rocketmq,common,static site generator,0.722469320430061
+04_rocketmq,common,syntax highlighting,0.7222088956835366
+04_rocketmq,common,graph database,0.7220094984245543
+04_rocketmq,common,text classification,0.7217179633480113
+04_rocketmq,common,information processing,0.7213638449405979
+04_rocketmq,common,question answering,0.7204273226221756
+04_rocketmq,common,software development,0.7202277030090873
+04_rocketmq,common,language model,0.7199875574816736
+04_rocketmq,common,virtualization,0.7198617794133166
+04_rocketmq,common,Semantic Web,0.7191938456776639
+04_rocketmq,common,telecommunications network,0.7191887701998511
+04_rocketmq,common,cloud computing,0.7191496099269263
+04_rocketmq,common,information extraction,0.718620923650412
+04_rocketmq,common,graph algorithm,0.7183356720818606
+04_rocketmq,common,object–relational mapping,0.7179777182737209
+04_rocketmq,common,data analysis,0.7178747328695936
+04_rocketmq,common,regular expression,0.7176690447630759
+04_rocketmq,common,cluster analysis,0.7173823486780314
+04_rocketmq,common,sentiment analysis,0.717279177127712
+04_rocketmq,common,data mining,0.7171871293289179
+04_rocketmq,common,text mining,0.7171557156116247
+04_rocketmq,common,mobile application development,0.7171177586990666
+04_rocketmq,common,design,0.7165028508926652
+04_rocketmq,common,logistic regression model,0.7164790631113167
+04_rocketmq,common,static program analysis,0.7164488087308111
+04_rocketmq,common,robotics,0.7164078940997818
+04_rocketmq,common,Kalman filter,0.7156114817881258
+04_rocketmq,common,mathematical optimization,0.7154823024430793
+04_rocketmq,common,classification,0.715300140099925
+04_rocketmq,common,natural language processing,0.7152255338755849
+04_rocketmq,common,support vector machine,0.7149735602120566
+04_rocketmq,common,word embedding,0.7147400577603187
+04_rocketmq,common,video processing,0.7147369089258097
+04_rocketmq,common,application performance management,0.714652878736199
+04_rocketmq,common,cryptography,0.714409556428132
+04_rocketmq,common,audio signal processing,0.7142443366897733
+04_rocketmq,common,image recognition,0.7140349954324159
+04_rocketmq,common,penetration test,0.7130376750365736
+04_rocketmq,common,speech synthesis,0.7127597146446576
+04_rocketmq,common,deep neural network,0.7121266789915102
+04_rocketmq,common,facial recognition system,0.7120916076801809
+04_rocketmq,common,data science,0.7120683958844413
+04_rocketmq,common,Bayesian inference,0.7118154717408085
+04_rocketmq,common,computer vision,0.7101596348531799
+04_rocketmq,common,bioinformatics,0.709792769470022
+04_rocketmq,common,artificial neural network,0.7096158857106316
+04_rocketmq,common,World Wide Web,0.7091691103507648
+04_rocketmq,common,web development,0.7090103525413798
+04_rocketmq,common,object detection,0.7088135889880047
+04_rocketmq,common,mathematics,0.7088048861934003
+04_rocketmq,common,geographic information,0.7074466957840194
+04_rocketmq,common,anomaly detection,0.7073715485016642
+04_rocketmq,common,integrated development environment,0.7069352939924045
+04_rocketmq,common,regression analysis,0.706792788178699
+04_rocketmq,common,linear regression,0.7057884078627554
+04_rocketmq,common,artificial intelligence,0.7057617184058359
+04_rocketmq,common,optical character recognition,0.7051194015316145
+04_rocketmq,common,natural language,0.7048025082988557
+04_rocketmq,common,digital image processing,0.7012030103901963
+04_rocketmq,common,digital security,0.7010725389364532
+04_rocketmq,common,geographic information system,0.7009380265443319
+04_rocketmq,common,face detection,0.6987841392556311
+04_rocketmq,common,3D modeling,0.695863212383958
+04_rocketmq,common,digital audio,0.6926403620347519

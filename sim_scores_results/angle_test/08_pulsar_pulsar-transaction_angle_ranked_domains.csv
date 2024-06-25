@@ -1,0 +1,91 @@
+project_name,module,domain,sim_score
+08_pulsar,pulsar-transaction,smart contract,0.58707181
+08_pulsar,pulsar-transaction,static program analysis,0.5607445083333332
+08_pulsar,pulsar-transaction,stream processing,0.5569240916666667
+08_pulsar,pulsar-transaction,application performance management,0.5530188516666666
+08_pulsar,pulsar-transaction,data,0.5460992799999999
+08_pulsar,pulsar-transaction,data compression,0.5460296483333333
+08_pulsar,pulsar-transaction,logging,0.5421940000000001
+08_pulsar,pulsar-transaction,HTTP client,0.5360600783333334
+08_pulsar,pulsar-transaction,benchmark,0.5330326916666667
+08_pulsar,pulsar-transaction,client,0.5327659066666667
+08_pulsar,pulsar-transaction,computer data storage,0.526622135
+08_pulsar,pulsar-transaction,File Transfer Protocol,0.5264189766666667
+08_pulsar,pulsar-transaction,database,0.5239965283333333
+08_pulsar,pulsar-transaction,back end,0.5222472383333333
+08_pulsar,pulsar-transaction,data binding,0.5208611666666666
+08_pulsar,pulsar-transaction,blockchain,0.5174226283333333
+08_pulsar,pulsar-transaction,data structure,0.5161046566666666
+08_pulsar,pulsar-transaction,web service,0.51515946
+08_pulsar,pulsar-transaction,synchronization,0.5141071766666667
+08_pulsar,pulsar-transaction,server,0.5129589583333333
+08_pulsar,pulsar-transaction,object–relational mapping,0.5112800000000001
+08_pulsar,pulsar-transaction,analytics,0.5101644966666667
+08_pulsar,pulsar-transaction,distributed database,0.510123695
+08_pulsar,pulsar-transaction,HTTP server,0.50989665
+08_pulsar,pulsar-transaction,database management,0.5091331433333334
+08_pulsar,pulsar-transaction,microservices,0.5068311583333335
+08_pulsar,pulsar-transaction,text processing,0.50637296
+08_pulsar,pulsar-transaction,algorithm,0.5061383983333334
+08_pulsar,pulsar-transaction,instant messaging,0.5058770516666666
+08_pulsar,pulsar-transaction,game server,0.5035765566666667
+08_pulsar,pulsar-transaction,pattern matching,0.50315297
+08_pulsar,pulsar-transaction,dependency injection,0.5021135966666667
+08_pulsar,pulsar-transaction,software testing,0.5014756516666666
+08_pulsar,pulsar-transaction,language model,0.5000748966666667
+08_pulsar,pulsar-transaction,big data,0.497835565
+08_pulsar,pulsar-transaction,distributed system,0.4975696216666667
+08_pulsar,pulsar-transaction,package management system,0.4968688833333334
+08_pulsar,pulsar-transaction,password manager,0.4965359633333333
+08_pulsar,pulsar-transaction,distributed computing,0.49619961500000004
+08_pulsar,pulsar-transaction,information processing,0.49583019833333336
+08_pulsar,pulsar-transaction,web application,0.4951604733333333
+08_pulsar,pulsar-transaction,data analysis,0.49369065333333334
+08_pulsar,pulsar-transaction,network monitoring,0.49256107833333335
+08_pulsar,pulsar-transaction,cryptocurrency,0.49231326333333336
+08_pulsar,pulsar-transaction,command-line interface,0.48642804500000003
+08_pulsar,pulsar-transaction,file system,0.48610859666666667
+08_pulsar,pulsar-transaction,automation,0.48610711666666667
+08_pulsar,pulsar-transaction,search,0.48600320500000005
+08_pulsar,pulsar-transaction,streaming media,0.4848320849999999
+08_pulsar,pulsar-transaction,web server,0.4828069366666667
+08_pulsar,pulsar-transaction,content management system,0.48148610499999994
+08_pulsar,pulsar-transaction,long short-term memory,0.47972478333333335
+08_pulsar,pulsar-transaction,data mining,0.47805300666666667
+08_pulsar,pulsar-transaction,user interface,0.4778652116666666
+08_pulsar,pulsar-transaction,graph database,0.47729781000000004
+08_pulsar,pulsar-transaction,anomaly detection,0.4769745433333334
+08_pulsar,pulsar-transaction,machine learning,0.4764008616666666
+08_pulsar,pulsar-transaction,front end,0.47587843166666666
+08_pulsar,pulsar-transaction,random forest,0.47494637666666667
+08_pulsar,pulsar-transaction,web browser engine,0.47379719499999995
+08_pulsar,pulsar-transaction,time series,0.472464925
+08_pulsar,pulsar-transaction,Web Components,0.4717120866666667
+08_pulsar,pulsar-transaction,distributed multimedia communications platform,0.46092157333333333
+08_pulsar,pulsar-transaction,Semantic Web,0.45929958666666665
+08_pulsar,pulsar-transaction,penetration test,0.45780330333333336
+08_pulsar,pulsar-transaction,signal processing,0.45719887333333337
+08_pulsar,pulsar-transaction,information extraction,0.4561429983333333
+08_pulsar,pulsar-transaction,data visualization,0.4561216316666667
+08_pulsar,pulsar-transaction,design,0.4551569633333333
+08_pulsar,pulsar-transaction,digital audio,0.4550376616666667
+08_pulsar,pulsar-transaction,web application security,0.4544588516666666
+08_pulsar,pulsar-transaction,telecommunications network,0.45396739
+08_pulsar,pulsar-transaction,mobile application development,0.4535424449999999
+08_pulsar,pulsar-transaction,digital image processing,0.45348214333333337
+08_pulsar,pulsar-transaction,sorting algorithm,0.45186723666666656
+08_pulsar,pulsar-transaction,cloud computing,0.45085412500000005
+08_pulsar,pulsar-transaction,security,0.44777218166666666
+08_pulsar,pulsar-transaction,audio signal processing,0.44419376000000005
+08_pulsar,pulsar-transaction,support vector machine,0.43909040833333335
+08_pulsar,pulsar-transaction,image recognition,0.4364983316666667
+08_pulsar,pulsar-transaction,digital security,0.43048570999999997
+08_pulsar,pulsar-transaction,word embedding,0.4304295466666666
+08_pulsar,pulsar-transaction,recommender system,0.42982117999999997
+08_pulsar,pulsar-transaction,web development,0.42980759999999996
+08_pulsar,pulsar-transaction,3D modeling,0.42571890166666665
+08_pulsar,pulsar-transaction,computer vision,0.41701794166666667
+08_pulsar,pulsar-transaction,object detection,0.411656905
+08_pulsar,pulsar-transaction,facial recognition system,0.40781398333333335
+08_pulsar,pulsar-transaction,operating system,0.40327557333333336
+08_pulsar,pulsar-transaction,face detection,0.39857116499999995

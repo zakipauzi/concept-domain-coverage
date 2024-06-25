@@ -1,0 +1,59 @@
+project_name,module,domain,sim_score
+10_dolphinscheduler,dolphinscheduler-microbench,HTTP client,0.65274066
+10_dolphinscheduler,dolphinscheduler-microbench,benchmark,0.6301985
+10_dolphinscheduler,dolphinscheduler-microbench,application performance management,0.60936904
+10_dolphinscheduler,dolphinscheduler-microbench,HTTP server,0.60876954
+10_dolphinscheduler,dolphinscheduler-microbench,server,0.6082692
+10_dolphinscheduler,dolphinscheduler-microbench,File Transfer Protocol,0.5942501
+10_dolphinscheduler,dolphinscheduler-microbench,web server,0.5933273
+10_dolphinscheduler,dolphinscheduler-microbench,distributed computing,0.5893365
+10_dolphinscheduler,dolphinscheduler-microbench,client,0.5892619
+10_dolphinscheduler,dolphinscheduler-microbench,smart contract,0.57487106
+10_dolphinscheduler,dolphinscheduler-microbench,web service,0.5709056
+10_dolphinscheduler,dolphinscheduler-microbench,WebSocket,0.5664333
+10_dolphinscheduler,dolphinscheduler-microbench,instant messaging,0.5551633
+10_dolphinscheduler,dolphinscheduler-microbench,scheduler,0.5545361
+10_dolphinscheduler,dolphinscheduler-microbench,telecommunications network,0.5358496
+10_dolphinscheduler,dolphinscheduler-microbench,microservices,0.53397334
+10_dolphinscheduler,dolphinscheduler-microbench,command-line interface,0.53252923
+10_dolphinscheduler,dolphinscheduler-microbench,web application,0.527187
+10_dolphinscheduler,dolphinscheduler-microbench,static program analysis,0.5229819
+10_dolphinscheduler,dolphinscheduler-microbench,cloud computing,0.52024764
+10_dolphinscheduler,dolphinscheduler-microbench,continuous integration,0.5167813
+10_dolphinscheduler,dolphinscheduler-microbench,software testing,0.514578
+10_dolphinscheduler,dolphinscheduler-microbench,unit testing,0.5136784
+10_dolphinscheduler,dolphinscheduler-microbench,graphical user interface,0.51107603
+10_dolphinscheduler,dolphinscheduler-microbench,test automation,0.5092274
+10_dolphinscheduler,dolphinscheduler-microbench,blockchain,0.50832427
+10_dolphinscheduler,dolphinscheduler-microbench,data,0.5071372
+10_dolphinscheduler,dolphinscheduler-microbench,computer data storage,0.5069796
+10_dolphinscheduler,dolphinscheduler-microbench,user interface,0.5026936
+10_dolphinscheduler,dolphinscheduler-microbench,logging,0.5009452
+10_dolphinscheduler,dolphinscheduler-microbench,automation,0.49202147
+10_dolphinscheduler,dolphinscheduler-microbench,World Wide Web,0.49183488
+10_dolphinscheduler,dolphinscheduler-microbench,web application security,0.49008536
+10_dolphinscheduler,dolphinscheduler-microbench,language model,0.48788393
+10_dolphinscheduler,dolphinscheduler-microbench,computer configuration,0.48767754
+10_dolphinscheduler,dolphinscheduler-microbench,code generation,0.48234814
+10_dolphinscheduler,dolphinscheduler-microbench,game engine,0.48000705
+10_dolphinscheduler,dolphinscheduler-microbench,Web Components,0.47931045
+10_dolphinscheduler,dolphinscheduler-microbench,package management system,0.47834727
+10_dolphinscheduler,dolphinscheduler-microbench,static site generator,0.47778678
+10_dolphinscheduler,dolphinscheduler-microbench,big data,0.47678146
+10_dolphinscheduler,dolphinscheduler-microbench,streaming media,0.4763511
+10_dolphinscheduler,dolphinscheduler-microbench,website,0.47328228
+10_dolphinscheduler,dolphinscheduler-microbench,operating system,0.4698898
+10_dolphinscheduler,dolphinscheduler-microbench,data binding,0.46987608
+10_dolphinscheduler,dolphinscheduler-microbench,content management system,0.46893692
+10_dolphinscheduler,dolphinscheduler-microbench,security,0.46822065
+10_dolphinscheduler,dolphinscheduler-microbench,data analysis,0.46016875
+10_dolphinscheduler,dolphinscheduler-microbench,machine learning,0.45848855
+10_dolphinscheduler,dolphinscheduler-microbench,file system,0.45682287
+10_dolphinscheduler,dolphinscheduler-microbench,database,0.45619604
+10_dolphinscheduler,dolphinscheduler-microbench,data structure,0.45418572
+10_dolphinscheduler,dolphinscheduler-microbench,logistic regression model,0.4501588
+10_dolphinscheduler,dolphinscheduler-microbench,analytics,0.4485181
+10_dolphinscheduler,dolphinscheduler-microbench,object–relational mapping,0.44760185
+10_dolphinscheduler,dolphinscheduler-microbench,recommender system,0.43097198
+10_dolphinscheduler,dolphinscheduler-microbench,support vector machine,0.42997772
+10_dolphinscheduler,dolphinscheduler-microbench,object detection,0.4284104

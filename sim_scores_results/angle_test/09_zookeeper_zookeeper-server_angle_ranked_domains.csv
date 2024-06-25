@@ -1,0 +1,180 @@
+project_name,module,domain,sim_score
+09_zookeeper,zookeeper-server,game server,0.5464868711111112
+09_zookeeper,zookeeper-server,server,0.5421402544444445
+09_zookeeper,zookeeper-server,HTTP client,0.5394357611111111
+09_zookeeper,zookeeper-server,network monitoring,0.532515271111111
+09_zookeeper,zookeeper-server,distributed computing,0.5310315488888889
+09_zookeeper,zookeeper-server,distributed system,0.5286954788888889
+09_zookeeper,zookeeper-server,network security,0.5280858666666668
+09_zookeeper,zookeeper-server,continuous deployment,0.5262311255555555
+09_zookeeper,zookeeper-server,authentication,0.52578063
+09_zookeeper,zookeeper-server,client,0.5248917688888889
+09_zookeeper,zookeeper-server,File Transfer Protocol,0.5245295944444445
+09_zookeeper,zookeeper-server,web server,0.5236990322222224
+09_zookeeper,zookeeper-server,smart contract,0.5211053355555555
+09_zookeeper,zookeeper-server,HTTP server,0.5209839555555554
+09_zookeeper,zookeeper-server,application performance management,0.5191133611111112
+09_zookeeper,zookeeper-server,middleware,0.5173787733333334
+09_zookeeper,zookeeper-server,synchronization,0.5156803622222221
+09_zookeeper,zookeeper-server,back end,0.5155899188888889
+09_zookeeper,zookeeper-server,password manager,0.5154138422222222
+09_zookeeper,zookeeper-server,security,0.5123398177777777
+09_zookeeper,zookeeper-server,stream processing,0.512125421111111
+09_zookeeper,zookeeper-server,encryption,0.5055056222222222
+09_zookeeper,zookeeper-server,scheduler,0.5046943455555556
+09_zookeeper,zookeeper-server,microservices,0.5044404066666667
+09_zookeeper,zookeeper-server,Containerization,0.5043366222222221
+09_zookeeper,zookeeper-server,shell tool,0.5039780455555556
+09_zookeeper,zookeeper-server,static program analysis tool,0.50344846
+09_zookeeper,zookeeper-server,continuous integration,0.5021531077777778
+09_zookeeper,zookeeper-server,backup,0.5020858111111111
+09_zookeeper,zookeeper-server,virtual machine,0.5012919811111112
+09_zookeeper,zookeeper-server,distributed database,0.5001936811111111
+09_zookeeper,zookeeper-server,blockchain,0.4990173600000001
+09_zookeeper,zookeeper-server,command-line interface,0.49836264222222215
+09_zookeeper,zookeeper-server,cryptography,0.4952696511111111
+09_zookeeper,zookeeper-server,static program analysis,0.4951945511111112
+09_zookeeper,zookeeper-server,network analysis,0.4938353833333334
+09_zookeeper,zookeeper-server,static site generator,0.4932211477777777
+09_zookeeper,zookeeper-server,cloud computing,0.4880305377777778
+09_zookeeper,zookeeper-server,computer data storage,0.4872316511111111
+09_zookeeper,zookeeper-server,website,0.4872135044444444
+09_zookeeper,zookeeper-server,WebSocket,0.48693369333333325
+09_zookeeper,zookeeper-server,package management system,0.4864581188888889
+09_zookeeper,zookeeper-server,benchmark,0.4858369277777778
+09_zookeeper,zookeeper-server,web application security,0.48498991111111106
+09_zookeeper,zookeeper-server,electronic trading platform,0.4837024833333333
+09_zookeeper,zookeeper-server,logging,0.4835763233333333
+09_zookeeper,zookeeper-server,pattern matching,0.4830956966666667
+09_zookeeper,zookeeper-server,internet bot,0.4828268333333333
+09_zookeeper,zookeeper-server,instant messaging,0.4826402
+09_zookeeper,zookeeper-server,web service,0.47966115666666664
+09_zookeeper,zookeeper-server,distributed multimedia communications platform,0.4789052644444445
+09_zookeeper,zookeeper-server,content management system,0.47802404777777774
+09_zookeeper,zookeeper-server,search,0.4778081111111111
+09_zookeeper,zookeeper-server,penetration test,0.47768638555555554
+09_zookeeper,zookeeper-server,software testing,0.4771107033333333
+09_zookeeper,zookeeper-server,web browser engine,0.4763063111111111
+09_zookeeper,zookeeper-server,"extract, transform, load",0.475398978888889
+09_zookeeper,zookeeper-server,automation,0.47390672111111104
+09_zookeeper,zookeeper-server,Q-learning,0.47204268
+09_zookeeper,zookeeper-server,front end,0.47158370666666666
+09_zookeeper,zookeeper-server,digital security,0.47145163666666673
+09_zookeeper,zookeeper-server,test automation,0.47108789444444443
+09_zookeeper,zookeeper-server,web application,0.4706077477777778
+09_zookeeper,zookeeper-server,integrated development environment,0.4698219588888889
+09_zookeeper,zookeeper-server,streaming media,0.46975918888888896
+09_zookeeper,zookeeper-server,file system,0.4692169644444444
+09_zookeeper,zookeeper-server,graphical user interface,0.4687172544444444
+09_zookeeper,zookeeper-server,algorithm,0.46721548999999996
+09_zookeeper,zookeeper-server,data,0.46645544333333333
+09_zookeeper,zookeeper-server,database,0.46588730888888885
+09_zookeeper,zookeeper-server,web browser,0.4657521866666667
+09_zookeeper,zookeeper-server,serialization,0.4653585911111111
+09_zookeeper,zookeeper-server,computer configuration,0.46535299
+09_zookeeper,zookeeper-server,dependency injection,0.4650655888888888
+09_zookeeper,zookeeper-server,software development,0.46487288888888895
+09_zookeeper,zookeeper-server,World Wide Web,0.46461082333333326
+09_zookeeper,zookeeper-server,kernel,0.46437503888888887
+09_zookeeper,zookeeper-server,anomaly detection,0.4640879766666667
+09_zookeeper,zookeeper-server,mobile computing,0.46316747444444445
+09_zookeeper,zookeeper-server,business dashboard,0.4631610566666667
+09_zookeeper,zookeeper-server,internet of things,0.46315193444444447
+09_zookeeper,zookeeper-server,information processing,0.46214796444444445
+09_zookeeper,zookeeper-server,embedded system,0.46102772
+09_zookeeper,zookeeper-server,Reverse engineering,0.4609180766666667
+09_zookeeper,zookeeper-server,user interface,0.46083676
+09_zookeeper,zookeeper-server,web crawler,0.4604162588888889
+09_zookeeper,zookeeper-server,Parser combinator,0.4598874822222222
+09_zookeeper,zookeeper-server,database management,0.4597523766666667
+09_zookeeper,zookeeper-server,Web Components,0.45935050555555557
+09_zookeeper,zookeeper-server,data compression,0.4588790377777777
+09_zookeeper,zookeeper-server,interpreter,0.45873027777777775
+09_zookeeper,zookeeper-server,code generation,0.4586753522222222
+09_zookeeper,zookeeper-server,chatbot,0.4566214555555555
+09_zookeeper,zookeeper-server,validator,0.45530640222222224
+09_zookeeper,zookeeper-server,unit testing,0.4542588133333333
+09_zookeeper,zookeeper-server,debugger,0.4537621666666667
+09_zookeeper,zookeeper-server,computer science,0.4527096044444444
+09_zookeeper,zookeeper-server,telecommunications network,0.45165790555555557
+09_zookeeper,zookeeper-server,compiler,0.45040223444444444
+09_zookeeper,zookeeper-server,analytics,0.44869797666666666
+09_zookeeper,zookeeper-server,algorithmic trading,0.4463854655555555
+09_zookeeper,zookeeper-server,email,0.44511276555555557
+09_zookeeper,zookeeper-server,cluster analysis,0.44429123111111113
+09_zookeeper,zookeeper-server,graph database,0.4435794188888889
+09_zookeeper,zookeeper-server,Kalman filter,0.4427856888888889
+09_zookeeper,zookeeper-server,image,0.44221734888888886
+09_zookeeper,zookeeper-server,graph algorithm,0.4406745544444444
+09_zookeeper,zookeeper-server,reinforcement learning,0.4399859022222222
+09_zookeeper,zookeeper-server,random forest,0.4399379933333333
+09_zookeeper,zookeeper-server,language model,0.43991784888888885
+09_zookeeper,zookeeper-server,statistics,0.43988862
+09_zookeeper,zookeeper-server,named-entity recognition,0.43976581666666664
+09_zookeeper,zookeeper-server,data analysis,0.4387775755555555
+09_zookeeper,zookeeper-server,video,0.43871044777777773
+09_zookeeper,zookeeper-server,operating system,0.43805424555555555
+09_zookeeper,zookeeper-server,question answering,0.43751094777777777
+09_zookeeper,zookeeper-server,text processing,0.43643116
+09_zookeeper,zookeeper-server,e-commerce,0.4350741077777778
+09_zookeeper,zookeeper-server,big data,0.4350334244444445
+09_zookeeper,zookeeper-server,parsing,0.4322592266666667
+09_zookeeper,zookeeper-server,information retrieval,0.43167388444444443
+09_zookeeper,zookeeper-server,game engine,0.4297810833333333
+09_zookeeper,zookeeper-server,time series,0.4297524277777777
+09_zookeeper,zookeeper-server,plot,0.42951058444444445
+09_zookeeper,zookeeper-server,artificial intelligence,0.4290407177777778
+09_zookeeper,zookeeper-server,engineering,0.42815303777777775
+09_zookeeper,zookeeper-server,web scraping,0.42749774555555553
+09_zookeeper,zookeeper-server,machine learning,0.42683396
+09_zookeeper,zookeeper-server,regression analysis,0.42663829222222227
+09_zookeeper,zookeeper-server,object–relational mapping,0.42630387666666664
+09_zookeeper,zookeeper-server,support vector machine,0.42606184444444445
+09_zookeeper,zookeeper-server,signal processing,0.4259194811111111
+09_zookeeper,zookeeper-server,recurrent neural network,0.4255329622222222
+09_zookeeper,zookeeper-server,geographic information system,0.4242062888888889
+09_zookeeper,zookeeper-server,linear regression,0.4237939655555556
+09_zookeeper,zookeeper-server,data binding,0.42355093
+09_zookeeper,zookeeper-server,image compression,0.4222800755555556
+09_zookeeper,zookeeper-server,recommender system,0.42144618888888885
+09_zookeeper,zookeeper-server,data science,0.4209420188888889
+09_zookeeper,zookeeper-server,data structure,0.42025732444444447
+09_zookeeper,zookeeper-server,data mining,0.4201832144444444
+09_zookeeper,zookeeper-server,mobile application development,0.42011384555555553
+09_zookeeper,zookeeper-server,classification,0.41937662444444446
+09_zookeeper,zookeeper-server,Image analysis,0.4193419222222222
+09_zookeeper,zookeeper-server,logistic regression model,0.41855762999999996
+09_zookeeper,zookeeper-server,Naive Bayes classifier,0.41854055333333334
+09_zookeeper,zookeeper-server,long short-term memory,0.4182352544444444
+09_zookeeper,zookeeper-server,sorting algorithm,0.4171828533333334
+09_zookeeper,zookeeper-server,information extraction,0.41707812
+09_zookeeper,zookeeper-server,syntax highlighting,0.4164734188888889
+09_zookeeper,zookeeper-server,translation,0.41616956111111114
+09_zookeeper,zookeeper-server,text editor,0.41516387
+09_zookeeper,zookeeper-server,robotics,0.41470437666666665
+09_zookeeper,zookeeper-server,linear algebra,0.41459772666666667
+09_zookeeper,zookeeper-server,image captioning,0.41444088444444444
+09_zookeeper,zookeeper-server,data visualization,0.4119697344444444
+09_zookeeper,zookeeper-server,digital image processing,0.4108216388888889
+09_zookeeper,zookeeper-server,image recognition,0.4107611911111111
+09_zookeeper,zookeeper-server,search engine,0.41035827999999996
+09_zookeeper,zookeeper-server,natural language processing,0.41003985111111113
+09_zookeeper,zookeeper-server,artificial neural network,0.40594189222222227
+09_zookeeper,zookeeper-server,speech synthesis,0.4052633588888889
+09_zookeeper,zookeeper-server,sentiment analysis,0.4050912022222222
+09_zookeeper,zookeeper-server,optical character recognition,0.40503135999999995
+09_zookeeper,zookeeper-server,audio signal processing,0.40430963777777773
+09_zookeeper,zookeeper-server,3D modeling,0.40160975222222217
+09_zookeeper,zookeeper-server,computer vision,0.40129819888888885
+09_zookeeper,zookeeper-server,face detection,0.40125785666666663
+09_zookeeper,zookeeper-server,deep neural network,0.39871203222222223
+09_zookeeper,zookeeper-server,image segmentation,0.39786080888888886
+09_zookeeper,zookeeper-server,deep learning,0.39650533777777774
+09_zookeeper,zookeeper-server,facial recognition system,0.39276594444444446
+09_zookeeper,zookeeper-server,banking industry,0.3916329888888889
+09_zookeeper,zookeeper-server,convolutional neural network,0.39108368
+09_zookeeper,zookeeper-server,object detection,0.38996191999999996
+09_zookeeper,zookeeper-server,text classification,0.3899531955555555
+09_zookeeper,zookeeper-server,regular expression,0.3884258188888889
+09_zookeeper,zookeeper-server,image classification,0.38308434
+09_zookeeper,zookeeper-server,stock market,0.38003021

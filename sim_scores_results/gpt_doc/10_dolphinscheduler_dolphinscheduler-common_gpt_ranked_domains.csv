@@ -1,0 +1,141 @@
+project_name,module,domain,sim_score
+10_dolphinscheduler,dolphinscheduler-common,software testing,0.7867486025349187
+10_dolphinscheduler,dolphinscheduler-common,web development,0.7805126274142722
+10_dolphinscheduler,dolphinscheduler-common,user interface,0.7799726232521978
+10_dolphinscheduler,dolphinscheduler-common,test automation,0.7786934590174945
+10_dolphinscheduler,dolphinscheduler-common,web application,0.7762863235269742
+10_dolphinscheduler,dolphinscheduler-common,backup,0.7751310868718556
+10_dolphinscheduler,dolphinscheduler-common,code generation,0.7739187269525359
+10_dolphinscheduler,dolphinscheduler-common,unit testing,0.7719732275706536
+10_dolphinscheduler,dolphinscheduler-common,Web Components,0.7716494613865267
+10_dolphinscheduler,dolphinscheduler-common,business dashboard,0.7714647860118142
+10_dolphinscheduler,dolphinscheduler-common,recommender system,0.7711895256349938
+10_dolphinscheduler,dolphinscheduler-common,web service,0.7696920001911036
+10_dolphinscheduler,dolphinscheduler-common,machine learning,0.7696797240032571
+10_dolphinscheduler,dolphinscheduler-common,smart contract,0.7693167530689815
+10_dolphinscheduler,dolphinscheduler-common,Semantic Web,0.7684091036595896
+10_dolphinscheduler,dolphinscheduler-common,knowledge graph,0.7677884460838165
+10_dolphinscheduler,dolphinscheduler-common,automated machine learning,0.7677690544242641
+10_dolphinscheduler,dolphinscheduler-common,web crawler,0.7662837315765968
+10_dolphinscheduler,dolphinscheduler-common,web scraping,0.7659597760017047
+10_dolphinscheduler,dolphinscheduler-common,content management system,0.7654607843497685
+10_dolphinscheduler,dolphinscheduler-common,client,0.7644422964178001
+10_dolphinscheduler,dolphinscheduler-common,website,0.7642754078052962
+10_dolphinscheduler,dolphinscheduler-common,command-line interface,0.763434167210431
+10_dolphinscheduler,dolphinscheduler-common,middleware,0.763275372656113
+10_dolphinscheduler,dolphinscheduler-common,microservices,0.7630602092873626
+10_dolphinscheduler,dolphinscheduler-common,package management system,0.7623411226129508
+10_dolphinscheduler,dolphinscheduler-common,software design pattern,0.7616016572820599
+10_dolphinscheduler,dolphinscheduler-common,visualization,0.7614915963298702
+10_dolphinscheduler,dolphinscheduler-common,web application security,0.7614671801749877
+10_dolphinscheduler,dolphinscheduler-common,graphical user interface,0.7614496227957455
+10_dolphinscheduler,dolphinscheduler-common,support vector machine,0.7609404533280586
+10_dolphinscheduler,dolphinscheduler-common,compiler,0.759901423099858
+10_dolphinscheduler,dolphinscheduler-common,dependency injection,0.7598773547020231
+10_dolphinscheduler,dolphinscheduler-common,algorithm,0.7597574017577902
+10_dolphinscheduler,dolphinscheduler-common,static site generator,0.7591778431089544
+10_dolphinscheduler,dolphinscheduler-common,front end,0.759024233261741
+10_dolphinscheduler,dolphinscheduler-common,integrated development environment,0.7589721604781864
+10_dolphinscheduler,dolphinscheduler-common,database,0.7586847094040388
+10_dolphinscheduler,dolphinscheduler-common,analytics,0.758484607996109
+10_dolphinscheduler,dolphinscheduler-common,game engine,0.7583696688243678
+10_dolphinscheduler,dolphinscheduler-common,cloud computing,0.7583563655397065
+10_dolphinscheduler,dolphinscheduler-common,automation,0.7578636355225506
+10_dolphinscheduler,dolphinscheduler-common,continuous integration,0.7577789792206271
+10_dolphinscheduler,dolphinscheduler-common,distributed computing,0.7574700248454105
+10_dolphinscheduler,dolphinscheduler-common,email,0.7571359490441778
+10_dolphinscheduler,dolphinscheduler-common,internet bot,0.7568979003836999
+10_dolphinscheduler,dolphinscheduler-common,"extract, transform, load",0.7561489789170603
+10_dolphinscheduler,dolphinscheduler-common,WebSocket,0.7559924251380121
+10_dolphinscheduler,dolphinscheduler-common,stream processing,0.7559873130138051
+10_dolphinscheduler,dolphinscheduler-common,interpreter,0.7558248381884494
+10_dolphinscheduler,dolphinscheduler-common,language model,0.755255824110551
+10_dolphinscheduler,dolphinscheduler-common,text processing,0.7550390892094457
+10_dolphinscheduler,dolphinscheduler-common,server,0.7545176611108548
+10_dolphinscheduler,dolphinscheduler-common,web server,0.754224461313316
+10_dolphinscheduler,dolphinscheduler-common,engineering,0.7542012553427773
+10_dolphinscheduler,dolphinscheduler-common,data visualization,0.7540993080672643
+10_dolphinscheduler,dolphinscheduler-common,application performance management,0.7540770727498606
+10_dolphinscheduler,dolphinscheduler-common,file system,0.7533309723108963
+10_dolphinscheduler,dolphinscheduler-common,data structure,0.7532364880657086
+10_dolphinscheduler,dolphinscheduler-common,virtual machine,0.7532063581226978
+10_dolphinscheduler,dolphinscheduler-common,search,0.751692572154752
+10_dolphinscheduler,dolphinscheduler-common,translation,0.7516700787838869
+10_dolphinscheduler,dolphinscheduler-common,scheduler,0.7515590915077147
+10_dolphinscheduler,dolphinscheduler-common,natural language processing,0.7509940579365673
+10_dolphinscheduler,dolphinscheduler-common,benchmark,0.750964472510127
+10_dolphinscheduler,dolphinscheduler-common,back end,0.7504408965020256
+10_dolphinscheduler,dolphinscheduler-common,text classification,0.749995333279557
+10_dolphinscheduler,dolphinscheduler-common,game server,0.7494196333359036
+10_dolphinscheduler,dolphinscheduler-common,natural language understanding,0.749218222040444
+10_dolphinscheduler,dolphinscheduler-common,computer configuration,0.7491656523083703
+10_dolphinscheduler,dolphinscheduler-common,question answering,0.7489310629771406
+10_dolphinscheduler,dolphinscheduler-common,sorting algorithm,0.7480300772587269
+10_dolphinscheduler,dolphinscheduler-common,functional programming,0.7478213789834944
+10_dolphinscheduler,dolphinscheduler-common,data science,0.7477752581689848
+10_dolphinscheduler,dolphinscheduler-common,distributed multimedia communications platform,0.7471882537380585
+10_dolphinscheduler,dolphinscheduler-common,network monitoring,0.7467403129117868
+10_dolphinscheduler,dolphinscheduler-common,graph,0.7466879496224056
+10_dolphinscheduler,dolphinscheduler-common,distributed system,0.7455877623103699
+10_dolphinscheduler,dolphinscheduler-common,validator,0.7455817603714203
+10_dolphinscheduler,dolphinscheduler-common,streaming media,0.7451108140745246
+10_dolphinscheduler,dolphinscheduler-common,instant messaging,0.7446764897356482
+10_dolphinscheduler,dolphinscheduler-common,statistics,0.7440627520837206
+10_dolphinscheduler,dolphinscheduler-common,synchronization,0.7436351783487489
+10_dolphinscheduler,dolphinscheduler-common,database management,0.7434069013897915
+10_dolphinscheduler,dolphinscheduler-common,data binding,0.7432550941603804
+10_dolphinscheduler,dolphinscheduler-common,blockchain,0.7424786894371438
+10_dolphinscheduler,dolphinscheduler-common,operating system,0.7424656422937459
+10_dolphinscheduler,dolphinscheduler-common,natural language,0.7422395304555738
+10_dolphinscheduler,dolphinscheduler-common,data mining,0.7422258281023733
+10_dolphinscheduler,dolphinscheduler-common,pattern matching,0.7418823626261897
+10_dolphinscheduler,dolphinscheduler-common,network security,0.7418308074059671
+10_dolphinscheduler,dolphinscheduler-common,authentication,0.7417947848223041
+10_dolphinscheduler,dolphinscheduler-common,logging,0.7415565296323746
+10_dolphinscheduler,dolphinscheduler-common,security,0.7415359387749669
+10_dolphinscheduler,dolphinscheduler-common,graph database,0.7410020600879088
+10_dolphinscheduler,dolphinscheduler-common,data,0.7405438653762638
+10_dolphinscheduler,dolphinscheduler-common,internet of things,0.7405158787217486
+10_dolphinscheduler,dolphinscheduler-common,information processing,0.7404129289721283
+10_dolphinscheduler,dolphinscheduler-common,World Wide Web,0.7401798555458702
+10_dolphinscheduler,dolphinscheduler-common,hyperparameter optimization,0.7398221552366435
+10_dolphinscheduler,dolphinscheduler-common,Reverse engineering,0.7392677230389264
+10_dolphinscheduler,dolphinscheduler-common,artificial neural network,0.7391210365505267
+10_dolphinscheduler,dolphinscheduler-common,network analysis,0.7388551474736342
+10_dolphinscheduler,dolphinscheduler-common,graph algorithm,0.7386174261238165
+10_dolphinscheduler,dolphinscheduler-common,computational science,0.7384992291071724
+10_dolphinscheduler,dolphinscheduler-common,HTTP client,0.7384427357371582
+10_dolphinscheduler,dolphinscheduler-common,object–relational mapping,0.7383999320600623
+10_dolphinscheduler,dolphinscheduler-common,static program analysis tool,0.7379040775027088
+10_dolphinscheduler,dolphinscheduler-common,object detection,0.7377231395790242
+10_dolphinscheduler,dolphinscheduler-common,distributed database,0.7368164514077973
+10_dolphinscheduler,dolphinscheduler-common,classification,0.7366563174066905
+10_dolphinscheduler,dolphinscheduler-common,embedded system,0.7364379474154887
+10_dolphinscheduler,dolphinscheduler-common,password manager,0.7362414900916994
+10_dolphinscheduler,dolphinscheduler-common,logistic regression model,0.7362336762398672
+10_dolphinscheduler,dolphinscheduler-common,data analysis,0.7361421487808546
+10_dolphinscheduler,dolphinscheduler-common,virtual reality,0.734264887016392
+10_dolphinscheduler,dolphinscheduler-common,optical character recognition,0.7340441211436116
+10_dolphinscheduler,dolphinscheduler-common,HTTP server,0.7337646790822971
+10_dolphinscheduler,dolphinscheduler-common,File Transfer Protocol,0.733164464129503
+10_dolphinscheduler,dolphinscheduler-common,data compression,0.7330812460638764
+10_dolphinscheduler,dolphinscheduler-common,big data,0.7314214300697036
+10_dolphinscheduler,dolphinscheduler-common,computer data storage,0.730324053766737
+10_dolphinscheduler,dolphinscheduler-common,long short-term memory,0.7301427471693254
+10_dolphinscheduler,dolphinscheduler-common,serialization,0.7298605507179037
+10_dolphinscheduler,dolphinscheduler-common,signal processing,0.7283377872538288
+10_dolphinscheduler,dolphinscheduler-common,encryption,0.7280810708409663
+10_dolphinscheduler,dolphinscheduler-common,cluster analysis,0.726221682666982
+10_dolphinscheduler,dolphinscheduler-common,regular expression,0.7260941293933341
+10_dolphinscheduler,dolphinscheduler-common,time series,0.7255428442807912
+10_dolphinscheduler,dolphinscheduler-common,static program analysis,0.7248187496835712
+10_dolphinscheduler,dolphinscheduler-common,convolutional neural network,0.724751661089045
+10_dolphinscheduler,dolphinscheduler-common,penetration test,0.7232893910258744
+10_dolphinscheduler,dolphinscheduler-common,Parser combinator,0.7219685460797451
+10_dolphinscheduler,dolphinscheduler-common,stock market,0.7215522853151362
+10_dolphinscheduler,dolphinscheduler-common,Kalman filter,0.7210324903456342
+10_dolphinscheduler,dolphinscheduler-common,geographic information system,0.7210254192946701
+10_dolphinscheduler,dolphinscheduler-common,telecommunications network,0.7202387058840649
+10_dolphinscheduler,dolphinscheduler-common,regression analysis,0.7147788685841951
+10_dolphinscheduler,dolphinscheduler-common,audio signal processing,0.7125121974465385
+10_dolphinscheduler,dolphinscheduler-common,banking industry,0.7116246950039303
