@@ -1,0 +1,240 @@
+project_name,module,domain,sim_score
+13_tomcat,java,HTTP client,0.6199792888888889
+13_tomcat,java,smart contract,0.6079548922222222
+13_tomcat,java,encryption,0.6050404433333333
+13_tomcat,java,authentication,0.604825
+13_tomcat,java,WebSocket,0.5900449266666666
+13_tomcat,java,File Transfer Protocol,0.5877617655555555
+13_tomcat,java,client,0.5868203955555555
+13_tomcat,java,password manager,0.58500434
+13_tomcat,java,cryptography,0.5822542166666668
+13_tomcat,java,stream processing,0.574104711111111
+13_tomcat,java,network security,0.5689957333333333
+13_tomcat,java,web server,0.5677167111111111
+13_tomcat,java,server,0.56712593
+13_tomcat,java,serialization,0.5628728933333333
+13_tomcat,java,web application security,0.5615866099999999
+13_tomcat,java,HTTP server,0.5609314988888888
+13_tomcat,java,web service,0.5603163488888889
+13_tomcat,java,blockchain,0.5559864388888889
+13_tomcat,java,back end,0.5533462344444444
+13_tomcat,java,continuous deployment,0.5484127988888888
+13_tomcat,java,continuous delivery,0.5482295144444445
+13_tomcat,java,game server,0.5458695277777779
+13_tomcat,java,security,0.5431756944444444
+13_tomcat,java,Containerization,0.5416781199999999
+13_tomcat,java,hacking tool,0.5392833755555555
+13_tomcat,java,computer data storage,0.5371392333333334
+13_tomcat,java,microservices,0.5343399422222223
+13_tomcat,java,web application,0.5331759544444444
+13_tomcat,java,web browser engine,0.5304609922222221
+13_tomcat,java,backup,0.5301876422222223
+13_tomcat,java,static site generator,0.5297176044444444
+13_tomcat,java,digital security,0.5289657244444445
+13_tomcat,java,streaming media,0.5273766977777776
+13_tomcat,java,distributed computing,0.5272889233333333
+13_tomcat,java,documentation,0.5246710322222223
+13_tomcat,java,distributed system,0.5240571222222222
+13_tomcat,java,content management system,0.5236703811111112
+13_tomcat,java,instant messaging,0.5203067222222223
+13_tomcat,java,cloud computing,0.5188618388888888
+13_tomcat,java,data compression,0.5183554233333333
+13_tomcat,java,network monitoring,0.518074088888889
+13_tomcat,java,distributed multimedia communications platform,0.5159452044444445
+13_tomcat,java,command-line interface,0.5151655866666666
+13_tomcat,java,middleware,0.5147057055555555
+13_tomcat,java,internet of things,0.5147025199999999
+13_tomcat,java,web browser,0.5138159044444445
+13_tomcat,java,code generation,0.5128020933333333
+13_tomcat,java,serverless computing,0.5125819088888889
+13_tomcat,java,website,0.5123868866666665
+13_tomcat,java,data,0.5121593533333334
+13_tomcat,java,electronic trading platform,0.5120031311111112
+13_tomcat,java,software engineering,0.5119728355555556
+13_tomcat,java,validator,0.5118022066666668
+13_tomcat,java,application performance management,0.5089162733333334
+13_tomcat,java,router,0.5079505633333334
+13_tomcat,java,package management system,0.5079256922222223
+13_tomcat,java,distributed database,0.5075787777777777
+13_tomcat,java,software design pattern,0.5070123044444445
+13_tomcat,java,Web Components,0.5068387277777778
+13_tomcat,java,dependency injection,0.50619694
+13_tomcat,java,shell tool,0.5060820444444445
+13_tomcat,java,cryptocurrency,0.5038274544444444
+13_tomcat,java,pattern matching,0.5032252311111112
+13_tomcat,java,synchronization,0.49987581666666675
+13_tomcat,java,internet bot,0.4998233333333333
+13_tomcat,java,penetration test,0.49943720444444456
+13_tomcat,java,real-time computing,0.4990045588888889
+13_tomcat,java,software architecture,0.4985666633333333
+13_tomcat,java,mobile computing,0.49732457333333335
+13_tomcat,java,reactive programming,0.4969455488888889
+13_tomcat,java,static program analysis tool,0.49644253888888884
+13_tomcat,java,static program analysis,0.4957558966666666
+13_tomcat,java,email,0.49485955111111113
+13_tomcat,java,front end,0.49452532111111114
+13_tomcat,java,World Wide Web,0.49438157000000005
+13_tomcat,java,embedded system,0.4937179211111111
+13_tomcat,java,continuous integration,0.4934403755555556
+13_tomcat,java,virtual machine,0.49312125444444443
+13_tomcat,java,software development,0.49111170333333337
+13_tomcat,java,Parser combinator,0.49083679888888887
+13_tomcat,java,kernel,0.48941145555555554
+13_tomcat,java,functional programming,0.4892428355555556
+13_tomcat,java,database,0.4876898355555556
+13_tomcat,java,computer programming,0.4871583766666666
+13_tomcat,java,text processing,0.48676874
+13_tomcat,java,e-commerce,0.4861694077777778
+13_tomcat,java,scheduler,0.48574423
+13_tomcat,java,logging,0.4838470077777777
+13_tomcat,java,telecommunications network,0.48366312333333333
+13_tomcat,java,malware,0.4834520422222222
+13_tomcat,java,game,0.48255396111111115
+13_tomcat,java,network analysis,0.48192616222222223
+13_tomcat,java,file system,0.4813701033333333
+13_tomcat,java,graphical user interface,0.48107196888888887
+13_tomcat,java,Semantic Web,0.4810671644444445
+13_tomcat,java,DevOps,0.4810015
+13_tomcat,java,object-oriented programming,0.4807865077777777
+13_tomcat,java,"extract, transform, load",0.48060596777777775
+13_tomcat,java,machine translation,0.4803328377777778
+13_tomcat,java,data structure,0.48006400888888895
+13_tomcat,java,social network,0.47975751555555557
+13_tomcat,java,web development,0.4780530822222222
+13_tomcat,java,language model,0.4778084977777778
+13_tomcat,java,chatbot,0.4776099277777777
+13_tomcat,java,computer science,0.47708163666666664
+13_tomcat,java,automation,0.4769738844444444
+13_tomcat,java,integrated development environment,0.47677877333333335
+13_tomcat,java,engineering,0.47551504222222224
+13_tomcat,java,computer configuration,0.4730459766666667
+13_tomcat,java,design,0.47293150444444443
+13_tomcat,java,bitcoin,0.4721592544444444
+13_tomcat,java,knowledge graph,0.47148606555555556
+13_tomcat,java,mobile application development,0.4713670122222222
+13_tomcat,java,information processing,0.47131926222222226
+13_tomcat,java,data binding,0.47100574111111104
+13_tomcat,java,named-entity recognition,0.4700913477777778
+13_tomcat,java,image,0.46970431999999995
+13_tomcat,java,web scraping,0.46925472777777777
+13_tomcat,java,search,0.4682206133333333
+13_tomcat,java,hyperparameter optimization,0.4677025633333333
+13_tomcat,java,support vector machine,0.46678660000000005
+13_tomcat,java,test automation,0.4666564411111111
+13_tomcat,java,software testing,0.4645210488888889
+13_tomcat,java,compiler,0.4638583399999999
+13_tomcat,java,web crawler,0.4637172244444444
+13_tomcat,java,genomics,0.4626825133333333
+13_tomcat,java,machine learning,0.46214510222222216
+13_tomcat,java,Q-learning,0.46193271333333336
+13_tomcat,java,Reverse engineering,0.46172217000000004
+13_tomcat,java,user interface,0.4611855100000001
+13_tomcat,java,unit testing,0.46109409777777777
+13_tomcat,java,big data,0.46054278888888894
+13_tomcat,java,algorithm,0.4602676066666666
+13_tomcat,java,object–relational mapping,0.46004317777777776
+13_tomcat,java,image compression,0.45987330777777774
+13_tomcat,java,word embedding,0.45845195111111114
+13_tomcat,java,benchmark,0.45731886
+13_tomcat,java,automated machine learning,0.4570829455555556
+13_tomcat,java,parsing,0.4569459677777778
+13_tomcat,java,video,0.45606206777777775
+13_tomcat,java,schema migration,0.45526883999999995
+13_tomcat,java,Malware Analysis,0.45479888999999996
+13_tomcat,java,interpreter,0.4542132411111111
+13_tomcat,java,natural language,0.45341835333333336
+13_tomcat,java,routing,0.45330752111111106
+13_tomcat,java,audio player software,0.4530028155555556
+13_tomcat,java,game engine,0.4529635366666666
+13_tomcat,java,database management,0.4527491344444445
+13_tomcat,java,recurrent neural network,0.45124022222222215
+13_tomcat,java,artificial intelligence,0.45106287888888885
+13_tomcat,java,geographic information system,0.4509536877777778
+13_tomcat,java,graph database,0.4504939311111111
+13_tomcat,java,text editor,0.4496433066666666
+13_tomcat,java,question answering,0.4493147344444444
+13_tomcat,java,computer graphics,0.4488882455555555
+13_tomcat,java,information retrieval,0.44877989111111105
+13_tomcat,java,linear algebra,0.4483553211111111
+13_tomcat,java,classification,0.44797936777777775
+13_tomcat,java,text classification,0.44740395777777775
+13_tomcat,java,speech synthesis,0.44702846999999996
+13_tomcat,java,information extraction,0.4462555177777777
+13_tomcat,java,translation,0.4461458844444445
+13_tomcat,java,computational science,0.4458962055555556
+13_tomcat,java,data analysis,0.4448987133333333
+13_tomcat,java,optical character recognition,0.44453469777777777
+13_tomcat,java,regular expression,0.4432574188888889
+13_tomcat,java,education,0.4431494822222222
+13_tomcat,java,random forest,0.4423499577777778
+13_tomcat,java,simulation,0.4423232077777777
+13_tomcat,java,lexical analysis,0.4419412244444444
+13_tomcat,java,long short-term memory,0.4410530366666667
+13_tomcat,java,anomaly detection,0.4404997522222222
+13_tomcat,java,science,0.4400433711111111
+13_tomcat,java,augmented reality,0.4398865855555555
+13_tomcat,java,digital audio,0.43967444555555557
+13_tomcat,java,speech recognition,0.4395208655555556
+13_tomcat,java,text mining,0.43950990666666667
+13_tomcat,java,neural network,0.4385329522222222
+13_tomcat,java,data science,0.43773220999999995
+13_tomcat,java,neural machine translation,0.4373795011111111
+13_tomcat,java,natural language processing,0.4370529511111111
+13_tomcat,java,cluster analysis,0.4349724877777778
+13_tomcat,java,video tracking,0.4340334244444445
+13_tomcat,java,debugging,0.4339084088888889
+13_tomcat,java,debugger,0.43375047888888885
+13_tomcat,java,linear regression,0.43354203444444445
+13_tomcat,java,image captioning,0.4327500311111111
+13_tomcat,java,graph,0.43237887888888893
+13_tomcat,java,recommender system,0.4320556788888889
+13_tomcat,java,data mining,0.4318279922222222
+13_tomcat,java,computer vision,0.4308027688888889
+13_tomcat,java,Bayesian inference,0.43074052111111105
+13_tomcat,java,mathematics,0.4304439577777777
+13_tomcat,java,regression analysis,0.4296519877777778
+13_tomcat,java,physics,0.4280308355555556
+13_tomcat,java,artificial neural network,0.42778218777777777
+13_tomcat,java,operating system,0.42774348888888886
+13_tomcat,java,facial recognition system,0.42693139
+13_tomcat,java,signal processing,0.4262289444444444
+13_tomcat,java,search engine,0.4251561644444445
+13_tomcat,java,Kalman filter,0.42422563555555554
+13_tomcat,java,deep learning,0.4236603377777778
+13_tomcat,java,deep neural network,0.42328346777777776
+13_tomcat,java,Naive Bayes classifier,0.42322425222222226
+13_tomcat,java,geometry,0.4231571255555555
+13_tomcat,java,convolutional neural network,0.4228124211111111
+13_tomcat,java,syntax highlighting,0.4226322411111111
+13_tomcat,java,digital image processing,0.42202040333333335
+13_tomcat,java,mathematical finance,0.4217219177777778
+13_tomcat,java,analytics,0.42099463555555555
+13_tomcat,java,sentiment analysis,0.42046998333333335
+13_tomcat,java,audio signal processing,0.4201903488888889
+13_tomcat,java,reinforcement learning,0.41946471333333335
+13_tomcat,java,time series,0.41802605666666665
+13_tomcat,java,productivity,0.41792068222222223
+13_tomcat,java,3D computer graphics,0.41767439666666667
+13_tomcat,java,Image analysis,0.41679719444444446
+13_tomcat,java,logistic regression model,0.41663431888888885
+13_tomcat,java,image editing,0.4164726833333333
+13_tomcat,java,semi-supervised learning,0.41634701111111105
+13_tomcat,java,robotics,0.41217583
+13_tomcat,java,camera,0.4117251711111111
+13_tomcat,java,statistics,0.41093172555555557
+13_tomcat,java,image recognition,0.41016296555555554
+13_tomcat,java,image classification,0.41004143
+13_tomcat,java,finance,0.4068892711111112
+13_tomcat,java,virtual reality,0.40444165000000004
+13_tomcat,java,graph algorithm,0.4034605566666667
+13_tomcat,java,data visualization,0.40337733555555555
+13_tomcat,java,plot,0.40323593444444444
+13_tomcat,java,3D modeling,0.40210320888888895
+13_tomcat,java,video game,0.39823212555555554
+13_tomcat,java,sorting algorithm,0.39653833333333327
+13_tomcat,java,banking industry,0.3958067344444444
+13_tomcat,java,face detection,0.3952421288888889
+13_tomcat,java,topic modeling,0.38041016
+13_tomcat,java,object detection,0.3737632344444445
+13_tomcat,java,stock market,0.36982358888888883
+13_tomcat,java,image segmentation,0.36250687666666664

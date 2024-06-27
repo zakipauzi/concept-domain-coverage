@@ -1,0 +1,111 @@
+project_name,module,domain,sim_score
+05_shardingsphere,db-protocol,schema migration,0.7453293575171709
+05_shardingsphere,db-protocol,data compression,0.7350911584864401
+05_shardingsphere,db-protocol,database,0.7333057468202563
+05_shardingsphere,db-protocol,serialization,0.7313233298318592
+05_shardingsphere,db-protocol,data structure,0.7294479828092499
+05_shardingsphere,db-protocol,database management,0.727542073118124
+05_shardingsphere,db-protocol,unit testing,0.7273122242184915
+05_shardingsphere,db-protocol,code generation,0.7264936342115548
+05_shardingsphere,db-protocol,WebSocket,0.7244253439344412
+05_shardingsphere,db-protocol,data,0.7228002082019483
+05_shardingsphere,db-protocol,distributed database,0.7218198004462022
+05_shardingsphere,db-protocol,web service,0.7217542838941688
+05_shardingsphere,db-protocol,encryption,0.721187187582655
+05_shardingsphere,db-protocol,big data,0.7211564112784805
+05_shardingsphere,db-protocol,syntax highlighting,0.7207052832087636
+05_shardingsphere,db-protocol,data binding,0.720482789487972
+05_shardingsphere,db-protocol,pattern matching,0.7199739586316105
+05_shardingsphere,db-protocol,validator,0.7193260067800216
+05_shardingsphere,db-protocol,compiler,0.7191743008337921
+05_shardingsphere,db-protocol,object–relational mapping,0.7191528034805241
+05_shardingsphere,db-protocol,interpreter,0.7183343585745242
+05_shardingsphere,db-protocol,benchmark,0.7167844311801372
+05_shardingsphere,db-protocol,static program analysis tool,0.7167043071654302
+05_shardingsphere,db-protocol,graph database,0.7159213208937234
+05_shardingsphere,db-protocol,File Transfer Protocol,0.715799624458996
+05_shardingsphere,db-protocol,web server,0.7150907273094296
+05_shardingsphere,db-protocol,long short-term memory,0.714818412182429
+05_shardingsphere,db-protocol,web application security,0.7142053484950184
+05_shardingsphere,db-protocol,data visualization,0.714121864840682
+05_shardingsphere,db-protocol,email,0.7137496845128528
+05_shardingsphere,db-protocol,server,0.7136897474645023
+05_shardingsphere,db-protocol,algorithm,0.7135101466515392
+05_shardingsphere,db-protocol,software development,0.7129590337754262
+05_shardingsphere,db-protocol,backup,0.7129583505500106
+05_shardingsphere,db-protocol,regular expression,0.7128660133713987
+05_shardingsphere,db-protocol,software testing,0.7127560950910392
+05_shardingsphere,db-protocol,authentication,0.7126119644175979
+05_shardingsphere,db-protocol,test automation,0.7115754108504677
+05_shardingsphere,db-protocol,user interface,0.7113529883387772
+05_shardingsphere,db-protocol,static program analysis,0.7112411097882785
+05_shardingsphere,db-protocol,information retrieval,0.7110955818157614
+05_shardingsphere,db-protocol,translation,0.7100207510318005
+05_shardingsphere,db-protocol,HTTP client,0.7099126583071805
+05_shardingsphere,db-protocol,client,0.7097027797023119
+05_shardingsphere,db-protocol,HTTP server,0.7088607730887648
+05_shardingsphere,db-protocol,"extract, transform, load",0.7073484341827047
+05_shardingsphere,db-protocol,security,0.7070080101389804
+05_shardingsphere,db-protocol,text processing,0.7063243197604767
+05_shardingsphere,db-protocol,command-line interface,0.7053250691051357
+05_shardingsphere,db-protocol,data analysis,0.7051241981280156
+05_shardingsphere,db-protocol,data science,0.7046706137736389
+05_shardingsphere,db-protocol,blockchain,0.7045407411672786
+05_shardingsphere,db-protocol,time series,0.7044736260165424
+05_shardingsphere,db-protocol,analytics,0.7043604937000048
+05_shardingsphere,db-protocol,password manager,0.7041154894250793
+05_shardingsphere,db-protocol,stream processing,0.7036451528295686
+05_shardingsphere,db-protocol,search,0.7035843537605246
+05_shardingsphere,db-protocol,data mining,0.7013323821443076
+05_shardingsphere,db-protocol,language model,0.7013133615964995
+05_shardingsphere,db-protocol,logging,0.7012251717016584
+05_shardingsphere,db-protocol,file system,0.7005942472346287
+05_shardingsphere,db-protocol,penetration test,0.7005935107493462
+05_shardingsphere,db-protocol,internet bot,0.7004920779837627
+05_shardingsphere,db-protocol,sorting algorithm,0.7004097090856698
+05_shardingsphere,db-protocol,game server,0.7003062186213721
+05_shardingsphere,db-protocol,computer data storage,0.7001521255428245
+05_shardingsphere,db-protocol,distributed system,0.699230254330228
+05_shardingsphere,db-protocol,dependency injection,0.6988920705167256
+05_shardingsphere,db-protocol,text classification,0.6985651274924785
+05_shardingsphere,db-protocol,scheduler,0.6985194436390956
+05_shardingsphere,db-protocol,network security,0.6982529568537463
+05_shardingsphere,db-protocol,word embedding,0.6972981662481288
+05_shardingsphere,db-protocol,synchronization,0.6971789285936933
+05_shardingsphere,db-protocol,smart contract,0.6971744339311322
+05_shardingsphere,db-protocol,instant messaging,0.6967333003021223
+05_shardingsphere,db-protocol,embedded system,0.6954333448148446
+05_shardingsphere,db-protocol,package management system,0.6952104983984722
+05_shardingsphere,db-protocol,graphical user interface,0.6950926327150373
+05_shardingsphere,db-protocol,static site generator,0.6950510435665889
+05_shardingsphere,db-protocol,content management system,0.6946575759174292
+05_shardingsphere,db-protocol,regression analysis,0.69429949147167
+05_shardingsphere,db-protocol,back end,0.6926466628496109
+05_shardingsphere,db-protocol,information processing,0.6925527721478426
+05_shardingsphere,db-protocol,design,0.6921373205879182
+05_shardingsphere,db-protocol,e-commerce,0.6920652862496095
+05_shardingsphere,db-protocol,front end,0.6920533528026771
+05_shardingsphere,db-protocol,question answering,0.6915369772362534
+05_shardingsphere,db-protocol,random forest,0.6912843789995506
+05_shardingsphere,db-protocol,machine learning,0.6911404267684935
+05_shardingsphere,db-protocol,optical character recognition,0.690793477714468
+05_shardingsphere,db-protocol,streaming media,0.6906641753728324
+05_shardingsphere,db-protocol,image editing,0.6900735234430478
+05_shardingsphere,db-protocol,microservices,0.6898682365793375
+05_shardingsphere,db-protocol,digital security,0.6898079061233283
+05_shardingsphere,db-protocol,object detection,0.6889808584973627
+05_shardingsphere,db-protocol,digital image processing,0.6888441188898262
+05_shardingsphere,db-protocol,font,0.6885808199427617
+05_shardingsphere,db-protocol,support vector machine,0.6884225510882693
+05_shardingsphere,db-protocol,convolutional neural network,0.6870225583515969
+05_shardingsphere,db-protocol,text mining,0.6864457431620932
+05_shardingsphere,db-protocol,network analysis,0.6843376501170109
+05_shardingsphere,db-protocol,artificial neural network,0.6842999166393341
+05_shardingsphere,db-protocol,distributed computing,0.6822544315519583
+05_shardingsphere,db-protocol,World Wide Web,0.6796983519447307
+05_shardingsphere,db-protocol,geographic information system,0.6791209813143386
+05_shardingsphere,db-protocol,cloud computing,0.6790620182036774
+05_shardingsphere,db-protocol,application performance management,0.6777859128059103
+05_shardingsphere,db-protocol,operating system,0.6774206545619372
+05_shardingsphere,db-protocol,telecommunications network,0.6769847009074605
+05_shardingsphere,db-protocol,digital audio,0.6768948012597478

@@ -1,0 +1,195 @@
+project_name,module,domain,sim_score
+06_hadoop,hadoop-hdfs-project,file system,0.5757919022222223
+06_hadoop,hadoop-hdfs-project,distributed system,0.5747885111111111
+06_hadoop,hadoop-hdfs-project,distributed computing,0.57092555
+06_hadoop,hadoop-hdfs-project,computer data storage,0.5652829122222223
+06_hadoop,hadoop-hdfs-project,distributed database,0.5468017433333334
+06_hadoop,hadoop-hdfs-project,server,0.5458692188888888
+06_hadoop,hadoop-hdfs-project,Containerization,0.5319340277777778
+06_hadoop,hadoop-hdfs-project,game server,0.5313159022222221
+06_hadoop,hadoop-hdfs-project,continuous deployment,0.5293069966666667
+06_hadoop,hadoop-hdfs-project,blockchain,0.5274595355555556
+06_hadoop,hadoop-hdfs-project,content management system,0.5247105222222221
+06_hadoop,hadoop-hdfs-project,File Transfer Protocol,0.5240517833333334
+06_hadoop,hadoop-hdfs-project,web server,0.5230008311111111
+06_hadoop,hadoop-hdfs-project,static site generator,0.5225059622222221
+06_hadoop,hadoop-hdfs-project,network monitoring,0.5205161811111112
+06_hadoop,hadoop-hdfs-project,virtual machine,0.5198884766666667
+06_hadoop,hadoop-hdfs-project,network security,0.5191994377777778
+06_hadoop,hadoop-hdfs-project,computer configuration,0.5183426977777779
+06_hadoop,hadoop-hdfs-project,cluster analysis,0.5180652755555556
+06_hadoop,hadoop-hdfs-project,data,0.5159958055555556
+06_hadoop,hadoop-hdfs-project,middleware,0.513061341111111
+06_hadoop,hadoop-hdfs-project,graph database,0.512005621111111
+06_hadoop,hadoop-hdfs-project,cloud computing,0.5116989111111112
+06_hadoop,hadoop-hdfs-project,stream processing,0.5101435844444444
+06_hadoop,hadoop-hdfs-project,network analysis,0.50972899
+06_hadoop,hadoop-hdfs-project,application performance management,0.508664781111111
+06_hadoop,hadoop-hdfs-project,shell tool,0.5086633277777778
+06_hadoop,hadoop-hdfs-project,DevOps,0.5083080199999999
+06_hadoop,hadoop-hdfs-project,data structure,0.5072681
+06_hadoop,hadoop-hdfs-project,microservices,0.5069636311111112
+06_hadoop,hadoop-hdfs-project,scheduler,0.5029918288888889
+06_hadoop,hadoop-hdfs-project,static program analysis tool,0.5024611022222223
+06_hadoop,hadoop-hdfs-project,package management system,0.501791168888889
+06_hadoop,hadoop-hdfs-project,backup,0.5015811944444445
+06_hadoop,hadoop-hdfs-project,database management,0.5007929666666667
+06_hadoop,hadoop-hdfs-project,static program analysis,0.5003110233333332
+06_hadoop,hadoop-hdfs-project,data compression,0.4993884655555556
+06_hadoop,hadoop-hdfs-project,back end,0.49932788666666666
+06_hadoop,hadoop-hdfs-project,synchronization,0.4991806466666666
+06_hadoop,hadoop-hdfs-project,functional programming,0.4981908933333334
+06_hadoop,hadoop-hdfs-project,kernel,0.49704293
+06_hadoop,hadoop-hdfs-project,real-time computing,0.49607407777777773
+06_hadoop,hadoop-hdfs-project,schema migration,0.49595900444444446
+06_hadoop,hadoop-hdfs-project,logging,0.4959298855555555
+06_hadoop,hadoop-hdfs-project,software architecture,0.49589699555555555
+06_hadoop,hadoop-hdfs-project,database,0.495608131111111
+06_hadoop,hadoop-hdfs-project,password manager,0.49559651
+06_hadoop,hadoop-hdfs-project,smart contract,0.4944516222222222
+06_hadoop,hadoop-hdfs-project,continuous integration,0.49435362000000005
+06_hadoop,hadoop-hdfs-project,computational biology,0.4937894466666667
+06_hadoop,hadoop-hdfs-project,router,0.4925550555555555
+06_hadoop,hadoop-hdfs-project,encryption,0.4920860377777777
+06_hadoop,hadoop-hdfs-project,distributed multimedia communications platform,0.49046548222222225
+06_hadoop,hadoop-hdfs-project,big data,0.4892476833333333
+06_hadoop,hadoop-hdfs-project,cryptography,0.48917098444444446
+06_hadoop,hadoop-hdfs-project,graph algorithm,0.4889250633333334
+06_hadoop,hadoop-hdfs-project,computational science,0.48854849222222213
+06_hadoop,hadoop-hdfs-project,Semantic Web,0.48771400444444446
+06_hadoop,hadoop-hdfs-project,serialization,0.4872620766666666
+06_hadoop,hadoop-hdfs-project,HTTP server,0.48684785777777784
+06_hadoop,hadoop-hdfs-project,social network,0.4854506922222222
+06_hadoop,hadoop-hdfs-project,random forest,0.4844197666666667
+06_hadoop,hadoop-hdfs-project,software design pattern,0.4841309366666667
+06_hadoop,hadoop-hdfs-project,algorithm,0.48361422333333326
+06_hadoop,hadoop-hdfs-project,command-line interface,0.48257616000000003
+06_hadoop,hadoop-hdfs-project,reactive programming,0.48132937
+06_hadoop,hadoop-hdfs-project,security,0.48118397333333335
+06_hadoop,hadoop-hdfs-project,information processing,0.48089555999999994
+06_hadoop,hadoop-hdfs-project,software engineering,0.48070974333333333
+06_hadoop,hadoop-hdfs-project,data science,0.47962224000000003
+06_hadoop,hadoop-hdfs-project,World Wide Web,0.47953720777777775
+06_hadoop,hadoop-hdfs-project,pattern matching,0.47892343444444446
+06_hadoop,hadoop-hdfs-project,website,0.4786448833333334
+06_hadoop,hadoop-hdfs-project,computer science,0.4779247644444444
+06_hadoop,hadoop-hdfs-project,embedded system,0.4762731
+06_hadoop,hadoop-hdfs-project,benchmark,0.47568864777777775
+06_hadoop,hadoop-hdfs-project,code generation,0.4727027088888889
+06_hadoop,hadoop-hdfs-project,test automation,0.4723307555555556
+06_hadoop,hadoop-hdfs-project,data analysis,0.47215389
+06_hadoop,hadoop-hdfs-project,graphical user interface,0.47094516555555554
+06_hadoop,hadoop-hdfs-project,automation,0.46923879222222226
+06_hadoop,hadoop-hdfs-project,client,0.46890565222222214
+06_hadoop,hadoop-hdfs-project,"extract, transform, load",0.46886406888888893
+06_hadoop,hadoop-hdfs-project,internet of things,0.4687789533333333
+06_hadoop,hadoop-hdfs-project,front end,0.4675958422222222
+06_hadoop,hadoop-hdfs-project,object-oriented programming,0.46717577444444447
+06_hadoop,hadoop-hdfs-project,web crawler,0.46586093333333334
+06_hadoop,hadoop-hdfs-project,search,0.4656092044444445
+06_hadoop,hadoop-hdfs-project,operating system,0.46550675666666663
+06_hadoop,hadoop-hdfs-project,data visualization,0.4652156477777778
+06_hadoop,hadoop-hdfs-project,streaming media,0.46512889
+06_hadoop,hadoop-hdfs-project,geographic information,0.46448886000000006
+06_hadoop,hadoop-hdfs-project,data mining,0.46388635666666667
+06_hadoop,hadoop-hdfs-project,continuous delivery,0.46386002444444446
+06_hadoop,hadoop-hdfs-project,object–relational mapping,0.4631814877777778
+06_hadoop,hadoop-hdfs-project,geographic information system,0.46230187999999994
+06_hadoop,hadoop-hdfs-project,user interface,0.4614374677777778
+06_hadoop,hadoop-hdfs-project,digital security,0.4614278433333333
+06_hadoop,hadoop-hdfs-project,analytics,0.46117199888888893
+06_hadoop,hadoop-hdfs-project,information retrieval,0.4611083088888889
+06_hadoop,hadoop-hdfs-project,compiler,0.4605983944444444
+06_hadoop,hadoop-hdfs-project,malware,0.46057852222222223
+06_hadoop,hadoop-hdfs-project,Q-learning,0.45908860444444444
+06_hadoop,hadoop-hdfs-project,web browser engine,0.45905510777777775
+06_hadoop,hadoop-hdfs-project,penetration test,0.45902449888888897
+06_hadoop,hadoop-hdfs-project,Parser combinator,0.45886952
+06_hadoop,hadoop-hdfs-project,telecommunications network,0.45723704444444446
+06_hadoop,hadoop-hdfs-project,simulation,0.4571331044444444
+06_hadoop,hadoop-hdfs-project,machine learning,0.45705110444444447
+06_hadoop,hadoop-hdfs-project,electronic trading platform,0.4563296144444445
+06_hadoop,hadoop-hdfs-project,HTTP client,0.45558255555555566
+06_hadoop,hadoop-hdfs-project,business dashboard,0.45556430777777784
+06_hadoop,hadoop-hdfs-project,authentication,0.45551755666666666
+06_hadoop,hadoop-hdfs-project,software testing,0.4550038788888889
+06_hadoop,hadoop-hdfs-project,language model,0.4547008411111111
+06_hadoop,hadoop-hdfs-project,web service,0.45429129111111116
+06_hadoop,hadoop-hdfs-project,classification,0.45410202555555557
+06_hadoop,hadoop-hdfs-project,internet bot,0.45238555555555554
+06_hadoop,hadoop-hdfs-project,long short-term memory,0.451819
+06_hadoop,hadoop-hdfs-project,anomaly detection,0.45172712444444435
+06_hadoop,hadoop-hdfs-project,plot,0.45134744555555556
+06_hadoop,hadoop-hdfs-project,Web Components,0.4509780555555556
+06_hadoop,hadoop-hdfs-project,software development,0.45096842777777774
+06_hadoop,hadoop-hdfs-project,text processing,0.4508245288888889
+06_hadoop,hadoop-hdfs-project,unit testing,0.45058992666666664
+06_hadoop,hadoop-hdfs-project,dependency injection,0.45058892
+06_hadoop,hadoop-hdfs-project,image,0.45055020333333334
+06_hadoop,hadoop-hdfs-project,web application,0.4504773377777778
+06_hadoop,hadoop-hdfs-project,data binding,0.45029074
+06_hadoop,hadoop-hdfs-project,linear algebra,0.45026346333333334
+06_hadoop,hadoop-hdfs-project,WebSocket,0.45022900111111114
+06_hadoop,hadoop-hdfs-project,algorithmic trading,0.4499222055555555
+06_hadoop,hadoop-hdfs-project,information extraction,0.4492897777777778
+06_hadoop,hadoop-hdfs-project,debugger,0.4483465833333333
+06_hadoop,hadoop-hdfs-project,Image analysis,0.44684506444444444
+06_hadoop,hadoop-hdfs-project,machine translation,0.44508953888888886
+06_hadoop,hadoop-hdfs-project,artificial intelligence,0.44493197444444443
+06_hadoop,hadoop-hdfs-project,Malware Analysis,0.44412843555555553
+06_hadoop,hadoop-hdfs-project,parsing,0.44402630444444446
+06_hadoop,hadoop-hdfs-project,digital image processing,0.4438987511111111
+06_hadoop,hadoop-hdfs-project,image segmentation,0.44360140666666664
+06_hadoop,hadoop-hdfs-project,sorting algorithm,0.4434511611111111
+06_hadoop,hadoop-hdfs-project,email,0.44301957666666664
+06_hadoop,hadoop-hdfs-project,natural language processing,0.4429316
+06_hadoop,hadoop-hdfs-project,question answering,0.44264426333333334
+06_hadoop,hadoop-hdfs-project,deep neural network,0.4420037222222223
+06_hadoop,hadoop-hdfs-project,reinforcement learning,0.44189357333333334
+06_hadoop,hadoop-hdfs-project,signal processing,0.44111396555555554
+06_hadoop,hadoop-hdfs-project,lexical analysis,0.4410405388888889
+06_hadoop,hadoop-hdfs-project,recommender system,0.44078571666666666
+06_hadoop,hadoop-hdfs-project,time series,0.44001624777777776
+06_hadoop,hadoop-hdfs-project,statistics,0.4388127533333333
+06_hadoop,hadoop-hdfs-project,web application security,0.43872902888888893
+06_hadoop,hadoop-hdfs-project,web browser,0.43843690444444444
+06_hadoop,hadoop-hdfs-project,instant messaging,0.43543545
+06_hadoop,hadoop-hdfs-project,support vector machine,0.4344460377777778
+06_hadoop,hadoop-hdfs-project,deep learning,0.4330563477777778
+06_hadoop,hadoop-hdfs-project,image compression,0.4329706211111112
+06_hadoop,hadoop-hdfs-project,bitcoin,0.43243702888888885
+06_hadoop,hadoop-hdfs-project,image captioning,0.43213020222222226
+06_hadoop,hadoop-hdfs-project,linear regression,0.43167848666666664
+06_hadoop,hadoop-hdfs-project,Bidirectional recurrent neural networks,0.43100685555555557
+06_hadoop,hadoop-hdfs-project,3D modeling,0.43039413555555556
+06_hadoop,hadoop-hdfs-project,regression analysis,0.4303107955555555
+06_hadoop,hadoop-hdfs-project,web scraping,0.4296339922222222
+06_hadoop,hadoop-hdfs-project,e-commerce,0.4272446288888889
+06_hadoop,hadoop-hdfs-project,Kalman filter,0.42711656222222216
+06_hadoop,hadoop-hdfs-project,text classification,0.4267843188888889
+06_hadoop,hadoop-hdfs-project,optical character recognition,0.42618908555555557
+06_hadoop,hadoop-hdfs-project,game engine,0.4257157788888889
+06_hadoop,hadoop-hdfs-project,image recognition,0.4243870922222222
+06_hadoop,hadoop-hdfs-project,sentiment analysis,0.42373554333333335
+06_hadoop,hadoop-hdfs-project,cryptocurrency,0.42329476666666666
+06_hadoop,hadoop-hdfs-project,artificial neural network,0.4217981688888888
+06_hadoop,hadoop-hdfs-project,text editor,0.42168787444444444
+06_hadoop,hadoop-hdfs-project,3D computer graphics,0.42093412666666663
+06_hadoop,hadoop-hdfs-project,web development,0.42015369888888887
+06_hadoop,hadoop-hdfs-project,validator,0.41904362666666667
+06_hadoop,hadoop-hdfs-project,logistic regression model,0.41725859555555556
+06_hadoop,hadoop-hdfs-project,audio signal processing,0.41566672
+06_hadoop,hadoop-hdfs-project,convolutional neural network,0.4153007833333333
+06_hadoop,hadoop-hdfs-project,search engine,0.4138471655555555
+06_hadoop,hadoop-hdfs-project,syntax highlighting,0.4128666166666667
+06_hadoop,hadoop-hdfs-project,Naive Bayes classifier,0.41274622333333333
+06_hadoop,hadoop-hdfs-project,computer vision,0.41265753111111114
+06_hadoop,hadoop-hdfs-project,translation,0.4120659
+06_hadoop,hadoop-hdfs-project,interpreter,0.4117932655555555
+06_hadoop,hadoop-hdfs-project,mobile application development,0.39894118111111115
+06_hadoop,hadoop-hdfs-project,object detection,0.3933553577777778
+06_hadoop,hadoop-hdfs-project,facial recognition system,0.38898800000000006
+06_hadoop,hadoop-hdfs-project,regular expression,0.3818639655555556
+06_hadoop,hadoop-hdfs-project,face detection,0.3787841577777778
+06_hadoop,hadoop-hdfs-project,stock market,0.37750748444444443
+06_hadoop,hadoop-hdfs-project,banking industry,0.3596665722222222

@@ -1,0 +1,103 @@
+project_name,module,domain,sim_score
+08_pulsar,pulsar-sql,stream processing,0.5778489266666667
+08_pulsar,pulsar-sql,data compression,0.5710558111111111
+08_pulsar,pulsar-sql,data,0.5689401211111111
+08_pulsar,pulsar-sql,Parser combinator,0.56577774
+08_pulsar,pulsar-sql,object–relational mapping,0.5657769733333333
+08_pulsar,pulsar-sql,data structure,0.5644574655555555
+08_pulsar,pulsar-sql,pattern matching,0.5616145611111111
+08_pulsar,pulsar-sql,data binding,0.5528527777777777
+08_pulsar,pulsar-sql,schema migration,0.5526858966666667
+08_pulsar,pulsar-sql,serialization,0.5519807233333334
+08_pulsar,pulsar-sql,static program analysis,0.5450018122222223
+08_pulsar,pulsar-sql,static program analysis tool,0.5419971455555556
+08_pulsar,pulsar-sql,language model,0.5404697855555557
+08_pulsar,pulsar-sql,database,0.5368364999999999
+08_pulsar,pulsar-sql,code generation,0.5344880522222223
+08_pulsar,pulsar-sql,information processing,0.5337775933333333
+08_pulsar,pulsar-sql,computer data storage,0.5305386088888889
+08_pulsar,pulsar-sql,text processing,0.5298102811111112
+08_pulsar,pulsar-sql,geographic information,0.5247717588888889
+08_pulsar,pulsar-sql,smart contract,0.5239631666666668
+08_pulsar,pulsar-sql,data analysis,0.523523141111111
+08_pulsar,pulsar-sql,web service,0.5202024766666666
+08_pulsar,pulsar-sql,information extraction,0.5193113155555555
+08_pulsar,pulsar-sql,benchmark,0.5182422
+08_pulsar,pulsar-sql,information retrieval,0.5181032744444445
+08_pulsar,pulsar-sql,server,0.5172240788888889
+08_pulsar,pulsar-sql,geographic information system,0.516290791111111
+08_pulsar,pulsar-sql,File Transfer Protocol,0.5148280711111111
+08_pulsar,pulsar-sql,instant messaging,0.5136560788888889
+08_pulsar,pulsar-sql,distributed database,0.5124595966666666
+08_pulsar,pulsar-sql,Semantic Web,0.5117594566666667
+08_pulsar,pulsar-sql,test automation,0.5115737866666666
+08_pulsar,pulsar-sql,embedded system,0.5114966988888888
+08_pulsar,pulsar-sql,big data,0.5106963822222222
+08_pulsar,pulsar-sql,database management,0.5105516377777778
+08_pulsar,pulsar-sql,documentation,0.5102532988888889
+08_pulsar,pulsar-sql,content management system,0.5100235511111113
+08_pulsar,pulsar-sql,compiler,0.5099808066666667
+08_pulsar,pulsar-sql,data science,0.5087104177777778
+08_pulsar,pulsar-sql,web browser engine,0.5085834366666666
+08_pulsar,pulsar-sql,graph database,0.5078654399999999
+08_pulsar,pulsar-sql,file system,0.5061193055555555
+08_pulsar,pulsar-sql,unit testing,0.5057237255555556
+08_pulsar,pulsar-sql,application performance management,0.5051074600000001
+08_pulsar,pulsar-sql,graphical user interface,0.5048608333333333
+08_pulsar,pulsar-sql,data mining,0.50361757
+08_pulsar,pulsar-sql,user interface,0.5036157455555555
+08_pulsar,pulsar-sql,back end,0.50304354
+08_pulsar,pulsar-sql,dependency injection,0.5030174100000001
+08_pulsar,pulsar-sql,long short-term memory,0.50061176
+08_pulsar,pulsar-sql,Web Components,0.5004572211111111
+08_pulsar,pulsar-sql,synchronization,0.5004402666666666
+08_pulsar,pulsar-sql,data visualization,0.49872393888888894
+08_pulsar,pulsar-sql,validator,0.49851819555555554
+08_pulsar,pulsar-sql,software testing,0.4982298655555556
+08_pulsar,pulsar-sql,distributed computing,0.4980788988888889
+08_pulsar,pulsar-sql,machine learning,0.49804498333333336
+08_pulsar,pulsar-sql,distributed system,0.49788932888888887
+08_pulsar,pulsar-sql,hyperparameter optimization,0.49691433222222225
+08_pulsar,pulsar-sql,automation,0.4964470866666666
+08_pulsar,pulsar-sql,client,0.4946491611111111
+08_pulsar,pulsar-sql,distributed multimedia communications platform,0.49405203222222227
+08_pulsar,pulsar-sql,support vector machine,0.49312443666666667
+08_pulsar,pulsar-sql,command-line interface,0.4931234011111111
+08_pulsar,pulsar-sql,HTTP client,0.4928236122222222
+08_pulsar,pulsar-sql,microservices,0.4926599599999999
+08_pulsar,pulsar-sql,logging,0.49263083888888887
+08_pulsar,pulsar-sql,World Wide Web,0.49143374333333334
+08_pulsar,pulsar-sql,web application,0.49056516111111115
+08_pulsar,pulsar-sql,optical character recognition,0.4892666922222222
+08_pulsar,pulsar-sql,HTTP server,0.48894215888888887
+08_pulsar,pulsar-sql,analytics,0.48845673111111115
+08_pulsar,pulsar-sql,game engine,0.48804157333333337
+08_pulsar,pulsar-sql,streaming media,0.48794957
+08_pulsar,pulsar-sql,software development,0.4878711155555556
+08_pulsar,pulsar-sql,word embedding,0.4865603666666666
+08_pulsar,pulsar-sql,digital image processing,0.4850122544444445
+08_pulsar,pulsar-sql,website,0.48403152333333327
+08_pulsar,pulsar-sql,penetration test,0.4833643922222222
+08_pulsar,pulsar-sql,automated machine learning,0.4832622366666667
+08_pulsar,pulsar-sql,password manager,0.4800034488888889
+08_pulsar,pulsar-sql,package management system,0.47978783111111106
+08_pulsar,pulsar-sql,design,0.4777535811111111
+08_pulsar,pulsar-sql,digital audio,0.4765699688888889
+08_pulsar,pulsar-sql,backup,0.4756866488888889
+08_pulsar,pulsar-sql,web server,0.47470874222222226
+08_pulsar,pulsar-sql,Naive Bayes classifier,0.4740779088888889
+08_pulsar,pulsar-sql,time series,0.47348851444444445
+08_pulsar,pulsar-sql,WebSocket,0.47346699
+08_pulsar,pulsar-sql,translation,0.4710570377777778
+08_pulsar,pulsar-sql,convolutional neural network,0.4700481955555556
+08_pulsar,pulsar-sql,artificial neural network,0.4691561544444444
+08_pulsar,pulsar-sql,deep learning,0.4641608366666667
+08_pulsar,pulsar-sql,regular expression,0.4468136200000001
+08_pulsar,pulsar-sql,object detection,0.4463809777777778
+08_pulsar,pulsar-sql,telecommunications network,0.4457002933333334
+08_pulsar,pulsar-sql,virtual machine,0.4422092455555555
+08_pulsar,pulsar-sql,computer configuration,0.4375003722222222
+08_pulsar,pulsar-sql,web application security,0.4341876244444445
+08_pulsar,pulsar-sql,operating system,0.4202136311111111
+08_pulsar,pulsar-sql,digital security,0.4161210255555556
+08_pulsar,pulsar-sql,virtual reality,0.4155582366666667

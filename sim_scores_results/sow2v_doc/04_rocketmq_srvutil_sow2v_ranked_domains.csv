@@ -1,0 +1,15 @@
+project_name,module,domain,sim_score
+04_rocketmq,srvutil,client,0.67106793375
+04_rocketmq,srvutil,server,0.63603265875
+04_rocketmq,srvutil,database,0.37844210375
+04_rocketmq,srvutil,data,0.37840762875
+04_rocketmq,srvutil,scheduler,0.34882659625
+04_rocketmq,srvutil,security,0.314051845
+04_rocketmq,srvutil,logging,0.31102476874999996
+04_rocketmq,srvutil,microservices,0.23405464750000002
+04_rocketmq,srvutil,website,0.20584911
+04_rocketmq,srvutil,analytics,0.20351924624999998
+04_rocketmq,srvutil,automation,0.19035505625
+04_rocketmq,srvutil,search,0.145272093875
+04_rocketmq,srvutil,algorithm,0.087055433
+04_rocketmq,srvutil,benchmark,0.076543341375

@@ -1,0 +1,14 @@
+project_name,module,domain,sim_score
+09_zookeeper,zookeeper-jute,data,0.4247516085714286
+09_zookeeper,zookeeper-jute,database,0.32101951000000006
+09_zookeeper,zookeeper-jute,compiler,0.28306251
+09_zookeeper,zookeeper-jute,interpreter,0.24670160285714288
+09_zookeeper,zookeeper-jute,translation,0.2310396442857143
+09_zookeeper,zookeeper-jute,client,0.22844831428571427
+09_zookeeper,zookeeper-jute,server,0.21429768857142856
+09_zookeeper,zookeeper-jute,search,0.20494824142857146
+09_zookeeper,zookeeper-jute,serialization,0.18689706142857143
+09_zookeeper,zookeeper-jute,algorithm,0.1483305992857143
+09_zookeeper,zookeeper-jute,logging,0.059897465714285725
+09_zookeeper,zookeeper-jute,benchmark,0.029619695471428568
+09_zookeeper,zookeeper-jute,router,0.008940395571428571

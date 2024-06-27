@@ -1,0 +1,131 @@
+project_name,module,domain,sim_score
+10_dolphinscheduler,dolphinscheduler-remote,client,0.7685897772078473
+10_dolphinscheduler,dolphinscheduler-remote,server,0.7684556576552791
+10_dolphinscheduler,dolphinscheduler-remote,WebSocket,0.7680606635426708
+10_dolphinscheduler,dolphinscheduler-remote,user interface,0.7660137345370621
+10_dolphinscheduler,dolphinscheduler-remote,internet bot,0.7625985743157915
+10_dolphinscheduler,dolphinscheduler-remote,network monitoring,0.7623226212090723
+10_dolphinscheduler,dolphinscheduler-remote,command-line interface,0.7622750679052959
+10_dolphinscheduler,dolphinscheduler-remote,web service,0.7617922104161181
+10_dolphinscheduler,dolphinscheduler-remote,web server,0.761327173241917
+10_dolphinscheduler,dolphinscheduler-remote,File Transfer Protocol,0.7609199652687231
+10_dolphinscheduler,dolphinscheduler-remote,HTTP server,0.7577712711323346
+10_dolphinscheduler,dolphinscheduler-remote,HTTP client,0.7574698605071682
+10_dolphinscheduler,dolphinscheduler-remote,backup,0.7539512829682928
+10_dolphinscheduler,dolphinscheduler-remote,game server,0.7537753565944372
+10_dolphinscheduler,dolphinscheduler-remote,scheduler,0.7489840021763374
+10_dolphinscheduler,dolphinscheduler-remote,unit testing,0.7483803191462891
+10_dolphinscheduler,dolphinscheduler-remote,instant messaging,0.7471488405969248
+10_dolphinscheduler,dolphinscheduler-remote,middleware,0.7464283884257458
+10_dolphinscheduler,dolphinscheduler-remote,computer configuration,0.7454450035981991
+10_dolphinscheduler,dolphinscheduler-remote,documentation,0.7446382975724373
+10_dolphinscheduler,dolphinscheduler-remote,test automation,0.7440143391727687
+10_dolphinscheduler,dolphinscheduler-remote,web application,0.7438379417495343
+10_dolphinscheduler,dolphinscheduler-remote,benchmark,0.7426746626738576
+10_dolphinscheduler,dolphinscheduler-remote,website,0.7424108342690992
+10_dolphinscheduler,dolphinscheduler-remote,shell tool,0.7419830806622895
+10_dolphinscheduler,dolphinscheduler-remote,search,0.7414168019357651
+10_dolphinscheduler,dolphinscheduler-remote,image,0.7411171983898736
+10_dolphinscheduler,dolphinscheduler-remote,data,0.7405477539943303
+10_dolphinscheduler,dolphinscheduler-remote,automation,0.7404805829695581
+10_dolphinscheduler,dolphinscheduler-remote,network security,0.7401270721048222
+10_dolphinscheduler,dolphinscheduler-remote,file system,0.7401185049233986
+10_dolphinscheduler,dolphinscheduler-remote,algorithm,0.7391259382245013
+10_dolphinscheduler,dolphinscheduler-remote,distributed system,0.7373543673374605
+10_dolphinscheduler,dolphinscheduler-remote,distributed multimedia communications platform,0.7371629272486971
+10_dolphinscheduler,dolphinscheduler-remote,database,0.7366887151671118
+10_dolphinscheduler,dolphinscheduler-remote,stream processing,0.7366470752500489
+10_dolphinscheduler,dolphinscheduler-remote,authentication,0.7364085744853804
+10_dolphinscheduler,dolphinscheduler-remote,web scraping,0.7360785753393656
+10_dolphinscheduler,dolphinscheduler-remote,pattern matching,0.7360431745130134
+10_dolphinscheduler,dolphinscheduler-remote,business dashboard,0.7358941389381692
+10_dolphinscheduler,dolphinscheduler-remote,package management system,0.7358430169050876
+10_dolphinscheduler,dolphinscheduler-remote,validator,0.7355750929612822
+10_dolphinscheduler,dolphinscheduler-remote,signal processing,0.7354096559643013
+10_dolphinscheduler,dolphinscheduler-remote,graphical user interface,0.7352105238861748
+10_dolphinscheduler,dolphinscheduler-remote,web browser,0.7351338477705605
+10_dolphinscheduler,dolphinscheduler-remote,security,0.7349357154324806
+10_dolphinscheduler,dolphinscheduler-remote,data structure,0.7344367447801101
+10_dolphinscheduler,dolphinscheduler-remote,recommender system,0.7342208790756061
+10_dolphinscheduler,dolphinscheduler-remote,software testing,0.7339465627907696
+10_dolphinscheduler,dolphinscheduler-remote,web application security,0.7337429483698423
+10_dolphinscheduler,dolphinscheduler-remote,text processing,0.7337273358695799
+10_dolphinscheduler,dolphinscheduler-remote,DevOps,0.7333225517093115
+10_dolphinscheduler,dolphinscheduler-remote,compiler,0.7331007672662389
+10_dolphinscheduler,dolphinscheduler-remote,back end,0.7330255266314734
+10_dolphinscheduler,dolphinscheduler-remote,virtual machine,0.732956511725475
+10_dolphinscheduler,dolphinscheduler-remote,front end,0.7329440699936017
+10_dolphinscheduler,dolphinscheduler-remote,streaming media,0.7326169403295919
+10_dolphinscheduler,dolphinscheduler-remote,smart contract,0.7324196499282165
+10_dolphinscheduler,dolphinscheduler-remote,synchronization,0.7320903790191349
+10_dolphinscheduler,dolphinscheduler-remote,application performance management,0.7320858037521536
+10_dolphinscheduler,dolphinscheduler-remote,microservices,0.7319240003034541
+10_dolphinscheduler,dolphinscheduler-remote,data compression,0.7317116818431177
+10_dolphinscheduler,dolphinscheduler-remote,operating system,0.7310683642556325
+10_dolphinscheduler,dolphinscheduler-remote,analytics,0.7308061850352802
+10_dolphinscheduler,dolphinscheduler-remote,telecommunications network,0.7300662498571163
+10_dolphinscheduler,dolphinscheduler-remote,mobile application development,0.729787526490731
+10_dolphinscheduler,dolphinscheduler-remote,computer data storage,0.72949896792318
+10_dolphinscheduler,dolphinscheduler-remote,logging,0.7293785922591196
+10_dolphinscheduler,dolphinscheduler-remote,cloud computing,0.7287862562462263
+10_dolphinscheduler,dolphinscheduler-remote,machine translation,0.727925433647302
+10_dolphinscheduler,dolphinscheduler-remote,data binding,0.7275848417337976
+10_dolphinscheduler,dolphinscheduler-remote,long short-term memory,0.7275045499375735
+10_dolphinscheduler,dolphinscheduler-remote,distributed computing,0.7267622382360543
+10_dolphinscheduler,dolphinscheduler-remote,web browser engine,0.7262011427010486
+10_dolphinscheduler,dolphinscheduler-remote,encryption,0.7257599197984009
+10_dolphinscheduler,dolphinscheduler-remote,plot,0.7255735557385741
+10_dolphinscheduler,dolphinscheduler-remote,content management system,0.7252887030667056
+10_dolphinscheduler,dolphinscheduler-remote,password manager,0.725101725250973
+10_dolphinscheduler,dolphinscheduler-remote,e-commerce,0.7250637376318414
+10_dolphinscheduler,dolphinscheduler-remote,serialization,0.7249162770266071
+10_dolphinscheduler,dolphinscheduler-remote,information processing,0.7243829684542489
+10_dolphinscheduler,dolphinscheduler-remote,schema migration,0.7242226055732703
+10_dolphinscheduler,dolphinscheduler-remote,computer vision,0.7231903557260644
+10_dolphinscheduler,dolphinscheduler-remote,facial recognition system,0.7230946655182926
+10_dolphinscheduler,dolphinscheduler-remote,machine learning,0.7230646189711443
+10_dolphinscheduler,dolphinscheduler-remote,natural language processing,0.7227943343288907
+10_dolphinscheduler,dolphinscheduler-remote,audio signal processing,0.7224547777608903
+10_dolphinscheduler,dolphinscheduler-remote,big data,0.722398827408343
+10_dolphinscheduler,dolphinscheduler-remote,penetration test,0.7220675292757351
+10_dolphinscheduler,dolphinscheduler-remote,web development,0.7220547056466194
+10_dolphinscheduler,dolphinscheduler-remote,automated machine learning,0.721926857257535
+10_dolphinscheduler,dolphinscheduler-remote,blockchain,0.7217427724503831
+10_dolphinscheduler,dolphinscheduler-remote,time series,0.721488929678815
+10_dolphinscheduler,dolphinscheduler-remote,image recognition,0.7204907779194349
+10_dolphinscheduler,dolphinscheduler-remote,dependency injection,0.7200372621654278
+10_dolphinscheduler,dolphinscheduler-remote,language model,0.7194031722492558
+10_dolphinscheduler,dolphinscheduler-remote,hyperparameter optimization,0.7191285019327402
+10_dolphinscheduler,dolphinscheduler-remote,Web Components,0.718476876359593
+10_dolphinscheduler,dolphinscheduler-remote,translation,0.7182382358925623
+10_dolphinscheduler,dolphinscheduler-remote,regular expression,0.7180695597048625
+10_dolphinscheduler,dolphinscheduler-remote,static program analysis tool,0.7177878981813895
+10_dolphinscheduler,dolphinscheduler-remote,computer science,0.7174007044298398
+10_dolphinscheduler,dolphinscheduler-remote,object detection,0.7171902882725816
+10_dolphinscheduler,dolphinscheduler-remote,text classification,0.7170723722014221
+10_dolphinscheduler,dolphinscheduler-remote,embedded system,0.7169398531011979
+10_dolphinscheduler,dolphinscheduler-remote,data mining,0.7153359095848112
+10_dolphinscheduler,dolphinscheduler-remote,data analysis,0.7150583235288873
+10_dolphinscheduler,dolphinscheduler-remote,continuous integration,0.7149781293196
+10_dolphinscheduler,dolphinscheduler-remote,game engine,0.7135012610011255
+10_dolphinscheduler,dolphinscheduler-remote,sorting algorithm,0.7133063190890204
+10_dolphinscheduler,dolphinscheduler-remote,education,0.7121656586345227
+10_dolphinscheduler,dolphinscheduler-remote,World Wide Web,0.7117470611959319
+10_dolphinscheduler,dolphinscheduler-remote,artificial neural network,0.7111186359839933
+10_dolphinscheduler,dolphinscheduler-remote,image segmentation,0.7108080433143722
+10_dolphinscheduler,dolphinscheduler-remote,graph algorithm,0.7107705141928097
+10_dolphinscheduler,dolphinscheduler-remote,face detection,0.7106749007537544
+10_dolphinscheduler,dolphinscheduler-remote,distributed database,0.7105617928755564
+10_dolphinscheduler,dolphinscheduler-remote,optical character recognition,0.7092282742106983
+10_dolphinscheduler,dolphinscheduler-remote,static program analysis,0.7092268872251363
+10_dolphinscheduler,dolphinscheduler-remote,image classification,0.7083987746706775
+10_dolphinscheduler,dolphinscheduler-remote,logistic regression model,0.7078655006679351
+10_dolphinscheduler,dolphinscheduler-remote,deep neural network,0.7062507046405129
+10_dolphinscheduler,dolphinscheduler-remote,support vector machine,0.7039609764041488
+10_dolphinscheduler,dolphinscheduler-remote,digital image processing,0.7028218605155548
+10_dolphinscheduler,dolphinscheduler-remote,word embedding,0.7021228364920364
+10_dolphinscheduler,dolphinscheduler-remote,digital security,0.7017546024779052
+10_dolphinscheduler,dolphinscheduler-remote,object–relational mapping,0.6997417781364594
+10_dolphinscheduler,dolphinscheduler-remote,regression analysis,0.696552641144753
+10_dolphinscheduler,dolphinscheduler-remote,deep learning,0.6953398849188999
+10_dolphinscheduler,dolphinscheduler-remote,linear regression,0.6943895572714698

@@ -1,0 +1,157 @@
+project_name,module,domain,sim_score
+14_storm,storm-server,email,0.675141442857143
+14_storm,storm-server,client,0.59409024
+14_storm,storm-server,package management system,0.58991636
+14_storm,storm-server,File Transfer Protocol,0.577877447142857
+14_storm,storm-server,instant messaging,0.5754915014285714
+14_storm,storm-server,streaming media,0.5647217371428571
+14_storm,storm-server,HTTP client,0.5641997271428572
+14_storm,storm-server,scheduler,0.5588101342857142
+14_storm,storm-server,graphical user interface,0.5563777671428572
+14_storm,storm-server,website,0.5528344799999999
+14_storm,storm-server,web application,0.5520697771428571
+14_storm,storm-server,content management system,0.5480003114285714
+14_storm,storm-server,dependency injection,0.5457640585714286
+14_storm,storm-server,Containerization,0.5425775228571429
+14_storm,storm-server,shell tool,0.5419666657142856
+14_storm,storm-server,middleware,0.5408491871428571
+14_storm,storm-server,smart contract,0.5405137514285714
+14_storm,storm-server,mobile application development,0.5390833014285714
+14_storm,storm-server,reactive programming,0.5387545014285714
+14_storm,storm-server,user interface,0.5373848957142857
+14_storm,storm-server,static site generator,0.53522244
+14_storm,storm-server,WebSocket,0.5351706514285716
+14_storm,storm-server,compiler,0.5324043957142858
+14_storm,storm-server,back end,0.5308606885714287
+14_storm,storm-server,command-line interface,0.5301800771428572
+14_storm,storm-server,backup,0.52863172
+14_storm,storm-server,Web Components,0.5285182542857143
+14_storm,storm-server,software engineering,0.5281329914285715
+14_storm,storm-server,functional programming,0.528037582857143
+14_storm,storm-server,kernel,0.5240325157142858
+14_storm,storm-server,web browser engine,0.5232837771428571
+14_storm,storm-server,design,0.5230549585714286
+14_storm,storm-server,e-commerce,0.5228531085714286
+14_storm,storm-server,web service,0.5206325771428572
+14_storm,storm-server,front end,0.5182930871428572
+14_storm,storm-server,World Wide Web,0.5182462457142857
+14_storm,storm-server,virtual machine,0.5166175257142858
+14_storm,storm-server,microservices,0.5157904799999999
+14_storm,storm-server,file system,0.5153324414285715
+14_storm,storm-server,data,0.5143860185714285
+14_storm,storm-server,recommender system,0.5136084971428572
+14_storm,storm-server,software testing,0.51321659
+14_storm,storm-server,application performance management,0.5112229428571428
+14_storm,storm-server,game server,0.5091108985714287
+14_storm,storm-server,logging,0.50850669
+14_storm,storm-server,"extract, transform, load",0.5065920685714286
+14_storm,storm-server,static program analysis tool,0.5061033042857144
+14_storm,storm-server,DevOps,0.5045100971428571
+14_storm,storm-server,web server,0.5042449028571429
+14_storm,storm-server,server,0.5030634471428572
+14_storm,storm-server,serialization,0.5022283228571429
+14_storm,storm-server,operating system,0.5021971685714286
+14_storm,storm-server,distributed system,0.5014593414285714
+14_storm,storm-server,distributed multimedia communications platform,0.5014124928571428
+14_storm,storm-server,data binding,0.5013199628571429
+14_storm,storm-server,validator,0.5007544657142857
+14_storm,storm-server,stream processing,0.49992391
+14_storm,storm-server,HTTP server,0.49806557428571424
+14_storm,storm-server,distributed computing,0.4978578742857143
+14_storm,storm-server,automation,0.49547415285714286
+14_storm,storm-server,data compression,0.4950734157142857
+14_storm,storm-server,blockchain,0.4945493442857143
+14_storm,storm-server,continuous integration,0.4942800628571429
+14_storm,storm-server,embedded system,0.49044118999999997
+14_storm,storm-server,web crawler,0.48978766714285715
+14_storm,storm-server,encryption,0.48967287142857147
+14_storm,storm-server,language model,0.4886696542857143
+14_storm,storm-server,static program analysis,0.4885404514285714
+14_storm,storm-server,security,0.48564012428571424
+14_storm,storm-server,computer data storage,0.4846589657142858
+14_storm,storm-server,game engine,0.48329055142857147
+14_storm,storm-server,network analysis,0.4827761814285714
+14_storm,storm-server,synchronization,0.4824624785714286
+14_storm,storm-server,search,0.4813240642857143
+14_storm,storm-server,image compression,0.48069322857142854
+14_storm,storm-server,database,0.48048869285714285
+14_storm,storm-server,Parser combinator,0.47989198857142856
+14_storm,storm-server,cryptography,0.4775100014285714
+14_storm,storm-server,test automation,0.47738558142857146
+14_storm,storm-server,unit testing,0.4771429757142857
+14_storm,storm-server,authentication,0.47598475
+14_storm,storm-server,password manager,0.4756173442857143
+14_storm,storm-server,web application security,0.47495587999999994
+14_storm,storm-server,text processing,0.4749376957142856
+14_storm,storm-server,telecommunications network,0.47476561428571423
+14_storm,storm-server,real-time computing,0.47434127142857146
+14_storm,storm-server,education,0.4743234357142857
+14_storm,storm-server,information processing,0.4738712942857143
+14_storm,storm-server,information retrieval,0.4737076085714286
+14_storm,storm-server,network security,0.4722885414285714
+14_storm,storm-server,digital security,0.4711572642857143
+14_storm,storm-server,internet of things,0.47094641
+14_storm,storm-server,linear regression,0.47091187142857144
+14_storm,storm-server,artificial intelligence,0.4680092
+14_storm,storm-server,database management,0.46778167000000004
+14_storm,storm-server,web scraping,0.46774674857142856
+14_storm,storm-server,digital audio,0.46601362857142853
+14_storm,storm-server,cloud computing,0.46211557714285717
+14_storm,storm-server,network monitoring,0.45965458571428564
+14_storm,storm-server,computational biology,0.4590068014285715
+14_storm,storm-server,algorithm,0.45840531
+14_storm,storm-server,computational science,0.4574968685714286
+14_storm,storm-server,Q-learning,0.4568647214285714
+14_storm,storm-server,distributed database,0.4551114457142857
+14_storm,storm-server,pattern matching,0.4532582314285714
+14_storm,storm-server,support vector machine,0.45200717
+14_storm,storm-server,penetration test,0.45182483714285715
+14_storm,storm-server,machine learning,0.45038150285714285
+14_storm,storm-server,geographic information system,0.44983125
+14_storm,storm-server,simulation,0.4498081285714286
+14_storm,storm-server,word embedding,0.4488596028571428
+14_storm,storm-server,graph database,0.44731401428571427
+14_storm,storm-server,computer configuration,0.44592338714285723
+14_storm,storm-server,linear algebra,0.4448926542857143
+14_storm,storm-server,data structure,0.4430583757142857
+14_storm,storm-server,analytics,0.4429779485714285
+14_storm,storm-server,plot,0.44222098000000004
+14_storm,storm-server,Image analysis,0.44196750142857144
+14_storm,storm-server,signal processing,0.4410852057142858
+14_storm,storm-server,Kalman filter,0.44102853000000003
+14_storm,storm-server,data analysis,0.4403979071428571
+14_storm,storm-server,classification,0.43996942714285714
+14_storm,storm-server,graph algorithm,0.43577369571428565
+14_storm,storm-server,reinforcement learning,0.4346857800000001
+14_storm,storm-server,benchmark,0.4337399914285714
+14_storm,storm-server,computer vision,0.43354277571428573
+14_storm,storm-server,data science,0.4323179728571428
+14_storm,storm-server,big data,0.43137648999999995
+14_storm,storm-server,question answering,0.42902756000000003
+14_storm,storm-server,cluster analysis,0.42784218
+14_storm,storm-server,object–relational mapping,0.42762886999999994
+14_storm,storm-server,image recognition,0.42725231142857145
+14_storm,storm-server,time series,0.42664904000000003
+14_storm,storm-server,natural language processing,0.4263240814285715
+14_storm,storm-server,audio signal processing,0.4247648871428571
+14_storm,storm-server,digital image processing,0.42465624999999996
+14_storm,storm-server,long short-term memory,0.42326686714285716
+14_storm,storm-server,data visualization,0.4227364157142857
+14_storm,storm-server,sentiment analysis,0.4219619642857143
+14_storm,storm-server,lexical analysis,0.4217469957142857
+14_storm,storm-server,text classification,0.4200259385714286
+14_storm,storm-server,statistics,0.41932639714285713
+14_storm,storm-server,optical character recognition,0.41873220714285725
+14_storm,storm-server,image segmentation,0.41592993
+14_storm,storm-server,natural language understanding,0.41588608
+14_storm,storm-server,neural network,0.41412878857142854
+14_storm,storm-server,anomaly detection,0.4124151171428571
+14_storm,storm-server,object detection,0.4121411471428571
+14_storm,storm-server,data mining,0.40907342
+14_storm,storm-server,sorting algorithm,0.40631933857142855
+14_storm,storm-server,regular expression,0.40063255714285717
+14_storm,storm-server,face detection,0.39665046857142855
+14_storm,storm-server,deep learning,0.39523286142857145
+14_storm,storm-server,artificial neural network,0.3949015142857143
+14_storm,storm-server,facial recognition system,0.39353989571428577
+14_storm,storm-server,banking industry,0.38044667571428564

@@ -1,0 +1,116 @@
+project_name,module,domain,sim_score
+12_shenyu,shenyu-e2e,validator,0.6032565077777778
+12_shenyu,shenyu-e2e,static program analysis,0.5804429322222222
+12_shenyu,shenyu-e2e,HTTP client,0.5664729
+12_shenyu,shenyu-e2e,test automation,0.56211996
+12_shenyu,shenyu-e2e,unit testing,0.5560683522222223
+12_shenyu,shenyu-e2e,software testing,0.55233425
+12_shenyu,shenyu-e2e,smart contract,0.5507277722222222
+12_shenyu,shenyu-e2e,middleware,0.54432361
+12_shenyu,shenyu-e2e,scheduler,0.5425309144444443
+12_shenyu,shenyu-e2e,software engineering,0.53959724
+12_shenyu,shenyu-e2e,static site generator,0.5386514222222223
+12_shenyu,shenyu-e2e,client,0.5367414422222222
+12_shenyu,shenyu-e2e,back end,0.530634181111111
+12_shenyu,shenyu-e2e,web browser engine,0.5302744166666666
+12_shenyu,shenyu-e2e,Web Components,0.5292226988888888
+12_shenyu,shenyu-e2e,HTTP server,0.5279053766666667
+12_shenyu,shenyu-e2e,software development,0.5251659633333333
+12_shenyu,shenyu-e2e,authentication,0.5239654111111111
+12_shenyu,shenyu-e2e,compiler,0.5239223077777777
+12_shenyu,shenyu-e2e,pattern matching,0.5219037855555556
+12_shenyu,shenyu-e2e,dependency injection,0.5217452488888888
+12_shenyu,shenyu-e2e,game server,0.5200228344444445
+12_shenyu,shenyu-e2e,stream processing,0.5193972744444444
+12_shenyu,shenyu-e2e,server,0.51598193
+12_shenyu,shenyu-e2e,web service,0.5130735344444444
+12_shenyu,shenyu-e2e,serialization,0.5123523522222223
+12_shenyu,shenyu-e2e,web application,0.5123484166666666
+12_shenyu,shenyu-e2e,DevOps,0.5103699333333334
+12_shenyu,shenyu-e2e,web crawler,0.5095680611111111
+12_shenyu,shenyu-e2e,application performance management,0.5084532833333333
+12_shenyu,shenyu-e2e,automation,0.5076388722222223
+12_shenyu,shenyu-e2e,documentation,0.5065573266666666
+12_shenyu,shenyu-e2e,benchmark,0.5032202922222223
+12_shenyu,shenyu-e2e,continuous integration,0.5027532566666667
+12_shenyu,shenyu-e2e,web browser,0.5016477733333333
+12_shenyu,shenyu-e2e,synchronization,0.5014662944444445
+12_shenyu,shenyu-e2e,web server,0.5005865055555555
+12_shenyu,shenyu-e2e,File Transfer Protocol,0.49948444666666664
+12_shenyu,shenyu-e2e,microservices,0.49924749444444444
+12_shenyu,shenyu-e2e,distributed computing,0.49922071222222225
+12_shenyu,shenyu-e2e,web application security,0.4951132266666666
+12_shenyu,shenyu-e2e,penetration test,0.4950192411111111
+12_shenyu,shenyu-e2e,command-line interface,0.4932202077777778
+12_shenyu,shenyu-e2e,instant messaging,0.49266631999999994
+12_shenyu,shenyu-e2e,website,0.4925710077777778
+12_shenyu,shenyu-e2e,Containerization,0.49043680111111104
+12_shenyu,shenyu-e2e,WebSocket,0.4885829911111111
+12_shenyu,shenyu-e2e,Semantic Web,0.48798214999999995
+12_shenyu,shenyu-e2e,security,0.4879371966666667
+12_shenyu,shenyu-e2e,graphical user interface,0.48715156555555555
+12_shenyu,shenyu-e2e,distributed system,0.4843860144444445
+12_shenyu,shenyu-e2e,World Wide Web,0.48385307888888884
+12_shenyu,shenyu-e2e,syntax highlighting,0.48246131666666664
+12_shenyu,shenyu-e2e,chatbot,0.4821530033333333
+12_shenyu,shenyu-e2e,network monitoring,0.4818336722222221
+12_shenyu,shenyu-e2e,regular expression,0.48174686000000005
+12_shenyu,shenyu-e2e,user interface,0.4799980566666667
+12_shenyu,shenyu-e2e,information processing,0.4792797711111112
+12_shenyu,shenyu-e2e,network analysis,0.4784439544444445
+12_shenyu,shenyu-e2e,web scraping,0.4772341222222222
+12_shenyu,shenyu-e2e,password manager,0.47629440777777776
+12_shenyu,shenyu-e2e,logging,0.4760320411111111
+12_shenyu,shenyu-e2e,data,0.4756889333333334
+12_shenyu,shenyu-e2e,game engine,0.4756491888888889
+12_shenyu,shenyu-e2e,search,0.4753871911111111
+12_shenyu,shenyu-e2e,data binding,0.4747572588888889
+12_shenyu,shenyu-e2e,knowledge graph,0.47449105222222226
+12_shenyu,shenyu-e2e,language model,0.4741977555555555
+12_shenyu,shenyu-e2e,embedded system,0.4731043422222222
+12_shenyu,shenyu-e2e,algorithm,0.47174886111111114
+12_shenyu,shenyu-e2e,artificial intelligence,0.47115807666666665
+12_shenyu,shenyu-e2e,data compression,0.47082255555555563
+12_shenyu,shenyu-e2e,e-commerce,0.47067805111111116
+12_shenyu,shenyu-e2e,distributed database,0.46701062666666665
+12_shenyu,shenyu-e2e,database,0.4669205877777778
+12_shenyu,shenyu-e2e,package management system,0.46676357222222226
+12_shenyu,shenyu-e2e,content management system,0.4662373533333333
+12_shenyu,shenyu-e2e,data analysis,0.4634605411111111
+12_shenyu,shenyu-e2e,information extraction,0.4634581711111111
+12_shenyu,shenyu-e2e,classification,0.4629802155555556
+12_shenyu,shenyu-e2e,analytics,0.46292799333333334
+12_shenyu,shenyu-e2e,text processing,0.46260980222222225
+12_shenyu,shenyu-e2e,support vector machine,0.46219919
+12_shenyu,shenyu-e2e,regression analysis,0.45706567555555555
+12_shenyu,shenyu-e2e,streaming media,0.45615020444444443
+12_shenyu,shenyu-e2e,object–relational mapping,0.4558688111111111
+12_shenyu,shenyu-e2e,machine learning,0.45556305
+12_shenyu,shenyu-e2e,distributed multimedia communications platform,0.4555020633333333
+12_shenyu,shenyu-e2e,computer data storage,0.4480490144444444
+12_shenyu,shenyu-e2e,linear regression,0.44558283777777774
+12_shenyu,shenyu-e2e,data mining,0.4443681355555556
+12_shenyu,shenyu-e2e,linear algebra,0.44275318333333336
+12_shenyu,shenyu-e2e,education,0.43973696777777777
+12_shenyu,shenyu-e2e,search engine,0.43969647444444443
+12_shenyu,shenyu-e2e,neural network,0.43798772111111106
+12_shenyu,shenyu-e2e,data science,0.4358982155555556
+12_shenyu,shenyu-e2e,data structure,0.43580191
+12_shenyu,shenyu-e2e,cloud computing,0.43577232111111114
+12_shenyu,shenyu-e2e,long short-term memory,0.4331539533333333
+12_shenyu,shenyu-e2e,text classification,0.4328163877777778
+12_shenyu,shenyu-e2e,signal processing,0.4327349366666666
+12_shenyu,shenyu-e2e,big data,0.43198683
+12_shenyu,shenyu-e2e,digital security,0.4293356044444444
+12_shenyu,shenyu-e2e,graph database,0.4266837077777777
+12_shenyu,shenyu-e2e,deep learning,0.42467695666666666
+12_shenyu,shenyu-e2e,object detection,0.42423211
+12_shenyu,shenyu-e2e,geographic information system,0.42329871222222226
+12_shenyu,shenyu-e2e,time series,0.42048499333333333
+12_shenyu,shenyu-e2e,telecommunications network,0.41527798444444447
+12_shenyu,shenyu-e2e,recommender system,0.4138250511111112
+12_shenyu,shenyu-e2e,data visualization,0.41352994
+12_shenyu,shenyu-e2e,file system,0.41144877777777783
+12_shenyu,shenyu-e2e,operating system,0.4086156533333333
+12_shenyu,shenyu-e2e,audio signal processing,0.40544587
+12_shenyu,shenyu-e2e,word embedding,0.40292716444444443

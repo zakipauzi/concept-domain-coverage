@@ -1,0 +1,141 @@
+project_name,module,domain,sim_score
+01_dubbo,dubbo-compatible,HTTP client,0.60127888
+01_dubbo,dubbo-compatible,dependency injection,0.5679877
+01_dubbo,dubbo-compatible,HTTP server,0.5678844974999999
+01_dubbo,dubbo-compatible,middleware,0.5625156874999999
+01_dubbo,dubbo-compatible,reactive programming,0.55471469
+01_dubbo,dubbo-compatible,routing,0.5521696724999999
+01_dubbo,dubbo-compatible,web service,0.55099823875
+01_dubbo,dubbo-compatible,web server,0.5491254875
+01_dubbo,dubbo-compatible,web application,0.54759306875
+01_dubbo,dubbo-compatible,application performance management,0.54736893875
+01_dubbo,dubbo-compatible,WebSocket,0.5462387200000001
+01_dubbo,dubbo-compatible,Web Components,0.544955285
+01_dubbo,dubbo-compatible,web browser engine,0.5435351900000001
+01_dubbo,dubbo-compatible,command-line interface,0.5422920075
+01_dubbo,dubbo-compatible,stream processing,0.54206987
+01_dubbo,dubbo-compatible,back end,0.5376291275
+01_dubbo,dubbo-compatible,internet bot,0.5375177875
+01_dubbo,dubbo-compatible,game server,0.53739298
+01_dubbo,dubbo-compatible,web browser,0.53542845875
+01_dubbo,dubbo-compatible,scheduler,0.53512573125
+01_dubbo,dubbo-compatible,instant messaging,0.5340680449999999
+01_dubbo,dubbo-compatible,smart contract,0.53362301125
+01_dubbo,dubbo-compatible,static program analysis,0.5320805399999999
+01_dubbo,dubbo-compatible,File Transfer Protocol,0.5317496687500001
+01_dubbo,dubbo-compatible,static program analysis tool,0.53071270125
+01_dubbo,dubbo-compatible,graphical user interface,0.53001817
+01_dubbo,dubbo-compatible,router,0.5294429475
+01_dubbo,dubbo-compatible,server,0.5290267200000001
+01_dubbo,dubbo-compatible,user interface,0.5277759275
+01_dubbo,dubbo-compatible,distributed multimedia communications platform,0.52478497875
+01_dubbo,dubbo-compatible,static site generator,0.5236379074999999
+01_dubbo,dubbo-compatible,World Wide Web,0.52274729125
+01_dubbo,dubbo-compatible,network monitoring,0.5214021212500001
+01_dubbo,dubbo-compatible,serialization,0.5211701712500001
+01_dubbo,dubbo-compatible,front end,0.5208788200000001
+01_dubbo,dubbo-compatible,data binding,0.5178790124999999
+01_dubbo,dubbo-compatible,client,0.51361828
+01_dubbo,dubbo-compatible,microservices,0.51274608125
+01_dubbo,dubbo-compatible,distributed computing,0.50954273875
+01_dubbo,dubbo-compatible,web application security,0.50841298875
+01_dubbo,dubbo-compatible,automation,0.50718681125
+01_dubbo,dubbo-compatible,website,0.5066187025000001
+01_dubbo,dubbo-compatible,streaming media,0.50600834125
+01_dubbo,dubbo-compatible,distributed system,0.50441929
+01_dubbo,dubbo-compatible,information processing,0.50278842875
+01_dubbo,dubbo-compatible,"extract, transform, load",0.50024064
+01_dubbo,dubbo-compatible,synchronization,0.49942938375
+01_dubbo,dubbo-compatible,embedded system,0.49853258999999994
+01_dubbo,dubbo-compatible,content management system,0.49823654375
+01_dubbo,dubbo-compatible,Semantic Web,0.49738494499999997
+01_dubbo,dubbo-compatible,internet of things,0.4971984575
+01_dubbo,dubbo-compatible,telecommunications network,0.49668765125
+01_dubbo,dubbo-compatible,web crawler,0.49495078625
+01_dubbo,dubbo-compatible,interpreter,0.49302513875
+01_dubbo,dubbo-compatible,code generation,0.49251884874999996
+01_dubbo,dubbo-compatible,authentication,0.49185386499999995
+01_dubbo,dubbo-compatible,network analysis,0.4913982275
+01_dubbo,dubbo-compatible,pattern matching,0.49114554624999995
+01_dubbo,dubbo-compatible,unit testing,0.48892991249999995
+01_dubbo,dubbo-compatible,test automation,0.48575871125000003
+01_dubbo,dubbo-compatible,natural language,0.48428937625
+01_dubbo,dubbo-compatible,logging,0.48396960875
+01_dubbo,dubbo-compatible,language model,0.48377253124999997
+01_dubbo,dubbo-compatible,data,0.48360854249999996
+01_dubbo,dubbo-compatible,validator,0.48358749625
+01_dubbo,dubbo-compatible,geographic information system,0.4832737875
+01_dubbo,dubbo-compatible,malware,0.48205711500000004
+01_dubbo,dubbo-compatible,password manager,0.48202728125
+01_dubbo,dubbo-compatible,security,0.48183784124999995
+01_dubbo,dubbo-compatible,compiler,0.4815430625
+01_dubbo,dubbo-compatible,package management system,0.48047490875
+01_dubbo,dubbo-compatible,web development,0.47982835375
+01_dubbo,dubbo-compatible,shell tool,0.47958229750000003
+01_dubbo,dubbo-compatible,object–relational mapping,0.4778966312499999
+01_dubbo,dubbo-compatible,software development,0.47699519125
+01_dubbo,dubbo-compatible,text processing,0.47696408500000004
+01_dubbo,dubbo-compatible,Bayesian inference,0.4746474775
+01_dubbo,dubbo-compatible,search,0.473546075
+01_dubbo,dubbo-compatible,web scraping,0.47331419750000003
+01_dubbo,dubbo-compatible,mobile application development,0.47264007875
+01_dubbo,dubbo-compatible,electronic trading platform,0.47262766999999994
+01_dubbo,dubbo-compatible,backup,0.47148227875
+01_dubbo,dubbo-compatible,distributed database,0.469421985
+01_dubbo,dubbo-compatible,design,0.46876373375
+01_dubbo,dubbo-compatible,cloud computing,0.46801562125
+01_dubbo,dubbo-compatible,information retrieval,0.46792817
+01_dubbo,dubbo-compatible,debugging,0.4665714775
+01_dubbo,dubbo-compatible,blockchain,0.46615071125
+01_dubbo,dubbo-compatible,game engine,0.46327387625
+01_dubbo,dubbo-compatible,software testing,0.46311603999999995
+01_dubbo,dubbo-compatible,data compression,0.46210627875
+01_dubbo,dubbo-compatible,e-commerce,0.46155029999999997
+01_dubbo,dubbo-compatible,business dashboard,0.46106203
+01_dubbo,dubbo-compatible,database,0.4609508925
+01_dubbo,dubbo-compatible,encryption,0.459981415
+01_dubbo,dubbo-compatible,benchmark,0.45812436
+01_dubbo,dubbo-compatible,support vector machine,0.45770798874999996
+01_dubbo,dubbo-compatible,computer data storage,0.45709385
+01_dubbo,dubbo-compatible,image,0.456154955
+01_dubbo,dubbo-compatible,computer configuration,0.45543506625
+01_dubbo,dubbo-compatible,signal processing,0.453549835
+01_dubbo,dubbo-compatible,linear regression,0.4535103775
+01_dubbo,dubbo-compatible,image captioning,0.4527554575
+01_dubbo,dubbo-compatible,penetration test,0.45112752875
+01_dubbo,dubbo-compatible,transfer learning,0.44980094
+01_dubbo,dubbo-compatible,algorithm,0.44958246
+01_dubbo,dubbo-compatible,regression analysis,0.4476645375
+01_dubbo,dubbo-compatible,analytics,0.44673216125000004
+01_dubbo,dubbo-compatible,database management,0.44636791625
+01_dubbo,dubbo-compatible,recommender system,0.44359506875
+01_dubbo,dubbo-compatible,plot,0.44322009375000004
+01_dubbo,dubbo-compatible,Malware Analysis,0.44152156625
+01_dubbo,dubbo-compatible,cluster analysis,0.4404297625
+01_dubbo,dubbo-compatible,time series,0.43846141375000003
+01_dubbo,dubbo-compatible,data analysis,0.43791471875
+01_dubbo,dubbo-compatible,audio signal processing,0.4345093875
+01_dubbo,dubbo-compatible,text classification,0.43439016125
+01_dubbo,dubbo-compatible,digital security,0.434167695
+01_dubbo,dubbo-compatible,digital audio,0.43345982125
+01_dubbo,dubbo-compatible,data science,0.43345472
+01_dubbo,dubbo-compatible,algorithmic trading,0.43275748
+01_dubbo,dubbo-compatible,operating system,0.43203021500000005
+01_dubbo,dubbo-compatible,big data,0.4264965425
+01_dubbo,dubbo-compatible,data structure,0.42566334000000006
+01_dubbo,dubbo-compatible,graph database,0.42552121125
+01_dubbo,dubbo-compatible,file system,0.42283111874999996
+01_dubbo,dubbo-compatible,image recognition,0.4223451625
+01_dubbo,dubbo-compatible,deep neural network,0.41985842250000005
+01_dubbo,dubbo-compatible,digital image processing,0.41973096875000004
+01_dubbo,dubbo-compatible,object detection,0.41922360875
+01_dubbo,dubbo-compatible,computer vision,0.4190399575
+01_dubbo,dubbo-compatible,cryptocurrency,0.41803413375
+01_dubbo,dubbo-compatible,data visualization,0.4177234525
+01_dubbo,dubbo-compatible,face detection,0.41583360625
+01_dubbo,dubbo-compatible,topic modeling,0.4123033825
+01_dubbo,dubbo-compatible,regular expression,0.41126580375
+01_dubbo,dubbo-compatible,word embedding,0.40955941375
+01_dubbo,dubbo-compatible,sorting algorithm,0.40807482875
+01_dubbo,dubbo-compatible,facial recognition system,0.39628007625
+01_dubbo,dubbo-compatible,stock market,0.38929436375

@@ -1,0 +1,15 @@
+project_name,module,domain,sim_score
+08_pulsar,pulsar-sql,data,0.5558168211111112
+08_pulsar,pulsar-sql,database,0.4584187511111111
+08_pulsar,pulsar-sql,client,0.31181595666666667
+08_pulsar,pulsar-sql,server,0.29049848111111115
+08_pulsar,pulsar-sql,translation,0.2059978583333333
+08_pulsar,pulsar-sql,serialization,0.16896362711111113
+08_pulsar,pulsar-sql,synchronization,0.16319766966666668
+08_pulsar,pulsar-sql,backup,0.14336888488888888
+08_pulsar,pulsar-sql,validator,0.13223453211111114
+08_pulsar,pulsar-sql,design,0.12900860733333333
+08_pulsar,pulsar-sql,compiler,0.11793745866666666
+08_pulsar,pulsar-sql,logging,0.09662069933333334
+08_pulsar,pulsar-sql,analytics,0.07822058142222223
+08_pulsar,pulsar-sql,microservices,0.04069790933333333

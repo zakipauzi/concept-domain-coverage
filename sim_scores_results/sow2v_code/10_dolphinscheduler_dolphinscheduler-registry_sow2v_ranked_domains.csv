@@ -1,0 +1,15 @@
+project_name,module,domain,sim_score
+10_dolphinscheduler,dolphinscheduler-registry,database,0.50493232625
+10_dolphinscheduler,dolphinscheduler-registry,server,0.465024365
+10_dolphinscheduler,dolphinscheduler-registry,client,0.44949415875
+10_dolphinscheduler,dolphinscheduler-registry,data,0.42347518375000004
+10_dolphinscheduler,dolphinscheduler-registry,authentication,0.252835522875
+10_dolphinscheduler,dolphinscheduler-registry,middleware,0.24943969099999996
+10_dolphinscheduler,dolphinscheduler-registry,logging,0.24110619
+10_dolphinscheduler,dolphinscheduler-registry,security,0.22836503425
+10_dolphinscheduler,dolphinscheduler-registry,search,0.17100219075
+10_dolphinscheduler,dolphinscheduler-registry,translation,0.1260710162875
+10_dolphinscheduler,dolphinscheduler-registry,analytics,0.125650953625
+10_dolphinscheduler,dolphinscheduler-registry,microservices,0.11871738625
+10_dolphinscheduler,dolphinscheduler-registry,website,0.081031639875
+10_dolphinscheduler,dolphinscheduler-registry,automation,0.024622927625

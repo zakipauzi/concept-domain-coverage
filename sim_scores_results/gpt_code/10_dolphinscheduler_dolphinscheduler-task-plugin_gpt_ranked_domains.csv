@@ -1,0 +1,151 @@
+project_name,module,domain,sim_score
+10_dolphinscheduler,dolphinscheduler-task-plugin,code generation,0.7399094478808124
+10_dolphinscheduler,dolphinscheduler-task-plugin,test automation,0.7376246525006631
+10_dolphinscheduler,dolphinscheduler-task-plugin,schema migration,0.7333788400329789
+10_dolphinscheduler,dolphinscheduler-task-plugin,unit testing,0.7332453967599551
+10_dolphinscheduler,dolphinscheduler-task-plugin,hyperparameter optimization,0.7316129182729937
+10_dolphinscheduler,dolphinscheduler-task-plugin,command-line interface,0.7304056284871483
+10_dolphinscheduler,dolphinscheduler-task-plugin,data binding,0.7292599890502044
+10_dolphinscheduler,dolphinscheduler-task-plugin,database,0.728131983356056
+10_dolphinscheduler,dolphinscheduler-task-plugin,scheduler,0.7273767562170205
+10_dolphinscheduler,dolphinscheduler-task-plugin,data structure,0.7270010057052594
+10_dolphinscheduler,dolphinscheduler-task-plugin,data,0.7269349077931242
+10_dolphinscheduler,dolphinscheduler-task-plugin,user interface,0.7267114890174863
+10_dolphinscheduler,dolphinscheduler-task-plugin,image,0.7259257759082041
+10_dolphinscheduler,dolphinscheduler-task-plugin,benchmark,0.725892258988497
+10_dolphinscheduler,dolphinscheduler-task-plugin,dependency injection,0.7250794636437534
+10_dolphinscheduler,dolphinscheduler-task-plugin,shell tool,0.7239097521946289
+10_dolphinscheduler,dolphinscheduler-task-plugin,pattern matching,0.7236804081882344
+10_dolphinscheduler,dolphinscheduler-task-plugin,compiler,0.7236533317214531
+10_dolphinscheduler,dolphinscheduler-task-plugin,static program analysis tool,0.7234973754594114
+10_dolphinscheduler,dolphinscheduler-task-plugin,interpreter,0.723446707273359
+10_dolphinscheduler,dolphinscheduler-task-plugin,middleware,0.7234304850142341
+10_dolphinscheduler,dolphinscheduler-task-plugin,automation,0.7230668695853537
+10_dolphinscheduler,dolphinscheduler-task-plugin,client,0.7229735835965555
+10_dolphinscheduler,dolphinscheduler-task-plugin,software testing,0.721752539752218
+10_dolphinscheduler,dolphinscheduler-task-plugin,algorithm,0.7215051055985855
+10_dolphinscheduler,dolphinscheduler-task-plugin,server,0.7214255976233214
+10_dolphinscheduler,dolphinscheduler-task-plugin,DevOps,0.7214217277609243
+10_dolphinscheduler,dolphinscheduler-task-plugin,web crawler,0.720813023101966
+10_dolphinscheduler,dolphinscheduler-task-plugin,data visualization,0.720796447448234
+10_dolphinscheduler,dolphinscheduler-task-plugin,stream processing,0.7204222046636812
+10_dolphinscheduler,dolphinscheduler-task-plugin,software development,0.7198290180616808
+10_dolphinscheduler,dolphinscheduler-task-plugin,backup,0.7189200317241251
+10_dolphinscheduler,dolphinscheduler-task-plugin,WebSocket,0.7184775203309606
+10_dolphinscheduler,dolphinscheduler-task-plugin,internet bot,0.7181135936941874
+10_dolphinscheduler,dolphinscheduler-task-plugin,static program analysis,0.7175634104716926
+10_dolphinscheduler,dolphinscheduler-task-plugin,search,0.7175380243044058
+10_dolphinscheduler,dolphinscheduler-task-plugin,parsing,0.7172015069820035
+10_dolphinscheduler,dolphinscheduler-task-plugin,web scraping,0.7171143848970334
+10_dolphinscheduler,dolphinscheduler-task-plugin,web application,0.7168829550961602
+10_dolphinscheduler,dolphinscheduler-task-plugin,analytics,0.7168786896154374
+10_dolphinscheduler,dolphinscheduler-task-plugin,synchronization,0.7167421106515687
+10_dolphinscheduler,dolphinscheduler-task-plugin,web service,0.7164853539490473
+10_dolphinscheduler,dolphinscheduler-task-plugin,email,0.71640882569902
+10_dolphinscheduler,dolphinscheduler-task-plugin,continuous deployment,0.7157548275339898
+10_dolphinscheduler,dolphinscheduler-task-plugin,validator,0.7157166470949071
+10_dolphinscheduler,dolphinscheduler-task-plugin,plot,0.7156932222387792
+10_dolphinscheduler,dolphinscheduler-task-plugin,mobile application development,0.715281142889483
+10_dolphinscheduler,dolphinscheduler-task-plugin,HTTP client,0.7151323051122709
+10_dolphinscheduler,dolphinscheduler-task-plugin,translation,0.7150749739237077
+10_dolphinscheduler,dolphinscheduler-task-plugin,data analysis,0.7146997807980896
+10_dolphinscheduler,dolphinscheduler-task-plugin,data mining,0.7146159417964548
+10_dolphinscheduler,dolphinscheduler-task-plugin,language model,0.7145329507072049
+10_dolphinscheduler,dolphinscheduler-task-plugin,database management,0.7144407446350396
+10_dolphinscheduler,dolphinscheduler-task-plugin,object–relational mapping,0.714320071769879
+10_dolphinscheduler,dolphinscheduler-task-plugin,Parser combinator,0.7141498806442681
+10_dolphinscheduler,dolphinscheduler-task-plugin,text processing,0.7139065118394815
+10_dolphinscheduler,dolphinscheduler-task-plugin,machine learning,0.7133398352712852
+10_dolphinscheduler,dolphinscheduler-task-plugin,visualization,0.7130133633101438
+10_dolphinscheduler,dolphinscheduler-task-plugin,website,0.7127179781328721
+10_dolphinscheduler,dolphinscheduler-task-plugin,data science,0.7124746914864368
+10_dolphinscheduler,dolphinscheduler-task-plugin,application performance management,0.7124216437526378
+10_dolphinscheduler,dolphinscheduler-task-plugin,serialization,0.7122998918982807
+10_dolphinscheduler,dolphinscheduler-task-plugin,file system,0.7122744197662741
+10_dolphinscheduler,dolphinscheduler-task-plugin,data compression,0.7120864488403984
+10_dolphinscheduler,dolphinscheduler-task-plugin,network monitoring,0.711426720627371
+10_dolphinscheduler,dolphinscheduler-task-plugin,web server,0.7110571613912535
+10_dolphinscheduler,dolphinscheduler-task-plugin,continuous delivery,0.7109498593432295
+10_dolphinscheduler,dolphinscheduler-task-plugin,computer configuration,0.7105421421752043
+10_dolphinscheduler,dolphinscheduler-task-plugin,static site generator,0.7103940565686524
+10_dolphinscheduler,dolphinscheduler-task-plugin,automated machine learning,0.7102881787594513
+10_dolphinscheduler,dolphinscheduler-task-plugin,time series,0.7099875928922685
+10_dolphinscheduler,dolphinscheduler-task-plugin,logging,0.7099834977336343
+10_dolphinscheduler,dolphinscheduler-task-plugin,graphical user interface,0.7099685748034663
+10_dolphinscheduler,dolphinscheduler-task-plugin,text editor,0.7099350147437706
+10_dolphinscheduler,dolphinscheduler-task-plugin,distributed system,0.7097695832339459
+10_dolphinscheduler,dolphinscheduler-task-plugin,text classification,0.709340842631726
+10_dolphinscheduler,dolphinscheduler-task-plugin,image compression,0.7092362425321304
+10_dolphinscheduler,dolphinscheduler-task-plugin,question answering,0.7084322501045633
+10_dolphinscheduler,dolphinscheduler-task-plugin,streaming media,0.7083051781859901
+10_dolphinscheduler,dolphinscheduler-task-plugin,instant messaging,0.7077403637570006
+10_dolphinscheduler,dolphinscheduler-task-plugin,image captioning,0.7076411335637133
+10_dolphinscheduler,dolphinscheduler-task-plugin,game server,0.7072902867446328
+10_dolphinscheduler,dolphinscheduler-task-plugin,package management system,0.706972765308679
+10_dolphinscheduler,dolphinscheduler-task-plugin,continuous integration,0.7068333619385656
+10_dolphinscheduler,dolphinscheduler-task-plugin,smart contract,0.7065707177401002
+10_dolphinscheduler,dolphinscheduler-task-plugin,big data,0.7065021900496471
+10_dolphinscheduler,dolphinscheduler-task-plugin,distributed multimedia communications platform,0.7062219731854298
+10_dolphinscheduler,dolphinscheduler-task-plugin,File Transfer Protocol,0.7061317641585482
+10_dolphinscheduler,dolphinscheduler-task-plugin,HTTP server,0.7056674787117669
+10_dolphinscheduler,dolphinscheduler-task-plugin,text mining,0.7053337631438499
+10_dolphinscheduler,dolphinscheduler-task-plugin,information processing,0.7050117175063513
+10_dolphinscheduler,dolphinscheduler-task-plugin,web application security,0.704620620849548
+10_dolphinscheduler,dolphinscheduler-task-plugin,game engine,0.7045219886497616
+10_dolphinscheduler,dolphinscheduler-task-plugin,authentication,0.7037450533198342
+10_dolphinscheduler,dolphinscheduler-task-plugin,e-commerce,0.7034676410575843
+10_dolphinscheduler,dolphinscheduler-task-plugin,sorting algorithm,0.7034488312760827
+10_dolphinscheduler,dolphinscheduler-task-plugin,penetration test,0.7033424504993361
+10_dolphinscheduler,dolphinscheduler-task-plugin,design,0.7032752478254131
+10_dolphinscheduler,dolphinscheduler-task-plugin,security,0.7031939529446889
+10_dolphinscheduler,dolphinscheduler-task-plugin,graph database,0.703189377560738
+10_dolphinscheduler,dolphinscheduler-task-plugin,microservices,0.7028824894545295
+10_dolphinscheduler,dolphinscheduler-task-plugin,regular expression,0.7028325151529287
+10_dolphinscheduler,dolphinscheduler-task-plugin,image recognition,0.7024516879997913
+10_dolphinscheduler,dolphinscheduler-task-plugin,encryption,0.7023639017741145
+10_dolphinscheduler,dolphinscheduler-task-plugin,Web Components,0.7021232391539107
+10_dolphinscheduler,dolphinscheduler-task-plugin,distributed database,0.7018932781161937
+10_dolphinscheduler,dolphinscheduler-task-plugin,signal processing,0.7017886405918028
+10_dolphinscheduler,dolphinscheduler-task-plugin,regression analysis,0.7017849722713767
+10_dolphinscheduler,dolphinscheduler-task-plugin,network analysis,0.701151166357401
+10_dolphinscheduler,dolphinscheduler-task-plugin,content management system,0.7007285311776605
+10_dolphinscheduler,dolphinscheduler-task-plugin,Image analysis,0.7004756731320947
+10_dolphinscheduler,dolphinscheduler-task-plugin,distributed computing,0.7002214847544475
+10_dolphinscheduler,dolphinscheduler-task-plugin,front end,0.700179427350758
+10_dolphinscheduler,dolphinscheduler-task-plugin,password manager,0.7000374246815121
+10_dolphinscheduler,dolphinscheduler-task-plugin,Kalman filter,0.7000233732449799
+10_dolphinscheduler,dolphinscheduler-task-plugin,word embedding,0.6998299179402847
+10_dolphinscheduler,dolphinscheduler-task-plugin,operating system,0.6992306990964725
+10_dolphinscheduler,dolphinscheduler-task-plugin,linear regression,0.6989639917017614
+10_dolphinscheduler,dolphinscheduler-task-plugin,recommender system,0.6988856998986073
+10_dolphinscheduler,dolphinscheduler-task-plugin,back end,0.6988768037806586
+10_dolphinscheduler,dolphinscheduler-task-plugin,computer vision,0.6984425908122526
+10_dolphinscheduler,dolphinscheduler-task-plugin,object detection,0.6982295434649749
+10_dolphinscheduler,dolphinscheduler-task-plugin,computer data storage,0.698046014682225
+10_dolphinscheduler,dolphinscheduler-task-plugin,convolutional neural network,0.6977028853534943
+10_dolphinscheduler,dolphinscheduler-task-plugin,natural language,0.6967624412047015
+10_dolphinscheduler,dolphinscheduler-task-plugin,cloud computing,0.6966838715470944
+10_dolphinscheduler,dolphinscheduler-task-plugin,blockchain,0.6963811836147159
+10_dolphinscheduler,dolphinscheduler-task-plugin,support vector machine,0.6961092585139286
+10_dolphinscheduler,dolphinscheduler-task-plugin,artificial intelligence,0.6952876025221099
+10_dolphinscheduler,dolphinscheduler-task-plugin,reinforcement learning,0.6948347472225271
+10_dolphinscheduler,dolphinscheduler-task-plugin,3D modeling,0.6936911260653353
+10_dolphinscheduler,dolphinscheduler-task-plugin,artificial neural network,0.6933567003362833
+10_dolphinscheduler,dolphinscheduler-task-plugin,computational science,0.6930682774663317
+10_dolphinscheduler,dolphinscheduler-task-plugin,web browser,0.6924353652010671
+10_dolphinscheduler,dolphinscheduler-task-plugin,digital image processing,0.6920015023862414
+10_dolphinscheduler,dolphinscheduler-task-plugin,embedded system,0.6909604030922893
+10_dolphinscheduler,dolphinscheduler-task-plugin,cryptography,0.6899617352722627
+10_dolphinscheduler,dolphinscheduler-task-plugin,web browser engine,0.6897681889506184
+10_dolphinscheduler,dolphinscheduler-task-plugin,audio signal processing,0.6896414116035328
+10_dolphinscheduler,dolphinscheduler-task-plugin,facial recognition system,0.6887244841483517
+10_dolphinscheduler,dolphinscheduler-task-plugin,cluster analysis,0.685471598258299
+10_dolphinscheduler,dolphinscheduler-task-plugin,face detection,0.6854624396731213
+10_dolphinscheduler,dolphinscheduler-task-plugin,computational biology,0.6851702409713081
+10_dolphinscheduler,dolphinscheduler-task-plugin,telecommunications network,0.6843882265326284
+10_dolphinscheduler,dolphinscheduler-task-plugin,optical character recognition,0.6838554416216505
+10_dolphinscheduler,dolphinscheduler-task-plugin,geographic information system,0.6829516291980438
+10_dolphinscheduler,dolphinscheduler-task-plugin,stock market,0.6819904926001996
+10_dolphinscheduler,dolphinscheduler-task-plugin,digital security,0.6797774082471092
+10_dolphinscheduler,dolphinscheduler-task-plugin,World Wide Web,0.6771134754789319
+10_dolphinscheduler,dolphinscheduler-task-plugin,digital audio,0.6720677158955943

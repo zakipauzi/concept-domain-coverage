@@ -1,0 +1,112 @@
+project_name,module,domain,sim_score
+04_rocketmq,client,instant messaging,0.5756827928571429
+04_rocketmq,client,HTTP client,0.5744212857142857
+04_rocketmq,client,distributed system,0.5608706185714285
+04_rocketmq,client,middleware,0.5532095742857143
+04_rocketmq,client,stream processing,0.5523738771428571
+04_rocketmq,client,distributed computing,0.5504062128571429
+04_rocketmq,client,client,0.5486828
+04_rocketmq,client,game server,0.5462023757142858
+04_rocketmq,client,application performance management,0.54497593
+04_rocketmq,client,smart contract,0.5445569485714286
+04_rocketmq,client,internet bot,0.5425521842857143
+04_rocketmq,client,server,0.5422686771428572
+04_rocketmq,client,scheduler,0.5411780057142856
+04_rocketmq,client,File Transfer Protocol,0.5408875428571428
+04_rocketmq,client,distributed multimedia communications platform,0.5402310542857143
+04_rocketmq,client,WebSocket,0.5399431328571429
+04_rocketmq,client,microservices,0.5363690028571428
+04_rocketmq,client,HTTP server,0.5357891885714285
+04_rocketmq,client,back end,0.5319187728571428
+04_rocketmq,client,serialization,0.5306275285714286
+04_rocketmq,client,web service,0.5302197014285714
+04_rocketmq,client,static program analysis,0.5269290514285714
+04_rocketmq,client,Parser combinator,0.5227392328571427
+04_rocketmq,client,synchronization,0.5210734685714286
+04_rocketmq,client,streaming media,0.5194355757142858
+04_rocketmq,client,web server,0.51434499
+04_rocketmq,client,web browser engine,0.5132638214285714
+04_rocketmq,client,router,0.5118118957142858
+04_rocketmq,client,command-line interface,0.5117166885714285
+04_rocketmq,client,information processing,0.5101946657142857
+04_rocketmq,client,logging,0.5069331414285715
+04_rocketmq,client,language model,0.5059710728571429
+04_rocketmq,client,email,0.5043110185714286
+04_rocketmq,client,benchmark,0.5005727942857142
+04_rocketmq,client,unit testing,0.49933696285714285
+04_rocketmq,client,telecommunications network,0.4991322271428572
+04_rocketmq,client,continuous integration,0.49832545999999994
+04_rocketmq,client,test automation,0.4980978228571429
+04_rocketmq,client,distributed database,0.49673376142857145
+04_rocketmq,client,embedded system,0.49658116857142864
+04_rocketmq,client,blockchain,0.49582707571428564
+04_rocketmq,client,automation,0.49341365857142855
+04_rocketmq,client,content management system,0.4931101314285714
+04_rocketmq,client,front end,0.49196623142857143
+04_rocketmq,client,data,0.4908038685714286
+04_rocketmq,client,pattern matching,0.4904982685714286
+04_rocketmq,client,data compression,0.49007487
+04_rocketmq,client,package management system,0.4890677371428572
+04_rocketmq,client,backup,0.48877801
+04_rocketmq,client,software testing,0.48584214
+04_rocketmq,client,text processing,0.48318770571428565
+04_rocketmq,client,user interface,0.48201811999999994
+04_rocketmq,client,World Wide Web,0.4800015100000001
+04_rocketmq,client,question answering,0.47845943
+04_rocketmq,client,graphical user interface,0.4779483785714286
+04_rocketmq,client,web application,0.47755669142857143
+04_rocketmq,client,validator,0.4770216428571429
+04_rocketmq,client,Web Components,0.4766781871428571
+04_rocketmq,client,cloud computing,0.4744868914285715
+04_rocketmq,client,algorithm,0.4711442085714285
+04_rocketmq,client,game engine,0.4695076614285714
+04_rocketmq,client,computer data storage,0.46810943
+04_rocketmq,client,penetration test,0.46807386428571424
+04_rocketmq,client,data binding,0.46743191
+04_rocketmq,client,machine learning,0.46526658571428575
+04_rocketmq,client,big data,0.46507735142857143
+04_rocketmq,client,password manager,0.4630807128571429
+04_rocketmq,client,website,0.4616612057142858
+04_rocketmq,client,analytics,0.4612679157142857
+04_rocketmq,client,plot,0.46107410571428575
+04_rocketmq,client,Semantic Web,0.46070682714285704
+04_rocketmq,client,random forest,0.45933678
+04_rocketmq,client,long short-term memory,0.45881395714285717
+04_rocketmq,client,authentication,0.45791366714285714
+04_rocketmq,client,translation,0.45759214000000004
+04_rocketmq,client,signal processing,0.4554683228571429
+04_rocketmq,client,security,0.4547184257142858
+04_rocketmq,client,text editor,0.45274237285714286
+04_rocketmq,client,information extraction,0.4527342000000001
+04_rocketmq,client,text classification,0.4524306757142857
+04_rocketmq,client,encryption,0.45105244714285714
+04_rocketmq,client,regression analysis,0.4506196400000001
+04_rocketmq,client,time series,0.44717905999999996
+04_rocketmq,client,knowledge graph,0.4462976
+04_rocketmq,client,support vector machine,0.4462966228571429
+04_rocketmq,client,mobile application development,0.44590212
+04_rocketmq,client,web scraping,0.4447463585714285
+04_rocketmq,client,data science,0.4443255742857143
+04_rocketmq,client,audio signal processing,0.4443161414285714
+04_rocketmq,client,data mining,0.44227542714285717
+04_rocketmq,client,artificial neural network,0.43996064571428567
+04_rocketmq,client,operating system,0.4396801
+04_rocketmq,client,recommender system,0.4386396457142857
+04_rocketmq,client,computer configuration,0.4384536071428572
+04_rocketmq,client,file system,0.4363729028571428
+04_rocketmq,client,web application security,0.4356511828571428
+04_rocketmq,client,data structure,0.43088217
+04_rocketmq,client,database,0.42915788
+04_rocketmq,client,convolutional neural network,0.42220756285714284
+04_rocketmq,client,geographic information system,0.4219189142857144
+04_rocketmq,client,database management,0.42068455714285713
+04_rocketmq,client,sorting algorithm,0.42057364142857134
+04_rocketmq,client,graph database,0.4163558985714286
+04_rocketmq,client,3D modeling,0.3988045214285715
+04_rocketmq,client,image recognition,0.3935643571428571
+04_rocketmq,client,optical character recognition,0.3926771314285714
+04_rocketmq,client,computer vision,0.3923708285714286
+04_rocketmq,client,object detection,0.3919679185714286
+04_rocketmq,client,face detection,0.38969017428571423
+04_rocketmq,client,regular expression,0.3871039457142857
+04_rocketmq,client,facial recognition system,0.37723065428571434

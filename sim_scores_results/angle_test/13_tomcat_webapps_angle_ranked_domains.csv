@@ -1,0 +1,182 @@
+project_name,module,domain,sim_score
+13_tomcat,webapps,web application,0.609297085
+13_tomcat,webapps,HTTP client,0.5850054283333334
+13_tomcat,webapps,Web Components,0.5793706583333333
+13_tomcat,webapps,web application security,0.5735880566666667
+13_tomcat,webapps,web browser,0.572784445
+13_tomcat,webapps,web crawler,0.5696445916666667
+13_tomcat,webapps,web scraping,0.569431485
+13_tomcat,webapps,web service,0.56799396
+13_tomcat,webapps,web browser engine,0.5602362350000001
+13_tomcat,webapps,"extract, transform, load",0.560051075
+13_tomcat,webapps,serialization,0.5589317016666667
+13_tomcat,webapps,HTTP server,0.555800325
+13_tomcat,webapps,data binding,0.5532031
+13_tomcat,webapps,front end,0.5509022383333333
+13_tomcat,webapps,data,0.5474065
+13_tomcat,webapps,website,0.5448758916666666
+13_tomcat,webapps,static site generator,0.5375249083333333
+13_tomcat,webapps,regular expression,0.53690952
+13_tomcat,webapps,stream processing,0.53679446
+13_tomcat,webapps,data compression,0.53565228
+13_tomcat,webapps,web server,0.5329054183333333
+13_tomcat,webapps,image,0.5278041066666667
+13_tomcat,webapps,information retrieval,0.5256737166666667
+13_tomcat,webapps,pattern matching,0.5229818266666667
+13_tomcat,webapps,authentication,0.5202838566666667
+13_tomcat,webapps,back end,0.5199239533333333
+13_tomcat,webapps,geographic information,0.5189128816666667
+13_tomcat,webapps,graphical user interface,0.5161769916666666
+13_tomcat,webapps,World Wide Web,0.5160299416666666
+13_tomcat,webapps,data structure,0.5126397283333334
+13_tomcat,webapps,user interface,0.512306645
+13_tomcat,webapps,text processing,0.511574345
+13_tomcat,webapps,natural language,0.5109884016666666
+13_tomcat,webapps,bioinformatics,0.5094783883333333
+13_tomcat,webapps,image compression,0.507147825
+13_tomcat,webapps,image captioning,0.5059696116666667
+13_tomcat,webapps,Semantic Web,0.5043328399999999
+13_tomcat,webapps,e-commerce,0.5039313016666667
+13_tomcat,webapps,content management system,0.5029043483333333
+13_tomcat,webapps,static program analysis,0.501338725
+13_tomcat,webapps,named-entity recognition,0.5009077183333334
+13_tomcat,webapps,internet bot,0.4988198416666667
+13_tomcat,webapps,client,0.49743296333333337
+13_tomcat,webapps,optical character recognition,0.4958290783333333
+13_tomcat,webapps,linear regression,0.4956147833333333
+13_tomcat,webapps,server,0.4952008866666667
+13_tomcat,webapps,support vector machine,0.49465148166666667
+13_tomcat,webapps,machine translation,0.4944940483333333
+13_tomcat,webapps,font,0.493922875
+13_tomcat,webapps,kernel,0.49368759
+13_tomcat,webapps,validator,0.49361668500000005
+13_tomcat,webapps,encryption,0.49361206333333324
+13_tomcat,webapps,code generation,0.49251867499999996
+13_tomcat,webapps,middleware,0.4919798833333333
+13_tomcat,webapps,object-oriented programming,0.4918844949999999
+13_tomcat,webapps,instant messaging,0.491560655
+13_tomcat,webapps,application performance management,0.4891706966666667
+13_tomcat,webapps,question answering,0.48841906166666665
+13_tomcat,webapps,File Transfer Protocol,0.48825129999999994
+13_tomcat,webapps,security,0.48763765
+13_tomcat,webapps,random forest,0.48750556333333334
+13_tomcat,webapps,database,0.4864189616666667
+13_tomcat,webapps,email,0.4845719383333333
+13_tomcat,webapps,natural language processing,0.4841209683333334
+13_tomcat,webapps,software engineering,0.4840697166666667
+13_tomcat,webapps,dependency injection,0.48331583
+13_tomcat,webapps,documentation,0.4823978199999999
+13_tomcat,webapps,WebSocket,0.4822994583333333
+13_tomcat,webapps,reactive programming,0.48196417166666666
+13_tomcat,webapps,game,0.48182515666666664
+13_tomcat,webapps,unit testing,0.47942147833333326
+13_tomcat,webapps,computer data storage,0.478953065
+13_tomcat,webapps,statistics,0.47737334333333337
+13_tomcat,webapps,game server,0.477076325
+13_tomcat,webapps,language model,0.4768695216666667
+13_tomcat,webapps,data analysis,0.47656199499999996
+13_tomcat,webapps,scheduler,0.47637271333333336
+13_tomcat,webapps,object–relational mapping,0.47594451666666665
+13_tomcat,webapps,algorithm,0.4759105483333333
+13_tomcat,webapps,sentiment analysis,0.4746244833333333
+13_tomcat,webapps,text classification,0.4745957166666666
+13_tomcat,webapps,artificial intelligence,0.4738589183333333
+13_tomcat,webapps,logging,0.47273595500000004
+13_tomcat,webapps,text editor,0.4725630783333334
+13_tomcat,webapps,speech recognition,0.47241742833333333
+13_tomcat,webapps,password manager,0.47130753666666664
+13_tomcat,webapps,design,0.46778160333333335
+13_tomcat,webapps,streaming media,0.46732541833333335
+13_tomcat,webapps,computer programming,0.4669103833333333
+13_tomcat,webapps,genomics,0.4654586783333334
+13_tomcat,webapps,regression analysis,0.46517256166666665
+13_tomcat,webapps,software design pattern,0.46491186666666673
+13_tomcat,webapps,logistic regression model,0.4645205116666667
+13_tomcat,webapps,digital image processing,0.4629986466666667
+13_tomcat,webapps,microservices,0.462226775
+13_tomcat,webapps,mathematics,0.46097769166666663
+13_tomcat,webapps,Image analysis,0.4608422366666667
+13_tomcat,webapps,automation,0.4604205266666666
+13_tomcat,webapps,Kalman filter,0.4604162033333334
+13_tomcat,webapps,signal processing,0.4603743233333333
+13_tomcat,webapps,augmented reality,0.4603166033333333
+13_tomcat,webapps,engineering,0.460303385
+13_tomcat,webapps,video,0.46020774
+13_tomcat,webapps,embedded system,0.4595144416666666
+13_tomcat,webapps,text mining,0.45835420833333335
+13_tomcat,webapps,IRC bot,0.45750473500000005
+13_tomcat,webapps,chatbot,0.45711149333333334
+13_tomcat,webapps,translation,0.45669532166666665
+13_tomcat,webapps,internet of things,0.4564046133333333
+13_tomcat,webapps,command-line interface,0.4555335583333333
+13_tomcat,webapps,test automation,0.45549612
+13_tomcat,webapps,image editing,0.4552555716666667
+13_tomcat,webapps,mathematical optimization,0.4546284966666667
+13_tomcat,webapps,data mining,0.4542271633333334
+13_tomcat,webapps,analytics,0.45243679499999995
+13_tomcat,webapps,continuous delivery,0.4519436416666667
+13_tomcat,webapps,long short-term memory,0.45178007000000003
+13_tomcat,webapps,machine learning,0.45147082499999996
+13_tomcat,webapps,geometry,0.45136606999999995
+13_tomcat,webapps,recurrent neural network,0.45079837
+13_tomcat,webapps,speech synthesis,0.449537475
+13_tomcat,webapps,compiler,0.44820938833333335
+13_tomcat,webapps,neural machine translation,0.44783574666666665
+13_tomcat,webapps,data science,0.44770313833333336
+13_tomcat,webapps,benchmark,0.44740088166666675
+13_tomcat,webapps,Containerization,0.44721337000000005
+13_tomcat,webapps,genetic algorithm,0.4465067266666667
+13_tomcat,webapps,image classification,0.4461403133333334
+13_tomcat,webapps,big data,0.44432375333333335
+13_tomcat,webapps,word embedding,0.44407124333333337
+13_tomcat,webapps,distributed multimedia communications platform,0.4435890466666667
+13_tomcat,webapps,electronic trading platform,0.44352398666666665
+13_tomcat,webapps,debugging,0.4432039833333334
+13_tomcat,webapps,backup,0.4425793299999999
+13_tomcat,webapps,file system,0.4422633116666667
+13_tomcat,webapps,digital audio,0.4421583816666666
+13_tomcat,webapps,digital security,0.44190598666666664
+13_tomcat,webapps,plot,0.4416307616666666
+13_tomcat,webapps,data visualization,0.4415972099999999
+13_tomcat,webapps,Bidirectional recurrent neural networks,0.44103617166666664
+13_tomcat,webapps,sorting algorithm,0.4408118216666667
+13_tomcat,webapps,audio player software,0.43930124000000004
+13_tomcat,webapps,distributed computing,0.4382662000000001
+13_tomcat,webapps,video tracking,0.43730445833333337
+13_tomcat,webapps,distributed system,0.43567712166666667
+13_tomcat,webapps,time series,0.43560953333333324
+13_tomcat,webapps,image segmentation,0.435548955
+13_tomcat,webapps,artificial neural network,0.43544723166666666
+13_tomcat,webapps,software testing,0.435010325
+13_tomcat,webapps,education,0.4337704683333334
+13_tomcat,webapps,music,0.432345295
+13_tomcat,webapps,semi-supervised learning,0.4317183416666667
+13_tomcat,webapps,audio signal processing,0.430807755
+13_tomcat,webapps,evolutionary algorithm,0.43021408499999997
+13_tomcat,webapps,multiplayer game,0.42919983333333334
+13_tomcat,webapps,video processing,0.42897173499999997
+13_tomcat,webapps,graph database,0.4281057416666667
+13_tomcat,webapps,object detection,0.4280891949999999
+13_tomcat,webapps,video game,0.4280457183333333
+13_tomcat,webapps,distributed database,0.42083710999999996
+13_tomcat,webapps,productivity,0.41934892166666665
+13_tomcat,webapps,camera,0.41866855
+13_tomcat,webapps,network monitoring,0.41789413666666664
+13_tomcat,webapps,robotics,0.41635523999999996
+13_tomcat,webapps,algorithmic trading,0.41558906833333326
+13_tomcat,webapps,physics,0.41353851999999997
+13_tomcat,webapps,face detection,0.4131430016666666
+13_tomcat,webapps,telecommunications network,0.41298488166666675
+13_tomcat,webapps,continuous integration,0.41154765500000007
+13_tomcat,webapps,deep learning,0.41091923999999996
+13_tomcat,webapps,deep neural network,0.4103333583333333
+13_tomcat,webapps,video game development,0.41020547499999993
+13_tomcat,webapps,computer graphics,0.4066770716666667
+13_tomcat,webapps,home automation,0.40461780333333336
+13_tomcat,webapps,stock market,0.40346236666666674
+13_tomcat,webapps,bitcoin,0.40285115333333327
+13_tomcat,webapps,graph algorithm,0.39597967833333336
+13_tomcat,webapps,3D computer graphics,0.39357526
+13_tomcat,webapps,simulation,0.391686465
+13_tomcat,webapps,operating system,0.391401165
+13_tomcat,webapps,cryptocurrency,0.3881473933333333

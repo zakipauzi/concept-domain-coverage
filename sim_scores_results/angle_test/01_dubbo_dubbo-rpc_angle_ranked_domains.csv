@@ -1,0 +1,168 @@
+project_name,module,domain,sim_score
+01_dubbo,dubbo-rpc,HTTP client,0.5728049774999999
+01_dubbo,dubbo-rpc,instant messaging,0.55108593
+01_dubbo,dubbo-rpc,stream processing,0.548556855
+01_dubbo,dubbo-rpc,web service,0.54731015625
+01_dubbo,dubbo-rpc,back end,0.54498583625
+01_dubbo,dubbo-rpc,HTTP server,0.54310267
+01_dubbo,dubbo-rpc,reactive programming,0.542768345
+01_dubbo,dubbo-rpc,middleware,0.54243461125
+01_dubbo,dubbo-rpc,internet bot,0.540670235
+01_dubbo,dubbo-rpc,command-line interface,0.5344464812499999
+01_dubbo,dubbo-rpc,WebSocket,0.534240925
+01_dubbo,dubbo-rpc,game server,0.530143735
+01_dubbo,dubbo-rpc,static program analysis tool,0.52999717
+01_dubbo,dubbo-rpc,static program analysis,0.52951058625
+01_dubbo,dubbo-rpc,dependency injection,0.5293165962499999
+01_dubbo,dubbo-rpc,router,0.52898352
+01_dubbo,dubbo-rpc,web browser engine,0.5252157625
+01_dubbo,dubbo-rpc,client,0.5217797687500001
+01_dubbo,dubbo-rpc,test automation,0.5210215174999999
+01_dubbo,dubbo-rpc,"extract, transform, load",0.52071932
+01_dubbo,dubbo-rpc,web server,0.5205315962499999
+01_dubbo,dubbo-rpc,File Transfer Protocol,0.52052646
+01_dubbo,dubbo-rpc,scheduler,0.519402745
+01_dubbo,dubbo-rpc,smart contract,0.51761218625
+01_dubbo,dubbo-rpc,application performance management,0.51699362125
+01_dubbo,dubbo-rpc,server,0.51613595375
+01_dubbo,dubbo-rpc,network monitoring,0.515807875
+01_dubbo,dubbo-rpc,web browser,0.5147990462500001
+01_dubbo,dubbo-rpc,unit testing,0.51473389375
+01_dubbo,dubbo-rpc,automation,0.51469620875
+01_dubbo,dubbo-rpc,interpreter,0.51297311125
+01_dubbo,dubbo-rpc,front end,0.51201952125
+01_dubbo,dubbo-rpc,microservices,0.51199191625
+01_dubbo,dubbo-rpc,functional programming,0.5114848275
+01_dubbo,dubbo-rpc,pattern matching,0.5110401575
+01_dubbo,dubbo-rpc,data,0.50983747125
+01_dubbo,dubbo-rpc,distributed multimedia communications platform,0.5090660499999999
+01_dubbo,dubbo-rpc,data binding,0.5071882675
+01_dubbo,dubbo-rpc,serialization,0.50716359
+01_dubbo,dubbo-rpc,Parser combinator,0.50636972875
+01_dubbo,dubbo-rpc,World Wide Web,0.5062882774999999
+01_dubbo,dubbo-rpc,game,0.50445396
+01_dubbo,dubbo-rpc,logging,0.5024347637500001
+01_dubbo,dubbo-rpc,email,0.502315065
+01_dubbo,dubbo-rpc,user interface,0.5015090125
+01_dubbo,dubbo-rpc,information processing,0.5013293412500001
+01_dubbo,dubbo-rpc,web crawler,0.50126398125
+01_dubbo,dubbo-rpc,static site generator,0.50096988875
+01_dubbo,dubbo-rpc,streaming media,0.5009234675
+01_dubbo,dubbo-rpc,web application,0.49946784875000005
+01_dubbo,dubbo-rpc,software testing,0.49894274875
+01_dubbo,dubbo-rpc,Web Components,0.49870375
+01_dubbo,dubbo-rpc,embedded system,0.4981417425
+01_dubbo,dubbo-rpc,telecommunications network,0.49772527250000004
+01_dubbo,dubbo-rpc,network analysis,0.49768255875
+01_dubbo,dubbo-rpc,graphical user interface,0.49718010375
+01_dubbo,dubbo-rpc,penetration test,0.4956806575
+01_dubbo,dubbo-rpc,network security,0.49547085
+01_dubbo,dubbo-rpc,website,0.4946315175
+01_dubbo,dubbo-rpc,distributed computing,0.49310056375
+01_dubbo,dubbo-rpc,debugger,0.49302395125
+01_dubbo,dubbo-rpc,data compression,0.492786245
+01_dubbo,dubbo-rpc,validator,0.49178016999999996
+01_dubbo,dubbo-rpc,code generation,0.49135061874999997
+01_dubbo,dubbo-rpc,Kalman filter,0.49064094999999996
+01_dubbo,dubbo-rpc,documentation,0.49044181000000003
+01_dubbo,dubbo-rpc,debugging,0.489335115
+01_dubbo,dubbo-rpc,search,0.48890073624999997
+01_dubbo,dubbo-rpc,distributed system,0.48873092249999994
+01_dubbo,dubbo-rpc,continuous integration,0.4886728775
+01_dubbo,dubbo-rpc,Bayesian inference,0.48791793625
+01_dubbo,dubbo-rpc,information retrieval,0.48773109375
+01_dubbo,dubbo-rpc,synchronization,0.48758541875
+01_dubbo,dubbo-rpc,authentication,0.48734572374999996
+01_dubbo,dubbo-rpc,kernel,0.486789645
+01_dubbo,dubbo-rpc,image,0.48510844875000003
+01_dubbo,dubbo-rpc,benchmark,0.48489089375000005
+01_dubbo,dubbo-rpc,web scraping,0.48439703375
+01_dubbo,dubbo-rpc,Semantic Web,0.48395864375
+01_dubbo,dubbo-rpc,malware,0.48381517125000006
+01_dubbo,dubbo-rpc,backup,0.48271469625
+01_dubbo,dubbo-rpc,text processing,0.48221611
+01_dubbo,dubbo-rpc,language model,0.4814079675
+01_dubbo,dubbo-rpc,game engine,0.48065640125000003
+01_dubbo,dubbo-rpc,security,0.48017983375
+01_dubbo,dubbo-rpc,support vector machine,0.478429255
+01_dubbo,dubbo-rpc,linear regression,0.47676889625
+01_dubbo,dubbo-rpc,password manager,0.47483844124999997
+01_dubbo,dubbo-rpc,artificial intelligence,0.47451504625
+01_dubbo,dubbo-rpc,encryption,0.47390455
+01_dubbo,dubbo-rpc,object–relational mapping,0.4731329925
+01_dubbo,dubbo-rpc,blockchain,0.47176747249999995
+01_dubbo,dubbo-rpc,algorithm,0.47106297
+01_dubbo,dubbo-rpc,web application security,0.470089675
+01_dubbo,dubbo-rpc,machine learning,0.4700224225
+01_dubbo,dubbo-rpc,translation,0.46964057875
+01_dubbo,dubbo-rpc,package management system,0.4683757725
+01_dubbo,dubbo-rpc,regression analysis,0.46795760499999994
+01_dubbo,dubbo-rpc,signal processing,0.467769715
+01_dubbo,dubbo-rpc,content management system,0.46689436625
+01_dubbo,dubbo-rpc,image compression,0.46621497375
+01_dubbo,dubbo-rpc,computational science,0.4654002175
+01_dubbo,dubbo-rpc,geographic information system,0.464754215
+01_dubbo,dubbo-rpc,compiler,0.46454652625000004
+01_dubbo,dubbo-rpc,data analysis,0.4637264775
+01_dubbo,dubbo-rpc,design,0.46334246874999996
+01_dubbo,dubbo-rpc,automated machine learning,0.46333965
+01_dubbo,dubbo-rpc,analytics,0.46205229625
+01_dubbo,dubbo-rpc,electronic trading platform,0.4609330975
+01_dubbo,dubbo-rpc,speech synthesis,0.46074772500000005
+01_dubbo,dubbo-rpc,long short-term memory,0.4602623175
+01_dubbo,dubbo-rpc,computer data storage,0.46011667624999997
+01_dubbo,dubbo-rpc,DevOps,0.46010425374999997
+01_dubbo,dubbo-rpc,image captioning,0.4599804575
+01_dubbo,dubbo-rpc,database,0.45913479749999997
+01_dubbo,dubbo-rpc,e-commerce,0.45723096125
+01_dubbo,dubbo-rpc,anomaly detection,0.45722371624999997
+01_dubbo,dubbo-rpc,data science,0.45625981250000003
+01_dubbo,dubbo-rpc,lexical analysis,0.4553960975
+01_dubbo,dubbo-rpc,statistics,0.4552525275
+01_dubbo,dubbo-rpc,search engine,0.45493055125
+01_dubbo,dubbo-rpc,plot,0.45468620375
+01_dubbo,dubbo-rpc,Malware Analysis,0.4519680625
+01_dubbo,dubbo-rpc,text classification,0.45160541125
+01_dubbo,dubbo-rpc,data structure,0.45097765
+01_dubbo,dubbo-rpc,web development,0.4506190775
+01_dubbo,dubbo-rpc,classification,0.45050676
+01_dubbo,dubbo-rpc,cloud computing,0.450419395
+01_dubbo,dubbo-rpc,distributed database,0.44997517
+01_dubbo,dubbo-rpc,natural language processing,0.4495669125
+01_dubbo,dubbo-rpc,syntax highlighting,0.44936544624999997
+01_dubbo,dubbo-rpc,big data,0.44913892125
+01_dubbo,dubbo-rpc,time series,0.44888872625
+01_dubbo,dubbo-rpc,text editor,0.44843703875
+01_dubbo,dubbo-rpc,mobile application development,0.4481857725
+01_dubbo,dubbo-rpc,digital security,0.44775118
+01_dubbo,dubbo-rpc,cluster analysis,0.44382519249999997
+01_dubbo,dubbo-rpc,digital image processing,0.44317960624999997
+01_dubbo,dubbo-rpc,recommender system,0.441039305
+01_dubbo,dubbo-rpc,audio signal processing,0.4408813875
+01_dubbo,dubbo-rpc,digital audio,0.439734915
+01_dubbo,dubbo-rpc,optical character recognition,0.43830306249999995
+01_dubbo,dubbo-rpc,image recognition,0.438063125
+01_dubbo,dubbo-rpc,data mining,0.43781011375
+01_dubbo,dubbo-rpc,algorithmic trading,0.4370137375
+01_dubbo,dubbo-rpc,file system,0.4366644325
+01_dubbo,dubbo-rpc,education,0.43628994499999996
+01_dubbo,dubbo-rpc,regular expression,0.43588822
+01_dubbo,dubbo-rpc,deep neural network,0.43492091625
+01_dubbo,dubbo-rpc,image editing,0.43028110625000004
+01_dubbo,dubbo-rpc,deep learning,0.42994869874999997
+01_dubbo,dubbo-rpc,object detection,0.42831645625000003
+01_dubbo,dubbo-rpc,computer vision,0.42825127749999997
+01_dubbo,dubbo-rpc,operating system,0.42798517249999996
+01_dubbo,dubbo-rpc,virtual reality,0.427939925
+01_dubbo,dubbo-rpc,image segmentation,0.42711905375000003
+01_dubbo,dubbo-rpc,computer configuration,0.42486523625
+01_dubbo,dubbo-rpc,database management,0.42458753250000003
+01_dubbo,dubbo-rpc,word embedding,0.42400368624999996
+01_dubbo,dubbo-rpc,data visualization,0.42306002
+01_dubbo,dubbo-rpc,face detection,0.42108859375
+01_dubbo,dubbo-rpc,bitcoin,0.4179269575
+01_dubbo,dubbo-rpc,topic modeling,0.41623717125000004
+01_dubbo,dubbo-rpc,sorting algorithm,0.41593900375
+01_dubbo,dubbo-rpc,cryptocurrency,0.41548030874999997
+01_dubbo,dubbo-rpc,facial recognition system,0.40252602625
+01_dubbo,dubbo-rpc,stock market,0.39379805625

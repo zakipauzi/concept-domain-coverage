@@ -1,0 +1,222 @@
+project_name,module,domain,sim_score
+06_hadoop,hadoop-yarn-project,user interface,0.741097951387136
+06_hadoop,hadoop-yarn-project,routing,0.7403810685055102
+06_hadoop,hadoop-yarn-project,Containerization,0.7403785716116349
+06_hadoop,hadoop-yarn-project,middleware,0.7398026463946167
+06_hadoop,hadoop-yarn-project,scheduler,0.7394802541908412
+06_hadoop,hadoop-yarn-project,client,0.7383670776496595
+06_hadoop,hadoop-yarn-project,web crawler,0.7372629495740668
+06_hadoop,hadoop-yarn-project,web application,0.7371009379113012
+06_hadoop,hadoop-yarn-project,dependency injection,0.7356756400200959
+06_hadoop,hadoop-yarn-project,data structure,0.7347167631635549
+06_hadoop,hadoop-yarn-project,debugger,0.7339908298622938
+06_hadoop,hadoop-yarn-project,server,0.7331728110280207
+06_hadoop,hadoop-yarn-project,WebSocket,0.7330178828939832
+06_hadoop,hadoop-yarn-project,documentation,0.7329535940569433
+06_hadoop,hadoop-yarn-project,mobile application development,0.7328782843502732
+06_hadoop,hadoop-yarn-project,backup,0.7327088113814393
+06_hadoop,hadoop-yarn-project,information retrieval,0.732618380279032
+06_hadoop,hadoop-yarn-project,data,0.7310642950472647
+06_hadoop,hadoop-yarn-project,image,0.7305298759292386
+06_hadoop,hadoop-yarn-project,kernel,0.7304379054106157
+06_hadoop,hadoop-yarn-project,unit testing,0.7304090932268116
+06_hadoop,hadoop-yarn-project,website,0.7300079710424344
+06_hadoop,hadoop-yarn-project,validator,0.7292917056810733
+06_hadoop,hadoop-yarn-project,business dashboard,0.728732791068477
+06_hadoop,hadoop-yarn-project,database,0.7285450494822896
+06_hadoop,hadoop-yarn-project,data binding,0.7281174618525623
+06_hadoop,hadoop-yarn-project,network monitoring,0.728057877473472
+06_hadoop,hadoop-yarn-project,data visualization,0.7279512926926814
+06_hadoop,hadoop-yarn-project,Semantic Web,0.7275511553375381
+06_hadoop,hadoop-yarn-project,router,0.7268907618849486
+06_hadoop,hadoop-yarn-project,web application security,0.7266944892399556
+06_hadoop,hadoop-yarn-project,benchmark,0.726583961404358
+06_hadoop,hadoop-yarn-project,command-line interface,0.7263822807665639
+06_hadoop,hadoop-yarn-project,DevOps,0.7262614007898481
+06_hadoop,hadoop-yarn-project,HTTP client,0.7258980402938714
+06_hadoop,hadoop-yarn-project,internet bot,0.7258002269023961
+06_hadoop,hadoop-yarn-project,rendering,0.7254718055175883
+06_hadoop,hadoop-yarn-project,analytics,0.725400056802388
+06_hadoop,hadoop-yarn-project,web service,0.7251379983537038
+06_hadoop,hadoop-yarn-project,web scraping,0.725082283176377
+06_hadoop,hadoop-yarn-project,"extract, transform, load",0.7250440234237107
+06_hadoop,hadoop-yarn-project,microservices,0.7245485731844422
+06_hadoop,hadoop-yarn-project,chatbot,0.7243644036725846
+06_hadoop,hadoop-yarn-project,web server,0.7243496888690749
+06_hadoop,hadoop-yarn-project,interpreter,0.7242580273399576
+06_hadoop,hadoop-yarn-project,information extraction,0.7240685380239358
+06_hadoop,hadoop-yarn-project,Web Components,0.7239814774000681
+06_hadoop,hadoop-yarn-project,data compression,0.7232034074144392
+06_hadoop,hadoop-yarn-project,compiler,0.7231582145759484
+06_hadoop,hadoop-yarn-project,serialization,0.7229162514036973
+06_hadoop,hadoop-yarn-project,search,0.7228374422188996
+06_hadoop,hadoop-yarn-project,code generation,0.7227668234936961
+06_hadoop,hadoop-yarn-project,graph,0.7223714447937775
+06_hadoop,hadoop-yarn-project,static site generator,0.7221588101818845
+06_hadoop,hadoop-yarn-project,email,0.7217799902246113
+06_hadoop,hadoop-yarn-project,algorithm,0.7217339291065533
+06_hadoop,hadoop-yarn-project,continuous deployment,0.7212160436272722
+06_hadoop,hadoop-yarn-project,authentication,0.7207355493856155
+06_hadoop,hadoop-yarn-project,text classification,0.7205094698058961
+06_hadoop,hadoop-yarn-project,parsing,0.7204580078395949
+06_hadoop,hadoop-yarn-project,test automation,0.7203627270242496
+06_hadoop,hadoop-yarn-project,distributed system,0.7203283648600147
+06_hadoop,hadoop-yarn-project,pattern matching,0.7203073292409217
+06_hadoop,hadoop-yarn-project,search engine,0.7202664046518831
+06_hadoop,hadoop-yarn-project,application performance management,0.7200568110934451
+06_hadoop,hadoop-yarn-project,cloud computing,0.7200279573196349
+06_hadoop,hadoop-yarn-project,file system,0.7196854160251911
+06_hadoop,hadoop-yarn-project,syntax highlighting,0.7195722868126352
+06_hadoop,hadoop-yarn-project,automation,0.7187090927683213
+06_hadoop,hadoop-yarn-project,software testing,0.7186917178422355
+06_hadoop,hadoop-yarn-project,statistics,0.7186225232440618
+06_hadoop,hadoop-yarn-project,HTTP server,0.7185378058311909
+06_hadoop,hadoop-yarn-project,image recognition,0.7184086719551137
+06_hadoop,hadoop-yarn-project,image captioning,0.7184051229201521
+06_hadoop,hadoop-yarn-project,image compression,0.7179666466569182
+06_hadoop,hadoop-yarn-project,long short-term memory,0.717882823721218
+06_hadoop,hadoop-yarn-project,translation,0.7175256204009048
+06_hadoop,hadoop-yarn-project,natural language understanding,0.7173188603747149
+06_hadoop,hadoop-yarn-project,software design pattern,0.7172165981220966
+06_hadoop,hadoop-yarn-project,content management system,0.7170353348238911
+06_hadoop,hadoop-yarn-project,animation,0.7169737452229856
+06_hadoop,hadoop-yarn-project,natural language processing,0.7168087314322412
+06_hadoop,hadoop-yarn-project,simulator,0.7167300188611512
+06_hadoop,hadoop-yarn-project,camera,0.7166812743080337
+06_hadoop,hadoop-yarn-project,recommender system,0.716577453023312
+06_hadoop,hadoop-yarn-project,virtualization,0.7164825097180267
+06_hadoop,hadoop-yarn-project,plot,0.7159420895585622
+06_hadoop,hadoop-yarn-project,named-entity recognition,0.7157270397923174
+06_hadoop,hadoop-yarn-project,virtual machine,0.7155865987355804
+06_hadoop,hadoop-yarn-project,image classification,0.7155333999093713
+06_hadoop,hadoop-yarn-project,hyperparameter optimization,0.7154237240666182
+06_hadoop,hadoop-yarn-project,big data,0.715407885985037
+06_hadoop,hadoop-yarn-project,shell tool,0.715273876228897
+06_hadoop,hadoop-yarn-project,text processing,0.7151835950992399
+06_hadoop,hadoop-yarn-project,network analysis,0.7141969360701937
+06_hadoop,hadoop-yarn-project,encryption,0.7140377216427988
+06_hadoop,hadoop-yarn-project,File Transfer Protocol,0.7138277680407985
+06_hadoop,hadoop-yarn-project,front end,0.7136027623406289
+06_hadoop,hadoop-yarn-project,web development,0.7134741248516725
+06_hadoop,hadoop-yarn-project,computer configuration,0.7134465323230993
+06_hadoop,hadoop-yarn-project,software development,0.713213555976237
+06_hadoop,hadoop-yarn-project,streaming media,0.7129882274044345
+06_hadoop,hadoop-yarn-project,graphical user interface,0.7129340783125188
+06_hadoop,hadoop-yarn-project,machine translation,0.7128990204467456
+06_hadoop,hadoop-yarn-project,security,0.7126129952237712
+06_hadoop,hadoop-yarn-project,object–relational mapping,0.7125947572718009
+06_hadoop,hadoop-yarn-project,instant messaging,0.7125914946270123
+06_hadoop,hadoop-yarn-project,internet of things,0.7124295087634486
+06_hadoop,hadoop-yarn-project,productivity,0.7123877981467693
+06_hadoop,hadoop-yarn-project,machine learning,0.7123372326504201
+06_hadoop,hadoop-yarn-project,object detection,0.7121879325023631
+06_hadoop,hadoop-yarn-project,stream processing,0.7120180760929742
+06_hadoop,hadoop-yarn-project,sentiment analysis,0.7120120271433722
+06_hadoop,hadoop-yarn-project,static program analysis tool,0.711865566592975
+06_hadoop,hadoop-yarn-project,embedded system,0.7118510797821249
+06_hadoop,hadoop-yarn-project,language model,0.7118031468061273
+06_hadoop,hadoop-yarn-project,automated machine learning,0.7116947085253157
+06_hadoop,hadoop-yarn-project,package management system,0.711648517040056
+06_hadoop,hadoop-yarn-project,synchronization,0.7115112768528121
+06_hadoop,hadoop-yarn-project,database management,0.7112398045149222
+06_hadoop,hadoop-yarn-project,web browser engine,0.7110883392399542
+06_hadoop,hadoop-yarn-project,Parser combinator,0.7110620097335947
+06_hadoop,hadoop-yarn-project,computer data storage,0.7110486292574082
+06_hadoop,hadoop-yarn-project,logging,0.7108253735043794
+06_hadoop,hadoop-yarn-project,password manager,0.7106996095276353
+06_hadoop,hadoop-yarn-project,classification,0.7106834062118546
+06_hadoop,hadoop-yarn-project,web browser,0.7106833253755601
+06_hadoop,hadoop-yarn-project,social network,0.7105589931225312
+06_hadoop,hadoop-yarn-project,information processing,0.7104641165200482
+06_hadoop,hadoop-yarn-project,data analysis,0.7102682638318897
+06_hadoop,hadoop-yarn-project,data mining,0.7102129579859836
+06_hadoop,hadoop-yarn-project,image segmentation,0.7102116558555774
+06_hadoop,hadoop-yarn-project,network security,0.7098563487748726
+06_hadoop,hadoop-yarn-project,question answering,0.7098457861653754
+06_hadoop,hadoop-yarn-project,cluster analysis,0.7097778424258625
+06_hadoop,hadoop-yarn-project,graph database,0.7096274229553613
+06_hadoop,hadoop-yarn-project,text editor,0.7092172902075993
+06_hadoop,hadoop-yarn-project,random forest,0.7091886771353914
+06_hadoop,hadoop-yarn-project,smart contract,0.7088861320672342
+06_hadoop,hadoop-yarn-project,regular expression,0.7088817063640567
+06_hadoop,hadoop-yarn-project,distributed computing,0.7088726103629315
+06_hadoop,hadoop-yarn-project,distributed multimedia communications platform,0.7088062131089818
+06_hadoop,hadoop-yarn-project,continuous delivery,0.7088026160739693
+06_hadoop,hadoop-yarn-project,penetration test,0.7086332067818113
+06_hadoop,hadoop-yarn-project,Image analysis,0.7083220531062876
+06_hadoop,hadoop-yarn-project,game,0.7079902272640753
+06_hadoop,hadoop-yarn-project,bitcoin,0.7079452138739759
+06_hadoop,hadoop-yarn-project,time series,0.7079443137786614
+06_hadoop,hadoop-yarn-project,Malware Analysis,0.7075542847687349
+06_hadoop,hadoop-yarn-project,semi-supervised learning,0.707456426142489
+06_hadoop,hadoop-yarn-project,deep neural network,0.7072199347721996
+06_hadoop,hadoop-yarn-project,back end,0.7070468491863471
+06_hadoop,hadoop-yarn-project,design,0.7062741724425219
+06_hadoop,hadoop-yarn-project,graph algorithm,0.7061508700229074
+06_hadoop,hadoop-yarn-project,support vector machine,0.7061325143176919
+06_hadoop,hadoop-yarn-project,signal processing,0.7060448435052937
+06_hadoop,hadoop-yarn-project,anomaly detection,0.7058902137566385
+06_hadoop,hadoop-yarn-project,distributed database,0.705767129164801
+06_hadoop,hadoop-yarn-project,sorting algorithm,0.7057149678368859
+06_hadoop,hadoop-yarn-project,static program analysis,0.7056935553807637
+06_hadoop,hadoop-yarn-project,word embedding,0.7053459385275117
+06_hadoop,hadoop-yarn-project,computer vision,0.7050667936378945
+06_hadoop,hadoop-yarn-project,computer programming,0.704818889865022
+06_hadoop,hadoop-yarn-project,continuous integration,0.7047976114037926
+06_hadoop,hadoop-yarn-project,video,0.7047608466431486
+06_hadoop,hadoop-yarn-project,data science,0.7047536144566481
+06_hadoop,hadoop-yarn-project,blockchain,0.7047405962948045
+06_hadoop,hadoop-yarn-project,game server,0.7046374211924212
+06_hadoop,hadoop-yarn-project,text mining,0.7044831895910696
+06_hadoop,hadoop-yarn-project,reactive programming,0.7041717838296421
+06_hadoop,hadoop-yarn-project,font,0.7041358127224975
+06_hadoop,hadoop-yarn-project,deep learning,0.7040884612448977
+06_hadoop,hadoop-yarn-project,facial recognition system,0.7038229628812604
+06_hadoop,hadoop-yarn-project,natural language,0.7034804174650093
+06_hadoop,hadoop-yarn-project,education,0.7029911670399194
+06_hadoop,hadoop-yarn-project,malware,0.7025309037617885
+06_hadoop,hadoop-yarn-project,artificial neural network,0.7018502008592574
+06_hadoop,hadoop-yarn-project,optical character recognition,0.7018244202360936
+06_hadoop,hadoop-yarn-project,convolutional neural network,0.70163590989123
+06_hadoop,hadoop-yarn-project,operating system,0.7015287897487553
+06_hadoop,hadoop-yarn-project,augmented reality,0.701111760528699
+06_hadoop,hadoop-yarn-project,lexical analysis,0.7004572354300115
+06_hadoop,hadoop-yarn-project,functional programming,0.7003355586341996
+06_hadoop,hadoop-yarn-project,e-commerce,0.6998019684412287
+06_hadoop,hadoop-yarn-project,logistic regression model,0.6996817497104717
+06_hadoop,hadoop-yarn-project,integrated development environment,0.6995286148519632
+06_hadoop,hadoop-yarn-project,Kalman filter,0.6987075247328056
+06_hadoop,hadoop-yarn-project,image editing,0.6982364912281279
+06_hadoop,hadoop-yarn-project,virtual reality,0.6980416345508579
+06_hadoop,hadoop-yarn-project,World Wide Web,0.6973628897279404
+06_hadoop,hadoop-yarn-project,game engine,0.6973346638577579
+06_hadoop,hadoop-yarn-project,neural network,0.6971527163255796
+06_hadoop,hadoop-yarn-project,face detection,0.6970758579266133
+06_hadoop,hadoop-yarn-project,computer science,0.6968631075896993
+06_hadoop,hadoop-yarn-project,cryptography,0.6966976658178049
+06_hadoop,hadoop-yarn-project,quantum computer,0.696076592732175
+06_hadoop,hadoop-yarn-project,audio signal processing,0.6958879454208491
+06_hadoop,hadoop-yarn-project,artificial intelligence,0.6958048221057342
+06_hadoop,hadoop-yarn-project,Naive Bayes classifier,0.6956699397216283
+06_hadoop,hadoop-yarn-project,Bidirectional recurrent neural networks,0.6942716229810822
+06_hadoop,hadoop-yarn-project,regression analysis,0.693749496014153
+06_hadoop,hadoop-yarn-project,computer graphics,0.6937102532023799
+06_hadoop,hadoop-yarn-project,3D modeling,0.693599404629533
+06_hadoop,hadoop-yarn-project,telecommunications network,0.6935826665297222
+06_hadoop,hadoop-yarn-project,Q-learning,0.6931099275743133
+06_hadoop,hadoop-yarn-project,Bayesian inference,0.692697553715475
+06_hadoop,hadoop-yarn-project,geographic information system,0.6926821820496046
+06_hadoop,hadoop-yarn-project,reinforcement learning,0.6923717581612482
+06_hadoop,hadoop-yarn-project,digital image processing,0.6910647190185156
+06_hadoop,hadoop-yarn-project,electronic trading platform,0.6909330722936591
+06_hadoop,hadoop-yarn-project,linear regression,0.6902521397364909
+06_hadoop,hadoop-yarn-project,computational science,0.6892975409106183
+06_hadoop,hadoop-yarn-project,genomics,0.6884764823796204
+06_hadoop,hadoop-yarn-project,mathematics,0.6880979410748819
+06_hadoop,hadoop-yarn-project,computational biology,0.6861670995438441
+06_hadoop,hadoop-yarn-project,digital security,0.6855020490497002
+06_hadoop,hadoop-yarn-project,linear algebra,0.6839831443231997
+06_hadoop,hadoop-yarn-project,algorithmic trading,0.6835411515403514
+06_hadoop,hadoop-yarn-project,stock market,0.6787074234854339
+06_hadoop,hadoop-yarn-project,banking industry,0.6751230389030034
+06_hadoop,hadoop-yarn-project,digital audio,0.6731254538096295

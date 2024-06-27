@@ -1,0 +1,175 @@
+project_name,module,domain,sim_score
+03_flink,flink-streaming-java,stream processing,0.7657204852949899
+03_flink,flink-streaming-java,"extract, transform, load",0.739634112105224
+03_flink,flink-streaming-java,signal processing,0.7395356679575301
+03_flink,flink-streaming-java,WebSocket,0.7387023977258772
+03_flink,flink-streaming-java,user interface,0.7386379224171438
+03_flink,flink-streaming-java,scheduler,0.7381648627854109
+03_flink,flink-streaming-java,benchmark,0.7381367630054944
+03_flink,flink-streaming-java,time series,0.7379631574608108
+03_flink,flink-streaming-java,Parser combinator,0.7375800323909494
+03_flink,flink-streaming-java,serialization,0.736672193529754
+03_flink,flink-streaming-java,unit testing,0.7366559039071254
+03_flink,flink-streaming-java,continuous delivery,0.7362028599393224
+03_flink,flink-streaming-java,streaming media,0.7345791297750184
+03_flink,flink-streaming-java,data,0.7335243617462033
+03_flink,flink-streaming-java,backup,0.7332844630275145
+03_flink,flink-streaming-java,compiler,0.7329564724674138
+03_flink,flink-streaming-java,data structure,0.7328445799537426
+03_flink,flink-streaming-java,distributed system,0.732408288284546
+03_flink,flink-streaming-java,synchronization,0.7323693808191748
+03_flink,flink-streaming-java,code generation,0.7323167856760008
+03_flink,flink-streaming-java,data compression,0.731432484829506
+03_flink,flink-streaming-java,server,0.7306050544526023
+03_flink,flink-streaming-java,image,0.7305982553573627
+03_flink,flink-streaming-java,pattern matching,0.7305349702891673
+03_flink,flink-streaming-java,analytics,0.7304240286769943
+03_flink,flink-streaming-java,test automation,0.7303940957355852
+03_flink,flink-streaming-java,database,0.7299867088397338
+03_flink,flink-streaming-java,continuous integration,0.7297585570771046
+03_flink,flink-streaming-java,data visualization,0.7292491396872838
+03_flink,flink-streaming-java,graph,0.7292479015421613
+03_flink,flink-streaming-java,video processing,0.7283208565995959
+03_flink,flink-streaming-java,client,0.7278794036984952
+03_flink,flink-streaming-java,kernel,0.7267780296055422
+03_flink,flink-streaming-java,text processing,0.7261604058757463
+03_flink,flink-streaming-java,automation,0.7259984974363736
+03_flink,flink-streaming-java,image captioning,0.7257370124852288
+03_flink,flink-streaming-java,network monitoring,0.7256482199964555
+03_flink,flink-streaming-java,data binding,0.7254236581676033
+03_flink,flink-streaming-java,information retrieval,0.7253288375266164
+03_flink,flink-streaming-java,file system,0.7248036164563286
+03_flink,flink-streaming-java,dependency injection,0.7243704142060051
+03_flink,flink-streaming-java,validator,0.7243692226461558
+03_flink,flink-streaming-java,audio signal processing,0.7240448715149408
+03_flink,flink-streaming-java,functional programming,0.7239468609828283
+03_flink,flink-streaming-java,information processing,0.7237601217820047
+03_flink,flink-streaming-java,information extraction,0.7237186285824361
+03_flink,flink-streaming-java,animation,0.7236542652355571
+03_flink,flink-streaming-java,encryption,0.7232549925526635
+03_flink,flink-streaming-java,machine translation,0.7230404102514698
+03_flink,flink-streaming-java,command-line interface,0.7226321590345738
+03_flink,flink-streaming-java,natural language processing,0.7225277995416083
+03_flink,flink-streaming-java,static program analysis tool,0.7224869405695975
+03_flink,flink-streaming-java,software testing,0.7220836831949616
+03_flink,flink-streaming-java,image compression,0.7219212820268375
+03_flink,flink-streaming-java,translation,0.7217552795986292
+03_flink,flink-streaming-java,web crawler,0.7214789726496948
+03_flink,flink-streaming-java,sorting algorithm,0.7212535929731465
+03_flink,flink-streaming-java,embedded system,0.7210787487940303
+03_flink,flink-streaming-java,DevOps,0.7208933119482429
+03_flink,flink-streaming-java,distributed multimedia communications platform,0.7207072608915779
+03_flink,flink-streaming-java,algorithm,0.7202708707740162
+03_flink,flink-streaming-java,big data,0.7201746218338996
+03_flink,flink-streaming-java,text editor,0.7195112429568878
+03_flink,flink-streaming-java,logging,0.7192879172316896
+03_flink,flink-streaming-java,plot,0.7186252377005486
+03_flink,flink-streaming-java,computer configuration,0.7184741667522547
+03_flink,flink-streaming-java,data mining,0.7182309007053854
+03_flink,flink-streaming-java,router,0.7178823069754644
+03_flink,flink-streaming-java,email,0.7178120132900898
+03_flink,flink-streaming-java,distributed database,0.717601736066007
+03_flink,flink-streaming-java,computer benchmarking,0.7174544794231633
+03_flink,flink-streaming-java,distributed computing,0.7174380904673519
+03_flink,flink-streaming-java,static program analysis,0.7174261299751757
+03_flink,flink-streaming-java,image segmentation,0.7173944955001521
+03_flink,flink-streaming-java,language model,0.7171702013824418
+03_flink,flink-streaming-java,visualization,0.7170010444519881
+03_flink,flink-streaming-java,microservices,0.7169446894987281
+03_flink,flink-streaming-java,data analysis,0.7168493358467415
+03_flink,flink-streaming-java,machine learning,0.7164955331534409
+03_flink,flink-streaming-java,operating system,0.7164395973166684
+03_flink,flink-streaming-java,front end,0.7163350162255342
+03_flink,flink-streaming-java,Kalman filter,0.7162167597147957
+03_flink,flink-streaming-java,security,0.7158803546141311
+03_flink,flink-streaming-java,virtual machine,0.7158615136950005
+03_flink,flink-streaming-java,web service,0.715861100890667
+03_flink,flink-streaming-java,search,0.7158126304971089
+03_flink,flink-streaming-java,software engineering,0.7154463906546029
+03_flink,flink-streaming-java,random forest,0.7154355438658242
+03_flink,flink-streaming-java,blockchain,0.715120690244282
+03_flink,flink-streaming-java,long short-term memory,0.7148237597844564
+03_flink,flink-streaming-java,Web Components,0.7147957291807531
+03_flink,flink-streaming-java,internet bot,0.7145976263060866
+03_flink,flink-streaming-java,data science,0.7143827968274868
+03_flink,flink-streaming-java,File Transfer Protocol,0.7142446383365159
+03_flink,flink-streaming-java,website,0.7141561398538608
+03_flink,flink-streaming-java,text classification,0.7140992142931155
+03_flink,flink-streaming-java,graph database,0.7140759183998071
+03_flink,flink-streaming-java,evolutionary algorithm,0.7140200018495402
+03_flink,flink-streaming-java,object–relational mapping,0.7139243815361719
+03_flink,flink-streaming-java,network analysis,0.7138946798303984
+03_flink,flink-streaming-java,instant messaging,0.7138914206697964
+03_flink,flink-streaming-java,software development,0.7130928729591884
+03_flink,flink-streaming-java,natural language understanding,0.7129331197392914
+03_flink,flink-streaming-java,package management system,0.7128901075072529
+03_flink,flink-streaming-java,word embedding,0.7124161916623523
+03_flink,flink-streaming-java,application performance management,0.7121938841753507
+03_flink,flink-streaming-java,computer vision,0.7121543158071352
+03_flink,flink-streaming-java,image recognition,0.712081257331111
+03_flink,flink-streaming-java,graph algorithm,0.7118455683529324
+03_flink,flink-streaming-java,anomaly detection,0.7117194653152646
+03_flink,flink-streaming-java,computer data storage,0.7116748602148077
+03_flink,flink-streaming-java,search engine,0.711646115295351
+03_flink,flink-streaming-java,back end,0.7115040371514859
+03_flink,flink-streaming-java,sentiment analysis,0.7111015955028916
+03_flink,flink-streaming-java,password manager,0.7110834443504898
+03_flink,flink-streaming-java,quantum computer,0.7110588611002092
+03_flink,flink-streaming-java,support vector machine,0.7108129127033668
+03_flink,flink-streaming-java,graphical user interface,0.7107936098084645
+03_flink,flink-streaming-java,digital image processing,0.7107710642258627
+03_flink,flink-streaming-java,regular expression,0.7106323403818338
+03_flink,flink-streaming-java,Semantic Web,0.7090791360754081
+03_flink,flink-streaming-java,design,0.7090475932482446
+03_flink,flink-streaming-java,web scraping,0.7090377090623381
+03_flink,flink-streaming-java,internet of things,0.7089726441080273
+03_flink,flink-streaming-java,static site generator,0.7088480035621625
+03_flink,flink-streaming-java,recommender system,0.7087122505551893
+03_flink,flink-streaming-java,text mining,0.7085470209357057
+03_flink,flink-streaming-java,facial recognition system,0.7084113898133385
+03_flink,flink-streaming-java,penetration test,0.7082999469618521
+03_flink,flink-streaming-java,web server,0.7079062370881911
+03_flink,flink-streaming-java,web application,0.7076910748617323
+03_flink,flink-streaming-java,cloud computing,0.7075664842810567
+03_flink,flink-streaming-java,telecommunications network,0.7071562624778941
+03_flink,flink-streaming-java,regression analysis,0.7067917733009415
+03_flink,flink-streaming-java,object detection,0.706496304641338
+03_flink,flink-streaming-java,smart contract,0.7062794387095371
+03_flink,flink-streaming-java,integrated development environment,0.7061133628273618
+03_flink,flink-streaming-java,HTTP server,0.7059990256204797
+03_flink,flink-streaming-java,deep neural network,0.7057280470193172
+03_flink,flink-streaming-java,web browser engine,0.7054652465172306
+03_flink,flink-streaming-java,cluster analysis,0.7052669726957949
+03_flink,flink-streaming-java,classification,0.7047246506092453
+03_flink,flink-streaming-java,HTTP client,0.7046699687989146
+03_flink,flink-streaming-java,content management system,0.7041725415756425
+03_flink,flink-streaming-java,object-oriented programming,0.7041649071217826
+03_flink,flink-streaming-java,question answering,0.7038942995119147
+03_flink,flink-streaming-java,mobile application development,0.7035985242539013
+03_flink,flink-streaming-java,social network,0.7030382596770552
+03_flink,flink-streaming-java,electronic trading platform,0.703012589387986
+03_flink,flink-streaming-java,game engine,0.7020724917733259
+03_flink,flink-streaming-java,home automation,0.7014364423196546
+03_flink,flink-streaming-java,game server,0.7008335648101895
+03_flink,flink-streaming-java,optical character recognition,0.7006159477331062
+03_flink,flink-streaming-java,computer science,0.7005882730669515
+03_flink,flink-streaming-java,algorithmic trading,0.700357602581002
+03_flink,flink-streaming-java,computational science,0.7000713091616194
+03_flink,flink-streaming-java,natural language,0.699677477043315
+03_flink,flink-streaming-java,linear regression,0.6981660346281787
+03_flink,flink-streaming-java,face detection,0.6975107210044639
+03_flink,flink-streaming-java,web application security,0.6969529148865848
+03_flink,flink-streaming-java,stock market,0.6965740047447145
+03_flink,flink-streaming-java,artificial intelligence,0.6963140625517562
+03_flink,flink-streaming-java,Q-learning,0.694743851220046
+03_flink,flink-streaming-java,geographic information system,0.6946137319604522
+03_flink,flink-streaming-java,augmented reality,0.69447570671371
+03_flink,flink-streaming-java,linear algebra,0.6941226093132999
+03_flink,flink-streaming-java,cryptocurrency,0.6940114979586766
+03_flink,flink-streaming-java,digital security,0.6940079639708309
+03_flink,flink-streaming-java,deep learning,0.6935826398767877
+03_flink,flink-streaming-java,reinforcement learning,0.6894147409258119
+03_flink,flink-streaming-java,web development,0.6881509874296735
+03_flink,flink-streaming-java,digital audio,0.6866587441289318
+03_flink,flink-streaming-java,audio player software,0.6854635491358608
+03_flink,flink-streaming-java,World Wide Web,0.6806710329832524

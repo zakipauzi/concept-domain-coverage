@@ -1,0 +1,170 @@
+project_name,module,domain,sim_score
+15_zeppelin,zeppelin-interpreter,interpreter,0.7469589507758206
+15_zeppelin,zeppelin-interpreter,unit testing,0.7391843536451309
+15_zeppelin,zeppelin-interpreter,command-line interface,0.7373841869278864
+15_zeppelin,zeppelin-interpreter,compiler,0.7372251540797485
+15_zeppelin,zeppelin-interpreter,scheduler,0.7356347328299893
+15_zeppelin,zeppelin-interpreter,dependency injection,0.7336651436636956
+15_zeppelin,zeppelin-interpreter,user interface,0.7324199266483358
+15_zeppelin,zeppelin-interpreter,static program analysis tool,0.7323278173278659
+15_zeppelin,zeppelin-interpreter,middleware,0.7320818167865866
+15_zeppelin,zeppelin-interpreter,backup,0.7308281804068312
+15_zeppelin,zeppelin-interpreter,"extract, transform, load",0.7307076538891362
+15_zeppelin,zeppelin-interpreter,code generation,0.7303807403742764
+15_zeppelin,zeppelin-interpreter,schema migration,0.7299145428904941
+15_zeppelin,zeppelin-interpreter,pattern matching,0.7293634615140515
+15_zeppelin,zeppelin-interpreter,web crawler,0.7286632575819323
+15_zeppelin,zeppelin-interpreter,Parser combinator,0.7281198951328611
+15_zeppelin,zeppelin-interpreter,software testing,0.7277020439692481
+15_zeppelin,zeppelin-interpreter,documentation,0.7273646814792811
+15_zeppelin,zeppelin-interpreter,kernel,0.7266330408488424
+15_zeppelin,zeppelin-interpreter,server,0.726398800178031
+15_zeppelin,zeppelin-interpreter,serialization,0.7253994277134936
+15_zeppelin,zeppelin-interpreter,static program analysis,0.7253508367439357
+15_zeppelin,zeppelin-interpreter,test automation,0.7246109189711245
+15_zeppelin,zeppelin-interpreter,shell tool,0.7235248296889899
+15_zeppelin,zeppelin-interpreter,software development,0.7229702900292605
+15_zeppelin,zeppelin-interpreter,virtual machine,0.7224815875072235
+15_zeppelin,zeppelin-interpreter,benchmark,0.7216474707207383
+15_zeppelin,zeppelin-interpreter,client,0.7214353455820572
+15_zeppelin,zeppelin-interpreter,validator,0.7213868260925378
+15_zeppelin,zeppelin-interpreter,database,0.7212458483604387
+15_zeppelin,zeppelin-interpreter,distributed system,0.7209032170971311
+15_zeppelin,zeppelin-interpreter,static site generator,0.7208957220226293
+15_zeppelin,zeppelin-interpreter,stream processing,0.7207944029875119
+15_zeppelin,zeppelin-interpreter,package management system,0.7204519147030726
+15_zeppelin,zeppelin-interpreter,plot,0.720385197267593
+15_zeppelin,zeppelin-interpreter,reactive programming,0.7202684702328489
+15_zeppelin,zeppelin-interpreter,continuous deployment,0.7190872769230704
+15_zeppelin,zeppelin-interpreter,automation,0.7189151873293942
+15_zeppelin,zeppelin-interpreter,synchronization,0.7187987738088516
+15_zeppelin,zeppelin-interpreter,web server,0.7185979649786807
+15_zeppelin,zeppelin-interpreter,file system,0.7182572127960424
+15_zeppelin,zeppelin-interpreter,translation,0.7182161642283309
+15_zeppelin,zeppelin-interpreter,WebSocket,0.7178916359932096
+15_zeppelin,zeppelin-interpreter,data binding,0.7175046188967202
+15_zeppelin,zeppelin-interpreter,graph,0.7174214046611515
+15_zeppelin,zeppelin-interpreter,web application,0.7173097322413706
+15_zeppelin,zeppelin-interpreter,router,0.7172931899133954
+15_zeppelin,zeppelin-interpreter,language model,0.7169756837603528
+15_zeppelin,zeppelin-interpreter,graphical user interface,0.7168387789939611
+15_zeppelin,zeppelin-interpreter,algorithm,0.716657586473053
+15_zeppelin,zeppelin-interpreter,random forest,0.7164997366987209
+15_zeppelin,zeppelin-interpreter,web service,0.7163685604036107
+15_zeppelin,zeppelin-interpreter,integrated development environment,0.7162001401051068
+15_zeppelin,zeppelin-interpreter,analytics,0.7154613492770626
+15_zeppelin,zeppelin-interpreter,search,0.7154112230166247
+15_zeppelin,zeppelin-interpreter,data,0.715147023545279
+15_zeppelin,zeppelin-interpreter,mobile application development,0.7150042752601051
+15_zeppelin,zeppelin-interpreter,regular expression,0.7146334854446278
+15_zeppelin,zeppelin-interpreter,data structure,0.7145515280410716
+15_zeppelin,zeppelin-interpreter,computer configuration,0.7142992374488976
+15_zeppelin,zeppelin-interpreter,website,0.7135809626740155
+15_zeppelin,zeppelin-interpreter,microservices,0.7133403173011109
+15_zeppelin,zeppelin-interpreter,text editor,0.7131398253553892
+15_zeppelin,zeppelin-interpreter,application performance management,0.7130417451291566
+15_zeppelin,zeppelin-interpreter,virtualization,0.7130206697339798
+15_zeppelin,zeppelin-interpreter,DevOps,0.7129090078758931
+15_zeppelin,zeppelin-interpreter,visualization,0.7122690661940386
+15_zeppelin,zeppelin-interpreter,continuous integration,0.7122054210044118
+15_zeppelin,zeppelin-interpreter,natural language understanding,0.7117814458519548
+15_zeppelin,zeppelin-interpreter,machine learning,0.7116949981589605
+15_zeppelin,zeppelin-interpreter,network monitoring,0.7116795791202182
+15_zeppelin,zeppelin-interpreter,HTTP server,0.7104608807922957
+15_zeppelin,zeppelin-interpreter,continuous delivery,0.7100917829418832
+15_zeppelin,zeppelin-interpreter,embedded system,0.709837160622068
+15_zeppelin,zeppelin-interpreter,logging,0.709350860058389
+15_zeppelin,zeppelin-interpreter,search engine,0.7092517762487132
+15_zeppelin,zeppelin-interpreter,HTTP client,0.7089881286842592
+15_zeppelin,zeppelin-interpreter,statistics,0.7086570110211436
+15_zeppelin,zeppelin-interpreter,text processing,0.7081518124843548
+15_zeppelin,zeppelin-interpreter,signal processing,0.7080402111073152
+15_zeppelin,zeppelin-interpreter,data visualization,0.7072015110858599
+15_zeppelin,zeppelin-interpreter,instant messaging,0.7071837885990946
+15_zeppelin,zeppelin-interpreter,web application security,0.7062106526353439
+15_zeppelin,zeppelin-interpreter,email,0.7059648426119763
+15_zeppelin,zeppelin-interpreter,computer vision,0.7058248775472514
+15_zeppelin,zeppelin-interpreter,business dashboard,0.705706672871849
+15_zeppelin,zeppelin-interpreter,operating system,0.7053105434886979
+15_zeppelin,zeppelin-interpreter,image recognition,0.7052022020167797
+15_zeppelin,zeppelin-interpreter,streaming media,0.7051088251491504
+15_zeppelin,zeppelin-interpreter,smart contract,0.704878762530569
+15_zeppelin,zeppelin-interpreter,front end,0.7044958013956227
+15_zeppelin,zeppelin-interpreter,cloud computing,0.7043711779189261
+15_zeppelin,zeppelin-interpreter,web browser engine,0.7043642710051738
+15_zeppelin,zeppelin-interpreter,distributed computing,0.7043386429186813
+15_zeppelin,zeppelin-interpreter,database management,0.7039172049422056
+15_zeppelin,zeppelin-interpreter,lexical analysis,0.703693884503502
+15_zeppelin,zeppelin-interpreter,data compression,0.7035488498548951
+15_zeppelin,zeppelin-interpreter,support vector machine,0.7034981051276792
+15_zeppelin,zeppelin-interpreter,information processing,0.7033247908199758
+15_zeppelin,zeppelin-interpreter,Malware Analysis,0.7032446731107431
+15_zeppelin,zeppelin-interpreter,game server,0.7032360660618766
+15_zeppelin,zeppelin-interpreter,malware,0.7028734752097132
+15_zeppelin,zeppelin-interpreter,security,0.7027552458149364
+15_zeppelin,zeppelin-interpreter,regression analysis,0.702429502872185
+15_zeppelin,zeppelin-interpreter,design,0.702291386653315
+15_zeppelin,zeppelin-interpreter,authentication,0.702274366774424
+15_zeppelin,zeppelin-interpreter,object–relational mapping,0.7018648237572563
+15_zeppelin,zeppelin-interpreter,penetration test,0.7011979092822983
+15_zeppelin,zeppelin-interpreter,facial recognition system,0.700952013440875
+15_zeppelin,zeppelin-interpreter,password manager,0.700826126165464
+15_zeppelin,zeppelin-interpreter,distributed database,0.7006905315068787
+15_zeppelin,zeppelin-interpreter,data mining,0.7006768306333756
+15_zeppelin,zeppelin-interpreter,game engine,0.7005798214782726
+15_zeppelin,zeppelin-interpreter,back end,0.7005212649573582
+15_zeppelin,zeppelin-interpreter,optical character recognition,0.7004639700067019
+15_zeppelin,zeppelin-interpreter,long short-term memory,0.7001981215405613
+15_zeppelin,zeppelin-interpreter,recommender system,0.7000810805024865
+15_zeppelin,zeppelin-interpreter,distributed multimedia communications platform,0.6998953973799972
+15_zeppelin,zeppelin-interpreter,object detection,0.6993949609946306
+15_zeppelin,zeppelin-interpreter,time series,0.69935703350692
+15_zeppelin,zeppelin-interpreter,big data,0.699299376481902
+15_zeppelin,zeppelin-interpreter,encryption,0.699098554230847
+15_zeppelin,zeppelin-interpreter,data analysis,0.6988626101605679
+15_zeppelin,zeppelin-interpreter,question answering,0.6985844874214346
+15_zeppelin,zeppelin-interpreter,linear regression,0.6985329218465982
+15_zeppelin,zeppelin-interpreter,sorting algorithm,0.698266621165633
+15_zeppelin,zeppelin-interpreter,content management system,0.6981307642548302
+15_zeppelin,zeppelin-interpreter,text classification,0.6979780960105679
+15_zeppelin,zeppelin-interpreter,sentiment analysis,0.6976904028286033
+15_zeppelin,zeppelin-interpreter,internet of things,0.6975614596409881
+15_zeppelin,zeppelin-interpreter,computer data storage,0.6975578352775138
+15_zeppelin,zeppelin-interpreter,Web Components,0.6972344387444899
+15_zeppelin,zeppelin-interpreter,education,0.6971828705256101
+15_zeppelin,zeppelin-interpreter,network analysis,0.696803170188972
+15_zeppelin,zeppelin-interpreter,image segmentation,0.6956287692995077
+15_zeppelin,zeppelin-interpreter,cluster analysis,0.6953631644613618
+15_zeppelin,zeppelin-interpreter,artificial intelligence,0.6953311125094794
+15_zeppelin,zeppelin-interpreter,graph algorithm,0.6949851874679033
+15_zeppelin,zeppelin-interpreter,computer graphics,0.694830601115672
+15_zeppelin,zeppelin-interpreter,augmented reality,0.6945020955566427
+15_zeppelin,zeppelin-interpreter,artificial neural network,0.6943577301791524
+15_zeppelin,zeppelin-interpreter,home automation,0.6942106621667102
+15_zeppelin,zeppelin-interpreter,graph database,0.6940117908565083
+15_zeppelin,zeppelin-interpreter,deep neural network,0.6939276556446069
+15_zeppelin,zeppelin-interpreter,social network,0.6937654728770476
+15_zeppelin,zeppelin-interpreter,File Transfer Protocol,0.6929692449855471
+15_zeppelin,zeppelin-interpreter,audio signal processing,0.6927280549206407
+15_zeppelin,zeppelin-interpreter,neural network,0.6925436214700011
+15_zeppelin,zeppelin-interpreter,Image analysis,0.6921520421636607
+15_zeppelin,zeppelin-interpreter,classification,0.6920372608115213
+15_zeppelin,zeppelin-interpreter,convolutional neural network,0.6918409262638908
+15_zeppelin,zeppelin-interpreter,text mining,0.6917188634116622
+15_zeppelin,zeppelin-interpreter,data science,0.6916371124376897
+15_zeppelin,zeppelin-interpreter,telecommunications network,0.6900646017618669
+15_zeppelin,zeppelin-interpreter,e-commerce,0.6895353541455617
+15_zeppelin,zeppelin-interpreter,linear algebra,0.6889389929372258
+15_zeppelin,zeppelin-interpreter,digital image processing,0.6887135842311171
+15_zeppelin,zeppelin-interpreter,deep learning,0.6884079113961449
+15_zeppelin,zeppelin-interpreter,blockchain,0.6878837250521952
+15_zeppelin,zeppelin-interpreter,face detection,0.6871661298876071
+15_zeppelin,zeppelin-interpreter,3D computer graphics,0.6852131452160787
+15_zeppelin,zeppelin-interpreter,geographic information system,0.684143893446193
+15_zeppelin,zeppelin-interpreter,reinforcement learning,0.6841072341520857
+15_zeppelin,zeppelin-interpreter,word embedding,0.6835114201899017
+15_zeppelin,zeppelin-interpreter,stock market,0.6808330399092457
+15_zeppelin,zeppelin-interpreter,World Wide Web,0.6789909446300411
+15_zeppelin,zeppelin-interpreter,cryptocurrency,0.6781130191725872
+15_zeppelin,zeppelin-interpreter,digital security,0.6754161435289097
+15_zeppelin,zeppelin-interpreter,digital audio,0.666587545529773

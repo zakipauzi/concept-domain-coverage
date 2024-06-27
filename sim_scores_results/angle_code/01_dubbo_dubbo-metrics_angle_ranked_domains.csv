@@ -1,0 +1,112 @@
+project_name,module,domain,sim_score
+01_dubbo,dubbo-metrics,application performance management,0.61851539
+01_dubbo,dubbo-metrics,stream processing,0.5802235611111111
+01_dubbo,dubbo-metrics,static program analysis tool,0.57035055
+01_dubbo,dubbo-metrics,static program analysis,0.5697208477777778
+01_dubbo,dubbo-metrics,analytics,0.5626644911111112
+01_dubbo,dubbo-metrics,data,0.5537813011111111
+01_dubbo,dubbo-metrics,scheduler,0.5532524177777778
+01_dubbo,dubbo-metrics,web service,0.5492474666666667
+01_dubbo,dubbo-metrics,microservices,0.54688754
+01_dubbo,dubbo-metrics,game server,0.5462576100000001
+01_dubbo,dubbo-metrics,anomaly detection,0.54624028
+01_dubbo,dubbo-metrics,dependency injection,0.5420530633333333
+01_dubbo,dubbo-metrics,web browser engine,0.5419788177777778
+01_dubbo,dubbo-metrics,web application,0.5398088944444445
+01_dubbo,dubbo-metrics,distributed computing,0.5396838766666667
+01_dubbo,dubbo-metrics,smart contract,0.5388757133333334
+01_dubbo,dubbo-metrics,HTTP client,0.5375743966666667
+01_dubbo,dubbo-metrics,object–relational mapping,0.5372104822222222
+01_dubbo,dubbo-metrics,graphical user interface,0.5356197988888889
+01_dubbo,dubbo-metrics,statistics,0.5350035544444444
+01_dubbo,dubbo-metrics,user interface,0.5301099811111112
+01_dubbo,dubbo-metrics,unit testing,0.5299271666666666
+01_dubbo,dubbo-metrics,data binding,0.5283382544444444
+01_dubbo,dubbo-metrics,information processing,0.52789553
+01_dubbo,dubbo-metrics,server,0.5276037822222222
+01_dubbo,dubbo-metrics,geographic information system,0.5274014933333334
+01_dubbo,dubbo-metrics,client,0.5268514011111112
+01_dubbo,dubbo-metrics,data analysis,0.5254138177777777
+01_dubbo,dubbo-metrics,pattern matching,0.5253738277777777
+01_dubbo,dubbo-metrics,distributed system,0.5251911466666667
+01_dubbo,dubbo-metrics,cluster analysis,0.5237063088888889
+01_dubbo,dubbo-metrics,Web Components,0.5210765122222222
+01_dubbo,dubbo-metrics,HTTP server,0.5206687777777779
+01_dubbo,dubbo-metrics,software testing,0.5204233555555554
+01_dubbo,dubbo-metrics,logging,0.5202030944444443
+01_dubbo,dubbo-metrics,instant messaging,0.5201694955555556
+01_dubbo,dubbo-metrics,test automation,0.5190422122222222
+01_dubbo,dubbo-metrics,code generation,0.5174668777777778
+01_dubbo,dubbo-metrics,automation,0.5163805166666667
+01_dubbo,dubbo-metrics,Bayesian inference,0.5158866344444445
+01_dubbo,dubbo-metrics,algorithm,0.5142111933333333
+01_dubbo,dubbo-metrics,embedded system,0.5140791877777778
+01_dubbo,dubbo-metrics,language model,0.514052678888889
+01_dubbo,dubbo-metrics,data science,0.5136422922222222
+01_dubbo,dubbo-metrics,regression analysis,0.5124668055555556
+01_dubbo,dubbo-metrics,data compression,0.5110767088888889
+01_dubbo,dubbo-metrics,machine learning,0.5109915666666667
+01_dubbo,dubbo-metrics,content management system,0.5103000466666666
+01_dubbo,dubbo-metrics,text processing,0.5095470833333333
+01_dubbo,dubbo-metrics,command-line interface,0.5095112288888889
+01_dubbo,dubbo-metrics,time series,0.5094518777777778
+01_dubbo,dubbo-metrics,back end,0.5092187022222222
+01_dubbo,dubbo-metrics,distributed multimedia communications platform,0.5075908133333333
+01_dubbo,dubbo-metrics,distributed database,0.50747693
+01_dubbo,dubbo-metrics,big data,0.5067732966666667
+01_dubbo,dubbo-metrics,web server,0.5067678455555557
+01_dubbo,dubbo-metrics,package management system,0.5066873422222222
+01_dubbo,dubbo-metrics,web crawler,0.5057576022222222
+01_dubbo,dubbo-metrics,database,0.5054653333333333
+01_dubbo,dubbo-metrics,data visualization,0.5051309788888889
+01_dubbo,dubbo-metrics,Kalman filter,0.5016307044444444
+01_dubbo,dubbo-metrics,data mining,0.5008999055555555
+01_dubbo,dubbo-metrics,support vector machine,0.5006924622222223
+01_dubbo,dubbo-metrics,web application security,0.50066271
+01_dubbo,dubbo-metrics,cloud computing,0.5001787866666666
+01_dubbo,dubbo-metrics,static site generator,0.4977064244444444
+01_dubbo,dubbo-metrics,web browser,0.4976557122222222
+01_dubbo,dubbo-metrics,game engine,0.49704410888888895
+01_dubbo,dubbo-metrics,signal processing,0.49320998222222223
+01_dubbo,dubbo-metrics,data structure,0.4929679266666667
+01_dubbo,dubbo-metrics,database management,0.4896036055555556
+01_dubbo,dubbo-metrics,website,0.4881845255555555
+01_dubbo,dubbo-metrics,File Transfer Protocol,0.48767056333333336
+01_dubbo,dubbo-metrics,graph database,0.48663359444444443
+01_dubbo,dubbo-metrics,logistic regression model,0.4863597744444444
+01_dubbo,dubbo-metrics,WebSocket,0.48581955666666665
+01_dubbo,dubbo-metrics,long short-term memory,0.48570858666666666
+01_dubbo,dubbo-metrics,World Wide Web,0.48430954000000004
+01_dubbo,dubbo-metrics,compiler,0.4842802588888888
+01_dubbo,dubbo-metrics,recommender system,0.4835664055555556
+01_dubbo,dubbo-metrics,computer data storage,0.4823831788888888
+01_dubbo,dubbo-metrics,information extraction,0.48117658222222226
+01_dubbo,dubbo-metrics,streaming media,0.48003124555555554
+01_dubbo,dubbo-metrics,password manager,0.47919682
+01_dubbo,dubbo-metrics,router,0.4780879377777778
+01_dubbo,dubbo-metrics,text classification,0.4780867766666666
+01_dubbo,dubbo-metrics,penetration test,0.4765173955555555
+01_dubbo,dubbo-metrics,video processing,0.4747617544444444
+01_dubbo,dubbo-metrics,digital image processing,0.47400576666666666
+01_dubbo,dubbo-metrics,security,0.47275017999999996
+01_dubbo,dubbo-metrics,algorithmic trading,0.4717390866666667
+01_dubbo,dubbo-metrics,electronic trading platform,0.46882981888888886
+01_dubbo,dubbo-metrics,object detection,0.46760425777777775
+01_dubbo,dubbo-metrics,sorting algorithm,0.4655881255555556
+01_dubbo,dubbo-metrics,audio signal processing,0.46533262
+01_dubbo,dubbo-metrics,design,0.4638923555555556
+01_dubbo,dubbo-metrics,image compression,0.4613505566666667
+01_dubbo,dubbo-metrics,topic modeling,0.45823147000000003
+01_dubbo,dubbo-metrics,telecommunications network,0.45671350555555557
+01_dubbo,dubbo-metrics,e-commerce,0.4549456277777778
+01_dubbo,dubbo-metrics,operating system,0.45463559666666664
+01_dubbo,dubbo-metrics,file system,0.4524855933333333
+01_dubbo,dubbo-metrics,artificial neural network,0.4522800011111111
+01_dubbo,dubbo-metrics,quantum computer,0.4502121744444444
+01_dubbo,dubbo-metrics,computer configuration,0.44831701111111105
+01_dubbo,dubbo-metrics,word embedding,0.4350414633333333
+01_dubbo,dubbo-metrics,digital security,0.4312071622222222
+01_dubbo,dubbo-metrics,cryptocurrency,0.42884585999999997
+01_dubbo,dubbo-metrics,digital audio,0.42797701555555556
+01_dubbo,dubbo-metrics,regular expression,0.4166199111111111
+01_dubbo,dubbo-metrics,stock market,0.39161168444444444

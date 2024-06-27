@@ -1,0 +1,88 @@
+project_name,module,domain,sim_score
+08_pulsar,pulsar-package-management,package management system,0.6330884688888889
+08_pulsar,pulsar-package-management,stream processing,0.6164332011111111
+08_pulsar,pulsar-package-management,computer data storage,0.5989273877777779
+08_pulsar,pulsar-package-management,file system,0.5946109577777778
+08_pulsar,pulsar-package-management,content management system,0.5866642433333333
+08_pulsar,pulsar-package-management,streaming media,0.5858089577777778
+08_pulsar,pulsar-package-management,application performance management,0.5816324066666667
+08_pulsar,pulsar-package-management,serialization,0.5797570099999999
+08_pulsar,pulsar-package-management,distributed system,0.5729052611111112
+08_pulsar,pulsar-package-management,continuous integration,0.5602316455555556
+08_pulsar,pulsar-package-management,static program analysis,0.5598108744444446
+08_pulsar,pulsar-package-management,File Transfer Protocol,0.5591893588888888
+08_pulsar,pulsar-package-management,smart contract,0.5588017677777777
+08_pulsar,pulsar-package-management,data compression,0.5581489588888888
+08_pulsar,pulsar-package-management,distributed computing,0.5578971466666666
+08_pulsar,pulsar-package-management,data,0.5548132966666667
+08_pulsar,pulsar-package-management,microservices,0.5510070822222222
+08_pulsar,pulsar-package-management,integrated development environment,0.5458778111111111
+08_pulsar,pulsar-package-management,back end,0.5449029855555556
+08_pulsar,pulsar-package-management,compiler,0.5417085555555556
+08_pulsar,pulsar-package-management,server,0.5404638111111111
+08_pulsar,pulsar-package-management,database management,0.5394453111111112
+08_pulsar,pulsar-package-management,distributed database,0.5367394566666667
+08_pulsar,pulsar-package-management,dependency injection,0.53642094
+08_pulsar,pulsar-package-management,data structure,0.5334828622222222
+08_pulsar,pulsar-package-management,command-line interface,0.5322453388888888
+08_pulsar,pulsar-package-management,cloud computing,0.5316126088888888
+08_pulsar,pulsar-package-management,logging,0.52844814
+08_pulsar,pulsar-package-management,information processing,0.5243382355555555
+08_pulsar,pulsar-package-management,embedded system,0.5239456422222223
+08_pulsar,pulsar-package-management,client,0.5215134544444445
+08_pulsar,pulsar-package-management,Web Components,0.521260018888889
+08_pulsar,pulsar-package-management,graphical user interface,0.52097095
+08_pulsar,pulsar-package-management,web service,0.5189082877777778
+08_pulsar,pulsar-package-management,game server,0.5165363
+08_pulsar,pulsar-package-management,web server,0.516460251111111
+08_pulsar,pulsar-package-management,HTTP server,0.5147344922222222
+08_pulsar,pulsar-package-management,database,0.5116374966666667
+08_pulsar,pulsar-package-management,user interface,0.5109041255555555
+08_pulsar,pulsar-package-management,web application,0.5108066711111111
+08_pulsar,pulsar-package-management,data binding,0.51003609
+08_pulsar,pulsar-package-management,distributed multimedia communications platform,0.5095633266666666
+08_pulsar,pulsar-package-management,object–relational mapping,0.5084687377777778
+08_pulsar,pulsar-package-management,big data,0.5067555144444444
+08_pulsar,pulsar-package-management,automation,0.5044951044444445
+08_pulsar,pulsar-package-management,software testing,0.5024940855555555
+08_pulsar,pulsar-package-management,operating system,0.5022907255555557
+08_pulsar,pulsar-package-management,validator,0.4952978322222222
+08_pulsar,pulsar-package-management,pattern matching,0.4949501055555555
+08_pulsar,pulsar-package-management,algorithm,0.49479595111111113
+08_pulsar,pulsar-package-management,website,0.4931015411111111
+08_pulsar,pulsar-package-management,computer configuration,0.4929427955555556
+08_pulsar,pulsar-package-management,benchmark,0.49115555777777775
+08_pulsar,pulsar-package-management,digital audio,0.48889681222222214
+08_pulsar,pulsar-package-management,language model,0.4884825777777777
+08_pulsar,pulsar-package-management,World Wide Web,0.48781296666666674
+08_pulsar,pulsar-package-management,geographic information system,0.4874169544444445
+08_pulsar,pulsar-package-management,test automation,0.4858542133333333
+08_pulsar,pulsar-package-management,unit testing,0.4835666877777778
+08_pulsar,pulsar-package-management,design,0.4814124600000001
+08_pulsar,pulsar-package-management,long short-term memory,0.4810840322222222
+08_pulsar,pulsar-package-management,recommender system,0.4807433955555555
+08_pulsar,pulsar-package-management,instant messaging,0.4766902888888889
+08_pulsar,pulsar-package-management,analytics,0.4754767611111111
+08_pulsar,pulsar-package-management,security,0.47346048777777777
+08_pulsar,pulsar-package-management,web development,0.4713730588888889
+08_pulsar,pulsar-package-management,machine learning,0.47113147222222224
+08_pulsar,pulsar-package-management,data analysis,0.46859469000000004
+08_pulsar,pulsar-package-management,reinforcement learning,0.46349382666666666
+08_pulsar,pulsar-package-management,signal processing,0.46332918111111115
+08_pulsar,pulsar-package-management,linear regression,0.4616018155555556
+08_pulsar,pulsar-package-management,audio signal processing,0.46079837999999995
+08_pulsar,pulsar-package-management,web application security,0.4606039666666667
+08_pulsar,pulsar-package-management,digital image processing,0.45563646999999996
+08_pulsar,pulsar-package-management,support vector machine,0.45318056111111116
+08_pulsar,pulsar-package-management,mobile application development,0.4523922455555555
+08_pulsar,pulsar-package-management,telecommunications network,0.4501090211111111
+08_pulsar,pulsar-package-management,word embedding,0.44701399444444445
+08_pulsar,pulsar-package-management,digital security,0.44659581000000004
+08_pulsar,pulsar-package-management,3D modeling,0.44107347666666663
+08_pulsar,pulsar-package-management,computer vision,0.4395769122222222
+08_pulsar,pulsar-package-management,image recognition,0.4301182688888889
+08_pulsar,pulsar-package-management,penetration test,0.42471992333333336
+08_pulsar,pulsar-package-management,object detection,0.41638059000000005
+08_pulsar,pulsar-package-management,regular expression,0.39780992666666665
+08_pulsar,pulsar-package-management,face detection,0.3972303255555556
+08_pulsar,pulsar-package-management,facial recognition system,0.39697430333333333
