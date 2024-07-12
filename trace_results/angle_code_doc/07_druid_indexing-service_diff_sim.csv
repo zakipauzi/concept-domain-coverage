@@ -1,0 +1,157 @@
+project_name,module,domain,diff_sim
+07_druid,indexing-service,"extract, transform, load",0.0006406112500001448
+07_druid,indexing-service,continuous delivery,0.001362298750000046
+07_druid,indexing-service,virtualization,0.0014215123611112102
+07_druid,indexing-service,static program analysis tool,0.0015638827777776365
+07_druid,indexing-service,continuous deployment,0.0016714973611111628
+07_druid,indexing-service,stock market,0.0018495934722222995
+07_druid,indexing-service,Bayesian inference,0.0028226070833334838
+07_druid,indexing-service,HTTP server,0.003351948750000111
+07_druid,indexing-service,rendering,0.003396001249999947
+07_druid,indexing-service,unit testing,0.0034167586111110704
+07_druid,indexing-service,data binding,0.0050059143055556365
+07_druid,indexing-service,data,0.005035649861111047
+07_druid,indexing-service,streaming media,0.005164799166666623
+07_druid,indexing-service,code generation,0.005992569583333163
+07_druid,indexing-service,mathematical finance,0.006074402499999965
+07_druid,indexing-service,logging,0.0066380869444443436
+07_druid,indexing-service,information extraction,0.0066465674999999225
+07_druid,indexing-service,kernel,0.006717577777777706
+07_druid,indexing-service,optical character recognition,0.006966164305555522
+07_druid,indexing-service,file system,0.00895531027777785
+07_druid,indexing-service,virtual machine,0.009152665694444562
+07_druid,indexing-service,natural language,0.009493824861111166
+07_druid,indexing-service,password manager,0.010036531805555526
+07_druid,indexing-service,WebSocket,0.010186570833333297
+07_druid,indexing-service,microservices,0.010206145833333236
+07_druid,indexing-service,internet of things,0.010467997777777793
+07_druid,indexing-service,computer configuration,0.010495158055555565
+07_druid,indexing-service,web server,0.010514140694444396
+07_druid,indexing-service,game engine,0.010664606527777787
+07_druid,indexing-service,question answering,0.010987580555555598
+07_druid,indexing-service,continuous integration,0.011840871249999996
+07_druid,indexing-service,middleware,0.01184211125000001
+07_druid,indexing-service,graph database,0.011865837638888932
+07_druid,indexing-service,web scraping,0.012221091666666628
+07_druid,indexing-service,data visualization,0.012637974861111068
+07_druid,indexing-service,blockchain,0.012668815833333402
+07_druid,indexing-service,web browser engine,0.012703944722222249
+07_druid,indexing-service,back end,0.012865945694444436
+07_druid,indexing-service,telecommunications network,0.01378122319444458
+07_druid,indexing-service,geometry,0.014067520138888845
+07_druid,indexing-service,database management,0.014254409444444449
+07_druid,indexing-service,cloud computing,0.014722043194444479
+07_druid,indexing-service,software testing,0.015066506527777856
+07_druid,indexing-service,knowledge graph,0.015247810694444586
+07_druid,indexing-service,penetration test,0.015518061666666583
+07_druid,indexing-service,regular expression,0.01563759333333342
+07_druid,indexing-service,game server,0.01625826138888886
+07_druid,indexing-service,security,0.01644791972222215
+07_druid,indexing-service,lexical analysis,0.016971077777777843
+07_druid,indexing-service,static program analysis,0.0171742219444444
+07_druid,indexing-service,web application security,0.017359950138888858
+07_druid,indexing-service,computational science,0.018244123888888908
+07_druid,indexing-service,Malware Analysis,0.018427353333333285
+07_druid,indexing-service,web service,0.018688737777777686
+07_druid,indexing-service,server,0.018946806944444394
+07_druid,indexing-service,shell tool,0.019025816249999994
+07_druid,indexing-service,sentiment analysis,0.019155800833333403
+07_druid,indexing-service,distributed multimedia communications platform,0.01925974749999998
+07_druid,indexing-service,language model,0.01928302027777773
+07_druid,indexing-service,object–relational mapping,0.02007233375000006
+07_druid,indexing-service,geographic information system,0.020078089027777635
+07_druid,indexing-service,debugger,0.02078064902777793
+07_druid,indexing-service,Image analysis,0.020962453333333353
+07_druid,indexing-service,regression analysis,0.02123504805555554
+07_druid,indexing-service,linear regression,0.021615076666666677
+07_druid,indexing-service,distributed database,0.02185932263888879
+07_druid,indexing-service,schema migration,0.023203369999999945
+07_druid,indexing-service,web crawler,0.02343687041666692
+07_druid,indexing-service,computer data storage,0.02351563527777778
+07_druid,indexing-service,front end,0.02405232180555561
+07_druid,indexing-service,dependency injection,0.024657193611111128
+07_druid,indexing-service,serialization,0.025155356805555584
+07_druid,indexing-service,classification,0.025361073611111062
+07_druid,indexing-service,data analysis,0.026769763888888853
+07_druid,indexing-service,web browser,0.027801289444444433
+07_druid,indexing-service,analytics,0.028111074305555594
+07_druid,indexing-service,statistics,0.02819649569444449
+07_druid,indexing-service,embedded system,0.028487031527777762
+07_druid,indexing-service,user interface,0.02861256000000001
+07_druid,indexing-service,virtual reality,0.03010483680555559
+07_druid,indexing-service,video,0.03085112833333331
+07_druid,indexing-service,recommender system,0.031263399305555606
+07_druid,indexing-service,command-line interface,0.0312813111111111
+07_druid,indexing-service,data science,0.03165184583333336
+07_druid,indexing-service,validator,0.03213040944444445
+07_druid,indexing-service,machine learning,0.032482371666666676
+07_druid,indexing-service,search,0.0325828390277777
+07_druid,indexing-service,Semantic Web,0.032764560972222245
+07_druid,indexing-service,malware,0.03296816347222237
+07_druid,indexing-service,instant messaging,0.03307717458333337
+07_druid,indexing-service,test automation,0.033571342500000045
+07_druid,indexing-service,database,0.033634905416666805
+07_druid,indexing-service,HTTP client,0.03373345833333341
+07_druid,indexing-service,content management system,0.03529795861111118
+07_druid,indexing-service,natural language processing,0.0355134305555555
+07_druid,indexing-service,graph algorithm,0.03614556486111109
+07_druid,indexing-service,network analysis,0.03643993791666672
+07_druid,indexing-service,compiler,0.036934476249999904
+07_druid,indexing-service,operating system,0.0369359034722222
+07_druid,indexing-service,business dashboard,0.03726875291666665
+07_druid,indexing-service,Web Components,0.037676347916666686
+07_druid,indexing-service,authentication,0.03770592916666682
+07_druid,indexing-service,digital security,0.03772740527777779
+07_druid,indexing-service,automation,0.037979201388888884
+07_druid,indexing-service,artificial intelligence,0.0392825995833333
+07_druid,indexing-service,support vector machine,0.039525024861111036
+07_druid,indexing-service,Q-learning,0.03960471694444445
+07_druid,indexing-service,web application,0.04095556638888875
+07_druid,indexing-service,File Transfer Protocol,0.04126011791666673
+07_druid,indexing-service,graphical user interface,0.041792734583333324
+07_druid,indexing-service,text processing,0.04248123819444438
+07_druid,indexing-service,audio signal processing,0.043520946388888926
+07_druid,indexing-service,data structure,0.04487151277777768
+07_druid,indexing-service,package management system,0.04501602861111109
+07_druid,indexing-service,synchronization,0.0461421127777778
+07_druid,indexing-service,data compression,0.04653056458333338
+07_druid,indexing-service,client,0.046605721527777755
+07_druid,indexing-service,algorithm,0.04662693638888893
+07_druid,indexing-service,deep learning,0.04678415333333341
+07_druid,indexing-service,static site generator,0.048218440694444475
+07_druid,indexing-service,smart contract,0.048772089305555544
+07_druid,indexing-service,distributed computing,0.05017902374999983
+07_druid,indexing-service,search engine,0.05030485833333331
+07_druid,indexing-service,random forest,0.05189190027777779
+07_druid,indexing-service,serverless computing,0.05346563555555567
+07_druid,indexing-service,big data,0.05474155916666662
+07_druid,indexing-service,sorting algorithm,0.05475484736111119
+07_druid,indexing-service,pattern matching,0.054886818750000066
+07_druid,indexing-service,software development,0.055136486111111105
+07_druid,indexing-service,data mining,0.05602799111111095
+07_druid,indexing-service,object detection,0.05626864166666656
+07_druid,indexing-service,neural network,0.056497941944444297
+07_druid,indexing-service,signal processing,0.05796628444444446
+07_druid,indexing-service,distributed system,0.05847061430555561
+07_druid,indexing-service,benchmark,0.058771514444444395
+07_druid,indexing-service,3D modeling,0.05915676194444458
+07_druid,indexing-service,augmented reality,0.05959005402777784
+07_druid,indexing-service,time series,0.0606733963888888
+07_druid,indexing-service,World Wide Web,0.0643791495833334
+07_druid,indexing-service,website,0.06635875416666664
+07_druid,indexing-service,artificial neural network,0.06704574027777771
+07_druid,indexing-service,cluster analysis,0.06900078999999992
+07_druid,indexing-service,reactive programming,0.07204695305555553
+07_druid,indexing-service,reinforcement learning,0.0720863436111111
+07_druid,indexing-service,web development,0.07454406944444436
+07_druid,indexing-service,Parser combinator,0.07515848791666674
+07_druid,indexing-service,information processing,0.0754640780555555
+07_druid,indexing-service,finance,0.07882705805555557
+07_druid,indexing-service,long short-term memory,0.08750610513888896
+07_druid,indexing-service,anomaly detection,0.09053537722222221
+07_druid,indexing-service,scheduler,0.09164745430555554
+07_druid,indexing-service,image segmentation,0.09333532083333335
+07_druid,indexing-service,application performance management,0.09834042583333352
+07_druid,indexing-service,stream processing,0.11335544611111109
+07_druid,indexing-service,recurrent neural network,0.11702169861111117
+07_druid,indexing-service,documentation,0.15145199555555555

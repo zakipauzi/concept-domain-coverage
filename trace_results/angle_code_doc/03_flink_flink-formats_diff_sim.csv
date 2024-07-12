@@ -1,0 +1,157 @@
+project_name,module,domain,diff_sim
+03_flink,flink-formats,recommender system,0.001497561111111101
+03_flink,flink-formats,text processing,0.0016986933333333898
+03_flink,flink-formats,command-line interface,0.002319950000000015
+03_flink,flink-formats,Parser combinator,0.002740804444444467
+03_flink,flink-formats,scheduler,0.0029639477777777534
+03_flink,flink-formats,code generation,0.0031970477777777395
+03_flink,flink-formats,algorithm,0.003718031111111131
+03_flink,flink-formats,distributed computing,0.004040108888888838
+03_flink,flink-formats,stock market,0.0049978111111110834
+03_flink,flink-formats,stream processing,0.005268185555555527
+03_flink,flink-formats,instant messaging,0.005513088888888795
+03_flink,flink-formats,distributed system,0.005833783333333398
+03_flink,flink-formats,smart contract,0.005922458888889093
+03_flink,flink-formats,client,0.006043322222222203
+03_flink,flink-formats,operating system,0.00619950777777778
+03_flink,flink-formats,finance,0.006637047777777794
+03_flink,flink-formats,information processing,0.007105006666666469
+03_flink,flink-formats,artificial intelligence,0.007497551111111056
+03_flink,flink-formats,synchronization,0.008114903333333479
+03_flink,flink-formats,embedded system,0.008327708888888896
+03_flink,flink-formats,automation,0.009397467777777835
+03_flink,flink-formats,graph algorithm,0.009751641111111209
+03_flink,flink-formats,graphical user interface,0.010198466666666572
+03_flink,flink-formats,signal processing,0.011231652222222277
+03_flink,flink-formats,web application,0.011381691111111092
+03_flink,flink-formats,3D modeling,0.012532735555555508
+03_flink,flink-formats,computational science,0.0126682844444444
+03_flink,flink-formats,digital image processing,0.01298141222222221
+03_flink,flink-formats,validator,0.013095423333333411
+03_flink,flink-formats,Image analysis,0.014030541111111128
+03_flink,flink-formats,analytics,0.014047985555555587
+03_flink,flink-formats,mathematical finance,0.016261138888888915
+03_flink,flink-formats,object detection,0.017876526666666726
+03_flink,flink-formats,language model,0.017947726666666775
+03_flink,flink-formats,design,0.018261257777777873
+03_flink,flink-formats,Web Components,0.01891165111111115
+03_flink,flink-formats,algorithmic trading,0.019638060000000013
+03_flink,flink-formats,front end,0.020176768888888974
+03_flink,flink-formats,face detection,0.020456133333333404
+03_flink,flink-formats,user interface,0.020868184444444382
+03_flink,flink-formats,password manager,0.021424746666666716
+03_flink,flink-formats,syntax highlighting,0.021639752222222253
+03_flink,flink-formats,computer graphics,0.021708354444444355
+03_flink,flink-formats,artificial neural network,0.02221011222222219
+03_flink,flink-formats,network monitoring,0.022264961111111148
+03_flink,flink-formats,3D computer graphics,0.02266323888888888
+03_flink,flink-formats,web application security,0.02284717999999991
+03_flink,flink-formats,facial recognition system,0.023493888888888814
+03_flink,flink-formats,sentiment analysis,0.023631219999999897
+03_flink,flink-formats,computer science,0.023910250000000022
+03_flink,flink-formats,audio signal processing,0.02444608222222222
+03_flink,flink-formats,test automation,0.024518177777777816
+03_flink,flink-formats,static program analysis,0.02493634888888885
+03_flink,flink-formats,distributed multimedia communications platform,0.02495173111111121
+03_flink,flink-formats,reinforcement learning,0.026694993333333472
+03_flink,flink-formats,server,0.026729148888888943
+03_flink,flink-formats,web service,0.026795392222222325
+03_flink,flink-formats,Semantic Web,0.027668461111111098
+03_flink,flink-formats,animation,0.027948855555555596
+03_flink,flink-formats,benchmark,0.0281431877777778
+03_flink,flink-formats,computer configuration,0.028722461111111208
+03_flink,flink-formats,network analysis,0.029515020000000003
+03_flink,flink-formats,streaming media,0.0298072511111111
+03_flink,flink-formats,image recognition,0.030537528888889
+03_flink,flink-formats,continuous integration,0.030809218888888823
+03_flink,flink-formats,HTTP client,0.031050567777777704
+03_flink,flink-formats,web development,0.03169096888888889
+03_flink,flink-formats,time series,0.03216174444444442
+03_flink,flink-formats,machine learning,0.032464631111111086
+03_flink,flink-formats,unit testing,0.03261786777777781
+03_flink,flink-formats,content management system,0.032866201111111104
+03_flink,flink-formats,microservices,0.03292344555555565
+03_flink,flink-formats,"extract, transform, load",0.033372615555555596
+03_flink,flink-formats,mobile application development,0.03347627666666664
+03_flink,flink-formats,parsing,0.03361259444444442
+03_flink,flink-formats,email,0.033633195555555606
+03_flink,flink-formats,linear regression,0.03395309000000002
+03_flink,flink-formats,translation,0.03417744666666661
+03_flink,flink-formats,image,0.03500086777777789
+03_flink,flink-formats,sorting algorithm,0.035274806666666714
+03_flink,flink-formats,digital audio,0.0366465944444444
+03_flink,flink-formats,text mining,0.03715191555555547
+03_flink,flink-formats,cloud computing,0.03716318000000007
+03_flink,flink-formats,data science,0.03796240333333328
+03_flink,flink-formats,internet bot,0.03890156222222224
+03_flink,flink-formats,natural language processing,0.03922546111111108
+03_flink,flink-formats,back end,0.03935215999999997
+03_flink,flink-formats,neural network,0.0394562722222222
+03_flink,flink-formats,database management,0.03964403777777786
+03_flink,flink-formats,video,0.03970509
+03_flink,flink-formats,web server,0.0406403766666667
+03_flink,flink-formats,regression analysis,0.040738932222222135
+03_flink,flink-formats,cluster analysis,0.04104859555555557
+03_flink,flink-formats,text classification,0.04187432888888892
+03_flink,flink-formats,electronic trading platform,0.04266013777777772
+03_flink,flink-formats,anomaly detection,0.04274921777777779
+03_flink,flink-formats,geographic information system,0.04322074999999992
+03_flink,flink-formats,text editor,0.04374020000000001
+03_flink,flink-formats,security,0.0438728344444444
+03_flink,flink-formats,static program analysis tool,0.04410076333333324
+03_flink,flink-formats,telecommunications network,0.04431566222222222
+03_flink,flink-formats,data mining,0.04537013555555547
+03_flink,flink-formats,data analysis,0.045453946666666634
+03_flink,flink-formats,question answering,0.046063005555555536
+03_flink,flink-formats,blockchain,0.0463207155555555
+03_flink,flink-formats,web crawler,0.046433205555555634
+03_flink,flink-formats,HTTP server,0.0465605666666668
+03_flink,flink-formats,data visualization,0.0468042600000001
+03_flink,flink-formats,software architecture,0.046894573333333356
+03_flink,flink-formats,website,0.04706486333333343
+03_flink,flink-formats,random forest,0.04811193111111117
+03_flink,flink-formats,bitcoin,0.04828513000000001
+03_flink,flink-formats,penetration test,0.0489388744444445
+03_flink,flink-formats,internet of things,0.04981113333333337
+03_flink,flink-formats,package management system,0.05030260555555549
+03_flink,flink-formats,statistics,0.051497935555555485
+03_flink,flink-formats,application performance management,0.05149981111111118
+03_flink,flink-formats,support vector machine,0.0515642466666667
+03_flink,flink-formats,pattern matching,0.05178945444444455
+03_flink,flink-formats,deep learning,0.0523476011111112
+03_flink,flink-formats,Kalman filter,0.052609486666666594
+03_flink,flink-formats,game engine,0.053104234444444454
+03_flink,flink-formats,schema migration,0.054444235555555553
+03_flink,flink-formats,digital security,0.05646891555555561
+03_flink,flink-formats,graph database,0.0570849644444445
+03_flink,flink-formats,dependency injection,0.05738414555555571
+03_flink,flink-formats,distributed database,0.058404320000000065
+03_flink,flink-formats,compiler,0.05905725111111115
+03_flink,flink-formats,long short-term memory,0.061490556666666696
+03_flink,flink-formats,World Wide Web,0.06391378777777779
+03_flink,flink-formats,regular expression,0.06448996444444449
+03_flink,flink-formats,logging,0.06568350777777793
+03_flink,flink-formats,big data,0.06932574111111106
+03_flink,flink-formats,data binding,0.0733625744444445
+03_flink,flink-formats,software engineering,0.07452196222222207
+03_flink,flink-formats,database,0.07496894444444441
+03_flink,flink-formats,software testing,0.07897094333333327
+03_flink,flink-formats,image compression,0.07904833222222224
+03_flink,flink-formats,word embedding,0.08206085000000007
+03_flink,flink-formats,object–relational mapping,0.08291173000000002
+03_flink,flink-formats,optical character recognition,0.08479842444444441
+03_flink,flink-formats,data structure,0.08658132333333318
+03_flink,flink-formats,data,0.08851861888888896
+03_flink,flink-formats,convolutional neural network,0.08904075333333328
+03_flink,flink-formats,information extraction,0.0906425488888889
+03_flink,flink-formats,e-commerce,0.09146554444444432
+03_flink,flink-formats,File Transfer Protocol,0.09408682666666657
+03_flink,flink-formats,backup,0.09577250888888889
+03_flink,flink-formats,software development,0.09642485444444437
+03_flink,flink-formats,web scraping,0.09679533000000007
+03_flink,flink-formats,file system,0.10167535666666666
+03_flink,flink-formats,data compression,0.10686585888888889
+03_flink,flink-formats,integrated development environment,0.10961674555555567
+03_flink,flink-formats,computer data storage,0.1169009711111112
+03_flink,flink-formats,encryption,0.12137603555555548
+03_flink,flink-formats,serialization,0.12620411777777785

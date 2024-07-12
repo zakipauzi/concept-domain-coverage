@@ -1,0 +1,120 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-xds,computer data storage,0.000269147500000011
+01_dubbo,dubbo-xds,natural language,0.00039896888888890647
+01_dubbo,dubbo-xds,streaming media,0.0007481458333333801
+01_dubbo,dubbo-xds,object detection,0.0013232945833333565
+01_dubbo,dubbo-xds,data science,0.0013958768055555848
+01_dubbo,dubbo-xds,distributed system,0.0014672537499998972
+01_dubbo,dubbo-xds,logging,0.001635598055555576
+01_dubbo,dubbo-xds,data,0.0018564047222220381
+01_dubbo,dubbo-xds,smart contract,0.0019087258333333468
+01_dubbo,dubbo-xds,search,0.0021111688888889035
+01_dubbo,dubbo-xds,data analysis,0.0021417750000000124
+01_dubbo,dubbo-xds,data visualization,0.002179627777777804
+01_dubbo,dubbo-xds,search engine,0.002646472222222307
+01_dubbo,dubbo-xds,text mining,0.002826174166666695
+01_dubbo,dubbo-xds,user interface,0.003529825972222289
+01_dubbo,dubbo-xds,data compression,0.003982199999999991
+01_dubbo,dubbo-xds,text classification,0.0044774397222221984
+01_dubbo,dubbo-xds,continuous integration,0.00453319180555567
+01_dubbo,dubbo-xds,web browser engine,0.004629967361111154
+01_dubbo,dubbo-xds,email,0.004729902083333404
+01_dubbo,dubbo-xds,security,0.005834227916666657
+01_dubbo,dubbo-xds,dependency injection,0.005932914722222127
+01_dubbo,dubbo-xds,electronic trading platform,0.005953176527777715
+01_dubbo,dubbo-xds,HTTP server,0.006186965138889
+01_dubbo,dubbo-xds,File Transfer Protocol,0.006645339861111099
+01_dubbo,dubbo-xds,text processing,0.007450687777777687
+01_dubbo,dubbo-xds,education,0.00799022111111114
+01_dubbo,dubbo-xds,serialization,0.008494559861111084
+01_dubbo,dubbo-xds,digital audio,0.008665817222222205
+01_dubbo,dubbo-xds,web browser,0.008745139722222295
+01_dubbo,dubbo-xds,digital image processing,0.008791977916666693
+01_dubbo,dubbo-xds,data structure,0.009859196805555581
+01_dubbo,dubbo-xds,server,0.010083477499999993
+01_dubbo,dubbo-xds,audio signal processing,0.010706428055555495
+01_dubbo,dubbo-xds,unit testing,0.010917211527777748
+01_dubbo,dubbo-xds,optical character recognition,0.011088865833333406
+01_dubbo,dubbo-xds,support vector machine,0.011760801111110997
+01_dubbo,dubbo-xds,deep learning,0.012266565416666597
+01_dubbo,dubbo-xds,graphical user interface,0.012387821944444488
+01_dubbo,dubbo-xds,continuous deployment,0.012521440277777796
+01_dubbo,dubbo-xds,web application security,0.01298576791666678
+01_dubbo,dubbo-xds,WebSocket,0.01313494277777777
+01_dubbo,dubbo-xds,web crawler,0.01336230513888903
+01_dubbo,dubbo-xds,application performance management,0.013729063333333236
+01_dubbo,dubbo-xds,digital security,0.014285851111111192
+01_dubbo,dubbo-xds,database,0.014398804444444468
+01_dubbo,dubbo-xds,deep neural network,0.015235362916666606
+01_dubbo,dubbo-xds,word embedding,0.015842534583333234
+01_dubbo,dubbo-xds,internet bot,0.016037733055555503
+01_dubbo,dubbo-xds,game engine,0.01618980375000001
+01_dubbo,dubbo-xds,cloud computing,0.016212539305555496
+01_dubbo,dubbo-xds,instant messaging,0.016988853472222232
+01_dubbo,dubbo-xds,big data,0.018296596250000075
+01_dubbo,dubbo-xds,HTTP client,0.018488037500000054
+01_dubbo,dubbo-xds,time series,0.018585831666666608
+01_dubbo,dubbo-xds,web server,0.019249815277777804
+01_dubbo,dubbo-xds,Web Components,0.01966782944444445
+01_dubbo,dubbo-xds,signal processing,0.01982626472222221
+01_dubbo,dubbo-xds,distributed multimedia communications platform,0.020375480694444503
+01_dubbo,dubbo-xds,static site generator,0.0206290561111111
+01_dubbo,dubbo-xds,distributed computing,0.020808711249999945
+01_dubbo,dubbo-xds,e-commerce,0.02268926916666658
+01_dubbo,dubbo-xds,computer configuration,0.022907718611111016
+01_dubbo,dubbo-xds,web application,0.023859390972222227
+01_dubbo,dubbo-xds,stock market,0.02530149888888883
+01_dubbo,dubbo-xds,analytics,0.025360755416666714
+01_dubbo,dubbo-xds,language model,0.025475613888888804
+01_dubbo,dubbo-xds,stream processing,0.025740228333333448
+01_dubbo,dubbo-xds,bitcoin,0.02658914694444442
+01_dubbo,dubbo-xds,anomaly detection,0.027877777222222233
+01_dubbo,dubbo-xds,long short-term memory,0.028157814027777894
+01_dubbo,dubbo-xds,algorithm,0.02839298402777779
+01_dubbo,dubbo-xds,backup,0.028753521666666726
+01_dubbo,dubbo-xds,file system,0.0292406458333333
+01_dubbo,dubbo-xds,telecommunications network,0.029296026388888785
+01_dubbo,dubbo-xds,graph database,0.029321468055555577
+01_dubbo,dubbo-xds,machine learning,0.029678417222222198
+01_dubbo,dubbo-xds,command-line interface,0.0305784375
+01_dubbo,dubbo-xds,World Wide Web,0.030712628055555635
+01_dubbo,dubbo-xds,linear regression,0.03081226013888899
+01_dubbo,dubbo-xds,recommender system,0.03135882541666668
+01_dubbo,dubbo-xds,embedded system,0.03255959583333329
+01_dubbo,dubbo-xds,automation,0.032952989722222215
+01_dubbo,dubbo-xds,cryptocurrency,0.0330699247222222
+01_dubbo,dubbo-xds,cluster analysis,0.033130903611111095
+01_dubbo,dubbo-xds,reactive programming,0.03314808874999997
+01_dubbo,dubbo-xds,software testing,0.03372493083333339
+01_dubbo,dubbo-xds,shell tool,0.03390886597222226
+01_dubbo,dubbo-xds,penetration test,0.035483237222222075
+01_dubbo,dubbo-xds,operating system,0.03570387152777771
+01_dubbo,dubbo-xds,blockchain,0.036220946111111096
+01_dubbo,dubbo-xds,test automation,0.03835948194444433
+01_dubbo,dubbo-xds,password manager,0.04072304013888883
+01_dubbo,dubbo-xds,internet of things,0.04140280013888886
+01_dubbo,dubbo-xds,middleware,0.04197328055555538
+01_dubbo,dubbo-xds,geographic information system,0.043315473194444454
+01_dubbo,dubbo-xds,website,0.043798622222222194
+01_dubbo,dubbo-xds,information processing,0.0445198165277777
+01_dubbo,dubbo-xds,content management system,0.04696591611111123
+01_dubbo,dubbo-xds,back end,0.04935484000000001
+01_dubbo,dubbo-xds,package management system,0.050061365694444526
+01_dubbo,dubbo-xds,design,0.05125616416666651
+01_dubbo,dubbo-xds,algorithmic trading,0.052111200416666614
+01_dubbo,dubbo-xds,front end,0.052380072499999986
+01_dubbo,dubbo-xds,Containerization,0.05265486680555559
+01_dubbo,dubbo-xds,data binding,0.05517372041666668
+01_dubbo,dubbo-xds,distributed database,0.0620897780555556
+01_dubbo,dubbo-xds,Parser combinator,0.06231826680555552
+01_dubbo,dubbo-xds,scheduler,0.06746991750000003
+01_dubbo,dubbo-xds,router,0.06750551250000009
+01_dubbo,dubbo-xds,documentation,0.06875036374999999
+01_dubbo,dubbo-xds,speech synthesis,0.06992260763888902
+01_dubbo,dubbo-xds,regular expression,0.07078316416666658
+01_dubbo,dubbo-xds,microservices,0.07121984319444452
+01_dubbo,dubbo-xds,client,0.072719487361111
+01_dubbo,dubbo-xds,pattern matching,0.08793021472222229
+01_dubbo,dubbo-xds,object–relational mapping,0.0884927440277779
+01_dubbo,dubbo-xds,web service,0.09278448611111123
+01_dubbo,dubbo-xds,routing,0.09858969527777772

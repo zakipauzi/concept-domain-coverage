@@ -1,0 +1,9 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-client-auth-athenz,client,0.028954894499999995
+08_pulsar,pulsar-client-auth-athenz,server,0.03294428199999999
+08_pulsar,pulsar-client-auth-athenz,microservices,0.052393308
+08_pulsar,pulsar-client-auth-athenz,website,0.07955836000000008
+08_pulsar,pulsar-client-auth-athenz,database,0.08149263000000001
+08_pulsar,pulsar-client-auth-athenz,security,0.10000800649999997
+08_pulsar,pulsar-client-auth-athenz,data,0.1626884915
+08_pulsar,pulsar-client-auth-athenz,authentication,0.41559393675

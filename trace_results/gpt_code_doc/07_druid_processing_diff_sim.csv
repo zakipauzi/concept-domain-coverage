@@ -1,0 +1,215 @@
+project_name,module,domain,diff_sim
+07_druid,processing,time series,0.0013028872794491608
+07_druid,processing,stream processing,0.005523898648685077
+07_druid,processing,signal processing,0.0064496092758011825
+07_druid,processing,linear algebra,0.01154828642997141
+07_druid,processing,serialization,0.011924041525020135
+07_druid,processing,big data,0.012345139986949305
+07_druid,processing,pattern matching,0.012485754969167595
+07_druid,processing,video processing,0.012810889507859802
+07_druid,processing,support vector machine,0.013073082546505743
+07_druid,processing,Parser combinator,0.01383411921471367
+07_druid,processing,regular expression,0.014782931067925942
+07_druid,processing,scheduler,0.015544674436573369
+07_druid,processing,long short-term memory,0.015741130576131912
+07_druid,processing,recurrent neural network,0.01574143918284776
+07_druid,processing,random forest,0.018024688212371354
+07_druid,processing,image segmentation,0.01830641230318164
+07_druid,processing,sorting algorithm,0.01908563081562864
+07_druid,processing,mathematical finance,0.01920150403484433
+07_druid,processing,graph algorithm,0.019625652748426425
+07_druid,processing,audio signal processing,0.019699527169218523
+07_druid,processing,benchmark,0.020288773422123985
+07_druid,processing,"extract, transform, load",0.02051874715819557
+07_druid,processing,genetic algorithm,0.02112933431399544
+07_druid,processing,digital image processing,0.021177801566816923
+07_druid,processing,mathematical optimization,0.021593200556251357
+07_druid,processing,algorithmic trading,0.021940205246026356
+07_druid,processing,word embedding,0.022565339452065847
+07_druid,processing,linear regression,0.02271066699647739
+07_druid,processing,static program analysis,0.022941563507453355
+07_druid,processing,regression analysis,0.02296046833346599
+07_druid,processing,deep neural network,0.023143924270843108
+07_druid,processing,static program analysis tool,0.024051610757205077
+07_druid,processing,image compression,0.02475421816341583
+07_druid,processing,Naive Bayes classifier,0.025398875787378317
+07_druid,processing,shell tool,0.025404644966044998
+07_druid,processing,logistic regression model,0.025726023447363522
+07_druid,processing,sentiment analysis,0.026435301010124257
+07_druid,processing,functional programming,0.026842480773806354
+07_druid,processing,data structure,0.027205405328820764
+07_druid,processing,web crawler,0.027511345749470784
+07_druid,processing,WebSocket,0.027636192244120616
+07_druid,processing,graph,0.027654755848301793
+07_druid,processing,validator,0.027754370158644237
+07_druid,processing,Kalman filter,0.02782033987074639
+07_druid,processing,real-time computing,0.028300257552490105
+07_druid,processing,animation,0.029135028835976406
+07_druid,processing,algorithm,0.029238537987251734
+07_druid,processing,HTTP client,0.02968575918308647
+07_druid,processing,information processing,0.03003135304950655
+07_druid,processing,artificial neural network,0.030087957981328017
+07_druid,processing,object–relational mapping,0.030927151674021602
+07_druid,processing,password manager,0.03104959551366604
+07_druid,processing,router,0.031667172964362056
+07_druid,processing,web browser,0.031680046632155845
+07_druid,processing,banking industry,0.03193136276942121
+07_druid,processing,text processing,0.03219339485863104
+07_druid,processing,encryption,0.03280913923427475
+07_druid,processing,data compression,0.032885538777075674
+07_druid,processing,Image analysis,0.03337520320526832
+07_druid,processing,cluster analysis,0.033569797891328856
+07_druid,processing,lexical analysis,0.03369805516594593
+07_druid,processing,data binding,0.03452708981683428
+07_druid,processing,parsing,0.03496357599024402
+07_druid,processing,reactive programming,0.03511355614232836
+07_druid,processing,debugger,0.035211283596755516
+07_druid,processing,business dashboard,0.03521861916441671
+07_druid,processing,stock market,0.03526194010177808
+07_druid,processing,embedded system,0.035381938130422785
+07_druid,processing,continuous delivery,0.035565467895882774
+07_druid,processing,network analysis,0.03563805584468582
+07_druid,processing,facial recognition system,0.035822036163843496
+07_druid,processing,analytics,0.03597941455473941
+07_druid,processing,geometry,0.036099774562475595
+07_druid,processing,image classification,0.0361131557856359
+07_druid,processing,data analysis,0.036312299270893744
+07_druid,processing,genomics,0.03634883796544963
+07_druid,processing,text editor,0.03669326657526284
+07_druid,processing,mathematics,0.03736456212526573
+07_druid,processing,e-commerce,0.037383871461473483
+07_druid,processing,web scraping,0.037400721093541645
+07_druid,processing,internet of things,0.037730404038919696
+07_druid,processing,plot,0.03793017203026461
+07_druid,processing,face detection,0.03795934184139638
+07_druid,processing,compiler,0.03813931855160291
+07_druid,processing,data science,0.038174637644197484
+07_druid,processing,electronic trading platform,0.03852711682738785
+07_druid,processing,anomaly detection,0.038534505509300376
+07_druid,processing,software design pattern,0.038636595917809435
+07_druid,processing,back end,0.038704887239594976
+07_druid,processing,data visualization,0.038934501907439856
+07_druid,processing,synchronization,0.03893615833075792
+07_druid,processing,digital audio,0.03962703281265412
+07_druid,processing,text classification,0.039848855629833535
+07_druid,processing,optical character recognition,0.039876830011637
+07_druid,processing,digital security,0.03991997184511209
+07_druid,processing,image recognition,0.04043969658191304
+07_druid,processing,statistics,0.04093519761193254
+07_druid,processing,streaming media,0.0411574477636838
+07_druid,processing,computational biology,0.04126837882059542
+07_druid,processing,Malware Analysis,0.04160157679845666
+07_druid,processing,web browser engine,0.041651564672626984
+07_druid,processing,data mining,0.04194440011802314
+07_druid,processing,image,0.041955656577011946
+07_druid,processing,rendering,0.04232694234555423
+07_druid,processing,front end,0.042425393409909584
+07_druid,processing,interpreter,0.04247229044968526
+07_druid,processing,automation,0.04257698578365232
+07_druid,processing,object detection,0.0426723775072394
+07_druid,processing,reinforcement learning,0.04277965891360136
+07_druid,processing,deep learning,0.04284110679872022
+07_druid,processing,image editing,0.04293721110746862
+07_druid,processing,natural language processing,0.04316686211525056
+07_druid,processing,middleware,0.04318010449037246
+07_druid,processing,syntax highlighting,0.04325244428195796
+07_druid,processing,data,0.043547239183876485
+07_druid,processing,penetration test,0.04372653403746318
+07_druid,processing,camera,0.043866328081599626
+07_druid,processing,schema migration,0.04408630049761664
+07_druid,processing,video,0.04415834550928277
+07_druid,processing,virtual reality,0.04439073465578325
+07_druid,processing,kernel,0.04445232981102443
+07_druid,processing,Web Components,0.044784142684055395
+07_druid,processing,server,0.04538532847490484
+07_druid,processing,blockchain,0.04565545544220884
+07_druid,processing,information extraction,0.04574681597654873
+07_druid,processing,finance,0.045771619551773335
+07_druid,processing,HTTP server,0.04589175313861893
+07_druid,processing,malware,0.04632349131419067
+07_druid,processing,search engine,0.04644704117845344
+07_druid,processing,virtual machine,0.04650709360355565
+07_druid,processing,augmented reality,0.04651112478737762
+07_druid,processing,virtualization,0.046646378902647445
+07_druid,processing,named-entity recognition,0.04680595563042145
+07_druid,processing,security,0.04682559852916224
+07_druid,processing,File Transfer Protocol,0.04711454740583021
+07_druid,processing,unit testing,0.047203337092871056
+07_druid,processing,code generation,0.047258305929664735
+07_druid,processing,classification,0.04746677068884575
+07_druid,processing,recommender system,0.047513419223925935
+07_druid,processing,logging,0.04760477758686421
+07_druid,processing,operating system,0.04787960234426414
+07_druid,processing,email,0.048037737030833694
+07_druid,processing,text mining,0.04808403572683029
+07_druid,processing,file system,0.04809453055982016
+07_druid,processing,test automation,0.048254430309904395
+07_druid,processing,network security,0.0484424267570438
+07_druid,processing,translation,0.04848565663968718
+07_druid,processing,machine learning,0.04852571504747183
+07_druid,processing,search,0.048692004249255794
+07_druid,processing,web server,0.04882700844208576
+07_druid,processing,continuous integration,0.04898004426577551
+07_druid,processing,Bayesian inference,0.049156020621514473
+07_druid,processing,Reverse engineering,0.049217947712482
+07_druid,processing,artificial intelligence,0.04924572770918212
+07_druid,processing,web service,0.04952848413810973
+07_druid,processing,computer data storage,0.04955241717074588
+07_druid,processing,computer vision,0.04971304882692529
+07_druid,processing,client,0.050218957727169666
+07_druid,processing,instant messaging,0.050605348882255985
+07_druid,processing,object-oriented programming,0.05069217467569609
+07_druid,processing,information retrieval,0.05085847942645916
+07_druid,processing,speech synthesis,0.050958294686334726
+07_druid,processing,computer configuration,0.051049168107845544
+07_druid,processing,Q-learning,0.051128384661113024
+07_druid,processing,microservices,0.05116354191531247
+07_druid,processing,3D computer graphics,0.05141565565423001
+07_druid,processing,computer graphics,0.051807908719676554
+07_druid,processing,dependency injection,0.05200206398983864
+07_druid,processing,cryptocurrency,0.05208757197315439
+07_druid,processing,transfer learning,0.05211797403824869
+07_druid,processing,backup,0.05279016286923688
+07_druid,processing,distributed system,0.05299433981206325
+07_druid,processing,computational science,0.05308682765333417
+07_druid,processing,smart contract,0.05378163966069993
+07_druid,processing,internet bot,0.05436653963641236
+07_druid,processing,authentication,0.05452900179567721
+07_druid,processing,serverless computing,0.055599876406891235
+07_druid,processing,website,0.05626249785745285
+07_druid,processing,application performance management,0.05636527455749518
+07_druid,processing,cloud computing,0.056663966267300636
+07_druid,processing,distributed database,0.05711441103553583
+07_druid,processing,database,0.05745545752186487
+07_druid,processing,graph database,0.057588926479103075
+07_druid,processing,3D modeling,0.057626291296039245
+07_druid,processing,telecommunications network,0.05763613539063117
+07_druid,processing,Semantic Web,0.058142942350458915
+07_druid,processing,computer science,0.05824641149510301
+07_druid,processing,web application security,0.05852008929344221
+07_druid,processing,natural language understanding,0.05913224605827272
+07_druid,processing,image captioning,0.05934952308784114
+07_druid,processing,question answering,0.05940758766984022
+07_druid,processing,web application,0.059479235666921815
+07_druid,processing,user interface,0.05948647052612965
+07_druid,processing,game server,0.059730637607224635
+07_druid,processing,game engine,0.059744294203030957
+07_druid,processing,geographic information system,0.06005567987358762
+07_druid,processing,geographic information,0.060168518690036366
+07_druid,processing,database management,0.06027746466398298
+07_druid,processing,natural language,0.060499283972062945
+07_druid,processing,static site generator,0.06075838550999879
+07_druid,processing,World Wide Web,0.061470481730718896
+07_druid,processing,graphical user interface,0.06239058506589512
+07_druid,processing,social network,0.06523376037597617
+07_druid,processing,language model,0.06537438387298411
+07_druid,processing,mobile application development,0.06595772163148927
+07_druid,processing,command-line interface,0.06644719073237071
+07_druid,processing,distributed computing,0.06806735272238951
+07_druid,processing,software testing,0.06841964601079209
+07_druid,processing,continuous deployment,0.0691866708331581
+07_druid,processing,knowledge graph,0.07134933413638866
+07_druid,processing,package management system,0.08203325357385827
+07_druid,processing,software development,0.084164382429051
+07_druid,processing,content management system,0.08438337120837902
+07_druid,processing,documentation,0.10180374790294988

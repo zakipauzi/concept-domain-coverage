@@ -1,0 +1,164 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-functions,data analysis,0.0008497040000000067
+08_pulsar,pulsar-functions,static site generator,0.0009271951428571623
+08_pulsar,pulsar-functions,security,0.00119185057142851
+08_pulsar,pulsar-functions,animation,0.0014272194285714357
+08_pulsar,pulsar-functions,knowledge graph,0.001478852285714316
+08_pulsar,pulsar-functions,telecommunications network,0.0015014862857143374
+08_pulsar,pulsar-functions,game server,0.0021295619999999182
+08_pulsar,pulsar-functions,object–relational mapping,0.0024847268571427383
+08_pulsar,pulsar-functions,authentication,0.002513331142857178
+08_pulsar,pulsar-functions,linear algebra,0.0029608845714285126
+08_pulsar,pulsar-functions,router,0.003222231714285817
+08_pulsar,pulsar-functions,web service,0.0033309631428571906
+08_pulsar,pulsar-functions,sentiment analysis,0.0035348385714285002
+08_pulsar,pulsar-functions,"extract, transform, load",0.0036490497142857015
+08_pulsar,pulsar-functions,schema migration,0.0037406257142857946
+08_pulsar,pulsar-functions,WebSocket,0.004334950000000004
+08_pulsar,pulsar-functions,data mining,0.004896486571428604
+08_pulsar,pulsar-functions,cloud computing,0.005049438000000017
+08_pulsar,pulsar-functions,syntax highlighting,0.005071991142857002
+08_pulsar,pulsar-functions,distributed database,0.005090582857142867
+08_pulsar,pulsar-functions,electronic trading platform,0.005571053714285623
+08_pulsar,pulsar-functions,smart contract,0.005806483142857033
+08_pulsar,pulsar-functions,HTTP server,0.0058228434285713115
+08_pulsar,pulsar-functions,web crawler,0.006022551428571499
+08_pulsar,pulsar-functions,front end,0.006278538000000111
+08_pulsar,pulsar-functions,language model,0.006337271142857093
+08_pulsar,pulsar-functions,regular expression,0.006422297428571422
+08_pulsar,pulsar-functions,validator,0.006447282857142911
+08_pulsar,pulsar-functions,word embedding,0.006717117714285625
+08_pulsar,pulsar-functions,server,0.006758854571428441
+08_pulsar,pulsar-functions,database,0.007592169714285668
+08_pulsar,pulsar-functions,object detection,0.008078602857142902
+08_pulsar,pulsar-functions,support vector machine,0.008481403714285574
+08_pulsar,pulsar-functions,penetration test,0.008726992000000044
+08_pulsar,pulsar-functions,data compression,0.009812541142857123
+08_pulsar,pulsar-functions,back end,0.009886657428571366
+08_pulsar,pulsar-functions,distributed multimedia communications platform,0.010173171428571381
+08_pulsar,pulsar-functions,streaming media,0.01037019600000011
+08_pulsar,pulsar-functions,distributed system,0.010783940857142793
+08_pulsar,pulsar-functions,Semantic Web,0.010934278285714416
+08_pulsar,pulsar-functions,internet of things,0.011367923142857117
+08_pulsar,pulsar-functions,classification,0.011684220000000078
+08_pulsar,pulsar-functions,continuous integration,0.011872360571428597
+08_pulsar,pulsar-functions,database management,0.011953367428571393
+08_pulsar,pulsar-functions,web scraping,0.011995737714285581
+08_pulsar,pulsar-functions,data visualization,0.012424068000000066
+08_pulsar,pulsar-functions,content management system,0.012432637142857084
+08_pulsar,pulsar-functions,serialization,0.012958052285714339
+08_pulsar,pulsar-functions,automated machine learning,0.013943916571428572
+08_pulsar,pulsar-functions,machine translation,0.014302771142857051
+08_pulsar,pulsar-functions,static program analysis tool,0.014623420857142855
+08_pulsar,pulsar-functions,static program analysis,0.015039478571428622
+08_pulsar,pulsar-functions,World Wide Web,0.015313225428571386
+08_pulsar,pulsar-functions,face detection,0.015754375714285618
+08_pulsar,pulsar-functions,search,0.015785787999999967
+08_pulsar,pulsar-functions,shell tool,0.01592114
+08_pulsar,pulsar-functions,blockchain,0.016039273428571477
+08_pulsar,pulsar-functions,documentation,0.016844906857142905
+08_pulsar,pulsar-functions,game engine,0.017237184571428643
+08_pulsar,pulsar-functions,data,0.017382343142857137
+08_pulsar,pulsar-functions,computer configuration,0.017800301428571363
+08_pulsar,pulsar-functions,cryptocurrency,0.017811235714285778
+08_pulsar,pulsar-functions,computer data storage,0.018949146857142773
+08_pulsar,pulsar-functions,logging,0.019113801142857267
+08_pulsar,pulsar-functions,Q-learning,0.019214668285714387
+08_pulsar,pulsar-functions,hyperparameter optimization,0.019719173714285665
+08_pulsar,pulsar-functions,code generation,0.019784694857142737
+08_pulsar,pulsar-functions,machine learning,0.01993030685714281
+08_pulsar,pulsar-functions,deep learning,0.020052812571428602
+08_pulsar,pulsar-functions,information retrieval,0.020401514285714295
+08_pulsar,pulsar-functions,computational science,0.020745351428571424
+08_pulsar,pulsar-functions,distributed computing,0.020997876285714534
+08_pulsar,pulsar-functions,signal processing,0.021106539142857206
+08_pulsar,pulsar-functions,linear regression,0.021447353428571403
+08_pulsar,pulsar-functions,geographic information system,0.02144840085714289
+08_pulsar,pulsar-functions,stock market,0.022318292285714303
+08_pulsar,pulsar-functions,artificial intelligence,0.022397059142857112
+08_pulsar,pulsar-functions,video,0.02260092771428568
+08_pulsar,pulsar-functions,microservices,0.022646054857142883
+08_pulsar,pulsar-functions,command-line interface,0.02361536228571426
+08_pulsar,pulsar-functions,embedded system,0.023746798571428585
+08_pulsar,pulsar-functions,web browser engine,0.024022438857142836
+08_pulsar,pulsar-functions,music,0.02409418542857139
+08_pulsar,pulsar-functions,backup,0.024239443142857087
+08_pulsar,pulsar-functions,audio signal processing,0.024312170285714196
+08_pulsar,pulsar-functions,text classification,0.02486399428571423
+08_pulsar,pulsar-functions,graph database,0.025632941999999992
+08_pulsar,pulsar-functions,recommender system,0.025880318000000013
+08_pulsar,pulsar-functions,encryption,0.02670467028571427
+08_pulsar,pulsar-functions,analytics,0.026996836000000024
+08_pulsar,pulsar-functions,kernel,0.02706225857142852
+08_pulsar,pulsar-functions,web server,0.02744181257142858
+08_pulsar,pulsar-functions,mathematics,0.027730062
+08_pulsar,pulsar-functions,natural language processing,0.02844293114285712
+08_pulsar,pulsar-functions,image recognition,0.028468323714285593
+08_pulsar,pulsar-functions,big data,0.02897111457142848
+08_pulsar,pulsar-functions,data science,0.029156627714285677
+08_pulsar,pulsar-functions,cluster analysis,0.02944660199999999
+08_pulsar,pulsar-functions,statistics,0.029786848285714207
+08_pulsar,pulsar-functions,reactive programming,0.029897299428571333
+08_pulsar,pulsar-functions,user interface,0.03036414771428575
+08_pulsar,pulsar-functions,information extraction,0.031004492571428566
+08_pulsar,pulsar-functions,reinforcement learning,0.03171601057142859
+08_pulsar,pulsar-functions,functional programming,0.03287595799999998
+08_pulsar,pulsar-functions,algorithm,0.033510843714285754
+08_pulsar,pulsar-functions,natural language understanding,0.03455573914285709
+08_pulsar,pulsar-functions,website,0.03466373428571434
+08_pulsar,pulsar-functions,continuous deployment,0.03522065971428573
+08_pulsar,pulsar-functions,dependency injection,0.03537270714285723
+08_pulsar,pulsar-functions,file system,0.035515223714285726
+08_pulsar,pulsar-functions,digital image processing,0.035569511142857
+08_pulsar,pulsar-functions,named-entity recognition,0.039082181142857275
+08_pulsar,pulsar-functions,middleware,0.0391366857142858
+08_pulsar,pulsar-functions,Image analysis,0.03969033257142851
+08_pulsar,pulsar-functions,artificial neural network,0.03987914685714278
+08_pulsar,pulsar-functions,data structure,0.04054508342857144
+08_pulsar,pulsar-functions,facial recognition system,0.040853787714285716
+08_pulsar,pulsar-functions,Kalman filter,0.04131921628571428
+08_pulsar,pulsar-functions,File Transfer Protocol,0.04143590542857145
+08_pulsar,pulsar-functions,digital security,0.0441137045714286
+08_pulsar,pulsar-functions,unit testing,0.04417172914285716
+08_pulsar,pulsar-functions,malware,0.04425914599999997
+08_pulsar,pulsar-functions,application performance management,0.04509143400000004
+08_pulsar,pulsar-functions,text processing,0.045224230285714206
+08_pulsar,pulsar-functions,password manager,0.045788840571428624
+08_pulsar,pulsar-functions,digital audio,0.046282398
+08_pulsar,pulsar-functions,sorting algorithm,0.046604784285714296
+08_pulsar,pulsar-functions,benchmark,0.04721480514285714
+08_pulsar,pulsar-functions,web browser,0.04814511114285708
+08_pulsar,pulsar-functions,time series,0.048252431142857266
+08_pulsar,pulsar-functions,internet bot,0.050752054285714276
+08_pulsar,pulsar-functions,instant messaging,0.051845571142857205
+08_pulsar,pulsar-functions,Malware Analysis,0.053321260571428664
+08_pulsar,pulsar-functions,design,0.053468375428571524
+08_pulsar,pulsar-functions,question answering,0.0535489428571429
+08_pulsar,pulsar-functions,simulation,0.05386832800000002
+08_pulsar,pulsar-functions,compiler,0.054385520285714306
+08_pulsar,pulsar-functions,stream processing,0.05538779914285724
+08_pulsar,pulsar-functions,plot,0.05814567914285712
+08_pulsar,pulsar-functions,Bayesian inference,0.058719230285714186
+08_pulsar,pulsar-functions,anomaly detection,0.06051599114285722
+08_pulsar,pulsar-functions,web application security,0.06162669657142855
+08_pulsar,pulsar-functions,software testing,0.062073536857142786
+08_pulsar,pulsar-functions,test automation,0.06296889885714291
+08_pulsar,pulsar-functions,graphical user interface,0.06356871828571431
+08_pulsar,pulsar-functions,Parser combinator,0.06480018314285718
+08_pulsar,pulsar-functions,data binding,0.06541943485714286
+08_pulsar,pulsar-functions,computer vision,0.06594693285714281
+08_pulsar,pulsar-functions,pattern matching,0.0669132705714286
+08_pulsar,pulsar-functions,Web Components,0.06771653999999994
+08_pulsar,pulsar-functions,automation,0.06917779971428584
+08_pulsar,pulsar-functions,long short-term memory,0.07237097028571438
+08_pulsar,pulsar-functions,synchronization,0.07403978028571434
+08_pulsar,pulsar-functions,information processing,0.07539203971428571
+08_pulsar,pulsar-functions,web application,0.07744513657142854
+08_pulsar,pulsar-functions,operating system,0.0789411522857143
+08_pulsar,pulsar-functions,mobile application development,0.08208540571428569
+08_pulsar,pulsar-functions,scheduler,0.08620040485714292
+08_pulsar,pulsar-functions,package management system,0.08650303885714278
+08_pulsar,pulsar-functions,3D modeling,0.09369855257142862
+08_pulsar,pulsar-functions,HTTP client,0.10794709971428562
+08_pulsar,pulsar-functions,web development,0.1113374805714285
+08_pulsar,pulsar-functions,client,0.14651275914285722

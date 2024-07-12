@@ -1,0 +1,90 @@
+project_name,module,domain,diff_sim
+12_shenyu,shenyu-sdk,pattern matching,0.023856698059186776
+12_shenyu,shenyu-sdk,regular expression,0.023885472925309736
+12_shenyu,shenyu-sdk,plot,0.02995592653464829
+12_shenyu,shenyu-sdk,signal processing,0.034812185714732324
+12_shenyu,shenyu-sdk,named-entity recognition,0.03596794298409067
+12_shenyu,shenyu-sdk,serialization,0.03609333369192924
+12_shenyu,shenyu-sdk,dependency injection,0.03797692762022409
+12_shenyu,shenyu-sdk,audio signal processing,0.04022561914578349
+12_shenyu,shenyu-sdk,information processing,0.04099632910345674
+12_shenyu,shenyu-sdk,data binding,0.042565711819897545
+12_shenyu,shenyu-sdk,stream processing,0.043426422379264085
+12_shenyu,shenyu-sdk,application performance management,0.043583594632427336
+12_shenyu,shenyu-sdk,question answering,0.044259642532352705
+12_shenyu,shenyu-sdk,object–relational mapping,0.04646543277114512
+12_shenyu,shenyu-sdk,object detection,0.047376836001373324
+12_shenyu,shenyu-sdk,text classification,0.04783754393107453
+12_shenyu,shenyu-sdk,static program analysis,0.04796718921194043
+12_shenyu,shenyu-sdk,router,0.04809194383443893
+12_shenyu,shenyu-sdk,long short-term memory,0.05001953709357476
+12_shenyu,shenyu-sdk,support vector machine,0.050343566375288584
+12_shenyu,shenyu-sdk,test automation,0.051362513086271266
+12_shenyu,shenyu-sdk,data structure,0.05142937171312301
+12_shenyu,shenyu-sdk,static site generator,0.05172070484825042
+12_shenyu,shenyu-sdk,data,0.051868888982857686
+12_shenyu,shenyu-sdk,automation,0.053121037819651606
+12_shenyu,shenyu-sdk,validator,0.0541025696425782
+12_shenyu,shenyu-sdk,reactive programming,0.054799943286041874
+12_shenyu,shenyu-sdk,web scraping,0.05500882919621519
+12_shenyu,shenyu-sdk,website,0.05777989286112151
+12_shenyu,shenyu-sdk,logging,0.0581136980736755
+12_shenyu,shenyu-sdk,penetration test,0.05887791224596506
+12_shenyu,shenyu-sdk,static program analysis tool,0.05921979787350351
+12_shenyu,shenyu-sdk,web application security,0.059329956484086566
+12_shenyu,shenyu-sdk,back end,0.05941299651639198
+12_shenyu,shenyu-sdk,security,0.060234295384408165
+12_shenyu,shenyu-sdk,time series,0.060274128608378774
+12_shenyu,shenyu-sdk,scheduler,0.060492620524292384
+12_shenyu,shenyu-sdk,algorithm,0.060751847259377434
+12_shenyu,shenyu-sdk,file system,0.06077522506541122
+12_shenyu,shenyu-sdk,network analysis,0.06089290057429109
+12_shenyu,shenyu-sdk,database,0.06195231288362357
+12_shenyu,shenyu-sdk,functional programming,0.06314045044854233
+12_shenyu,shenyu-sdk,language model,0.06323377787588913
+12_shenyu,shenyu-sdk,computer data storage,0.06344166083706226
+12_shenyu,shenyu-sdk,text processing,0.06632910138875936
+12_shenyu,shenyu-sdk,File Transfer Protocol,0.06636813813297027
+12_shenyu,shenyu-sdk,embedded system,0.06639221718770882
+12_shenyu,shenyu-sdk,computational science,0.06709842658300846
+12_shenyu,shenyu-sdk,compiler,0.06833603749856043
+12_shenyu,shenyu-sdk,web application,0.06845216460677384
+12_shenyu,shenyu-sdk,distributed system,0.06849565178435757
+12_shenyu,shenyu-sdk,big data,0.06873219856369928
+12_shenyu,shenyu-sdk,algorithmic trading,0.06877931981638552
+12_shenyu,shenyu-sdk,microservices,0.0689000186632025
+12_shenyu,shenyu-sdk,analytics,0.0701956949056991
+12_shenyu,shenyu-sdk,telecommunications network,0.07020398099760283
+12_shenyu,shenyu-sdk,streaming media,0.07080685070677917
+12_shenyu,shenyu-sdk,data compression,0.07118082353939836
+12_shenyu,shenyu-sdk,Web Components,0.0728692295549942
+12_shenyu,shenyu-sdk,distributed computing,0.07333855718943927
+12_shenyu,shenyu-sdk,network monitoring,0.07339367306639255
+12_shenyu,shenyu-sdk,web server,0.07381438603078239
+12_shenyu,shenyu-sdk,content management system,0.07392251505021508
+12_shenyu,shenyu-sdk,software testing,0.07429971131467172
+12_shenyu,shenyu-sdk,package management system,0.07464837325681284
+12_shenyu,shenyu-sdk,operating system,0.0766088448517781
+12_shenyu,shenyu-sdk,World Wide Web,0.07661239720156365
+12_shenyu,shenyu-sdk,artificial intelligence,0.07686071131784311
+12_shenyu,shenyu-sdk,HTTP server,0.07770032139300387
+12_shenyu,shenyu-sdk,web development,0.07794524439779349
+12_shenyu,shenyu-sdk,internet of things,0.07865874598347056
+12_shenyu,shenyu-sdk,server,0.07976234849869401
+12_shenyu,shenyu-sdk,blockchain,0.08046866520343354
+12_shenyu,shenyu-sdk,web service,0.08067742376444886
+12_shenyu,shenyu-sdk,electronic trading platform,0.08341616232493532
+12_shenyu,shenyu-sdk,user interface,0.08598970526517602
+12_shenyu,shenyu-sdk,stock market,0.08667105213068116
+12_shenyu,shenyu-sdk,game server,0.08676546356644044
+12_shenyu,shenyu-sdk,cryptocurrency,0.08795399638417534
+12_shenyu,shenyu-sdk,WebSocket,0.08964298800345583
+12_shenyu,shenyu-sdk,integrated development environment,0.0906575781419321
+12_shenyu,shenyu-sdk,distributed multimedia communications platform,0.0913954320845477
+12_shenyu,shenyu-sdk,smart contract,0.09262102356084245
+12_shenyu,shenyu-sdk,cloud computing,0.09500338562614763
+12_shenyu,shenyu-sdk,graphical user interface,0.09583759259474067
+12_shenyu,shenyu-sdk,command-line interface,0.09719334125969825
+12_shenyu,shenyu-sdk,instant messaging,0.10784182349653815
+12_shenyu,shenyu-sdk,client,0.11977216454774131
+12_shenyu,shenyu-sdk,HTTP client,0.14473089200081168

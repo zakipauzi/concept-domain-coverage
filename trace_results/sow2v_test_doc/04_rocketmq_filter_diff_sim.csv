@@ -1,0 +1,14 @@
+project_name,module,domain,diff_sim
+04_rocketmq,filter,interpreter,0.015729447249999973
+04_rocketmq,filter,image,0.0255539059499999
+04_rocketmq,filter,data,0.025961807249999913
+04_rocketmq,filter,benchmark,0.031768175225
+04_rocketmq,filter,search,0.11061960412499999
+04_rocketmq,filter,database,0.16074543574999997
+04_rocketmq,filter,compiler,0.187130297
+04_rocketmq,filter,algorithm,0.21925958499999998
+04_rocketmq,filter,encryption,0.22819243035000003
+04_rocketmq,filter,security,0.2702321522
+04_rocketmq,filter,logging,0.30843535435
+04_rocketmq,filter,client,0.53212968975
+04_rocketmq,filter,server,0.54565704755

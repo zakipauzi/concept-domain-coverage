@@ -1,0 +1,86 @@
+project_name,module,domain,diff_sim
+15_zeppelin,zeppelin-interpreter-integration,web server,0.003029967777777809
+15_zeppelin,zeppelin-interpreter-integration,distributed database,0.003186178888888891
+15_zeppelin,zeppelin-interpreter-integration,web service,0.005428118888888833
+15_zeppelin,zeppelin-interpreter-integration,shell tool,0.007365941111111218
+15_zeppelin,zeppelin-interpreter-integration,static program analysis,0.008243849999999942
+15_zeppelin,zeppelin-interpreter-integration,software testing,0.009805290000000078
+15_zeppelin,zeppelin-interpreter-integration,logging,0.010861064444444513
+15_zeppelin,zeppelin-interpreter-integration,user interface,0.0131703511111112
+15_zeppelin,zeppelin-interpreter-integration,website,0.013688685555555469
+15_zeppelin,zeppelin-interpreter-integration,web scraping,0.013877158888888907
+15_zeppelin,zeppelin-interpreter-integration,recommender system,0.01710776888888893
+15_zeppelin,zeppelin-interpreter-integration,HTTP server,0.017525292222222322
+15_zeppelin,zeppelin-interpreter-integration,graphical user interface,0.018382276666666586
+15_zeppelin,zeppelin-interpreter-integration,digital security,0.01846878555555559
+15_zeppelin,zeppelin-interpreter-integration,data compression,0.019388160000000043
+15_zeppelin,zeppelin-interpreter-integration,analytics,0.020364431111111136
+15_zeppelin,zeppelin-interpreter-integration,command-line interface,0.020827099999999987
+15_zeppelin,zeppelin-interpreter-integration,back end,0.021327231111111122
+15_zeppelin,zeppelin-interpreter-integration,front end,0.022765241111111056
+15_zeppelin,zeppelin-interpreter-integration,static program analysis tool,0.02562793666666674
+15_zeppelin,zeppelin-interpreter-integration,streaming media,0.02692125888888891
+15_zeppelin,zeppelin-interpreter-integration,text processing,0.027141336666666627
+15_zeppelin,zeppelin-interpreter-integration,client,0.02904702777777779
+15_zeppelin,zeppelin-interpreter-integration,design,0.02935648888888892
+15_zeppelin,zeppelin-interpreter-integration,instant messaging,0.029500805555555676
+15_zeppelin,zeppelin-interpreter-integration,World Wide Web,0.02995373444444449
+15_zeppelin,zeppelin-interpreter-integration,computer configuration,0.03037527222222225
+15_zeppelin,zeppelin-interpreter-integration,stream processing,0.030619221111111206
+15_zeppelin,zeppelin-interpreter-integration,dependency injection,0.031918906666666746
+15_zeppelin,zeppelin-interpreter-integration,search,0.0325786833333333
+15_zeppelin,zeppelin-interpreter-integration,distributed computing,0.03383910333333329
+15_zeppelin,zeppelin-interpreter-integration,penetration test,0.034534996666666706
+15_zeppelin,zeppelin-interpreter-integration,security,0.035863379999999945
+15_zeppelin,zeppelin-interpreter-integration,web development,0.03736536555555564
+15_zeppelin,zeppelin-interpreter-integration,data visualization,0.040644152222222174
+15_zeppelin,zeppelin-interpreter-integration,file system,0.040743824444444465
+15_zeppelin,zeppelin-interpreter-integration,telecommunications network,0.04104633666666663
+15_zeppelin,zeppelin-interpreter-integration,continuous integration,0.04140531888888882
+15_zeppelin,zeppelin-interpreter-integration,scheduler,0.04170158000000013
+15_zeppelin,zeppelin-interpreter-integration,operating system,0.04351125111111104
+15_zeppelin,zeppelin-interpreter-integration,web application,0.04369406999999992
+15_zeppelin,zeppelin-interpreter-integration,game engine,0.043781483333333315
+15_zeppelin,zeppelin-interpreter-integration,game server,0.04565012222222237
+15_zeppelin,zeppelin-interpreter-integration,application performance management,0.046051358888888894
+15_zeppelin,zeppelin-interpreter-integration,smart contract,0.04765500444444448
+15_zeppelin,zeppelin-interpreter-integration,serialization,0.04873675333333333
+15_zeppelin,zeppelin-interpreter-integration,HTTP client,0.05261144999999989
+15_zeppelin,zeppelin-interpreter-integration,embedded system,0.053726545555555616
+15_zeppelin,zeppelin-interpreter-integration,integrated development environment,0.0547147766666668
+15_zeppelin,zeppelin-interpreter-integration,password manager,0.05752055555555563
+15_zeppelin,zeppelin-interpreter-integration,web application security,0.059557912222222176
+15_zeppelin,zeppelin-interpreter-integration,server,0.06642402000000014
+15_zeppelin,zeppelin-interpreter-integration,File Transfer Protocol,0.06784866111111099
+15_zeppelin,zeppelin-interpreter-integration,unit testing,0.06794069666666674
+15_zeppelin,zeppelin-interpreter-integration,regular expression,0.06903497888888893
+15_zeppelin,zeppelin-interpreter-integration,database,0.07078931222222223
+15_zeppelin,zeppelin-interpreter-integration,data,0.07195403777777781
+15_zeppelin,zeppelin-interpreter-integration,digital audio,0.0754220255555556
+15_zeppelin,zeppelin-interpreter-integration,data structure,0.07707516000000003
+15_zeppelin,zeppelin-interpreter-integration,lexical analysis,0.0786509611111112
+15_zeppelin,zeppelin-interpreter-integration,information processing,0.07890152666666667
+15_zeppelin,zeppelin-interpreter-integration,data binding,0.08066778888888887
+15_zeppelin,zeppelin-interpreter-integration,digital image processing,0.08111390777777794
+15_zeppelin,zeppelin-interpreter-integration,big data,0.08160162111111108
+15_zeppelin,zeppelin-interpreter-integration,microservices,0.08326914111111111
+15_zeppelin,zeppelin-interpreter-integration,data mining,0.08372348222222226
+15_zeppelin,zeppelin-interpreter-integration,test automation,0.08624258555555553
+15_zeppelin,zeppelin-interpreter-integration,data analysis,0.08904924555555549
+15_zeppelin,zeppelin-interpreter-integration,language model,0.09278586444444437
+15_zeppelin,zeppelin-interpreter-integration,machine learning,0.09979348333333332
+15_zeppelin,zeppelin-interpreter-integration,benchmark,0.10663227222222216
+15_zeppelin,zeppelin-interpreter-integration,support vector machine,0.10942299888888884
+15_zeppelin,zeppelin-interpreter-integration,word embedding,0.10973144333333329
+15_zeppelin,zeppelin-interpreter-integration,linear regression,0.11569086
+15_zeppelin,zeppelin-interpreter-integration,signal processing,0.12096914333333342
+15_zeppelin,zeppelin-interpreter-integration,automation,0.1347411011111112
+15_zeppelin,zeppelin-interpreter-integration,interpreter,0.1360849644444445
+15_zeppelin,zeppelin-interpreter-integration,email,0.1363938044444445
+15_zeppelin,zeppelin-interpreter-integration,internet bot,0.13687747888888907
+15_zeppelin,zeppelin-interpreter-integration,classification,0.14018162222222225
+15_zeppelin,zeppelin-interpreter-integration,time series,0.14288927
+15_zeppelin,zeppelin-interpreter-integration,object detection,0.14944048666666665
+15_zeppelin,zeppelin-interpreter-integration,deep learning,0.1522431844444444
+15_zeppelin,zeppelin-interpreter-integration,artificial neural network,0.17341891888888894
+15_zeppelin,zeppelin-interpreter-integration,package management system,0.18294423111111102

@@ -1,0 +1,70 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-kubernetes,router,0.003431068214285793
+01_dubbo,dubbo-kubernetes,regular expression,0.0036499482142858253
+01_dubbo,dubbo-kubernetes,text classification,0.003706438928571365
+01_dubbo,dubbo-kubernetes,cloud computing,0.00405521946428572
+01_dubbo,dubbo-kubernetes,web server,0.005524447500000085
+01_dubbo,dubbo-kubernetes,software testing,0.006382036785714251
+01_dubbo,dubbo-kubernetes,application performance management,0.006388704285714253
+01_dubbo,dubbo-kubernetes,anomaly detection,0.007539012142857182
+01_dubbo,dubbo-kubernetes,instant messaging,0.0078091298214286176
+01_dubbo,dubbo-kubernetes,object detection,0.008158173035714311
+01_dubbo,dubbo-kubernetes,encryption,0.008473163392857141
+01_dubbo,dubbo-kubernetes,smart contract,0.009372435357142883
+01_dubbo,dubbo-kubernetes,deep neural network,0.009737818035714274
+01_dubbo,dubbo-kubernetes,information processing,0.009767806964285697
+01_dubbo,dubbo-kubernetes,benchmark,0.010207780714285686
+01_dubbo,dubbo-kubernetes,middleware,0.010898750714285588
+01_dubbo,dubbo-kubernetes,word embedding,0.01198109696428562
+01_dubbo,dubbo-kubernetes,data structure,0.013085264464285817
+01_dubbo,dubbo-kubernetes,big data,0.013579793749999902
+01_dubbo,dubbo-kubernetes,embedded system,0.014372461071428588
+01_dubbo,dubbo-kubernetes,test automation,0.014965157499999882
+01_dubbo,dubbo-kubernetes,HTTP client,0.017907530357142876
+01_dubbo,dubbo-kubernetes,routing,0.01905459464285708
+01_dubbo,dubbo-kubernetes,distributed database,0.019086256785714184
+01_dubbo,dubbo-kubernetes,dependency injection,0.020147407500000103
+01_dubbo,dubbo-kubernetes,HTTP server,0.02084194517857152
+01_dubbo,dubbo-kubernetes,data binding,0.021045549464285718
+01_dubbo,dubbo-kubernetes,telecommunications network,0.02186353035714278
+01_dubbo,dubbo-kubernetes,digital audio,0.022167846428571503
+01_dubbo,dubbo-kubernetes,automation,0.024731443928571517
+01_dubbo,dubbo-kubernetes,distributed computing,0.025542698392857166
+01_dubbo,dubbo-kubernetes,File Transfer Protocol,0.02725258160714289
+01_dubbo,dubbo-kubernetes,logging,0.028264194642857232
+01_dubbo,dubbo-kubernetes,microservices,0.028700610178571284
+01_dubbo,dubbo-kubernetes,database,0.030564847142857232
+01_dubbo,dubbo-kubernetes,continuous integration,0.03253882946428566
+01_dubbo,dubbo-kubernetes,password manager,0.03466851017857148
+01_dubbo,dubbo-kubernetes,analytics,0.03718936696428571
+01_dubbo,dubbo-kubernetes,penetration test,0.03736537214285707
+01_dubbo,dubbo-kubernetes,scheduler,0.037456937499999954
+01_dubbo,dubbo-kubernetes,command-line interface,0.03751041035714292
+01_dubbo,dubbo-kubernetes,web crawler,0.037977868035714346
+01_dubbo,dubbo-kubernetes,software architecture,0.03802165285714276
+01_dubbo,dubbo-kubernetes,user interface,0.03869050339285712
+01_dubbo,dubbo-kubernetes,web browser engine,0.039192495178571374
+01_dubbo,dubbo-kubernetes,pattern matching,0.041583328214285786
+01_dubbo,dubbo-kubernetes,data,0.04262310749999998
+01_dubbo,dubbo-kubernetes,computer configuration,0.042827574642857025
+01_dubbo,dubbo-kubernetes,web application security,0.04380661732142854
+01_dubbo,dubbo-kubernetes,digital security,0.04488223999999991
+01_dubbo,dubbo-kubernetes,digital image processing,0.045004348750000034
+01_dubbo,dubbo-kubernetes,file system,0.04672124535714289
+01_dubbo,dubbo-kubernetes,security,0.049617495892857244
+01_dubbo,dubbo-kubernetes,server,0.0512788246428571
+01_dubbo,dubbo-kubernetes,streaming media,0.05415209535714288
+01_dubbo,dubbo-kubernetes,web browser,0.0572010832142858
+01_dubbo,dubbo-kubernetes,Web Components,0.05759525642857144
+01_dubbo,dubbo-kubernetes,text processing,0.060894159999999975
+01_dubbo,dubbo-kubernetes,design,0.061372686071428484
+01_dubbo,dubbo-kubernetes,graphical user interface,0.06562090035714291
+01_dubbo,dubbo-kubernetes,backup,0.06893219214285701
+01_dubbo,dubbo-kubernetes,web service,0.0707902250000001
+01_dubbo,dubbo-kubernetes,package management system,0.07306414410714279
+01_dubbo,dubbo-kubernetes,website,0.07357156000000004
+01_dubbo,dubbo-kubernetes,World Wide Web,0.07413056964285725
+01_dubbo,dubbo-kubernetes,client,0.08022378339285702
+01_dubbo,dubbo-kubernetes,web application,0.09268596446428573
+01_dubbo,dubbo-kubernetes,back end,0.09912405428571436
+01_dubbo,dubbo-kubernetes,web development,0.15702311071428576

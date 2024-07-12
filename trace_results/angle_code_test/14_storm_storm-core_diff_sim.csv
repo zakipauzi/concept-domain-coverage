@@ -1,0 +1,109 @@
+project_name,module,domain,diff_sim
+14_storm,storm-core,search,2.7182777777801093e-05
+14_storm,storm-core,logging,0.00010900833333327142
+14_storm,storm-core,HTTP client,0.0010392294444444006
+14_storm,storm-core,support vector machine,0.00125535055555559
+14_storm,storm-core,sorting algorithm,0.0013408561111110662
+14_storm,storm-core,plot,0.0014179966666665877
+14_storm,storm-core,time series,0.0015856233333332859
+14_storm,storm-core,Web Components,0.0015941238888890208
+14_storm,storm-core,game engine,0.0016234622222222606
+14_storm,storm-core,data binding,0.0019839544444443247
+14_storm,storm-core,data,0.002489698888888836
+14_storm,storm-core,computational biology,0.003412929444444379
+14_storm,storm-core,data visualization,0.003420655555555485
+14_storm,storm-core,data analysis,0.0035262338888888967
+14_storm,storm-core,regular expression,0.0035790161111109997
+14_storm,storm-core,backup,0.0040091794444443996
+14_storm,storm-core,user interface,0.004071632777777889
+14_storm,storm-core,Kalman filter,0.005499173333333496
+14_storm,storm-core,computer vision,0.005720735000000032
+14_storm,storm-core,image recognition,0.005958287777777738
+14_storm,storm-core,operating system,0.006381279444444499
+14_storm,storm-core,streaming media,0.006437915000000016
+14_storm,storm-core,data compression,0.007171189444444448
+14_storm,storm-core,linear regression,0.007242212222222211
+14_storm,storm-core,computer data storage,0.0076051505555556065
+14_storm,storm-core,application performance management,0.008189421111111095
+14_storm,storm-core,web application,0.008692481666666807
+14_storm,storm-core,signal processing,0.009143309444444414
+14_storm,storm-core,client,0.009261326111111079
+14_storm,storm-core,game server,0.009309825555555706
+14_storm,storm-core,email,0.009343997222222233
+14_storm,storm-core,software testing,0.00978043222222219
+14_storm,storm-core,machine learning,0.010315006666666682
+14_storm,storm-core,language model,0.011540177777777716
+14_storm,storm-core,artificial intelligence,0.012426232777777824
+14_storm,storm-core,website,0.012494032222222229
+14_storm,storm-core,stream processing,0.012647954444444443
+14_storm,storm-core,cluster analysis,0.012655025555555532
+14_storm,storm-core,File Transfer Protocol,0.012878713888888838
+14_storm,storm-core,data structure,0.013215411666666732
+14_storm,storm-core,back end,0.013572650555555565
+14_storm,storm-core,telecommunications network,0.013638122222222215
+14_storm,storm-core,graphical user interface,0.013682067222222205
+14_storm,storm-core,kernel,0.014052311111111215
+14_storm,storm-core,DevOps,0.014100033333333317
+14_storm,storm-core,serialization,0.014531796666666597
+14_storm,storm-core,benchmark,0.016047127777777725
+14_storm,storm-core,analytics,0.016315476666666773
+14_storm,storm-core,database,0.016676723888888967
+14_storm,storm-core,object detection,0.016756282777777798
+14_storm,storm-core,deep learning,0.016769013888888795
+14_storm,storm-core,data mining,0.017054375555555612
+14_storm,storm-core,package management system,0.018105250000000128
+14_storm,storm-core,HTTP server,0.018213043888889002
+14_storm,storm-core,text processing,0.018286686111111117
+14_storm,storm-core,web development,0.01888978333333341
+14_storm,storm-core,anomaly detection,0.018949776111111205
+14_storm,storm-core,recommender system,0.0191759311111111
+14_storm,storm-core,content management system,0.019503760000000037
+14_storm,storm-core,Q-learning,0.019635448333333416
+14_storm,storm-core,penetration test,0.02058766666666667
+14_storm,storm-core,server,0.020929487777777922
+14_storm,storm-core,mobile application development,0.021090857222222148
+14_storm,storm-core,World Wide Web,0.0211225244444444
+14_storm,storm-core,instant messaging,0.021281182777777796
+14_storm,storm-core,knowledge graph,0.021557744444444527
+14_storm,storm-core,virtualization,0.0219833172222223
+14_storm,storm-core,information processing,0.022439656666666807
+14_storm,storm-core,semi-supervised learning,0.02329928222222233
+14_storm,storm-core,pattern matching,0.02369152611111125
+14_storm,storm-core,file system,0.0239429594444443
+14_storm,storm-core,artificial neural network,0.0243177527777777
+14_storm,storm-core,static program analysis,0.024611588333333212
+14_storm,storm-core,algorithm,0.024643099999999973
+14_storm,storm-core,test automation,0.024939899444444413
+14_storm,storm-core,computer configuration,0.02511352722222221
+14_storm,storm-core,virtual machine,0.026503686666666748
+14_storm,storm-core,web application security,0.026903769444444503
+14_storm,storm-core,reinforcement learning,0.027001578888888822
+14_storm,storm-core,web server,0.02702264166666668
+14_storm,storm-core,graph database,0.027437219444444494
+14_storm,storm-core,big data,0.027482118333333194
+14_storm,storm-core,web service,0.029726818888888895
+14_storm,storm-core,face detection,0.030335533888888877
+14_storm,storm-core,microservices,0.03152134555555569
+14_storm,storm-core,unit testing,0.03152719944444449
+14_storm,storm-core,cloud computing,0.032926721666666714
+14_storm,storm-core,blockchain,0.03332311444444441
+14_storm,storm-core,web crawler,0.035213593888888894
+14_storm,storm-core,internet of things,0.035367052222222306
+14_storm,storm-core,facial recognition system,0.035782848333333284
+14_storm,storm-core,security,0.036175519444444526
+14_storm,storm-core,embedded system,0.03701343388888895
+14_storm,storm-core,geographic information system,0.03942623444444443
+14_storm,storm-core,password manager,0.03960796055555571
+14_storm,storm-core,automation,0.03974196111111111
+14_storm,storm-core,command-line interface,0.039847074444444464
+14_storm,storm-core,Parser combinator,0.042042142222222245
+14_storm,storm-core,shell tool,0.04254844888888898
+14_storm,storm-core,distributed computing,0.04422826555555559
+14_storm,storm-core,object–relational mapping,0.04635178111111116
+14_storm,storm-core,static site generator,0.04648569666666669
+14_storm,storm-core,continuous integration,0.04979926722222233
+14_storm,storm-core,internet bot,0.053398473888888964
+14_storm,storm-core,distributed system,0.05570628722222226
+14_storm,storm-core,smart contract,0.059483688333333284
+14_storm,storm-core,scheduler,0.06175137555555554
+14_storm,storm-core,distributed database,0.06284574833333323

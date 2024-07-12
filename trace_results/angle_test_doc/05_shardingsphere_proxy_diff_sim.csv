@@ -1,0 +1,137 @@
+project_name,module,domain,diff_sim
+05_shardingsphere,proxy,"extract, transform, load",0.001603049682539659
+05_shardingsphere,proxy,internet bot,0.001698055873015858
+05_shardingsphere,proxy,shell tool,0.0023554161904763005
+05_shardingsphere,proxy,syntax highlighting,0.002425569999999988
+05_shardingsphere,proxy,encryption,0.0026211687301588293
+05_shardingsphere,proxy,authentication,0.0029988782539682735
+05_shardingsphere,proxy,compiler,0.004361173650793804
+05_shardingsphere,proxy,software design pattern,0.0050424022222222975
+05_shardingsphere,proxy,translation,0.005674850158730094
+05_shardingsphere,proxy,dependency injection,0.005820970476190568
+05_shardingsphere,proxy,serialization,0.005902135396825436
+05_shardingsphere,proxy,code generation,0.006374817142857148
+05_shardingsphere,proxy,schema migration,0.006517226349206484
+05_shardingsphere,proxy,information processing,0.006871825238095153
+05_shardingsphere,proxy,smart contract,0.008176566190476242
+05_shardingsphere,proxy,HTTP client,0.009094346825396948
+05_shardingsphere,proxy,password manager,0.009097700952380827
+05_shardingsphere,proxy,game server,0.009189481904761987
+05_shardingsphere,proxy,security,0.01024227142857137
+05_shardingsphere,proxy,scheduler,0.010694581587301633
+05_shardingsphere,proxy,Parser combinator,0.011709110634920694
+05_shardingsphere,proxy,static program analysis,0.015286502539682556
+05_shardingsphere,proxy,computational science,0.015966726349206373
+05_shardingsphere,proxy,object-oriented programming,0.016129068412698344
+05_shardingsphere,proxy,analytics,0.0166305307936509
+05_shardingsphere,proxy,HTTP server,0.017031819206349108
+05_shardingsphere,proxy,unit testing,0.0175801501587301
+05_shardingsphere,proxy,web application security,0.018358232063492075
+05_shardingsphere,proxy,regular expression,0.01887499634920642
+05_shardingsphere,proxy,middleware,0.019062424285714363
+05_shardingsphere,proxy,game engine,0.020101013968253922
+05_shardingsphere,proxy,geometry,0.020163770000000025
+05_shardingsphere,proxy,continuous integration,0.020217806984127007
+05_shardingsphere,proxy,cloud computing,0.021921277301587216
+05_shardingsphere,proxy,cryptography,0.02235056761904758
+05_shardingsphere,proxy,penetration test,0.022846457301587297
+05_shardingsphere,proxy,automation,0.023369238412698556
+05_shardingsphere,proxy,test automation,0.02348002682539685
+05_shardingsphere,proxy,validator,0.024064621904761996
+05_shardingsphere,proxy,virtual machine,0.02456215968253983
+05_shardingsphere,proxy,pattern matching,0.02486557682539675
+05_shardingsphere,proxy,command-line interface,0.025124358253968193
+05_shardingsphere,proxy,benchmark,0.026208996666666762
+05_shardingsphere,proxy,synchronization,0.027286247301587352
+05_shardingsphere,proxy,microservices,0.02733321888888901
+05_shardingsphere,proxy,distributed computing,0.027971696190476014
+05_shardingsphere,proxy,network security,0.02804496190476191
+05_shardingsphere,proxy,data binding,0.02872486333333335
+05_shardingsphere,proxy,stream processing,0.029040282698412745
+05_shardingsphere,proxy,web browser engine,0.029291580793650795
+05_shardingsphere,proxy,client,0.029447066984127135
+05_shardingsphere,proxy,static program analysis tool,0.02988594380952392
+05_shardingsphere,proxy,web service,0.030234327460317623
+05_shardingsphere,proxy,server,0.030808050793650787
+05_shardingsphere,proxy,bitcoin,0.030898565396825284
+05_shardingsphere,proxy,static site generator,0.033917287777777694
+05_shardingsphere,proxy,text processing,0.034189427619047585
+05_shardingsphere,proxy,web server,0.03654067539682526
+05_shardingsphere,proxy,logging,0.0374889107936508
+05_shardingsphere,proxy,application performance management,0.03783616444444449
+05_shardingsphere,proxy,software testing,0.039232561269841204
+05_shardingsphere,proxy,object–relational mapping,0.04179658968253963
+05_shardingsphere,proxy,question answering,0.04357889476190491
+05_shardingsphere,proxy,blockchain,0.043665102222222196
+05_shardingsphere,proxy,object detection,0.046054281111111206
+05_shardingsphere,proxy,natural language,0.04692014920634918
+05_shardingsphere,proxy,web development,0.047412381111111124
+05_shardingsphere,proxy,text mining,0.048343957936507975
+05_shardingsphere,proxy,front end,0.04865456285714298
+05_shardingsphere,proxy,data science,0.04888564396825401
+05_shardingsphere,proxy,data mining,0.04955891063492063
+05_shardingsphere,proxy,instant messaging,0.050024988888888844
+05_shardingsphere,proxy,web scraping,0.050685618095238194
+05_shardingsphere,proxy,Malware Analysis,0.05069428301587309
+05_shardingsphere,proxy,computer configuration,0.05103558936507946
+05_shardingsphere,proxy,back end,0.051252541111111105
+05_shardingsphere,proxy,automated machine learning,0.05159523460317461
+05_shardingsphere,proxy,distributed database,0.05186034555555552
+05_shardingsphere,proxy,software development,0.052263687619047594
+05_shardingsphere,proxy,telecommunications network,0.0526257355555555
+05_shardingsphere,proxy,convolutional neural network,0.05334602063492061
+05_shardingsphere,proxy,banking industry,0.0546533606349206
+05_shardingsphere,proxy,data analysis,0.05471703158730168
+05_shardingsphere,proxy,algorithm,0.05497611365079369
+05_shardingsphere,proxy,distributed system,0.05519248746031735
+05_shardingsphere,proxy,operating system,0.055851290952380894
+05_shardingsphere,proxy,natural language processing,0.056213294603174646
+05_shardingsphere,proxy,network monitoring,0.056871447936507946
+05_shardingsphere,proxy,hyperparameter optimization,0.058208372539682585
+05_shardingsphere,proxy,search,0.05827404476190484
+05_shardingsphere,proxy,artificial neural network,0.059502308253968295
+05_shardingsphere,proxy,geographic information system,0.060119554444444445
+05_shardingsphere,proxy,database management,0.06025254920634915
+05_shardingsphere,proxy,backup,0.06093911269841268
+05_shardingsphere,proxy,language model,0.06283504253968247
+05_shardingsphere,proxy,computer data storage,0.06352225888888874
+05_shardingsphere,proxy,optical character recognition,0.06532891460317464
+05_shardingsphere,proxy,support vector machine,0.0655733604761905
+05_shardingsphere,proxy,graphical user interface,0.06613832666666664
+05_shardingsphere,proxy,regression analysis,0.0661840420634921
+05_shardingsphere,proxy,embedded system,0.06677803460317461
+05_shardingsphere,proxy,text classification,0.06773087079365081
+05_shardingsphere,proxy,content management system,0.06813470555555556
+05_shardingsphere,proxy,package management system,0.0681363771428572
+05_shardingsphere,proxy,big data,0.0690514561904762
+05_shardingsphere,proxy,3D modeling,0.06928343079365068
+05_shardingsphere,proxy,machine learning,0.07019094603174597
+05_shardingsphere,proxy,File Transfer Protocol,0.07113823428571447
+05_shardingsphere,proxy,user interface,0.07115004095238087
+05_shardingsphere,proxy,data,0.07129693777777779
+05_shardingsphere,proxy,email,0.07161865603174611
+05_shardingsphere,proxy,Kalman filter,0.0716637561904761
+05_shardingsphere,proxy,web browser,0.07185921952380964
+05_shardingsphere,proxy,World Wide Web,0.0726734514285714
+05_shardingsphere,proxy,Web Components,0.07322163571428564
+05_shardingsphere,proxy,long short-term memory,0.07350988412698412
+05_shardingsphere,proxy,WebSocket,0.07421151730158737
+05_shardingsphere,proxy,data structure,0.07561608682539694
+05_shardingsphere,proxy,signal processing,0.07564612349206351
+05_shardingsphere,proxy,data visualization,0.07851641603174603
+05_shardingsphere,proxy,sentiment analysis,0.07874742238095239
+05_shardingsphere,proxy,malware,0.07945608238095248
+05_shardingsphere,proxy,linear regression,0.08255988619047616
+05_shardingsphere,proxy,network analysis,0.0845481168253967
+05_shardingsphere,proxy,data compression,0.08525313619047625
+05_shardingsphere,proxy,file system,0.08528206555555568
+05_shardingsphere,proxy,database,0.08655407428571449
+05_shardingsphere,proxy,web crawler,0.08847753984126988
+05_shardingsphere,proxy,e-commerce,0.09059083539682544
+05_shardingsphere,proxy,business dashboard,0.09519196650793643
+05_shardingsphere,proxy,website,0.09723147936507937
+05_shardingsphere,proxy,web application,0.10109126539682534
+05_shardingsphere,proxy,graph database,0.1089113406349207
+05_shardingsphere,proxy,streaming media,0.11960702873015877
+05_shardingsphere,proxy,audio signal processing,0.134551601904762
+05_shardingsphere,proxy,recommender system,0.1587306809523809

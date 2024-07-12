@@ -1,0 +1,15 @@
+project_name,module,domain,diff_sim
+03_flink,flink-dstl,server,0.005816978194444378
+03_flink,flink-dstl,client,0.007570253194444376
+03_flink,flink-dstl,security,0.011562067147222299
+03_flink,flink-dstl,design,0.011941450097222195
+03_flink,flink-dstl,serialization,0.0122615945
+03_flink,flink-dstl,database,0.02747895736111111
+03_flink,flink-dstl,kernel,0.028235987500000004
+03_flink,flink-dstl,logging,0.034242641666666684
+03_flink,flink-dstl,analytics,0.034417366655555594
+03_flink,flink-dstl,scheduler,0.04185905041666668
+03_flink,flink-dstl,data,0.04805387875
+03_flink,flink-dstl,synchronization,0.06343474416666667
+03_flink,flink-dstl,algorithm,0.0724929930694444
+03_flink,flink-dstl,statistics,0.08096959991666658

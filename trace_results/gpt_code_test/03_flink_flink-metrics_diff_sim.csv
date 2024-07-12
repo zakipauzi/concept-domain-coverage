@@ -1,0 +1,123 @@
+project_name,module,domain,diff_sim
+03_flink,flink-metrics,command-line interface,1.634373475389861e-05
+03_flink,flink-metrics,topic modeling,4.24642251820595e-05
+03_flink,flink-metrics,HTTP client,4.49155296506909e-05
+03_flink,flink-metrics,data analysis,5.213745201881892e-05
+03_flink,flink-metrics,distributed computing,6.643823292717954e-05
+03_flink,flink-metrics,streaming media,9.267557068048937e-05
+03_flink,flink-metrics,password manager,0.00013407356128580794
+03_flink,flink-metrics,design,0.00027270589063177475
+03_flink,flink-metrics,data structure,0.0002909206707951695
+03_flink,flink-metrics,network analysis,0.0003772150109944139
+03_flink,flink-metrics,client,0.00039954408264974983
+03_flink,flink-metrics,test automation,0.00047335900160005995
+03_flink,flink-metrics,real-time computing,0.0006166183236231415
+03_flink,flink-metrics,data compression,0.0008277394558535711
+03_flink,flink-metrics,File Transfer Protocol,0.0008452429899592495
+03_flink,flink-metrics,microservices,0.0008811434284108355
+03_flink,flink-metrics,geographic information,0.000972995694564105
+03_flink,flink-metrics,server,0.0009740641972862951
+03_flink,flink-metrics,smart contract,0.0009959405921412534
+03_flink,flink-metrics,machine learning,0.001003998972191722
+03_flink,flink-metrics,website,0.001014853966669449
+03_flink,flink-metrics,analytics,0.0010217104788720066
+03_flink,flink-metrics,operating system,0.0010318082781987092
+03_flink,flink-metrics,plot,0.0011843421770689755
+03_flink,flink-metrics,recommender system,0.0012382480976388388
+03_flink,flink-metrics,object detection,0.001265698833616491
+03_flink,flink-metrics,stream processing,0.001382368823671154
+03_flink,flink-metrics,geographic information system,0.0014707958459657666
+03_flink,flink-metrics,big data,0.0015753286086646057
+03_flink,flink-metrics,digital image processing,0.0016792197102756257
+03_flink,flink-metrics,network security,0.0017698828266590194
+03_flink,flink-metrics,digital security,0.001792634579922625
+03_flink,flink-metrics,data science,0.0018114091412649858
+03_flink,flink-metrics,HTTP server,0.0018402634393324124
+03_flink,flink-metrics,embedded system,0.0018488108676617543
+03_flink,flink-metrics,image compression,0.0018542781568220423
+03_flink,flink-metrics,automation,0.0019473144406991771
+03_flink,flink-metrics,logging,0.0019596402099235632
+03_flink,flink-metrics,digital audio,0.0019913776812807704
+03_flink,flink-metrics,continuous integration,0.0020622642316427964
+03_flink,flink-metrics,anomaly detection,0.0021621910150623203
+03_flink,flink-metrics,World Wide Web,0.0022377757634800544
+03_flink,flink-metrics,WebSocket,0.0023170237122781545
+03_flink,flink-metrics,visualization,0.002429412169494105
+03_flink,flink-metrics,data,0.0024669932596018684
+03_flink,flink-metrics,information processing,0.0026243431113469606
+03_flink,flink-metrics,object–relational mapping,0.0026811244388942335
+03_flink,flink-metrics,audio player software,0.002810030107008754
+03_flink,flink-metrics,artificial neural network,0.0028117053762416466
+03_flink,flink-metrics,knowledge graph,0.0028347445705565466
+03_flink,flink-metrics,application performance management,0.00285370845605748
+03_flink,flink-metrics,Kalman filter,0.0028914460328502978
+03_flink,flink-metrics,distributed system,0.0029061181789910018
+03_flink,flink-metrics,static site generator,0.003053002481062106
+03_flink,flink-metrics,Containerization,0.0031710442566399433
+03_flink,flink-metrics,word embedding,0.0031729703436368384
+03_flink,flink-metrics,signal processing,0.003254946353798527
+03_flink,flink-metrics,cluster analysis,0.003348937833905441
+03_flink,flink-metrics,augmented reality,0.0033594581576934512
+03_flink,flink-metrics,artificial intelligence,0.0033900768433233752
+03_flink,flink-metrics,Web Components,0.003532694704570627
+03_flink,flink-metrics,Image analysis,0.0035815652252730867
+03_flink,flink-metrics,package management system,0.003604379829913018
+03_flink,flink-metrics,security,0.003664768364061377
+03_flink,flink-metrics,web application security,0.003980736045463118
+03_flink,flink-metrics,audio signal processing,0.0040466416118322135
+03_flink,flink-metrics,sentiment analysis,0.00410050953267127
+03_flink,flink-metrics,file system,0.004126946655957697
+03_flink,flink-metrics,computer configuration,0.004189343649582122
+03_flink,flink-metrics,dependency injection,0.004353218264658398
+03_flink,flink-metrics,data mining,0.004622488747493714
+03_flink,flink-metrics,text editor,0.004699625692765941
+03_flink,flink-metrics,data visualization,0.004829736962827957
+03_flink,flink-metrics,front end,0.004851365953083775
+03_flink,flink-metrics,stock market,0.004900001473194915
+03_flink,flink-metrics,content management system,0.00496218653692071
+03_flink,flink-metrics,graphical user interface,0.005141486534348982
+03_flink,flink-metrics,database,0.005421877011281495
+03_flink,flink-metrics,time series,0.005464528926836243
+03_flink,flink-metrics,web crawler,0.005577783685494775
+03_flink,flink-metrics,distributed multimedia communications platform,0.005642497024443083
+03_flink,flink-metrics,graph,0.005656991384566101
+03_flink,flink-metrics,game engine,0.005661606480570125
+03_flink,flink-metrics,long short-term memory,0.005725010419850629
+03_flink,flink-metrics,game server,0.005847649930980081
+03_flink,flink-metrics,serialization,0.006042091064383137
+03_flink,flink-metrics,user interface,0.006282693109559201
+03_flink,flink-metrics,instant messaging,0.006414433748284543
+03_flink,flink-metrics,backup,0.006609032638345336
+03_flink,flink-metrics,data binding,0.006907208035680901
+03_flink,flink-metrics,software engineering,0.007047414930203222
+03_flink,flink-metrics,network monitoring,0.007166581507424885
+03_flink,flink-metrics,graph database,0.0072818425876770565
+03_flink,flink-metrics,telecommunications network,0.00731457352656939
+03_flink,flink-metrics,web application,0.007323620654804741
+03_flink,flink-metrics,web service,0.0073648873868743525
+03_flink,flink-metrics,distributed database,0.007453971483545319
+03_flink,flink-metrics,image classification,0.007561831677815434
+03_flink,flink-metrics,regular expression,0.007735266356071802
+03_flink,flink-metrics,cloud computing,0.007891146967986984
+03_flink,flink-metrics,text processing,0.008058006435507137
+03_flink,flink-metrics,computer data storage,0.008181155384498262
+03_flink,flink-metrics,web server,0.008283396133424326
+03_flink,flink-metrics,compiler,0.008603223384012981
+03_flink,flink-metrics,business dashboard,0.008718410746259675
+03_flink,flink-metrics,back end,0.008911196091866636
+03_flink,flink-metrics,benchmark,0.009128369847971385
+03_flink,flink-metrics,pattern matching,0.009295611262214787
+03_flink,flink-metrics,natural language processing,0.00939575161077999
+03_flink,flink-metrics,support vector machine,0.009700443512219326
+03_flink,flink-metrics,software testing,0.010101109898386196
+03_flink,flink-metrics,functional programming,0.01016770667366651
+03_flink,flink-metrics,web scraping,0.010171920652845556
+03_flink,flink-metrics,penetration test,0.01067097205896661
+03_flink,flink-metrics,Naive Bayes classifier,0.011898648241289056
+03_flink,flink-metrics,statistics,0.011946411233745846
+03_flink,flink-metrics,unit testing,0.011976926104867225
+03_flink,flink-metrics,text classification,0.011981159907596739
+03_flink,flink-metrics,language model,0.01206194827510143
+03_flink,flink-metrics,database management,0.013045105966467574
+03_flink,flink-metrics,static program analysis,0.013549285330835659
+03_flink,flink-metrics,static program analysis tool,0.01579591532470981

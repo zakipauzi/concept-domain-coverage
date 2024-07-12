@@ -1,0 +1,61 @@
+project_name,module,domain,diff_sim
+10_dolphinscheduler,dolphinscheduler-storage-plugin,client,0.00035138777777782293
+10_dolphinscheduler,dolphinscheduler-storage-plugin,DevOps,0.0003602099999998609
+10_dolphinscheduler,dolphinscheduler-storage-plugin,file system,0.0003836183333334464
+10_dolphinscheduler,dolphinscheduler-storage-plugin,data compression,0.0007293372222221817
+10_dolphinscheduler,dolphinscheduler-storage-plugin,question answering,0.0017454599999999765
+10_dolphinscheduler,dolphinscheduler-storage-plugin,File Transfer Protocol,0.001974240000000016
+10_dolphinscheduler,dolphinscheduler-storage-plugin,embedded system,0.002250487777777699
+10_dolphinscheduler,dolphinscheduler-storage-plugin,telecommunications network,0.0032816411111110666
+10_dolphinscheduler,dolphinscheduler-storage-plugin,instant messaging,0.0033230072222222296
+10_dolphinscheduler,dolphinscheduler-storage-plugin,object detection,0.0036133505555557277
+10_dolphinscheduler,dolphinscheduler-storage-plugin,web browser engine,0.003836984999999904
+10_dolphinscheduler,dolphinscheduler-storage-plugin,data science,0.004505624999999958
+10_dolphinscheduler,dolphinscheduler-storage-plugin,language model,0.0049451199999999695
+10_dolphinscheduler,dolphinscheduler-storage-plugin,HTTP server,0.005462946666666524
+10_dolphinscheduler,dolphinscheduler-storage-plugin,automation,0.006553493888888984
+10_dolphinscheduler,dolphinscheduler-storage-plugin,web server,0.0065695444444445195
+10_dolphinscheduler,dolphinscheduler-storage-plugin,object–relational mapping,0.006961824444444431
+10_dolphinscheduler,dolphinscheduler-storage-plugin,data binding,0.007102894999999887
+10_dolphinscheduler,dolphinscheduler-storage-plugin,web crawler,0.007254596666666724
+10_dolphinscheduler,dolphinscheduler-storage-plugin,static site generator,0.01064732166666671
+10_dolphinscheduler,dolphinscheduler-storage-plugin,logging,0.011180988333333308
+10_dolphinscheduler,dolphinscheduler-storage-plugin,distributed system,0.01119880388888872
+10_dolphinscheduler,dolphinscheduler-storage-plugin,data structure,0.011444785555555503
+10_dolphinscheduler,dolphinscheduler-storage-plugin,HTTP client,0.012131655000000074
+10_dolphinscheduler,dolphinscheduler-storage-plugin,dependency injection,0.01241928888888888
+10_dolphinscheduler,dolphinscheduler-storage-plugin,password manager,0.013177990000000028
+10_dolphinscheduler,dolphinscheduler-storage-plugin,security,0.013345445555555613
+10_dolphinscheduler,dolphinscheduler-storage-plugin,application performance management,0.013449617222222321
+10_dolphinscheduler,dolphinscheduler-storage-plugin,server,0.01452085500000011
+10_dolphinscheduler,dolphinscheduler-storage-plugin,machine learning,0.014982668333333282
+10_dolphinscheduler,dolphinscheduler-storage-plugin,data analysis,0.017764200555555498
+10_dolphinscheduler,dolphinscheduler-storage-plugin,smart contract,0.019394523888888904
+10_dolphinscheduler,dolphinscheduler-storage-plugin,user interface,0.021759095000000117
+10_dolphinscheduler,dolphinscheduler-storage-plugin,regular expression,0.02293310277777788
+10_dolphinscheduler,dolphinscheduler-storage-plugin,web service,0.023236546111111145
+10_dolphinscheduler,dolphinscheduler-storage-plugin,web application security,0.02402000444444441
+10_dolphinscheduler,dolphinscheduler-storage-plugin,big data,0.027677178333333385
+10_dolphinscheduler,dolphinscheduler-storage-plugin,microservices,0.027689108888888814
+10_dolphinscheduler,dolphinscheduler-storage-plugin,analytics,0.02818480500000009
+10_dolphinscheduler,dolphinscheduler-storage-plugin,package management system,0.029573572777777835
+10_dolphinscheduler,dolphinscheduler-storage-plugin,text processing,0.029961236111111067
+10_dolphinscheduler,dolphinscheduler-storage-plugin,website,0.03123108166666666
+10_dolphinscheduler,dolphinscheduler-storage-plugin,command-line interface,0.03309132444444446
+10_dolphinscheduler,dolphinscheduler-storage-plugin,computer data storage,0.03376617611111099
+10_dolphinscheduler,dolphinscheduler-storage-plugin,streaming media,0.03535346944444451
+10_dolphinscheduler,dolphinscheduler-storage-plugin,information processing,0.03748097555555541
+10_dolphinscheduler,dolphinscheduler-storage-plugin,World Wide Web,0.0377711361111111
+10_dolphinscheduler,dolphinscheduler-storage-plugin,Web Components,0.04119345499999999
+10_dolphinscheduler,dolphinscheduler-storage-plugin,validator,0.04372622166666673
+10_dolphinscheduler,dolphinscheduler-storage-plugin,pattern matching,0.04770171555555558
+10_dolphinscheduler,dolphinscheduler-storage-plugin,database,0.04848513055555553
+10_dolphinscheduler,dolphinscheduler-storage-plugin,data,0.04848894833333339
+10_dolphinscheduler,dolphinscheduler-storage-plugin,web application,0.05103518333333329
+10_dolphinscheduler,dolphinscheduler-storage-plugin,cloud computing,0.05215862833333346
+10_dolphinscheduler,dolphinscheduler-storage-plugin,geographic information system,0.0541586077777777
+10_dolphinscheduler,dolphinscheduler-storage-plugin,content management system,0.06976633944444466
+10_dolphinscheduler,dolphinscheduler-storage-plugin,test automation,0.07972570000000018
+10_dolphinscheduler,dolphinscheduler-storage-plugin,penetration test,0.08749269888888894
+10_dolphinscheduler,dolphinscheduler-storage-plugin,software testing,0.10424574777777779
+10_dolphinscheduler,dolphinscheduler-storage-plugin,unit testing,0.12426757555555562

@@ -1,0 +1,12 @@
+project_name,module,domain,diff_sim
+12_shenyu,shenyu-spi,data,0.007839180000000001
+12_shenyu,shenyu-spi,database,0.07178950500000003
+12_shenyu,shenyu-spi,compiler,0.07663010750000007
+12_shenyu,shenyu-spi,serialization,0.086636385
+12_shenyu,shenyu-spi,microservices,0.09776589499999999
+12_shenyu,shenyu-spi,server,0.11514131249999998
+12_shenyu,shenyu-spi,router,0.13585505499999997
+12_shenyu,shenyu-spi,analytics,0.1435585525
+12_shenyu,shenyu-spi,security,0.1503937775
+12_shenyu,shenyu-spi,client,0.1827242575
+12_shenyu,shenyu-spi,website,0.24562653100000012

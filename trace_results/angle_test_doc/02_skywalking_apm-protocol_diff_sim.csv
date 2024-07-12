@@ -1,0 +1,51 @@
+project_name,module,domain,diff_sim
+02_skywalking,apm-protocol,web service,0.0021588844444444533
+02_skywalking,apm-protocol,regular expression,0.002662082222222195
+02_skywalking,apm-protocol,microservices,0.008184361111111094
+02_skywalking,apm-protocol,WebSocket,0.009407821111111048
+02_skywalking,apm-protocol,"extract, transform, load",0.018548102222222307
+02_skywalking,apm-protocol,data binding,0.0210642322222222
+02_skywalking,apm-protocol,password manager,0.02253786444444439
+02_skywalking,apm-protocol,HTTP client,0.025697458888888858
+02_skywalking,apm-protocol,network security,0.027681673333333212
+02_skywalking,apm-protocol,web server,0.02877548777777772
+02_skywalking,apm-protocol,security,0.035727561111111084
+02_skywalking,apm-protocol,shell tool,0.03988477777777777
+02_skywalking,apm-protocol,World Wide Web,0.04099448
+02_skywalking,apm-protocol,plot,0.041218579999999894
+02_skywalking,apm-protocol,telecommunications network,0.041491957777777755
+02_skywalking,apm-protocol,client,0.042402384444444385
+02_skywalking,apm-protocol,web application security,0.04266541777777777
+02_skywalking,apm-protocol,database,0.045365352222222155
+02_skywalking,apm-protocol,smart contract,0.047064996666666636
+02_skywalking,apm-protocol,instant messaging,0.048392219999999986
+02_skywalking,apm-protocol,pattern matching,0.04964339000000001
+02_skywalking,apm-protocol,computer configuration,0.052687672222222315
+02_skywalking,apm-protocol,data structure,0.05402651444444445
+02_skywalking,apm-protocol,website,0.05495388777777771
+02_skywalking,apm-protocol,automation,0.056622210000000006
+02_skywalking,apm-protocol,File Transfer Protocol,0.05667674222222219
+02_skywalking,apm-protocol,web application,0.05717063666666672
+02_skywalking,apm-protocol,operating system,0.05811737333333328
+02_skywalking,apm-protocol,HTTP server,0.058191683333333244
+02_skywalking,apm-protocol,statistics,0.06099697555555561
+02_skywalking,apm-protocol,object–relational mapping,0.06527982666666665
+02_skywalking,apm-protocol,continuous integration,0.06917008111111111
+02_skywalking,apm-protocol,back end,0.07074311444444437
+02_skywalking,apm-protocol,command-line interface,0.07359750888888894
+02_skywalking,apm-protocol,neural machine translation,0.08891805222222215
+02_skywalking,apm-protocol,server,0.08921091888888888
+02_skywalking,apm-protocol,user interface,0.08921158444444455
+02_skywalking,apm-protocol,object detection,0.09173151555555559
+02_skywalking,apm-protocol,big data,0.09181697666666666
+02_skywalking,apm-protocol,time series,0.09316837555555546
+02_skywalking,apm-protocol,embedded system,0.09928670666666672
+02_skywalking,apm-protocol,data,0.10890482666666668
+02_skywalking,apm-protocol,game server,0.10921770777777784
+02_skywalking,apm-protocol,file system,0.11526157333333342
+02_skywalking,apm-protocol,social network,0.11571722666666678
+02_skywalking,apm-protocol,machine translation,0.1162148077777777
+02_skywalking,apm-protocol,package management system,0.1314620666666666
+02_skywalking,apm-protocol,network monitoring,0.13721514111111105
+02_skywalking,apm-protocol,application performance management,0.1439860644444445
+02_skywalking,apm-protocol,analytics,0.18197915111111113

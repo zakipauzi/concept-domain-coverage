@@ -1,0 +1,10 @@
+project_name,module,domain,diff_sim
+03_flink,flink-scala,benchmark,0.0263834962857142
+03_flink,flink-scala,algorithm,0.0366478985714285
+03_flink,flink-scala,server,0.037483779999999994
+03_flink,flink-scala,backup,0.05104006071428571
+03_flink,flink-scala,client,0.10100642285714279
+03_flink,flink-scala,database,0.1070782171428572
+03_flink,flink-scala,serialization,0.1633441071428572
+03_flink,flink-scala,data,0.1995407657142858
+03_flink,flink-scala,security,0.2063379770428571

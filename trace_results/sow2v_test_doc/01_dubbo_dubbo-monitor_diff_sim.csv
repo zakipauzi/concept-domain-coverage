@@ -1,0 +1,17 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-monitor,database,0.0018728500000000925
+01_dubbo,dubbo-monitor,analytics,0.011206158750000084
+01_dubbo,dubbo-monitor,security,0.013011305000000029
+01_dubbo,dubbo-monitor,statistics,0.020514400999999988
+01_dubbo,dubbo-monitor,benchmark,0.0233959335
+01_dubbo,dubbo-monitor,search,0.028133212500000004
+01_dubbo,dubbo-monitor,scheduler,0.07085106249999998
+01_dubbo,dubbo-monitor,blockchain,0.0822665725
+01_dubbo,dubbo-monitor,logging,0.08445864375
+01_dubbo,dubbo-monitor,microservices,0.09797291449999998
+01_dubbo,dubbo-monitor,automation,0.1145995725
+01_dubbo,dubbo-monitor,backup,0.13281933524999998
+01_dubbo,dubbo-monitor,server,0.14281896250000004
+01_dubbo,dubbo-monitor,website,0.19188579625
+01_dubbo,dubbo-monitor,client,0.21574842875000005
+01_dubbo,dubbo-monitor,data,0.24492646312500002

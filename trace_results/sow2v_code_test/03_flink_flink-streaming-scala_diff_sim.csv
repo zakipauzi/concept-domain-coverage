@@ -1,0 +1,8 @@
+project_name,module,domain,diff_sim
+03_flink,flink-streaming-scala,logging,0.0053432963492063
+03_flink,flink-streaming-scala,data,0.020917076984126926
+03_flink,flink-streaming-scala,benchmark,0.025015662238095197
+03_flink,flink-streaming-scala,database,0.03303328920634924
+03_flink,flink-streaming-scala,client,0.08253037873015873
+03_flink,flink-streaming-scala,server,0.15668298753968263
+03_flink,flink-streaming-scala,serialization,0.19199460517460318

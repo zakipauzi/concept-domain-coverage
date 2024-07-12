@@ -1,0 +1,114 @@
+project_name,module,domain,diff_sim
+03_flink,flink-state-backends,telecommunications network,0.0003385127982044045
+03_flink,flink-state-backends,database,0.00038047159773479944
+03_flink,flink-state-backends,data compression,0.0007291119688546122
+03_flink,flink-state-backends,object–relational mapping,0.0008427720323750387
+03_flink,flink-state-backends,random forest,0.0015214121887604515
+03_flink,flink-state-backends,long short-term memory,0.0018897974782512428
+03_flink,flink-state-backends,data,0.0021631938863770905
+03_flink,flink-state-backends,data structure,0.002573678441511462
+03_flink,flink-state-backends,graph database,0.0031319110797531913
+03_flink,flink-state-backends,computer benchmarking,0.003997568186630884
+03_flink,flink-state-backends,password manager,0.004712229606582463
+03_flink,flink-state-backends,file system,0.005148905370811252
+03_flink,flink-state-backends,benchmark,0.005308388436468636
+03_flink,flink-state-backends,penetration test,0.005562913933452984
+03_flink,flink-state-backends,security,0.005625241198154662
+03_flink,flink-state-backends,anomaly detection,0.006620276189514773
+03_flink,flink-state-backends,database management,0.006728809169583849
+03_flink,flink-state-backends,big data,0.006942909870885083
+03_flink,flink-state-backends,image segmentation,0.007134329263454142
+03_flink,flink-state-backends,computer data storage,0.007180165844280051
+03_flink,flink-state-backends,sorting algorithm,0.007339290423113876
+03_flink,flink-state-backends,distributed system,0.00835696684391607
+03_flink,flink-state-backends,word embedding,0.00854202433639406
+03_flink,flink-state-backends,distributed database,0.008566493463094793
+03_flink,flink-state-backends,data mining,0.008813109714957412
+03_flink,flink-state-backends,digital security,0.009914433673351097
+03_flink,flink-state-backends,client,0.010326894788267427
+03_flink,flink-state-backends,object detection,0.010472474959162481
+03_flink,flink-state-backends,virtual reality,0.010954744100837077
+03_flink,flink-state-backends,distributed multimedia communications platform,0.011668373639996621
+03_flink,flink-state-backends,content management system,0.011862149508249153
+03_flink,flink-state-backends,File Transfer Protocol,0.012123917145672958
+03_flink,flink-state-backends,logging,0.012606292773059025
+03_flink,flink-state-backends,server,0.012901913316933689
+03_flink,flink-state-backends,graph algorithm,0.01303353987953959
+03_flink,flink-state-backends,cluster analysis,0.01393485660614624
+03_flink,flink-state-backends,time series,0.014294142960627587
+03_flink,flink-state-backends,synchronization,0.01452607307931797
+03_flink,flink-state-backends,reinforcement learning,0.014608760388797215
+03_flink,flink-state-backends,geographic information system,0.01491929520041313
+03_flink,flink-state-backends,streaming media,0.015322976918151321
+03_flink,flink-state-backends,internet of things,0.015459798300713867
+03_flink,flink-state-backends,embedded system,0.01617433339841723
+03_flink,flink-state-backends,website,0.016536159334697764
+03_flink,flink-state-backends,digital audio,0.016998880855749965
+03_flink,flink-state-backends,kernel,0.017202593807741584
+03_flink,flink-state-backends,scheduler,0.017228511567409455
+03_flink,flink-state-backends,operating system,0.01769960582237362
+03_flink,flink-state-backends,validator,0.01778581846015681
+03_flink,flink-state-backends,serialization,0.018556075252771143
+03_flink,flink-state-backends,recommender system,0.018800449294497867
+03_flink,flink-state-backends,distributed computing,0.018816241927073207
+03_flink,flink-state-backends,linear regression,0.021584634603259656
+03_flink,flink-state-backends,smart contract,0.02171941776449149
+03_flink,flink-state-backends,back end,0.022014196492123217
+03_flink,flink-state-backends,HTTP server,0.022044788383802638
+03_flink,flink-state-backends,email,0.022928587458216576
+03_flink,flink-state-backends,computer configuration,0.02444888831736791
+03_flink,flink-state-backends,question answering,0.02482966176127499
+03_flink,flink-state-backends,design,0.02659466351714157
+03_flink,flink-state-backends,algorithm,0.02691326260551763
+03_flink,flink-state-backends,data binding,0.027680808201939633
+03_flink,flink-state-backends,application performance management,0.027774457936978414
+03_flink,flink-state-backends,blockchain,0.027983377476393123
+03_flink,flink-state-backends,automation,0.028215189701966237
+03_flink,flink-state-backends,user interface,0.029182485194994
+03_flink,flink-state-backends,schema migration,0.029776018214275224
+03_flink,flink-state-backends,digital image processing,0.02986423140407235
+03_flink,flink-state-backends,instant messaging,0.02988109044390508
+03_flink,flink-state-backends,data analysis,0.029956654783392267
+03_flink,flink-state-backends,web server,0.030025150679906187
+03_flink,flink-state-backends,audio signal processing,0.03064007825550663
+03_flink,flink-state-backends,data science,0.03084833222744865
+03_flink,flink-state-backends,dependency injection,0.032161643991407085
+03_flink,flink-state-backends,World Wide Web,0.03290223639952572
+03_flink,flink-state-backends,analytics,0.03350417363088132
+03_flink,flink-state-backends,Web Components,0.03422384215727581
+03_flink,flink-state-backends,graphical user interface,0.03431392380385545
+03_flink,flink-state-backends,game engine,0.03469060206466812
+03_flink,flink-state-backends,documentation,0.034953957062996865
+03_flink,flink-state-backends,pattern matching,0.03514858518068442
+03_flink,flink-state-backends,signal processing,0.035164005100326357
+03_flink,flink-state-backends,virtual machine,0.03699586134309918
+03_flink,flink-state-backends,information processing,0.03704172890009161
+03_flink,flink-state-backends,regular expression,0.03954053581328132
+03_flink,flink-state-backends,continuous integration,0.0395777507444679
+03_flink,flink-state-backends,command-line interface,0.0407484849330535
+03_flink,flink-state-backends,unit testing,0.04140221881842754
+03_flink,flink-state-backends,static site generator,0.042674712129255554
+03_flink,flink-state-backends,stream processing,0.04320306574307109
+03_flink,flink-state-backends,artificial intelligence,0.04376916491715477
+03_flink,flink-state-backends,test automation,0.045450288003559436
+03_flink,flink-state-backends,machine learning,0.04629010528858757
+03_flink,flink-state-backends,computational science,0.04712371993482389
+03_flink,flink-state-backends,compiler,0.047987949212317194
+03_flink,flink-state-backends,support vector machine,0.04837401199996283
+03_flink,flink-state-backends,natural language processing,0.048705054888399824
+03_flink,flink-state-backends,code generation,0.049338241138766836
+03_flink,flink-state-backends,microservices,0.05020542956690588
+03_flink,flink-state-backends,web service,0.05043591185030294
+03_flink,flink-state-backends,web application security,0.05081072746949733
+03_flink,flink-state-backends,language model,0.054682303024709666
+03_flink,flink-state-backends,static program analysis,0.056085433909481286
+03_flink,flink-state-backends,computer science,0.05644263011801076
+03_flink,flink-state-backends,web application,0.05667521849083268
+03_flink,flink-state-backends,text processing,0.057916325657262346
+03_flink,flink-state-backends,web development,0.05962247886024441
+03_flink,flink-state-backends,functional programming,0.06529397398746661
+03_flink,flink-state-backends,static program analysis tool,0.06567550739418737
+03_flink,flink-state-backends,software testing,0.06920313297479086
+03_flink,flink-state-backends,package management system,0.06934046607751376
+03_flink,flink-state-backends,software development,0.07348447073206876
+03_flink,flink-state-backends,integrated development environment,0.09126774175414087

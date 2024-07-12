@@ -1,0 +1,80 @@
+project_name,module,domain,diff_sim
+12_shenyu,shenyu-sync-data-center,user interface,0.00016162641696004787
+12_shenyu,shenyu-sync-data-center,benchmark,0.00020428699633245895
+12_shenyu,shenyu-sync-data-center,security,0.0006407725204614634
+12_shenyu,shenyu-sync-data-center,graphical user interface,0.0006627604992456293
+12_shenyu,shenyu-sync-data-center,back end,0.0007591504129033089
+12_shenyu,shenyu-sync-data-center,server,0.0010252521939181358
+12_shenyu,shenyu-sync-data-center,encryption,0.0015680104191660993
+12_shenyu,shenyu-sync-data-center,cloud computing,0.0016169109939764281
+12_shenyu,shenyu-sync-data-center,instant messaging,0.0018100702230166021
+12_shenyu,shenyu-sync-data-center,information retrieval,0.001833895781439332
+12_shenyu,shenyu-sync-data-center,blockchain,0.001945010969557126
+12_shenyu,shenyu-sync-data-center,Kalman filter,0.001983956726064773
+12_shenyu,shenyu-sync-data-center,static site generator,0.002020958316806487
+12_shenyu,shenyu-sync-data-center,logging,0.002068841527981924
+12_shenyu,shenyu-sync-data-center,data,0.002228737901506017
+12_shenyu,shenyu-sync-data-center,internet bot,0.0022319912852620805
+12_shenyu,shenyu-sync-data-center,data visualization,0.002234903502284613
+12_shenyu,shenyu-sync-data-center,web service,0.002244935430180117
+12_shenyu,shenyu-sync-data-center,email,0.0023040557509507176
+12_shenyu,shenyu-sync-data-center,deep learning,0.0023805706668786897
+12_shenyu,shenyu-sync-data-center,package management system,0.0026328890640293645
+12_shenyu,shenyu-sync-data-center,web application security,0.0026445078909714814
+12_shenyu,shenyu-sync-data-center,web application,0.0027877749143077057
+12_shenyu,shenyu-sync-data-center,bitcoin,0.0027995813906073197
+12_shenyu,shenyu-sync-data-center,database,0.002918707333160464
+12_shenyu,shenyu-sync-data-center,data analysis,0.002936918044165515
+12_shenyu,shenyu-sync-data-center,data compression,0.0031138479478868275
+12_shenyu,shenyu-sync-data-center,data mining,0.0033060899106953645
+12_shenyu,shenyu-sync-data-center,algorithm,0.0033383660940983217
+12_shenyu,shenyu-sync-data-center,automation,0.0035596970500347824
+12_shenyu,shenyu-sync-data-center,big data,0.0035938569526896558
+12_shenyu,shenyu-sync-data-center,linear regression,0.003853459098124956
+12_shenyu,shenyu-sync-data-center,e-commerce,0.0039463031941785465
+12_shenyu,shenyu-sync-data-center,client,0.004018056262328873
+12_shenyu,shenyu-sync-data-center,streaming media,0.004234764193998708
+12_shenyu,shenyu-sync-data-center,continuous integration,0.004280323167738631
+12_shenyu,shenyu-sync-data-center,website,0.004392702043539143
+12_shenyu,shenyu-sync-data-center,analytics,0.0045544375862385245
+12_shenyu,shenyu-sync-data-center,command-line interface,0.004801091014252523
+12_shenyu,shenyu-sync-data-center,Web Components,0.005352929102442006
+12_shenyu,shenyu-sync-data-center,software testing,0.005686289955343038
+12_shenyu,shenyu-sync-data-center,content management system,0.005779142264235704
+12_shenyu,shenyu-sync-data-center,regular expression,0.005828207011006725
+12_shenyu,shenyu-sync-data-center,graph database,0.005857430470395886
+12_shenyu,shenyu-sync-data-center,HTTP server,0.005917070467409635
+12_shenyu,shenyu-sync-data-center,HTTP client,0.006492001709148099
+12_shenyu,shenyu-sync-data-center,web scraping,0.006503451262583559
+12_shenyu,shenyu-sync-data-center,text processing,0.006577680512233841
+12_shenyu,shenyu-sync-data-center,data structure,0.0067015237288182705
+12_shenyu,shenyu-sync-data-center,information processing,0.0070494391620489205
+12_shenyu,shenyu-sync-data-center,test automation,0.0071124547545334815
+12_shenyu,shenyu-sync-data-center,serialization,0.007361498147806844
+12_shenyu,shenyu-sync-data-center,code generation,0.007795773902374847
+12_shenyu,shenyu-sync-data-center,web server,0.007839817695759255
+12_shenyu,shenyu-sync-data-center,machine learning,0.007932567583010974
+12_shenyu,shenyu-sync-data-center,password manager,0.008197721840941474
+12_shenyu,shenyu-sync-data-center,data binding,0.00822791684090074
+12_shenyu,shenyu-sync-data-center,game engine,0.008948064887225882
+12_shenyu,shenyu-sync-data-center,telecommunications network,0.009213914445573512
+12_shenyu,shenyu-sync-data-center,anomaly detection,0.009378322598214806
+12_shenyu,shenyu-sync-data-center,microservices,0.009938715529213327
+12_shenyu,shenyu-sync-data-center,language model,0.010144494180111985
+12_shenyu,shenyu-sync-data-center,unit testing,0.010911004878897068
+12_shenyu,shenyu-sync-data-center,File Transfer Protocol,0.011098810665325476
+12_shenyu,shenyu-sync-data-center,file system,0.01129459096922747
+12_shenyu,shenyu-sync-data-center,object detection,0.011472676359703282
+12_shenyu,shenyu-sync-data-center,stream processing,0.011612166455762907
+12_shenyu,shenyu-sync-data-center,computer configuration,0.011648877291602355
+12_shenyu,shenyu-sync-data-center,pattern matching,0.011721377126492238
+12_shenyu,shenyu-sync-data-center,authentication,0.011821217366687842
+12_shenyu,shenyu-sync-data-center,penetration test,0.012115917054642544
+12_shenyu,shenyu-sync-data-center,computer data storage,0.012408268083347607
+12_shenyu,shenyu-sync-data-center,World Wide Web,0.012475353430714486
+12_shenyu,shenyu-sync-data-center,geographic information system,0.012503210485936611
+12_shenyu,shenyu-sync-data-center,validator,0.013374957227487494
+12_shenyu,shenyu-sync-data-center,object–relational mapping,0.013521378497669323
+12_shenyu,shenyu-sync-data-center,synchronization,0.014489610203939796
+12_shenyu,shenyu-sync-data-center,smart contract,0.015156949639659967
+12_shenyu,shenyu-sync-data-center,application performance management,0.01756785942490313

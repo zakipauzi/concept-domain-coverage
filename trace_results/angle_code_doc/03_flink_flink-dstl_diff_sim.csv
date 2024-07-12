@@ -1,0 +1,87 @@
+project_name,module,domain,diff_sim
+03_flink,flink-dstl,unit testing,0.00013938666666668542
+03_flink,flink-dstl,client,0.0020468522222222285
+03_flink,flink-dstl,graph algorithm,0.0029961655555555966
+03_flink,flink-dstl,digital image processing,0.003469283333333406
+03_flink,flink-dstl,distributed computing,0.003618385555555381
+03_flink,flink-dstl,instant messaging,0.0068911266666665805
+03_flink,flink-dstl,algorithm,0.006986155555555595
+03_flink,flink-dstl,computational science,0.007500494444444394
+03_flink,flink-dstl,graph database,0.0087491400000001
+03_flink,flink-dstl,automation,0.009043794444444475
+03_flink,flink-dstl,machine learning,0.009560902222222278
+03_flink,flink-dstl,game server,0.010034942222222232
+03_flink,flink-dstl,digital audio,0.010049588888888905
+03_flink,flink-dstl,static program analysis,0.0108833611111111
+03_flink,flink-dstl,graphical user interface,0.011150052222222095
+03_flink,flink-dstl,information processing,0.011197110000000232
+03_flink,flink-dstl,object detection,0.011990713333333292
+03_flink,flink-dstl,recommender system,0.012534496666666728
+03_flink,flink-dstl,Web Components,0.012651787777777757
+03_flink,flink-dstl,object–relational mapping,0.012735131111111131
+03_flink,flink-dstl,design,0.01338620222222231
+03_flink,flink-dstl,stream processing,0.013760149999999971
+03_flink,flink-dstl,data mining,0.014122153333333276
+03_flink,flink-dstl,application performance management,0.015592481111111223
+03_flink,flink-dstl,cluster analysis,0.015722133333333388
+03_flink,flink-dstl,embedded system,0.015803005555555583
+03_flink,flink-dstl,smart contract,0.016338680000000105
+03_flink,flink-dstl,microservices,0.01694477222222235
+03_flink,flink-dstl,support vector machine,0.017432226666666717
+03_flink,flink-dstl,signal processing,0.017504865555555582
+03_flink,flink-dstl,natural language processing,0.017534463333333306
+03_flink,flink-dstl,test automation,0.018035043333333445
+03_flink,flink-dstl,analytics,0.0182486188888889
+03_flink,flink-dstl,web application,0.018417804444444463
+03_flink,flink-dstl,distributed system,0.020258735555555574
+03_flink,flink-dstl,scheduler,0.021022232222222215
+03_flink,flink-dstl,distributed database,0.02173482111111108
+03_flink,flink-dstl,regular expression,0.02277915222222232
+03_flink,flink-dstl,web service,0.02292229666666673
+03_flink,flink-dstl,operating system,0.0230407233333334
+03_flink,flink-dstl,linear regression,0.02331026777777767
+03_flink,flink-dstl,word embedding,0.023820308888888975
+03_flink,flink-dstl,kernel,0.024517306666666627
+03_flink,flink-dstl,content management system,0.024900341111111113
+03_flink,flink-dstl,server,0.02534183333333334
+03_flink,flink-dstl,package management system,0.027273694444444385
+03_flink,flink-dstl,sorting algorithm,0.02808573444444451
+03_flink,flink-dstl,data analysis,0.029947461111111018
+03_flink,flink-dstl,data structure,0.03238886444444439
+03_flink,flink-dstl,user interface,0.032755807777777646
+03_flink,flink-dstl,distributed multimedia communications platform,0.03299903444444452
+03_flink,flink-dstl,synchronization,0.03407467333333325
+03_flink,flink-dstl,data binding,0.03519072222222219
+03_flink,flink-dstl,software testing,0.035352361111111064
+03_flink,flink-dstl,back end,0.03539314888888889
+03_flink,flink-dstl,data visualization,0.03601461666666672
+03_flink,flink-dstl,big data,0.03653561222222218
+03_flink,flink-dstl,long short-term memory,0.037282424444444406
+03_flink,flink-dstl,cloud computing,0.037640304444444495
+03_flink,flink-dstl,data compression,0.038784937777777695
+03_flink,flink-dstl,computer configuration,0.04057446888888894
+03_flink,flink-dstl,database,0.04206931444444445
+03_flink,flink-dstl,audio signal processing,0.04482048333333333
+03_flink,flink-dstl,website,0.04594461000000011
+03_flink,flink-dstl,web application security,0.04645193111111112
+03_flink,flink-dstl,dependency injection,0.0480127955555556
+03_flink,flink-dstl,logistic regression model,0.051388465555555485
+03_flink,flink-dstl,penetration test,0.051599408888888865
+03_flink,flink-dstl,web scraping,0.05226185222222218
+03_flink,flink-dstl,telecommunications network,0.06013778555555549
+03_flink,flink-dstl,time series,0.06053090333333322
+03_flink,flink-dstl,World Wide Web,0.06245807222222216
+03_flink,flink-dstl,anomaly detection,0.06334475555555563
+03_flink,flink-dstl,data,0.0662260655555556
+03_flink,flink-dstl,game engine,0.06799904555555564
+03_flink,flink-dstl,web server,0.06809631444444447
+03_flink,flink-dstl,security,0.0718120777777777
+03_flink,flink-dstl,streaming media,0.07325824444444451
+03_flink,flink-dstl,serialization,0.07768299777777776
+03_flink,flink-dstl,statistics,0.08157927888888888
+03_flink,flink-dstl,HTTP server,0.08248521333333353
+03_flink,flink-dstl,computer data storage,0.09268631333333333
+03_flink,flink-dstl,digital security,0.09445707000000009
+03_flink,flink-dstl,logging,0.09620592666666677
+03_flink,flink-dstl,file system,0.10658651333333319
+03_flink,flink-dstl,File Transfer Protocol,0.11652628333333337

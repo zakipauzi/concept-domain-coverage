@@ -1,0 +1,167 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-io,test automation,8.66826666666154e-05
+08_pulsar,pulsar-io,support vector machine,0.0007894975555556294
+08_pulsar,pulsar-io,World Wide Web,0.0010937239999999626
+08_pulsar,pulsar-io,classification,0.0012461833333333727
+08_pulsar,pulsar-io,optical character recognition,0.001252511111111132
+08_pulsar,pulsar-io,web server,0.0021038426666666332
+08_pulsar,pulsar-io,web service,0.003198845111111015
+08_pulsar,pulsar-io,regular expression,0.00472380933333344
+08_pulsar,pulsar-io,microservices,0.00497888644444433
+08_pulsar,pulsar-io,continuous integration,0.005342889777777748
+08_pulsar,pulsar-io,image compression,0.005580709111111026
+08_pulsar,pulsar-io,digital audio,0.005951521333333432
+08_pulsar,pulsar-io,game server,0.00659346466666666
+08_pulsar,pulsar-io,object detection,0.007144412222222174
+08_pulsar,pulsar-io,encryption,0.00730089511111115
+08_pulsar,pulsar-io,network security,0.008922379555555526
+08_pulsar,pulsar-io,penetration test,0.009131427999999997
+08_pulsar,pulsar-io,education,0.01002347599999992
+08_pulsar,pulsar-io,telecommunications network,0.010629620222222191
+08_pulsar,pulsar-io,face detection,0.010694023333333302
+08_pulsar,pulsar-io,banking industry,0.010728835777777668
+08_pulsar,pulsar-io,application performance management,0.011260478444444222
+08_pulsar,pulsar-io,front end,0.011288389777777796
+08_pulsar,pulsar-io,hyperparameter optimization,0.011479155777777805
+08_pulsar,pulsar-io,Naive Bayes classifier,0.011705879777777817
+08_pulsar,pulsar-io,recommender system,0.011736113111111113
+08_pulsar,pulsar-io,digital image processing,0.011983321777777722
+08_pulsar,pulsar-io,cloud computing,0.01209387422222219
+08_pulsar,pulsar-io,automated machine learning,0.01266903466666669
+08_pulsar,pulsar-io,random forest,0.012771982666666681
+08_pulsar,pulsar-io,security,0.012911935333333291
+08_pulsar,pulsar-io,computer configuration,0.013846807777777803
+08_pulsar,pulsar-io,email,0.01418989911111107
+08_pulsar,pulsar-io,"extract, transform, load",0.014365969333333228
+08_pulsar,pulsar-io,static program analysis,0.014596434444444362
+08_pulsar,pulsar-io,language model,0.014806254000000019
+08_pulsar,pulsar-io,authentication,0.0151628115555556
+08_pulsar,pulsar-io,machine learning,0.01545152955555551
+08_pulsar,pulsar-io,electronic trading platform,0.015974555333333473
+08_pulsar,pulsar-io,smart contract,0.016166914888888773
+08_pulsar,pulsar-io,Semantic Web,0.016864230444444406
+08_pulsar,pulsar-io,content management system,0.01702447888888886
+08_pulsar,pulsar-io,bitcoin,0.017748498444444427
+08_pulsar,pulsar-io,File Transfer Protocol,0.018415264888889005
+08_pulsar,pulsar-io,image recognition,0.018659616888888786
+08_pulsar,pulsar-io,reinforcement learning,0.01869134533333333
+08_pulsar,pulsar-io,e-commerce,0.018732047777777816
+08_pulsar,pulsar-io,distributed multimedia communications platform,0.019180653333333297
+08_pulsar,pulsar-io,web crawler,0.01942850444444455
+08_pulsar,pulsar-io,embedded system,0.019639537777777716
+08_pulsar,pulsar-io,artificial intelligence,0.019664779777777808
+08_pulsar,pulsar-io,benchmark,0.0201606746666666
+08_pulsar,pulsar-io,HTTP server,0.021181333555555737
+08_pulsar,pulsar-io,geographic information system,0.021810459777777735
+08_pulsar,pulsar-io,stock market,0.021849389111111117
+08_pulsar,pulsar-io,web scraping,0.021931475333333283
+08_pulsar,pulsar-io,cryptocurrency,0.02380168111111114
+08_pulsar,pulsar-io,blockchain,0.02386119133333331
+08_pulsar,pulsar-io,internet of things,0.023904999333333288
+08_pulsar,pulsar-io,data mining,0.024332571999999997
+08_pulsar,pulsar-io,server,0.024566477333333392
+08_pulsar,pulsar-io,Containerization,0.025194356444444344
+08_pulsar,pulsar-io,web browser engine,0.025484488222222157
+08_pulsar,pulsar-io,algorithm,0.025565715777777664
+08_pulsar,pulsar-io,shell tool,0.0256548866666666
+08_pulsar,pulsar-io,search,0.025849860222222076
+08_pulsar,pulsar-io,validator,0.026206721111110998
+08_pulsar,pulsar-io,file system,0.026637785333333275
+08_pulsar,pulsar-io,serialization,0.026724106888888932
+08_pulsar,pulsar-io,password manager,0.026843976444444417
+08_pulsar,pulsar-io,documentation,0.02703064177777781
+08_pulsar,pulsar-io,data analysis,0.028113206
+08_pulsar,pulsar-io,WebSocket,0.028113551111111135
+08_pulsar,pulsar-io,static site generator,0.0282066608888889
+08_pulsar,pulsar-io,data visualization,0.028912993111111118
+08_pulsar,pulsar-io,translation,0.02941426777777778
+08_pulsar,pulsar-io,logging,0.030097425111111187
+08_pulsar,pulsar-io,website,0.03141708222222234
+08_pulsar,pulsar-io,graph algorithm,0.03146991066666671
+08_pulsar,pulsar-io,digital security,0.03163113377777771
+08_pulsar,pulsar-io,middleware,0.03189590888888899
+08_pulsar,pulsar-io,facial recognition system,0.03288284866666663
+08_pulsar,pulsar-io,data binding,0.033518261999999965
+08_pulsar,pulsar-io,linear regression,0.0340965342222222
+08_pulsar,pulsar-io,database management,0.03416859822222218
+08_pulsar,pulsar-io,knowledge graph,0.03429082244444448
+08_pulsar,pulsar-io,signal processing,0.035210846444444444
+08_pulsar,pulsar-io,internet bot,0.035252585555555604
+08_pulsar,pulsar-io,word embedding,0.035515643555555476
+08_pulsar,pulsar-io,analytics,0.036024265999999916
+08_pulsar,pulsar-io,schema migration,0.036704548888888855
+08_pulsar,pulsar-io,graph database,0.037173696888888996
+08_pulsar,pulsar-io,backup,0.03718652155555546
+08_pulsar,pulsar-io,distributed computing,0.03914919755555574
+08_pulsar,pulsar-io,network analysis,0.03970055555555552
+08_pulsar,pulsar-io,automation,0.04011511177777777
+08_pulsar,pulsar-io,deep learning,0.0407969184444445
+08_pulsar,pulsar-io,static program analysis tool,0.04157478466666664
+08_pulsar,pulsar-io,data science,0.04160851755555561
+08_pulsar,pulsar-io,code generation,0.042328063111111036
+08_pulsar,pulsar-io,distributed system,0.042514166888888816
+08_pulsar,pulsar-io,game engine,0.04256127377777785
+08_pulsar,pulsar-io,malware,0.04259008822222227
+08_pulsar,pulsar-io,database,0.04279178511111115
+08_pulsar,pulsar-io,Malware Analysis,0.04314276200000006
+08_pulsar,pulsar-io,scheduler,0.04491459088888888
+08_pulsar,pulsar-io,sentiment analysis,0.04502306999999989
+08_pulsar,pulsar-io,command-line interface,0.04545463133333344
+08_pulsar,pulsar-io,streaming media,0.04602118177777781
+08_pulsar,pulsar-io,social network,0.046658175999999996
+08_pulsar,pulsar-io,artificial neural network,0.04717118955555538
+08_pulsar,pulsar-io,time series,0.04717168733333338
+08_pulsar,pulsar-io,audio signal processing,0.0472933837777777
+08_pulsar,pulsar-io,DevOps,0.04739618000000001
+08_pulsar,pulsar-io,design,0.047789471777777925
+08_pulsar,pulsar-io,user interface,0.04862557088888908
+08_pulsar,pulsar-io,computer vision,0.04967447777777778
+08_pulsar,pulsar-io,network monitoring,0.0500933484444443
+08_pulsar,pulsar-io,instant messaging,0.050285053999999885
+08_pulsar,pulsar-io,back end,0.05138690044444444
+08_pulsar,pulsar-io,object–relational mapping,0.05195445400000004
+08_pulsar,pulsar-io,syntax highlighting,0.05225662066666659
+08_pulsar,pulsar-io,text classification,0.0550766488888888
+08_pulsar,pulsar-io,algorithmic trading,0.057230230666666715
+08_pulsar,pulsar-io,data,0.05725973044444432
+08_pulsar,pulsar-io,information retrieval,0.05785762444444442
+08_pulsar,pulsar-io,cluster analysis,0.05837723311111109
+08_pulsar,pulsar-io,unit testing,0.058866884666666675
+08_pulsar,pulsar-io,deep neural network,0.05923791844444448
+08_pulsar,pulsar-io,pattern matching,0.05994370311111108
+08_pulsar,pulsar-io,synchronization,0.06052749155555559
+08_pulsar,pulsar-io,Parser combinator,0.06100421155555569
+08_pulsar,pulsar-io,Bayesian inference,0.061138423777777784
+08_pulsar,pulsar-io,convolutional neural network,0.06135889844444453
+08_pulsar,pulsar-io,virtual machine,0.06174764066666666
+08_pulsar,pulsar-io,natural language processing,0.06472704066666662
+08_pulsar,pulsar-io,data compression,0.0650646795555555
+08_pulsar,pulsar-io,computer programming,0.06776901222222231
+08_pulsar,pulsar-io,text mining,0.06815704133333333
+08_pulsar,pulsar-io,distributed database,0.0685694699999998
+08_pulsar,pulsar-io,question answering,0.06907676222222231
+08_pulsar,pulsar-io,sorting algorithm,0.0694778511111111
+08_pulsar,pulsar-io,web application security,0.07086025911111116
+08_pulsar,pulsar-io,computer data storage,0.07151312288888889
+08_pulsar,pulsar-io,web application,0.07189075799999994
+08_pulsar,pulsar-io,data structure,0.07470830755555569
+08_pulsar,pulsar-io,Web Components,0.07630631222222212
+08_pulsar,pulsar-io,big data,0.07760350044444442
+08_pulsar,pulsar-io,information extraction,0.08066365288888899
+08_pulsar,pulsar-io,text processing,0.08242995377777784
+08_pulsar,pulsar-io,graphical user interface,0.08427311955555555
+08_pulsar,pulsar-io,compiler,0.08581396377777784
+08_pulsar,pulsar-io,operating system,0.08866727355555559
+08_pulsar,pulsar-io,dependency injection,0.08971382222222224
+08_pulsar,pulsar-io,package management system,0.09032479822222217
+08_pulsar,pulsar-io,mobile application development,0.09084614444444439
+08_pulsar,pulsar-io,long short-term memory,0.0915149371111112
+08_pulsar,pulsar-io,HTTP client,0.09159378844444432
+08_pulsar,pulsar-io,software engineering,0.09230929399999988
+08_pulsar,pulsar-io,information processing,0.10481046622222223
+08_pulsar,pulsar-io,3D modeling,0.1049158128888889
+08_pulsar,pulsar-io,web development,0.1233576053333334
+08_pulsar,pulsar-io,stream processing,0.1273339597777779
+08_pulsar,pulsar-io,software testing,0.1275035917777778
+08_pulsar,pulsar-io,client,0.1309461208888889
+08_pulsar,pulsar-io,software development,0.15431785022222233

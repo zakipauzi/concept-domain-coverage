@@ -1,0 +1,144 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-broker-common,web service,0.00017535069444452045
+08_pulsar,pulsar-broker-common,search,0.0004106672222221608
+08_pulsar,pulsar-broker-common,translation,0.0007548755555555897
+08_pulsar,pulsar-broker-common,signal processing,0.0009389683333334009
+08_pulsar,pulsar-broker-common,recommender system,0.0012010911111111078
+08_pulsar,pulsar-broker-common,reactive programming,0.001390140833333442
+08_pulsar,pulsar-broker-common,malware,0.0014097141666666868
+08_pulsar,pulsar-broker-common,optical character recognition,0.0016235629166667098
+08_pulsar,pulsar-broker-common,statistics,0.0018327723611111235
+08_pulsar,pulsar-broker-common,game engine,0.0018810041666667
+08_pulsar,pulsar-broker-common,HTTP server,0.00218440694444455
+08_pulsar,pulsar-broker-common,web application,0.0022506413888888632
+08_pulsar,pulsar-broker-common,Web Components,0.002293998472222225
+08_pulsar,pulsar-broker-common,web development,0.002319829722222222
+08_pulsar,pulsar-broker-common,logging,0.0023576272222222694
+08_pulsar,pulsar-broker-common,graphical user interface,0.0025840134722221464
+08_pulsar,pulsar-broker-common,question answering,0.00268449138888871
+08_pulsar,pulsar-broker-common,client,0.0029508173611110244
+08_pulsar,pulsar-broker-common,anomaly detection,0.0033545540277777897
+08_pulsar,pulsar-broker-common,serialization,0.0035166461111111325
+08_pulsar,pulsar-broker-common,pattern matching,0.0035607690277777992
+08_pulsar,pulsar-broker-common,data binding,0.0036685934722223146
+08_pulsar,pulsar-broker-common,face detection,0.003987810972222283
+08_pulsar,pulsar-broker-common,web browser,0.00438054055555559
+08_pulsar,pulsar-broker-common,user interface,0.004407685833333175
+08_pulsar,pulsar-broker-common,natural language,0.004478657638888828
+08_pulsar,pulsar-broker-common,Parser combinator,0.004486050416666665
+08_pulsar,pulsar-broker-common,software testing,0.004555667083333326
+08_pulsar,pulsar-broker-common,test automation,0.004566083750000005
+08_pulsar,pulsar-broker-common,linear regression,0.004644619999999933
+08_pulsar,pulsar-broker-common,command-line interface,0.00477124791666661
+08_pulsar,pulsar-broker-common,audio signal processing,0.0061997423611110936
+08_pulsar,pulsar-broker-common,video,0.006335479444444403
+08_pulsar,pulsar-broker-common,information extraction,0.006589210555555558
+08_pulsar,pulsar-broker-common,dependency injection,0.0066430587500000415
+08_pulsar,pulsar-broker-common,telecommunications network,0.006785323472222271
+08_pulsar,pulsar-broker-common,static site generator,0.0069275220833332485
+08_pulsar,pulsar-broker-common,website,0.007141243472222225
+08_pulsar,pulsar-broker-common,support vector machine,0.007385430694444417
+08_pulsar,pulsar-broker-common,automation,0.0084439461111111
+08_pulsar,pulsar-broker-common,banking industry,0.008527754305555524
+08_pulsar,pulsar-broker-common,encryption,0.008558675694444351
+08_pulsar,pulsar-broker-common,text classification,0.008625834861111181
+08_pulsar,pulsar-broker-common,documentation,0.008800643750000003
+08_pulsar,pulsar-broker-common,Malware Analysis,0.0089048273611112
+08_pulsar,pulsar-broker-common,shell tool,0.009492237499999834
+08_pulsar,pulsar-broker-common,network security,0.009632462499999994
+08_pulsar,pulsar-broker-common,design,0.009632722638888813
+08_pulsar,pulsar-broker-common,object detection,0.01002575527777777
+08_pulsar,pulsar-broker-common,network analysis,0.010437515277777809
+08_pulsar,pulsar-broker-common,compiler,0.01054809291666664
+08_pulsar,pulsar-broker-common,scheduler,0.010605182916666567
+08_pulsar,pulsar-broker-common,geographic information system,0.010706880833333376
+08_pulsar,pulsar-broker-common,game server,0.010799280555555457
+08_pulsar,pulsar-broker-common,unit testing,0.010834237777777811
+08_pulsar,pulsar-broker-common,static program analysis,0.010971770138888837
+08_pulsar,pulsar-broker-common,text processing,0.011052222361111086
+08_pulsar,pulsar-broker-common,security,0.011514068055555549
+08_pulsar,pulsar-broker-common,internet of things,0.01178532583333336
+08_pulsar,pulsar-broker-common,code generation,0.012085809027777783
+08_pulsar,pulsar-broker-common,facial recognition system,0.01210932791666669
+08_pulsar,pulsar-broker-common,web crawler,0.012869209027777773
+08_pulsar,pulsar-broker-common,password manager,0.01328716208333336
+08_pulsar,pulsar-broker-common,digital audio,0.013434923194444504
+08_pulsar,pulsar-broker-common,image recognition,0.013532959305555592
+08_pulsar,pulsar-broker-common,web scraping,0.013560373333333431
+08_pulsar,pulsar-broker-common,email,0.014042853611111183
+08_pulsar,pulsar-broker-common,internet bot,0.014112190416666615
+08_pulsar,pulsar-broker-common,"extract, transform, load",0.014138562916666597
+08_pulsar,pulsar-broker-common,HTTP client,0.014543057638888968
+08_pulsar,pulsar-broker-common,machine learning,0.014748859861111185
+08_pulsar,pulsar-broker-common,back end,0.014951318472222308
+08_pulsar,pulsar-broker-common,cryptography,0.01557278833333331
+08_pulsar,pulsar-broker-common,data analysis,0.01572824249999999
+08_pulsar,pulsar-broker-common,web application security,0.01572969000000002
+08_pulsar,pulsar-broker-common,analytics,0.017182268055555394
+08_pulsar,pulsar-broker-common,penetration test,0.017706715694444486
+08_pulsar,pulsar-broker-common,machine translation,0.01804813430555563
+08_pulsar,pulsar-broker-common,language model,0.018154841527777743
+08_pulsar,pulsar-broker-common,smart contract,0.0183330080555556
+08_pulsar,pulsar-broker-common,streaming media,0.01863261000000005
+08_pulsar,pulsar-broker-common,natural language processing,0.019071004166666683
+08_pulsar,pulsar-broker-common,computer vision,0.0197297658333333
+08_pulsar,pulsar-broker-common,digital security,0.0197625294444444
+08_pulsar,pulsar-broker-common,kernel,0.019928703611111098
+08_pulsar,pulsar-broker-common,mobile application development,0.02006329166666665
+08_pulsar,pulsar-broker-common,instant messaging,0.02034206833333324
+08_pulsar,pulsar-broker-common,information processing,0.020397924583333282
+08_pulsar,pulsar-broker-common,artificial neural network,0.02054868625000006
+08_pulsar,pulsar-broker-common,digital image processing,0.020736027638888932
+08_pulsar,pulsar-broker-common,data mining,0.02090490722222227
+08_pulsar,pulsar-broker-common,audio player software,0.021084269861111005
+08_pulsar,pulsar-broker-common,stream processing,0.022437416249999897
+08_pulsar,pulsar-broker-common,cluster analysis,0.0226610441666667
+08_pulsar,pulsar-broker-common,video processing,0.02311380291666676
+08_pulsar,pulsar-broker-common,web browser engine,0.023480248888889
+08_pulsar,pulsar-broker-common,World Wide Web,0.023670370416666753
+08_pulsar,pulsar-broker-common,time series,0.02410047958333339
+08_pulsar,pulsar-broker-common,regular expression,0.02460303944444442
+08_pulsar,pulsar-broker-common,neural machine translation,0.025154705972222247
+08_pulsar,pulsar-broker-common,image compression,0.02516438972222218
+08_pulsar,pulsar-broker-common,embedded system,0.02600888430555559
+08_pulsar,pulsar-broker-common,validator,0.026896841111111125
+08_pulsar,pulsar-broker-common,database,0.026956739027777787
+08_pulsar,pulsar-broker-common,WebSocket,0.027266083472222202
+08_pulsar,pulsar-broker-common,server,0.02769091777777788
+08_pulsar,pulsar-broker-common,word embedding,0.02771144361111111
+08_pulsar,pulsar-broker-common,middleware,0.027839429305555496
+08_pulsar,pulsar-broker-common,deep neural network,0.02804846402777783
+08_pulsar,pulsar-broker-common,blockchain,0.028049289027777757
+08_pulsar,pulsar-broker-common,synchronization,0.02811729958333342
+08_pulsar,pulsar-broker-common,microservices,0.029166537361110967
+08_pulsar,pulsar-broker-common,distributed multimedia communications platform,0.030090714722222245
+08_pulsar,pulsar-broker-common,data visualization,0.03050865138888892
+08_pulsar,pulsar-broker-common,data compression,0.0305293977777778
+08_pulsar,pulsar-broker-common,operating system,0.030588986666666707
+08_pulsar,pulsar-broker-common,backup,0.030876981388888836
+08_pulsar,pulsar-broker-common,data,0.03089637763888886
+08_pulsar,pulsar-broker-common,web server,0.030912476388888943
+08_pulsar,pulsar-broker-common,network monitoring,0.0313748976388889
+08_pulsar,pulsar-broker-common,File Transfer Protocol,0.033382685416666724
+08_pulsar,pulsar-broker-common,object–relational mapping,0.03350815875000002
+08_pulsar,pulsar-broker-common,content management system,0.03364832916666671
+08_pulsar,pulsar-broker-common,Semantic Web,0.03393455208333335
+08_pulsar,pulsar-broker-common,data structure,0.0347595723611111
+08_pulsar,pulsar-broker-common,graph database,0.03840089972222227
+08_pulsar,pulsar-broker-common,DevOps,0.03921349361111104
+08_pulsar,pulsar-broker-common,application performance management,0.03940068680555553
+08_pulsar,pulsar-broker-common,long short-term memory,0.039707833194444486
+08_pulsar,pulsar-broker-common,package management system,0.04337188930555558
+08_pulsar,pulsar-broker-common,schema migration,0.04554661986111119
+08_pulsar,pulsar-broker-common,big data,0.04862041263888889
+08_pulsar,pulsar-broker-common,cloud computing,0.049274409166666644
+08_pulsar,pulsar-broker-common,benchmark,0.0494373215277778
+08_pulsar,pulsar-broker-common,authentication,0.05246241583333322
+08_pulsar,pulsar-broker-common,Containerization,0.05321696444444446
+08_pulsar,pulsar-broker-common,computer configuration,0.055244346944444356
+08_pulsar,pulsar-broker-common,continuous integration,0.055303319305555654
+08_pulsar,pulsar-broker-common,distributed system,0.05602031055555545
+08_pulsar,pulsar-broker-common,distributed computing,0.05662860847222212
+08_pulsar,pulsar-broker-common,distributed database,0.06897737472222237
+08_pulsar,pulsar-broker-common,computer data storage,0.0697384695833334
+08_pulsar,pulsar-broker-common,file system,0.06994297583333325

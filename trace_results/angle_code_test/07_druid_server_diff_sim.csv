@@ -1,0 +1,178 @@
+project_name,module,domain,diff_sim
+07_druid,server,virtualization,7.507083333357922e-06
+07_druid,server,facial recognition system,0.00020022097222227586
+07_druid,server,data,0.0003230890277776677
+07_druid,server,web browser,0.00035927763888904396
+07_druid,server,rendering,0.0005837740277778725
+07_druid,server,distributed database,0.0006181319444444888
+07_druid,server,augmented reality,0.0006211358333333417
+07_druid,server,database,0.0007126547222220392
+07_druid,server,serverless computing,0.0007834626388889543
+07_druid,server,dependency injection,0.0010008515277778463
+07_druid,server,code generation,0.0011588415277776765
+07_druid,server,cryptography,0.0016630719444445385
+07_druid,server,natural language,0.0016784268055554663
+07_druid,server,distributed computing,0.0017030472222220316
+07_druid,server,geographic information system,0.0018242612500000144
+07_druid,server,virtual machine,0.001998475972222191
+07_druid,server,internet of things,0.00211422
+07_druid,server,network monitoring,0.0021306947222221595
+07_druid,server,internet bot,0.002174471388888821
+07_druid,server,password manager,0.002194612777777716
+07_druid,server,operating system,0.002280914166666592
+07_druid,server,distributed multimedia communications platform,0.002291359444444585
+07_druid,server,validator,0.002355559027777787
+07_druid,server,parsing,0.002372163472222133
+07_druid,server,banking industry,0.002512512777777809
+07_druid,server,blockchain,0.002513870833333376
+07_druid,server,continuous integration,0.002515538611110979
+07_druid,server,synchronization,0.002557900416666703
+07_druid,server,information processing,0.0030546601388889982
+07_druid,server,database management,0.003299572777777815
+07_druid,server,middleware,0.0033285730555556725
+07_druid,server,automation,0.003383411666666669
+07_druid,server,data structure,0.003435404583333468
+07_druid,server,recommender system,0.0035342937499999727
+07_druid,server,documentation,0.0035448381944445106
+07_druid,server,graphical user interface,0.003907389305555675
+07_druid,server,logging,0.004224518333333205
+07_druid,server,regular expression,0.004381109861111121
+07_druid,server,serialization,0.0043997786111110715
+07_druid,server,search,0.004527305416666683
+07_druid,server,translation,0.0046066966666666875
+07_druid,server,Semantic Web,0.004937801666666741
+07_druid,server,"extract, transform, load",0.004964883194444547
+07_druid,server,speech synthesis,0.004989809861111194
+07_druid,server,software development,0.005021455694444565
+07_druid,server,mobile application development,0.0051008684722222974
+07_druid,server,distributed system,0.005254255277777786
+07_druid,server,smart contract,0.00529793291666647
+07_druid,server,package management system,0.005665056388888812
+07_druid,server,finance,0.005923358749999996
+07_druid,server,3D modeling,0.006007391666666695
+07_druid,server,command-line interface,0.006025020555555538
+07_druid,server,Containerization,0.006298439444444637
+07_druid,server,compiler,0.006388864583333431
+07_druid,server,optical character recognition,0.006523493472222197
+07_druid,server,lexical analysis,0.00664909777777789
+07_druid,server,question answering,0.006910368611111162
+07_druid,server,classification,0.007179764999999894
+07_druid,server,interpreter,0.007185169583333262
+07_druid,server,text processing,0.007291104166666618
+07_druid,server,client,0.008109594444444368
+07_druid,server,animation,0.00851991513888889
+07_druid,server,functional programming,0.008639634722222178
+07_druid,server,sentiment analysis,0.009074819861111139
+07_druid,server,game server,0.009498357083333242
+07_druid,server,network analysis,0.009753230277777747
+07_druid,server,sorting algorithm,0.010190925000000017
+07_druid,server,object–relational mapping,0.010257876388888976
+07_druid,server,router,0.01030501097222225
+07_druid,server,data visualization,0.010371953888889007
+07_druid,server,Parser combinator,0.010468777916666783
+07_druid,server,streaming media,0.010637626666666733
+07_druid,server,artificial intelligence,0.010643258194444505
+07_druid,server,user interface,0.01072756569444444
+07_druid,server,web browser engine,0.010756654583333303
+07_druid,server,artificial neural network,0.010883547777777725
+07_druid,server,Kalman filter,0.010885787638888922
+07_druid,server,support vector machine,0.010887808888888961
+07_druid,server,mathematical finance,0.011040308333333304
+07_druid,server,website,0.011066395555555497
+07_druid,server,linear regression,0.01122662791666662
+07_druid,server,web application security,0.011297456944444395
+07_druid,server,text classification,0.011304955555555607
+07_druid,server,language model,0.011384191388888909
+07_druid,server,natural language processing,0.011429882777777789
+07_druid,server,web scraping,0.0115052536111111
+07_druid,server,debugger,0.011683709861111113
+07_druid,server,HTTP client,0.011715890416666652
+07_druid,server,penetration test,0.01199466694444462
+07_druid,server,shell tool,0.012008934722222198
+07_druid,server,data compression,0.01201399055555552
+07_druid,server,HTTP server,0.012321063750000083
+07_druid,server,application performance management,0.012394257916666485
+07_druid,server,security,0.012405881944444364
+07_druid,server,face detection,0.012433594861111119
+07_druid,server,content management system,0.012464398194444448
+07_druid,server,computer configuration,0.012506731111111058
+07_druid,server,schema migration,0.012796637916666742
+07_druid,server,stream processing,0.013003361944444403
+07_druid,server,World Wide Web,0.013158258750000096
+07_druid,server,e-commerce,0.013168242916666684
+07_druid,server,microservices,0.013224866111111067
+07_druid,server,malware,0.013238057777777812
+07_druid,server,web application,0.013266516666666728
+07_druid,server,cloud computing,0.013278212916666698
+07_druid,server,instant messaging,0.013288244722222176
+07_druid,server,graph database,0.013288301250000079
+07_druid,server,continuous delivery,0.013506575833333256
+07_druid,server,front end,0.013556532777777686
+07_druid,server,object-oriented programming,0.014136518611111093
+07_druid,server,Q-learning,0.014167964444444514
+07_druid,server,information extraction,0.014213069444444393
+07_druid,server,data binding,0.014541776388888872
+07_druid,server,file system,0.014659803333333443
+07_druid,server,graph algorithm,0.01472087486111101
+07_druid,server,search engine,0.014897881388888812
+07_druid,server,logistic regression model,0.015266834305555699
+07_druid,server,cluster analysis,0.01528857625000013
+07_druid,server,image segmentation,0.015388255555555619
+07_druid,server,telecommunications network,0.015549828194444393
+07_druid,server,unit testing,0.015840255277777715
+07_druid,server,reactive programming,0.01586675486111111
+07_druid,server,electronic trading platform,0.016181710972222263
+07_druid,server,encryption,0.01639650777777779
+07_druid,server,backup,0.016641711111111235
+07_druid,server,image recognition,0.016788347777777823
+07_druid,server,embedded system,0.017202331944444538
+07_druid,server,web service,0.01734825194444445
+07_druid,server,web crawler,0.017396120694444406
+07_druid,server,software testing,0.017411548055555504
+07_druid,server,plot,0.01765797041666667
+07_druid,server,test automation,0.017843336111111108
+07_druid,server,image compression,0.018213424861111105
+07_druid,server,File Transfer Protocol,0.018448060138889
+07_druid,server,computer data storage,0.018527777222222208
+07_druid,server,server,0.018660382083333316
+07_druid,server,regression analysis,0.018667287222222273
+07_druid,server,data analysis,0.018886478611111035
+07_druid,server,Web Components,0.018951221527777617
+07_druid,server,pattern matching,0.01901423499999988
+07_druid,server,static site generator,0.01921555597222213
+07_druid,server,audio signal processing,0.019235191944444507
+07_druid,server,digital security,0.0192664848611111
+07_druid,server,web server,0.01930188402777766
+07_druid,server,statistics,0.01930714444444437
+07_druid,server,big data,0.019496029583333296
+07_druid,server,static program analysis,0.019601781250000005
+07_druid,server,recurrent neural network,0.019699725694444337
+07_druid,server,scheduler,0.01978938652777784
+07_druid,server,authentication,0.01983220777777772
+07_druid,server,Image analysis,0.01987108986111108
+07_druid,server,deep learning,0.020066099027777784
+07_druid,server,data science,0.020173832083333287
+07_druid,server,computational science,0.020177084305555537
+07_druid,server,real-time computing,0.020573328750000064
+07_druid,server,reinforcement learning,0.02061018819444449
+07_druid,server,network security,0.020776538888888862
+07_druid,server,back end,0.020848616388888908
+07_druid,server,long short-term memory,0.02156458763888891
+07_druid,server,Bayesian inference,0.0215735306944444
+07_druid,server,continuous deployment,0.022558297083333345
+07_druid,server,game engine,0.022769697500000075
+07_druid,server,data mining,0.02279315638888879
+07_druid,server,WebSocket,0.022851992083333328
+07_druid,server,static program analysis tool,0.022971217638888874
+07_druid,server,Malware Analysis,0.02300442055555557
+07_druid,server,algorithm,0.023321653055555502
+07_druid,server,convolutional neural network,0.023622847083333343
+07_druid,server,anomaly detection,0.02425007180555555
+07_druid,server,time series,0.024432770555555483
+07_druid,server,signal processing,0.025259909444444506
+07_druid,server,analytics,0.025430656666666662
+07_druid,server,video processing,0.027032997222222244
+07_druid,server,object detection,0.028381276527777832
+07_druid,server,kernel,0.028422532777777787
+07_druid,server,machine learning,0.029332049027777696
+07_druid,server,benchmark,0.039908166944444545

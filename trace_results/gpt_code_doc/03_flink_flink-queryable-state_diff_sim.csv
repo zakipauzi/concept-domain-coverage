@@ -1,0 +1,106 @@
+project_name,module,domain,diff_sim
+03_flink,flink-queryable-state,instant messaging,0.0008449489383604014
+03_flink,flink-queryable-state,network analysis,0.0013500776551316207
+03_flink,flink-queryable-state,middleware,0.001374649458894317
+03_flink,flink-queryable-state,distributed database,0.0020015638736669006
+03_flink,flink-queryable-state,security,0.002135212652019325
+03_flink,flink-queryable-state,data,0.002324265149333482
+03_flink,flink-queryable-state,long short-term memory,0.002615208022668125
+03_flink,flink-queryable-state,digital security,0.0027190570878974363
+03_flink,flink-queryable-state,computer data storage,0.0035671750573217365
+03_flink,flink-queryable-state,website,0.0037290917793306733
+03_flink,flink-queryable-state,streaming media,0.0039317613375345895
+03_flink,flink-queryable-state,social network,0.004001209139511963
+03_flink,flink-queryable-state,penetration test,0.004104663799812669
+03_flink,flink-queryable-state,internet bot,0.00517352278896821
+03_flink,flink-queryable-state,distributed system,0.005304187508584413
+03_flink,flink-queryable-state,game server,0.005308267374952047
+03_flink,flink-queryable-state,virtual reality,0.005390954422265448
+03_flink,flink-queryable-state,data structure,0.0055063019121232015
+03_flink,flink-queryable-state,distributed computing,0.005931112083963019
+03_flink,flink-queryable-state,World Wide Web,0.006942653559763756
+03_flink,flink-queryable-state,database,0.007001200214068692
+03_flink,flink-queryable-state,data compression,0.007236764709312116
+03_flink,flink-queryable-state,file system,0.00744151911390456
+03_flink,flink-queryable-state,data binding,0.007520691312703165
+03_flink,flink-queryable-state,object detection,0.008803699229024908
+03_flink,flink-queryable-state,facial recognition system,0.008977685612899466
+03_flink,flink-queryable-state,embedded system,0.009869465153789947
+03_flink,flink-queryable-state,object–relational mapping,0.010174025278571142
+03_flink,flink-queryable-state,deep neural network,0.010226753643153619
+03_flink,flink-queryable-state,serialization,0.010314385763335987
+03_flink,flink-queryable-state,face detection,0.010644892539811823
+03_flink,flink-queryable-state,web server,0.011340099356891176
+03_flink,flink-queryable-state,benchmark,0.011442352304407488
+03_flink,flink-queryable-state,web service,0.011855606753784387
+03_flink,flink-queryable-state,web crawler,0.01200612102554277
+03_flink,flink-queryable-state,big data,0.01216375648327006
+03_flink,flink-queryable-state,distributed multimedia communications platform,0.012463076203217183
+03_flink,flink-queryable-state,recommender system,0.012487920952478526
+03_flink,flink-queryable-state,backup,0.012564700026181597
+03_flink,flink-queryable-state,time series,0.013003977078682949
+03_flink,flink-queryable-state,synchronization,0.013030617648265963
+03_flink,flink-queryable-state,back end,0.013624239490088397
+03_flink,flink-queryable-state,Web Components,0.013941618078996743
+03_flink,flink-queryable-state,signal processing,0.014224171719233958
+03_flink,flink-queryable-state,smart contract,0.014355221011806973
+03_flink,flink-queryable-state,cloud computing,0.014460990814203267
+03_flink,flink-queryable-state,word embedding,0.014487061860364081
+03_flink,flink-queryable-state,digital audio,0.015175059825615178
+03_flink,flink-queryable-state,content management system,0.015928750930487623
+03_flink,flink-queryable-state,logging,0.016471972222651177
+03_flink,flink-queryable-state,network security,0.01666654471504514
+03_flink,flink-queryable-state,server,0.01734736798630021
+03_flink,flink-queryable-state,kernel,0.017676993066017332
+03_flink,flink-queryable-state,classification,0.01796321766299591
+03_flink,flink-queryable-state,client,0.018296001503575576
+03_flink,flink-queryable-state,network monitoring,0.019047298692382975
+03_flink,flink-queryable-state,user interface,0.020371345431624888
+03_flink,flink-queryable-state,computer configuration,0.02064406211691583
+03_flink,flink-queryable-state,artificial neural network,0.021787516334133006
+03_flink,flink-queryable-state,information processing,0.02179858206756624
+03_flink,flink-queryable-state,microservices,0.021799343024281437
+03_flink,flink-queryable-state,image recognition,0.022348179354475972
+03_flink,flink-queryable-state,operating system,0.02293681023875138
+03_flink,flink-queryable-state,blockchain,0.023267900719894263
+03_flink,flink-queryable-state,File Transfer Protocol,0.02347975438612626
+03_flink,flink-queryable-state,dependency injection,0.024034792660651227
+03_flink,flink-queryable-state,design,0.024228210767167968
+03_flink,flink-queryable-state,HTTP client,0.02473958530015752
+03_flink,flink-queryable-state,web application,0.025043495728166887
+03_flink,flink-queryable-state,automation,0.025243567263167788
+03_flink,flink-queryable-state,audio signal processing,0.025693958953675322
+03_flink,flink-queryable-state,web application security,0.025700535445653427
+03_flink,flink-queryable-state,telecommunications network,0.026947235327162145
+03_flink,flink-queryable-state,application performance management,0.02745457625864811
+03_flink,flink-queryable-state,linear regression,0.027877056436643177
+03_flink,flink-queryable-state,stream processing,0.027969365640875155
+03_flink,flink-queryable-state,WebSocket,0.02867167957861938
+03_flink,flink-queryable-state,computer vision,0.02907796469297097
+03_flink,flink-queryable-state,pattern matching,0.029760038773455233
+03_flink,flink-queryable-state,cluster analysis,0.03006877535504071
+03_flink,flink-queryable-state,HTTP server,0.030217636381049906
+03_flink,flink-queryable-state,virtual machine,0.032167948711039784
+03_flink,flink-queryable-state,regression analysis,0.033401472564529855
+03_flink,flink-queryable-state,regular expression,0.03364422513297238
+03_flink,flink-queryable-state,unit testing,0.03418075697532197
+03_flink,flink-queryable-state,data analysis,0.03454117924320088
+03_flink,flink-queryable-state,continuous integration,0.035055443000325925
+03_flink,flink-queryable-state,graphical user interface,0.035544695598867304
+03_flink,flink-queryable-state,artificial intelligence,0.03605844078793319
+03_flink,flink-queryable-state,analytics,0.0378527134696498
+03_flink,flink-queryable-state,digital image processing,0.03821457282642382
+03_flink,flink-queryable-state,sentiment analysis,0.03977720404916718
+03_flink,flink-queryable-state,web scraping,0.04080065747304429
+03_flink,flink-queryable-state,command-line interface,0.04084930882203475
+03_flink,flink-queryable-state,game engine,0.04132177516183422
+03_flink,flink-queryable-state,static site generator,0.04140586234861743
+03_flink,flink-queryable-state,language model,0.04381216990210646
+03_flink,flink-queryable-state,mobile application development,0.04582130284682917
+03_flink,flink-queryable-state,test automation,0.045840657559611975
+03_flink,flink-queryable-state,reactive programming,0.05607537300718801
+03_flink,flink-queryable-state,support vector machine,0.058721840150316784
+03_flink,flink-queryable-state,static program analysis,0.06175380647206796
+03_flink,flink-queryable-state,package management system,0.06625356134333915
+03_flink,flink-queryable-state,software testing,0.069310465410796
+03_flink,flink-queryable-state,software development,0.07373971976609561

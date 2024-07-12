@@ -1,0 +1,154 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-client,WebSocket,0.001979959726009839
+08_pulsar,pulsar-client,word embedding,0.0022652660983573103
+08_pulsar,pulsar-client,routing,0.005617992117400106
+08_pulsar,pulsar-client,stream processing,0.005961182551679212
+08_pulsar,pulsar-client,data,0.007020198583116644
+08_pulsar,pulsar-client,pattern matching,0.007076212361232237
+08_pulsar,pulsar-client,convolutional neural network,0.007325549407862786
+08_pulsar,pulsar-client,deep neural network,0.007603749793230197
+08_pulsar,pulsar-client,long short-term memory,0.007839961731710199
+08_pulsar,pulsar-client,audio signal processing,0.008334763468511586
+08_pulsar,pulsar-client,information processing,0.008754876226001018
+08_pulsar,pulsar-client,big data,0.008886572361993306
+08_pulsar,pulsar-client,signal processing,0.009568736501495478
+08_pulsar,pulsar-client,time series,0.010482050877844262
+08_pulsar,pulsar-client,sorting algorithm,0.011101793779555003
+08_pulsar,pulsar-client,data structure,0.011137516703557893
+08_pulsar,pulsar-client,data science,0.012820309830355758
+08_pulsar,pulsar-client,blockchain,0.012823587685586446
+08_pulsar,pulsar-client,data compression,0.013116079701379069
+08_pulsar,pulsar-client,Parser combinator,0.013820620431555852
+08_pulsar,pulsar-client,File Transfer Protocol,0.01391681906292419
+08_pulsar,pulsar-client,anomaly detection,0.01410818926187829
+08_pulsar,pulsar-client,data binding,0.014989860921651998
+08_pulsar,pulsar-client,text classification,0.015388948355982812
+08_pulsar,pulsar-client,deep learning,0.015520484267278478
+08_pulsar,pulsar-client,logging,0.01615849163544203
+08_pulsar,pulsar-client,digital audio,0.01635311915360038
+08_pulsar,pulsar-client,text processing,0.016808787100692446
+08_pulsar,pulsar-client,scheduler,0.016884333134166152
+08_pulsar,pulsar-client,speech synthesis,0.017512312089014825
+08_pulsar,pulsar-client,natural language processing,0.017967106145254763
+08_pulsar,pulsar-client,smart contract,0.01802848738302021
+08_pulsar,pulsar-client,data analysis,0.0188446834445396
+08_pulsar,pulsar-client,email,0.019415536810889034
+08_pulsar,pulsar-client,streaming media,0.020536783346143395
+08_pulsar,pulsar-client,instant messaging,0.020906338265492264
+08_pulsar,pulsar-client,router,0.02105259633320644
+08_pulsar,pulsar-client,"extract, transform, load",0.021969792417922074
+08_pulsar,pulsar-client,cloud computing,0.02230224755352772
+08_pulsar,pulsar-client,data mining,0.022976651706321127
+08_pulsar,pulsar-client,schema migration,0.023052396791760854
+08_pulsar,pulsar-client,microservices,0.023489730580336765
+08_pulsar,pulsar-client,synchronization,0.024236909915533844
+08_pulsar,pulsar-client,information extraction,0.02445025023134184
+08_pulsar,pulsar-client,random forest,0.024463901052587333
+08_pulsar,pulsar-client,telecommunications network,0.024876698064758118
+08_pulsar,pulsar-client,object–relational mapping,0.02525019478044488
+08_pulsar,pulsar-client,validator,0.025499133307539723
+08_pulsar,pulsar-client,Semantic Web,0.025762939864322654
+08_pulsar,pulsar-client,knowledge graph,0.025919432108383322
+08_pulsar,pulsar-client,authentication,0.025988396040686368
+08_pulsar,pulsar-client,middleware,0.026263467192434775
+08_pulsar,pulsar-client,web scraping,0.026367225973637165
+08_pulsar,pulsar-client,encryption,0.02660315459344953
+08_pulsar,pulsar-client,backup,0.027278682088755835
+08_pulsar,pulsar-client,bitcoin,0.027572675606510555
+08_pulsar,pulsar-client,face detection,0.027575790424874902
+08_pulsar,pulsar-client,graph algorithm,0.02854642361370796
+08_pulsar,pulsar-client,image captioning,0.028779873700395253
+08_pulsar,pulsar-client,optical character recognition,0.028989795906223526
+08_pulsar,pulsar-client,object detection,0.029381963307829495
+08_pulsar,pulsar-client,network analysis,0.02958028789447864
+08_pulsar,pulsar-client,Kalman filter,0.029643372399732915
+08_pulsar,pulsar-client,evolutionary algorithm,0.029656398703812314
+08_pulsar,pulsar-client,genetic algorithm,0.029812097406104687
+08_pulsar,pulsar-client,network monitoring,0.029930097481355222
+08_pulsar,pulsar-client,artificial neural network,0.029960751789271822
+08_pulsar,pulsar-client,plot,0.030005689735405627
+08_pulsar,pulsar-client,Web Components,0.03004240919445189
+08_pulsar,pulsar-client,serialization,0.030073956295449955
+08_pulsar,pulsar-client,simulation,0.030084635983037122
+08_pulsar,pulsar-client,image,0.030084753811600584
+08_pulsar,pulsar-client,analytics,0.030987433129208042
+08_pulsar,pulsar-client,automation,0.031803980810608756
+08_pulsar,pulsar-client,benchmark,0.031945695758260784
+08_pulsar,pulsar-client,machine translation,0.0322086311941866
+08_pulsar,pulsar-client,digital security,0.0322111258920903
+08_pulsar,pulsar-client,e-commerce,0.03222034243891003
+08_pulsar,pulsar-client,linear algebra,0.032339638488126154
+08_pulsar,pulsar-client,digital image processing,0.03239580518591734
+08_pulsar,pulsar-client,distributed computing,0.032516689432344315
+08_pulsar,pulsar-client,computer data storage,0.03251784300778082
+08_pulsar,pulsar-client,reinforcement learning,0.03259139841149439
+08_pulsar,pulsar-client,machine learning,0.03264009129867651
+08_pulsar,pulsar-client,distributed database,0.032764741089102545
+08_pulsar,pulsar-client,data visualization,0.032898044686285655
+08_pulsar,pulsar-client,search,0.03290059346037799
+08_pulsar,pulsar-client,image recognition,0.032942042778677405
+08_pulsar,pulsar-client,algorithm,0.03307544217115166
+08_pulsar,pulsar-client,security,0.0338224484554388
+08_pulsar,pulsar-client,penetration test,0.033913848805227076
+08_pulsar,pulsar-client,regular expression,0.03406844291749456
+08_pulsar,pulsar-client,database,0.03562076452578666
+08_pulsar,pulsar-client,back end,0.036155378199470234
+08_pulsar,pulsar-client,language model,0.03633868792887074
+08_pulsar,pulsar-client,facial recognition system,0.03635629068864343
+08_pulsar,pulsar-client,mathematics,0.03658181834673924
+08_pulsar,pulsar-client,file system,0.036594305284334494
+08_pulsar,pulsar-client,graph database,0.03718511272854974
+08_pulsar,pulsar-client,password manager,0.037220908642935924
+08_pulsar,pulsar-client,HTTP server,0.03793356465910236
+08_pulsar,pulsar-client,distributed multimedia communications platform,0.03826580866685325
+08_pulsar,pulsar-client,game,0.038435632842557466
+08_pulsar,pulsar-client,mathematical optimization,0.0385223135560504
+08_pulsar,pulsar-client,HTTP client,0.038660609339862706
+08_pulsar,pulsar-client,recommender system,0.03897822609784618
+08_pulsar,pulsar-client,unit testing,0.039047293830831054
+08_pulsar,pulsar-client,web service,0.03977945759701129
+08_pulsar,pulsar-client,internet bot,0.04032028004033705
+08_pulsar,pulsar-client,static program analysis,0.04039786304912074
+08_pulsar,pulsar-client,database management,0.040842130342669924
+08_pulsar,pulsar-client,linear regression,0.04096659781492873
+08_pulsar,pulsar-client,distributed system,0.04115120449943055
+08_pulsar,pulsar-client,network security,0.04123199914498332
+08_pulsar,pulsar-client,virtual reality,0.04169440097849941
+08_pulsar,pulsar-client,continuous integration,0.041887225525642724
+08_pulsar,pulsar-client,support vector machine,0.042636493429974553
+08_pulsar,pulsar-client,website,0.042770179695578836
+08_pulsar,pulsar-client,embedded system,0.04305077707184768
+08_pulsar,pulsar-client,web browser,0.04454461095622175
+08_pulsar,pulsar-client,syntax highlighting,0.04469137260479772
+08_pulsar,pulsar-client,electronic trading platform,0.045484716137672576
+08_pulsar,pulsar-client,test automation,0.0456540753434338
+08_pulsar,pulsar-client,World Wide Web,0.04696312198385111
+08_pulsar,pulsar-client,dependency injection,0.047403555081690474
+08_pulsar,pulsar-client,design,0.047772357875255134
+08_pulsar,pulsar-client,geographic information system,0.04883546569337038
+08_pulsar,pulsar-client,server,0.049476077054865564
+08_pulsar,pulsar-client,client,0.05069340051927118
+08_pulsar,pulsar-client,3D modeling,0.05085717160501191
+08_pulsar,pulsar-client,text editor,0.05415773186576045
+08_pulsar,pulsar-client,web browser engine,0.05458221776206085
+08_pulsar,pulsar-client,application performance management,0.054741577875917824
+08_pulsar,pulsar-client,web server,0.05540390165546438
+08_pulsar,pulsar-client,static program analysis tool,0.05578998260309309
+08_pulsar,pulsar-client,content management system,0.056314518822031534
+08_pulsar,pulsar-client,code generation,0.056484346799416274
+08_pulsar,pulsar-client,game server,0.05698440851330011
+08_pulsar,pulsar-client,compiler,0.05891782645994326
+08_pulsar,pulsar-client,static site generator,0.059330703718737055
+08_pulsar,pulsar-client,computer vision,0.061759923463251765
+08_pulsar,pulsar-client,user interface,0.06250041783025662
+08_pulsar,pulsar-client,operating system,0.06506283743285357
+08_pulsar,pulsar-client,computer configuration,0.06571191922906194
+08_pulsar,pulsar-client,web application security,0.06848712608987573
+08_pulsar,pulsar-client,command-line interface,0.06985016224387297
+08_pulsar,pulsar-client,web application,0.07146654149822906
+08_pulsar,pulsar-client,game engine,0.07304389976471326
+08_pulsar,pulsar-client,mobile application development,0.0754753069294467
+08_pulsar,pulsar-client,virtual machine,0.08142258233701805
+08_pulsar,pulsar-client,graphical user interface,0.08283737497713894
+08_pulsar,pulsar-client,package management system,0.09069721533930042
+08_pulsar,pulsar-client,software testing,0.09343709176855586

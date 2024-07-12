@@ -1,0 +1,212 @@
+project_name,module,domain,diff_sim
+07_druid,core,Malware Analysis,0.00010391666666670352
+07_druid,core,object-oriented programming,0.00021923888888897292
+07_druid,core,statistics,0.0005493298611111141
+07_druid,core,code generation,0.0005910529166666123
+07_druid,core,test automation,0.0006316886111110698
+07_druid,core,machine learning,0.0007092761111111012
+07_druid,core,Q-learning,0.0007205980555554659
+07_druid,core,lexical analysis,0.0008823277777779137
+07_druid,core,random forest,0.0014672669444443787
+07_druid,core,web server,0.0020776104166667086
+07_druid,core,classification,0.0021639402777777206
+07_druid,core,cryptography,0.0022783722222222136
+07_druid,core,password manager,0.0025288481944444885
+07_druid,core,stock market,0.0029606987499998794
+07_druid,core,natural language,0.00297607402777772
+07_druid,core,web browser engine,0.0030086669444445713
+07_druid,core,streaming media,0.003290385833333298
+07_druid,core,speech synthesis,0.003453205138888915
+07_druid,core,image classification,0.003856797638888909
+07_druid,core,software design pattern,0.004013758472222184
+07_druid,core,image recognition,0.00424015347222223
+07_druid,core,unit testing,0.004386310277777694
+07_druid,core,electronic trading platform,0.0044986704166666835
+07_druid,core,computer data storage,0.004532858055555589
+07_druid,core,game server,0.004561549166666623
+07_druid,core,"extract, transform, load",0.00457780236111105
+07_druid,core,penetration test,0.004735139444444425
+07_druid,core,debugger,0.00478956458333335
+07_druid,core,distributed system,0.0047955309722222395
+07_druid,core,language model,0.004919119166666652
+07_druid,core,network analysis,0.005159837638888887
+07_druid,core,telecommunications network,0.005247365694444395
+07_druid,core,object detection,0.005314123888888855
+07_druid,core,sentiment analysis,0.005401956388888907
+07_druid,core,data science,0.005885193055555571
+07_druid,core,mathematical optimization,0.006147106250000034
+07_druid,core,distributed computing,0.006332167361111085
+07_druid,core,information extraction,0.006343581388889019
+07_druid,core,natural language processing,0.006485010555555504
+07_druid,core,embedded system,0.006524829305555646
+07_druid,core,HTTP server,0.006562670138888893
+07_druid,core,static program analysis tool,0.0065732905555556664
+07_druid,core,Naive Bayes classifier,0.006691705555555594
+07_druid,core,artificial intelligence,0.006737100694444387
+07_druid,core,data analysis,0.007188266111111119
+07_druid,core,synchronization,0.0072921572222223174
+07_druid,core,cluster analysis,0.00831404888888887
+07_druid,core,static program analysis,0.009148155277777792
+07_druid,core,algorithm,0.00922282194444446
+07_druid,core,HTTP client,0.009704359444444477
+07_druid,core,web crawler,0.0106545551388888
+07_druid,core,validator,0.010903212777777893
+07_druid,core,digital image processing,0.011367411944444461
+07_druid,core,reinforcement learning,0.011455678055555474
+07_druid,core,optical character recognition,0.012155775416666681
+07_druid,core,mathematical finance,0.012160109166666655
+07_druid,core,distributed multimedia communications platform,0.012319421388888863
+07_druid,core,convolutional neural network,0.012484633611111129
+07_druid,core,computational science,0.012495251666666707
+07_druid,core,game engine,0.012732438749999964
+07_druid,core,genomics,0.01284826444444448
+07_druid,core,benchmark,0.01295893777777779
+07_druid,core,server,0.0132632602777778
+07_druid,core,object–relational mapping,0.013287640694444436
+07_druid,core,data mining,0.013299197777777771
+07_druid,core,big data,0.01361193472222233
+07_druid,core,Image analysis,0.013637670000000046
+07_druid,core,deep learning,0.014142138888888822
+07_druid,core,web application security,0.014283525694444466
+07_druid,core,microservices,0.014695897500000166
+07_druid,core,automation,0.014846301944444473
+07_druid,core,image segmentation,0.014909675277777812
+07_druid,core,front end,0.01586839180555555
+07_druid,core,text classification,0.016810693749999883
+07_druid,core,computer science,0.017219729305555542
+07_druid,core,banking industry,0.01799982055555549
+07_druid,core,mathematics,0.01823638222222229
+07_druid,core,animation,0.018448180138888992
+07_druid,core,face detection,0.018455682361111114
+07_druid,core,analytics,0.01847524236111109
+07_druid,core,linear algebra,0.01853887513888891
+07_druid,core,kernel,0.018807761111111154
+07_druid,core,web service,0.01894690111111108
+07_druid,core,internet bot,0.018976911250000006
+07_druid,core,regular expression,0.019761998888888854
+07_druid,core,dependency injection,0.02033763027777763
+07_druid,core,web scraping,0.020747266111110996
+07_druid,core,Containerization,0.021637444999999977
+07_druid,core,image,0.021733874861111058
+07_druid,core,internet of things,0.02256752555555558
+07_druid,core,question answering,0.022813218333333274
+07_druid,core,text processing,0.02387041597222217
+07_druid,core,facial recognition system,0.02411368472222225
+07_druid,core,support vector machine,0.02440899597222218
+07_druid,core,interpreter,0.024972696388888882
+07_druid,core,distributed database,0.02509426736111131
+07_druid,core,information retrieval,0.026074950138888886
+07_druid,core,graph algorithm,0.026264345138888867
+07_druid,core,functional programming,0.02665198527777768
+07_druid,core,data structure,0.02676892388888885
+07_druid,core,compiler,0.027049679583333153
+07_druid,core,Bayesian inference,0.027232065138888817
+07_druid,core,blockchain,0.02753180805555555
+07_druid,core,mobile application development,0.02789517111111106
+07_druid,core,time series,0.028496994166666734
+07_druid,core,web browser,0.029764911666666616
+07_druid,core,word embedding,0.029847775833333368
+07_druid,core,WebSocket,0.02997107416666661
+07_druid,core,audio signal processing,0.030005930833333305
+07_druid,core,authentication,0.030051112500000032
+07_druid,core,deep neural network,0.0301558672222223
+07_druid,core,genetic algorithm,0.030261907638888808
+07_druid,core,encryption,0.030514444027777754
+07_druid,core,RNA sequencing,0.030838604861111174
+07_druid,core,computer vision,0.03125288069444432
+07_druid,core,algorithmic trading,0.03132432861111112
+07_druid,core,data,0.03179534430555542
+07_druid,core,image compression,0.03207394791666668
+07_druid,core,sorting algorithm,0.03214351958333339
+07_druid,core,data binding,0.032276835416666705
+07_druid,core,linear regression,0.032691333333333294
+07_druid,core,long short-term memory,0.03272741736111118
+07_druid,core,security,0.03322792083333326
+07_druid,core,cloud computing,0.03346943791666668
+07_druid,core,geographic information system,0.03349791875000008
+07_druid,core,Web Components,0.03369767458333345
+07_druid,core,logging,0.033992778055555506
+07_druid,core,regression analysis,0.035463122499999944
+07_druid,core,network monitoring,0.0355156973611111
+07_druid,core,text editor,0.035994168888888955
+07_druid,core,Kalman filter,0.03625559444444454
+07_druid,core,software testing,0.03667804986111112
+07_druid,core,back end,0.037560473472222244
+07_druid,core,continuous integration,0.038169092083333245
+07_druid,core,anomaly detection,0.03844875833333333
+07_druid,core,application performance management,0.03861057250000005
+07_druid,core,image captioning,0.03892490902777779
+07_druid,core,search,0.03912105569444441
+07_druid,core,shell tool,0.0391344184722221
+07_druid,core,middleware,0.039344621250000045
+07_druid,core,command-line interface,0.039587559999999966
+07_druid,core,schema migration,0.03969414666666682
+07_druid,core,data visualization,0.04024608736111124
+07_druid,core,plot,0.04044687652777784
+07_druid,core,malware,0.04086386236111117
+07_druid,core,signal processing,0.041118006666666596
+07_druid,core,instant messaging,0.041378325694444495
+07_druid,core,web application,0.04241917527777772
+07_druid,core,virtualization,0.04265323986111108
+07_druid,core,backup,0.042672645555555666
+07_druid,core,translation,0.042861002083333266
+07_druid,core,email,0.043249014722222257
+07_druid,core,data compression,0.0432752079166665
+07_druid,core,semi-supervised learning,0.04437942791666649
+07_druid,core,social network,0.044460109305555606
+07_druid,core,smart contract,0.044603847083333314
+07_druid,core,image editing,0.04463169361111119
+07_druid,core,neural network,0.04475300083333328
+07_druid,core,continuous delivery,0.0448120598611112
+07_druid,core,user interface,0.045785431111111
+07_druid,core,geometry,0.04612782236111107
+07_druid,core,computer configuration,0.04629820583333344
+07_druid,core,information processing,0.04680672138888903
+07_druid,core,virtual reality,0.047483024583333366
+07_druid,core,cryptocurrency,0.04950826333333341
+07_druid,core,database,0.0497599143055556
+07_druid,core,client,0.049909102638889036
+07_druid,core,digital security,0.05092946305555551
+07_druid,core,scheduler,0.0510579354166667
+07_druid,core,File Transfer Protocol,0.05301781458333332
+07_druid,core,software engineering,0.05389194958333332
+07_druid,core,artificial neural network,0.05441460138888893
+07_druid,core,database management,0.054957385000000025
+07_druid,core,graph,0.055104612361111194
+07_druid,core,pattern matching,0.05539893319444439
+07_druid,core,geographic information,0.05540522944444454
+07_druid,core,file system,0.05578323138888891
+07_druid,core,virtual machine,0.0558228845833334
+07_druid,core,camera,0.05616454194444448
+07_druid,core,DevOps,0.05621013055555557
+07_druid,core,topic modeling,0.05736847666666667
+07_druid,core,serialization,0.05813919680555568
+07_druid,core,graphical user interface,0.06294860013888881
+07_druid,core,reactive programming,0.06349423861111103
+07_druid,core,continuous deployment,0.06452925930555559
+07_druid,core,graph database,0.06541293763888889
+07_druid,core,static site generator,0.06721097291666667
+07_druid,core,parsing,0.06841181222222215
+07_druid,core,computer graphics,0.06910547402777784
+07_druid,core,recommender system,0.06919247041666671
+07_druid,core,search engine,0.07051658499999991
+07_druid,core,knowledge graph,0.07203573513888895
+07_druid,core,3D computer graphics,0.07233808694444449
+07_druid,core,Reverse engineering,0.07239971750000002
+07_druid,core,Semantic Web,0.07372734652777779
+07_druid,core,finance,0.07406330916666665
+07_druid,core,website,0.07516904749999997
+07_druid,core,integrated development environment,0.07580472624999995
+07_druid,core,business dashboard,0.07774041180555558
+07_druid,core,World Wide Web,0.07990052180555557
+07_druid,core,Parser combinator,0.08230008236111125
+07_druid,core,operating system,0.0827841434722223
+07_druid,core,recurrent neural network,0.08327132861111103
+07_druid,core,web development,0.08624298722222223
+07_druid,core,content management system,0.087006558611111
+07_druid,core,software development,0.0872696716666666
+07_druid,core,augmented reality,0.08991069180555566
+07_druid,core,package management system,0.09647256972222218
+07_druid,core,stream processing,0.10208876722222221
+07_druid,core,3D modeling,0.10899614861111129
+07_druid,core,documentation,0.18286328222222226

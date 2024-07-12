@@ -1,0 +1,38 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-container,machine learning,0.00021560500000011862
+01_dubbo,dubbo-container,classification,0.003940868499999917
+01_dubbo,dubbo-container,instant messaging,0.010932064749999859
+01_dubbo,dubbo-container,database,0.011707630000000024
+01_dubbo,dubbo-container,web browser engine,0.012677429749999969
+01_dubbo,dubbo-container,test automation,0.014718656500000094
+01_dubbo,dubbo-container,automation,0.016667528500000084
+01_dubbo,dubbo-container,Web Components,0.01936618499999998
+01_dubbo,dubbo-container,HTTP server,0.02490330424999998
+01_dubbo,dubbo-container,security,0.02528926324999986
+01_dubbo,dubbo-container,static program analysis,0.025554488499999972
+01_dubbo,dubbo-container,server,0.026773508499999987
+01_dubbo,dubbo-container,command-line interface,0.0270603135000001
+01_dubbo,dubbo-container,file system,0.028485788499999998
+01_dubbo,dubbo-container,operating system,0.02948476774999992
+01_dubbo,dubbo-container,benchmark,0.029721484999999992
+01_dubbo,dubbo-container,algorithm,0.030004073750000082
+01_dubbo,dubbo-container,package management system,0.034016325250000035
+01_dubbo,dubbo-container,streaming media,0.03637716049999995
+01_dubbo,dubbo-container,web application,0.038722512750000104
+01_dubbo,dubbo-container,telecommunications network,0.03954939450000011
+01_dubbo,dubbo-container,software testing,0.04401150549999999
+01_dubbo,dubbo-container,user interface,0.044767398250000034
+01_dubbo,dubbo-container,graphical user interface,0.045354871500000005
+01_dubbo,dubbo-container,web server,0.047476243500000015
+01_dubbo,dubbo-container,cloud computing,0.04825619575000001
+01_dubbo,dubbo-container,distributed system,0.053171831749999954
+01_dubbo,dubbo-container,embedded system,0.059900936499999946
+01_dubbo,dubbo-container,web application security,0.06039936925000017
+01_dubbo,dubbo-container,content management system,0.06436832500000006
+01_dubbo,dubbo-container,big data,0.0713742317499999
+01_dubbo,dubbo-container,microservices,0.07270519874999992
+01_dubbo,dubbo-container,website,0.07388397600000002
+01_dubbo,dubbo-container,analytics,0.07618319925
+01_dubbo,dubbo-container,World Wide Web,0.10001746650000004
+01_dubbo,dubbo-container,recommender system,0.11434737074999995
+01_dubbo,dubbo-container,web service,0.11778746500000009

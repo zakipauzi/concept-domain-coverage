@@ -1,0 +1,232 @@
+project_name,module,domain,diff_sim
+06_hadoop,hadoop-common-project,distributed computing,9.776111111114982e-05
+06_hadoop,hadoop-common-project,cluster analysis,0.0012522822222221786
+06_hadoop,hadoop-common-project,support vector machine,0.0015094494444445883
+06_hadoop,hadoop-common-project,software architecture,0.0016302900000000897
+06_hadoop,hadoop-common-project,continuous integration,0.00187213888888893
+06_hadoop,hadoop-common-project,information extraction,0.0019685005555556967
+06_hadoop,hadoop-common-project,data,0.0019746477777778937
+06_hadoop,hadoop-common-project,machine learning,0.002193061111111172
+06_hadoop,hadoop-common-project,automation,0.0022838099999999972
+06_hadoop,hadoop-common-project,interpreter,0.002366774444444497
+06_hadoop,hadoop-common-project,recurrent neural network,0.0024455061111111065
+06_hadoop,hadoop-common-project,internet of things,0.002657966111111021
+06_hadoop,hadoop-common-project,email,0.003211305555555599
+06_hadoop,hadoop-common-project,computer data storage,0.0036282422222221333
+06_hadoop,hadoop-common-project,graph database,0.003660606666666677
+06_hadoop,hadoop-common-project,anomaly detection,0.0037437733333333667
+06_hadoop,hadoop-common-project,neural machine translation,0.003792630000000019
+06_hadoop,hadoop-common-project,Naive Bayes classifier,0.003799078888888918
+06_hadoop,hadoop-common-project,Bidirectional recurrent neural networks,0.0038720738888889383
+06_hadoop,hadoop-common-project,bitcoin,0.003972647777777838
+06_hadoop,hadoop-common-project,hacking tool,0.0040955777777776925
+06_hadoop,hadoop-common-project,package management system,0.004541169444444493
+06_hadoop,hadoop-common-project,software engineering,0.004600219999999877
+06_hadoop,hadoop-common-project,graph algorithm,0.004600655000000009
+06_hadoop,hadoop-common-project,dependency injection,0.004736775000000082
+06_hadoop,hadoop-common-project,data analysis,0.004799906111111196
+06_hadoop,hadoop-common-project,Q-learning,0.005132747222222234
+06_hadoop,hadoop-common-project,artificial neural network,0.005218661111111078
+06_hadoop,hadoop-common-project,quantum computer,0.0052223666666667
+06_hadoop,hadoop-common-project,client,0.0054005527777777895
+06_hadoop,hadoop-common-project,facial recognition system,0.005473572777777713
+06_hadoop,hadoop-common-project,middleware,0.005684943888888849
+06_hadoop,hadoop-common-project,mobile computing,0.005924342777777869
+06_hadoop,hadoop-common-project,scheduler,0.006002353333333488
+06_hadoop,hadoop-common-project,data structure,0.006082592777777673
+06_hadoop,hadoop-common-project,DevOps,0.006243803333333353
+06_hadoop,hadoop-common-project,object–relational mapping,0.006592340555555631
+06_hadoop,hadoop-common-project,algorithmic trading,0.006610941111111102
+06_hadoop,hadoop-common-project,text classification,0.006919671666666682
+06_hadoop,hadoop-common-project,file system,0.007113546666666637
+06_hadoop,hadoop-common-project,software development,0.0071494877777777965
+06_hadoop,hadoop-common-project,network analysis,0.007660463888888802
+06_hadoop,hadoop-common-project,Containerization,0.007682931666666726
+06_hadoop,hadoop-common-project,integrated development environment,0.0079458544444444
+06_hadoop,hadoop-common-project,mobile application development,0.008266119444444497
+06_hadoop,hadoop-common-project,banking industry,0.0085204694444444
+06_hadoop,hadoop-common-project,lexical analysis,0.008923645555555582
+06_hadoop,hadoop-common-project,mathematical optimization,0.008935465555555633
+06_hadoop,hadoop-common-project,distributed system,0.009118935555555485
+06_hadoop,hadoop-common-project,language model,0.009571881666666615
+06_hadoop,hadoop-common-project,benchmark,0.00967999722222218
+06_hadoop,hadoop-common-project,natural language,0.009854338888888925
+06_hadoop,hadoop-common-project,classification,0.01000379444444438
+06_hadoop,hadoop-common-project,translation,0.01016815944444438
+06_hadoop,hadoop-common-project,functional programming,0.010223608333333245
+06_hadoop,hadoop-common-project,blockchain,0.010347748888888897
+06_hadoop,hadoop-common-project,code generation,0.010785176666666674
+06_hadoop,hadoop-common-project,electronic trading platform,0.010822845555555682
+06_hadoop,hadoop-common-project,evolutionary algorithm,0.010976468888888813
+06_hadoop,hadoop-common-project,named-entity recognition,0.011036352777777703
+06_hadoop,hadoop-common-project,embedded system,0.011118998333333296
+06_hadoop,hadoop-common-project,data binding,0.01143855944444444
+06_hadoop,hadoop-common-project,optical character recognition,0.011717827222222199
+06_hadoop,hadoop-common-project,statistics,0.01185895777777779
+06_hadoop,hadoop-common-project,bioinformatics,0.012305871666666579
+06_hadoop,hadoop-common-project,sentiment analysis,0.0125285083333333
+06_hadoop,hadoop-common-project,natural language processing,0.012885215000000005
+06_hadoop,hadoop-common-project,linear algebra,0.012937680000000062
+06_hadoop,hadoop-common-project,text processing,0.013259409444444481
+06_hadoop,hadoop-common-project,time series,0.013330316666666564
+06_hadoop,hadoop-common-project,instant messaging,0.01383860777777779
+06_hadoop,hadoop-common-project,home automation,0.014126828888888776
+06_hadoop,hadoop-common-project,linear regression,0.014229081111110986
+06_hadoop,hadoop-common-project,logging,0.01436227499999998
+06_hadoop,hadoop-common-project,static site generator,0.014584236666666528
+06_hadoop,hadoop-common-project,syntax highlighting,0.01480535277777778
+06_hadoop,hadoop-common-project,Kalman filter,0.015054131666666581
+06_hadoop,hadoop-common-project,cloud computing,0.01515486611111111
+06_hadoop,hadoop-common-project,operating system,0.015301795555555608
+06_hadoop,hadoop-common-project,microservices,0.01619740166666661
+06_hadoop,hadoop-common-project,machine translation,0.016200320555555536
+06_hadoop,hadoop-common-project,virtual machine,0.01655518111111115
+06_hadoop,hadoop-common-project,encryption,0.01728550833333342
+06_hadoop,hadoop-common-project,reactive programming,0.017817822777777825
+06_hadoop,hadoop-common-project,long short-term memory,0.018342029444444408
+06_hadoop,hadoop-common-project,logistic regression model,0.01884126944444442
+06_hadoop,hadoop-common-project,web application security,0.018910939999999987
+06_hadoop,hadoop-common-project,synchronization,0.018940887222222258
+06_hadoop,hadoop-common-project,regression analysis,0.01958374611111091
+06_hadoop,hadoop-common-project,reinforcement learning,0.019671282777777688
+06_hadoop,hadoop-common-project,text mining,0.019835909999999957
+06_hadoop,hadoop-common-project,image segmentation,0.019998903888888864
+06_hadoop,hadoop-common-project,genetic algorithm,0.020231322222222292
+06_hadoop,hadoop-common-project,question answering,0.020268677222222198
+06_hadoop,hadoop-common-project,artificial intelligence,0.02045691277777778
+06_hadoop,hadoop-common-project,digital image processing,0.020584395555555468
+06_hadoop,hadoop-common-project,File Transfer Protocol,0.020606951111111216
+06_hadoop,hadoop-common-project,game server,0.02065634000000005
+06_hadoop,hadoop-common-project,database,0.020878533333333282
+06_hadoop,hadoop-common-project,documentation,0.02102720888888887
+06_hadoop,hadoop-common-project,Parser combinator,0.02112469499999997
+06_hadoop,hadoop-common-project,computer configuration,0.02141669500000004
+06_hadoop,hadoop-common-project,search,0.02146015555555547
+06_hadoop,hadoop-common-project,engineering,0.02150585611111111
+06_hadoop,hadoop-common-project,server,0.02161919499999987
+06_hadoop,hadoop-common-project,signal processing,0.02167190499999999
+06_hadoop,hadoop-common-project,virtualization,0.02208841888888896
+06_hadoop,hadoop-common-project,geographic information system,0.02230575666666662
+06_hadoop,hadoop-common-project,router,0.02260751666666677
+06_hadoop,hadoop-common-project,database management,0.023149362777777793
+06_hadoop,hadoop-common-project,distributed database,0.023170438888888922
+06_hadoop,hadoop-common-project,application performance management,0.024152228333333414
+06_hadoop,hadoop-common-project,data science,0.024540473333333312
+06_hadoop,hadoop-common-project,web service,0.024954239444444415
+06_hadoop,hadoop-common-project,random forest,0.02522613222222231
+06_hadoop,hadoop-common-project,computer programming,0.025598292222222208
+06_hadoop,hadoop-common-project,mathematics,0.025830291111111126
+06_hadoop,hadoop-common-project,computational science,0.026388487777777803
+06_hadoop,hadoop-common-project,chatbot,0.026820006666666618
+06_hadoop,hadoop-common-project,serialization,0.026820683888888974
+06_hadoop,hadoop-common-project,information processing,0.027309786111111067
+06_hadoop,hadoop-common-project,sorting algorithm,0.027489219999999925
+06_hadoop,hadoop-common-project,transfer learning,0.027797634444444386
+06_hadoop,hadoop-common-project,word embedding,0.028217237777777793
+06_hadoop,hadoop-common-project,stock market,0.028373912777777788
+06_hadoop,hadoop-common-project,continuous deployment,0.028724340000000015
+06_hadoop,hadoop-common-project,big data,0.029024649444444495
+06_hadoop,hadoop-common-project,analytics,0.0290782361111111
+06_hadoop,hadoop-common-project,penetration test,0.030234158888888862
+06_hadoop,hadoop-common-project,digital security,0.03092466388888876
+06_hadoop,hadoop-common-project,unit testing,0.03129409
+06_hadoop,hadoop-common-project,schema migration,0.031401886111111
+06_hadoop,hadoop-common-project,computer science,0.032060267222222105
+06_hadoop,hadoop-common-project,semi-supervised learning,0.032244566666666696
+06_hadoop,hadoop-common-project,telecommunications network,0.032894422222222164
+06_hadoop,hadoop-common-project,stream processing,0.032925622222222284
+06_hadoop,hadoop-common-project,Semantic Web,0.03293321166666674
+06_hadoop,hadoop-common-project,Malware Analysis,0.0333552061111112
+06_hadoop,hadoop-common-project,convolutional neural network,0.0333691333333333
+06_hadoop,hadoop-common-project,serverless computing,0.03498324388888896
+06_hadoop,hadoop-common-project,software testing,0.035755001666666675
+06_hadoop,hadoop-common-project,cryptography,0.036082141666666734
+06_hadoop,hadoop-common-project,genomics,0.036174490000000004
+06_hadoop,hadoop-common-project,game,0.0372967050000001
+06_hadoop,hadoop-common-project,compiler,0.03750772888888887
+06_hadoop,hadoop-common-project,audio signal processing,0.037756243333333384
+06_hadoop,hadoop-common-project,distributed multimedia communications platform,0.03776872499999989
+06_hadoop,hadoop-common-project,information retrieval,0.03779186222222225
+06_hadoop,hadoop-common-project,command-line interface,0.03792038722222213
+06_hadoop,hadoop-common-project,design,0.0380184761111112
+06_hadoop,hadoop-common-project,algorithm,0.03826296333333351
+06_hadoop,hadoop-common-project,image recognition,0.038361877777777664
+06_hadoop,hadoop-common-project,parsing,0.038675166111111214
+06_hadoop,hadoop-common-project,user interface,0.03873257166666677
+06_hadoop,hadoop-common-project,font,0.038876438333333374
+06_hadoop,hadoop-common-project,graphical user interface,0.039083413888888974
+06_hadoop,hadoop-common-project,image editing,0.03945149555555544
+06_hadoop,hadoop-common-project,kernel,0.039894470555555506
+06_hadoop,hadoop-common-project,simulation,0.040295052777777784
+06_hadoop,hadoop-common-project,shell tool,0.04043867888888891
+06_hadoop,hadoop-common-project,HTTP client,0.04071367277777782
+06_hadoop,hadoop-common-project,content management system,0.04086901166666673
+06_hadoop,hadoop-common-project,data mining,0.040928142222222186
+06_hadoop,hadoop-common-project,static program analysis tool,0.041788228333333344
+06_hadoop,hadoop-common-project,network monitoring,0.04383068722222222
+06_hadoop,hadoop-common-project,smart contract,0.04431596277777783
+06_hadoop,hadoop-common-project,static program analysis,0.04449168277777782
+06_hadoop,hadoop-common-project,data compression,0.04530775555555555
+06_hadoop,hadoop-common-project,deep neural network,0.045573353888888835
+06_hadoop,hadoop-common-project,backup,0.045999931666666605
+06_hadoop,hadoop-common-project,speech synthesis,0.04674288555555539
+06_hadoop,hadoop-common-project,Reverse engineering,0.047476452777777844
+06_hadoop,hadoop-common-project,validator,0.04785034833333318
+06_hadoop,hadoop-common-project,HTTP server,0.049258036666666616
+06_hadoop,hadoop-common-project,e-commerce,0.050220560555555516
+06_hadoop,hadoop-common-project,malware,0.050627746111111094
+06_hadoop,hadoop-common-project,back end,0.051386071111111264
+06_hadoop,hadoop-common-project,geographic information,0.05183523944444446
+06_hadoop,hadoop-common-project,WebSocket,0.05239443222222234
+06_hadoop,hadoop-common-project,social network,0.052638407222222294
+06_hadoop,hadoop-common-project,camera,0.05298067111111099
+06_hadoop,hadoop-common-project,authentication,0.05471341777777777
+06_hadoop,hadoop-common-project,deep learning,0.05567703833333332
+06_hadoop,hadoop-common-project,test automation,0.05619266833333331
+06_hadoop,hadoop-common-project,face detection,0.05670565111111109
+06_hadoop,hadoop-common-project,software design pattern,0.05705470499999993
+06_hadoop,hadoop-common-project,security,0.05755126222222223
+06_hadoop,hadoop-common-project,Image analysis,0.059810028888888866
+06_hadoop,hadoop-common-project,game engine,0.06003838444444437
+06_hadoop,hadoop-common-project,image,0.06050991055555566
+06_hadoop,hadoop-common-project,computer vision,0.060613037222222166
+06_hadoop,hadoop-common-project,web server,0.06284713500000005
+06_hadoop,hadoop-common-project,text editor,0.06296800611111103
+06_hadoop,hadoop-common-project,"extract, transform, load",0.0634864355555555
+06_hadoop,hadoop-common-project,network security,0.06406978222222226
+06_hadoop,hadoop-common-project,image captioning,0.06518231666666657
+06_hadoop,hadoop-common-project,plot,0.06566074555555551
+06_hadoop,hadoop-common-project,regular expression,0.06568376888888888
+06_hadoop,hadoop-common-project,3D modeling,0.066171936111111
+06_hadoop,hadoop-common-project,object detection,0.06638661000000001
+06_hadoop,hadoop-common-project,business dashboard,0.0668399666666667
+06_hadoop,hadoop-common-project,web application,0.06774807222222229
+06_hadoop,hadoop-common-project,web browser engine,0.06780365000000005
+06_hadoop,hadoop-common-project,pattern matching,0.06802929888888887
+06_hadoop,hadoop-common-project,computer graphics,0.06826250555555563
+06_hadoop,hadoop-common-project,data visualization,0.06913764500000008
+06_hadoop,hadoop-common-project,internet bot,0.06974287611111107
+06_hadoop,hadoop-common-project,debugger,0.07020172111111112
+06_hadoop,hadoop-common-project,recommender system,0.0726941161111111
+06_hadoop,hadoop-common-project,front end,0.07401888611111124
+06_hadoop,hadoop-common-project,3D computer graphics,0.07426855111111103
+06_hadoop,hadoop-common-project,digital audio,0.07460926333333329
+06_hadoop,hadoop-common-project,image compression,0.07551186611111105
+06_hadoop,hadoop-common-project,web development,0.07814857388888896
+06_hadoop,hadoop-common-project,Web Components,0.0794721872222221
+06_hadoop,hadoop-common-project,education,0.08026081611111119
+06_hadoop,hadoop-common-project,augmented reality,0.08378624777777771
+06_hadoop,hadoop-common-project,rendering,0.0901239766666666
+06_hadoop,hadoop-common-project,password manager,0.0952012144444444
+06_hadoop,hadoop-common-project,audio player software,0.09665776277777782
+06_hadoop,hadoop-common-project,website,0.10255543499999997
+06_hadoop,hadoop-common-project,virtual reality,0.10967417055555567
+06_hadoop,hadoop-common-project,World Wide Web,0.111461115
+06_hadoop,hadoop-common-project,web scraping,0.1132519827777777
+06_hadoop,hadoop-common-project,web browser,0.11580426277777772
+06_hadoop,hadoop-common-project,search engine,0.12003542944444451
+06_hadoop,hadoop-common-project,video processing,0.12146152055555554
+06_hadoop,hadoop-common-project,web crawler,0.12590926944444453
+06_hadoop,hadoop-common-project,animation,0.15951570222222228
+06_hadoop,hadoop-common-project,video,0.16883999888888884
+06_hadoop,hadoop-common-project,streaming media,0.1710227511111111

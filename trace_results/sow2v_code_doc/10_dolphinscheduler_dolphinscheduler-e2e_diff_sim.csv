@@ -1,0 +1,12 @@
+project_name,module,domain,diff_sim
+10_dolphinscheduler,dolphinscheduler-e2e,search,0.021166769249999995
+10_dolphinscheduler,dolphinscheduler-e2e,website,0.034925866625000024
+10_dolphinscheduler,dolphinscheduler-e2e,serialization,0.055963258500000085
+10_dolphinscheduler,dolphinscheduler-e2e,security,0.07341877325000012
+10_dolphinscheduler,dolphinscheduler-e2e,validator,0.0834434179125
+10_dolphinscheduler,dolphinscheduler-e2e,email,0.08398058862499988
+10_dolphinscheduler,dolphinscheduler-e2e,database,0.1560242015
+10_dolphinscheduler,dolphinscheduler-e2e,client,0.2076961125
+10_dolphinscheduler,dolphinscheduler-e2e,microservices,0.22072782109999992
+10_dolphinscheduler,dolphinscheduler-e2e,automation,0.2317566153
+10_dolphinscheduler,dolphinscheduler-e2e,server,0.3092263125

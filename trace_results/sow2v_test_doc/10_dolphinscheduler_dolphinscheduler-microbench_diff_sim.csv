@@ -1,0 +1,13 @@
+project_name,module,domain,diff_sim
+10_dolphinscheduler,dolphinscheduler-microbench,microservices,0.003795732500000093
+10_dolphinscheduler,dolphinscheduler-microbench,blockchain,0.01096325500000006
+10_dolphinscheduler,dolphinscheduler-microbench,scheduler,0.014331371250000002
+10_dolphinscheduler,dolphinscheduler-microbench,analytics,0.02481454875
+10_dolphinscheduler,dolphinscheduler-microbench,website,0.06838081062500001
+10_dolphinscheduler,dolphinscheduler-microbench,benchmark,0.072194550375
+10_dolphinscheduler,dolphinscheduler-microbench,security,0.16019725125000012
+10_dolphinscheduler,dolphinscheduler-microbench,automation,0.20794587250000002
+10_dolphinscheduler,dolphinscheduler-microbench,logging,0.21825468624999997
+10_dolphinscheduler,dolphinscheduler-microbench,database,0.30682780750000005
+10_dolphinscheduler,dolphinscheduler-microbench,server,0.6427718925
+10_dolphinscheduler,dolphinscheduler-microbench,client,0.6446953025000001

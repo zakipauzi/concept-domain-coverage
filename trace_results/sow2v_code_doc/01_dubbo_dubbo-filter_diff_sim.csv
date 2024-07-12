@@ -1,0 +1,17 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-filter,client,0.01891457525000001
+01_dubbo,dubbo-filter,server,0.032869367500000024
+01_dubbo,dubbo-filter,authentication,0.038819272250000036
+01_dubbo,dubbo-filter,security,0.041766707000000125
+01_dubbo,dubbo-filter,scheduler,0.0549500825
+01_dubbo,dubbo-filter,logging,0.06901338625
+01_dubbo,dubbo-filter,encryption,0.07860418474999999
+01_dubbo,dubbo-filter,database,0.07889083000000008
+01_dubbo,dubbo-filter,compiler,0.1210181501875
+01_dubbo,dubbo-filter,cryptocurrency,0.12590668555
+01_dubbo,dubbo-filter,analytics,0.18478191705000008
+01_dubbo,dubbo-filter,serialization,0.1926615249699999
+01_dubbo,dubbo-filter,validator,0.2566645225
+01_dubbo,dubbo-filter,microservices,0.27098627715
+01_dubbo,dubbo-filter,data,0.3224484476249999
+01_dubbo,dubbo-filter,website,0.41419654375

@@ -1,0 +1,78 @@
+project_name,module,domain,diff_sim
+10_dolphinscheduler,dolphinscheduler-data-quality,linear regression,0.0003794806977399645
+10_dolphinscheduler,dolphinscheduler-data-quality,validator,0.0008217316019207832
+10_dolphinscheduler,dolphinscheduler-data-quality,regular expression,0.0017788451483018441
+10_dolphinscheduler,dolphinscheduler-data-quality,stream processing,0.003425109798125936
+10_dolphinscheduler,dolphinscheduler-data-quality,data compression,0.0034766690448545523
+10_dolphinscheduler,dolphinscheduler-data-quality,schema migration,0.0037913820934889486
+10_dolphinscheduler,dolphinscheduler-data-quality,data,0.0038863644817380694
+10_dolphinscheduler,dolphinscheduler-data-quality,convolutional neural network,0.0042067289409846165
+10_dolphinscheduler,dolphinscheduler-data-quality,big data,0.004352617747768739
+10_dolphinscheduler,dolphinscheduler-data-quality,audio signal processing,0.005657447255192016
+10_dolphinscheduler,dolphinscheduler-data-quality,object–relational mapping,0.006787838077337294
+10_dolphinscheduler,dolphinscheduler-data-quality,data binding,0.006884497400172052
+10_dolphinscheduler,dolphinscheduler-data-quality,graph database,0.008728629583911962
+10_dolphinscheduler,dolphinscheduler-data-quality,distributed database,0.009281392437277658
+10_dolphinscheduler,dolphinscheduler-data-quality,data analysis,0.013343102695204445
+10_dolphinscheduler,dolphinscheduler-data-quality,data visualization,0.013522137135073775
+10_dolphinscheduler,dolphinscheduler-data-quality,pattern matching,0.0140458830182012
+10_dolphinscheduler,dolphinscheduler-data-quality,signal processing,0.015510288308234976
+10_dolphinscheduler,dolphinscheduler-data-quality,password manager,0.016101337644462754
+10_dolphinscheduler,dolphinscheduler-data-quality,penetration test,0.017010997582168508
+10_dolphinscheduler,dolphinscheduler-data-quality,digital security,0.01928117272677754
+10_dolphinscheduler,dolphinscheduler-data-quality,computer data storage,0.019475471021774937
+10_dolphinscheduler,dolphinscheduler-data-quality,database management,0.019493222176000913
+10_dolphinscheduler,dolphinscheduler-data-quality,data mining,0.019677534592319135
+10_dolphinscheduler,dolphinscheduler-data-quality,data science,0.019763556488153866
+10_dolphinscheduler,dolphinscheduler-data-quality,translation,0.01992301731976831
+10_dolphinscheduler,dolphinscheduler-data-quality,streaming media,0.020022469139914456
+10_dolphinscheduler,dolphinscheduler-data-quality,database,0.02036855207447341
+10_dolphinscheduler,dolphinscheduler-data-quality,analytics,0.020382577740626573
+10_dolphinscheduler,dolphinscheduler-data-quality,data structure,0.020972304215733262
+10_dolphinscheduler,dolphinscheduler-data-quality,language model,0.021398157844706334
+10_dolphinscheduler,dolphinscheduler-data-quality,unit testing,0.021860952759732766
+10_dolphinscheduler,dolphinscheduler-data-quality,security,0.02186261661075961
+10_dolphinscheduler,dolphinscheduler-data-quality,logging,0.022385437456748147
+10_dolphinscheduler,dolphinscheduler-data-quality,geographic information system,0.02568500581353539
+10_dolphinscheduler,dolphinscheduler-data-quality,optical character recognition,0.025739048898394734
+10_dolphinscheduler,dolphinscheduler-data-quality,automation,0.02625823128964555
+10_dolphinscheduler,dolphinscheduler-data-quality,server,0.026493373220173755
+10_dolphinscheduler,dolphinscheduler-data-quality,HTTP server,0.02737084111250021
+10_dolphinscheduler,dolphinscheduler-data-quality,File Transfer Protocol,0.02744014023657193
+10_dolphinscheduler,dolphinscheduler-data-quality,text processing,0.027507113015782014
+10_dolphinscheduler,dolphinscheduler-data-quality,artificial neural network,0.027952202399106896
+10_dolphinscheduler,dolphinscheduler-data-quality,computer configuration,0.027966003441245224
+10_dolphinscheduler,dolphinscheduler-data-quality,dependency injection,0.028690661749530277
+10_dolphinscheduler,dolphinscheduler-data-quality,serialization,0.029483807182229538
+10_dolphinscheduler,dolphinscheduler-data-quality,synchronization,0.03133227224145041
+10_dolphinscheduler,dolphinscheduler-data-quality,microservices,0.03220515232458854
+10_dolphinscheduler,dolphinscheduler-data-quality,file system,0.03262733225254566
+10_dolphinscheduler,dolphinscheduler-data-quality,deep learning,0.033006510487626484
+10_dolphinscheduler,dolphinscheduler-data-quality,test automation,0.03319627170285022
+10_dolphinscheduler,dolphinscheduler-data-quality,information processing,0.033491271101626086
+10_dolphinscheduler,dolphinscheduler-data-quality,object detection,0.033974958642772224
+10_dolphinscheduler,dolphinscheduler-data-quality,back end,0.0345244997544113
+10_dolphinscheduler,dolphinscheduler-data-quality,web server,0.03463842253796989
+10_dolphinscheduler,dolphinscheduler-data-quality,telecommunications network,0.03499220177977869
+10_dolphinscheduler,dolphinscheduler-data-quality,email,0.035635177601022194
+10_dolphinscheduler,dolphinscheduler-data-quality,client,0.036469150465717526
+10_dolphinscheduler,dolphinscheduler-data-quality,instant messaging,0.036591828977427965
+10_dolphinscheduler,dolphinscheduler-data-quality,network analysis,0.03660038634166063
+10_dolphinscheduler,dolphinscheduler-data-quality,web service,0.03722045849364464
+10_dolphinscheduler,dolphinscheduler-data-quality,command-line interface,0.03995003503058303
+10_dolphinscheduler,dolphinscheduler-data-quality,web application security,0.040973265648058255
+10_dolphinscheduler,dolphinscheduler-data-quality,cloud computing,0.04154548275702585
+10_dolphinscheduler,dolphinscheduler-data-quality,machine learning,0.04298785520644843
+10_dolphinscheduler,dolphinscheduler-data-quality,artificial intelligence,0.04354120001732742
+10_dolphinscheduler,dolphinscheduler-data-quality,user interface,0.044016390744791356
+10_dolphinscheduler,dolphinscheduler-data-quality,graphical user interface,0.04580745294394084
+10_dolphinscheduler,dolphinscheduler-data-quality,website,0.04602357680769964
+10_dolphinscheduler,dolphinscheduler-data-quality,application performance management,0.04668601653271409
+10_dolphinscheduler,dolphinscheduler-data-quality,reinforcement learning,0.04915494008792565
+10_dolphinscheduler,dolphinscheduler-data-quality,software testing,0.04925082576804518
+10_dolphinscheduler,dolphinscheduler-data-quality,distributed computing,0.04969440529541558
+10_dolphinscheduler,dolphinscheduler-data-quality,web application,0.05025049304235796
+10_dolphinscheduler,dolphinscheduler-data-quality,package management system,0.05081376596829412
+10_dolphinscheduler,dolphinscheduler-data-quality,World Wide Web,0.05175008364484224
+10_dolphinscheduler,dolphinscheduler-data-quality,smart contract,0.06124713259962711
+10_dolphinscheduler,dolphinscheduler-data-quality,content management system,0.06523431041856687

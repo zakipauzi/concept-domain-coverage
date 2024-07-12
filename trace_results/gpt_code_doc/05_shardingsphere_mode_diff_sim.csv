@@ -1,0 +1,117 @@
+project_name,module,domain,diff_sim
+05_shardingsphere,mode,Parser combinator,0.0010952018005842001
+05_shardingsphere,mode,"extract, transform, load",0.002121183167870244
+05_shardingsphere,mode,microservices,0.007753230469698336
+05_shardingsphere,mode,schema migration,0.00790041931404073
+05_shardingsphere,mode,cloud computing,0.008440160571772548
+05_shardingsphere,mode,Containerization,0.009028268297636477
+05_shardingsphere,mode,validator,0.013363340580821004
+05_shardingsphere,mode,dependency injection,0.013737873250477595
+05_shardingsphere,mode,object detection,0.014950431376940743
+05_shardingsphere,mode,file system,0.015524963424294547
+05_shardingsphere,mode,stream processing,0.015741321806654107
+05_shardingsphere,mode,continuous deployment,0.01727671748896542
+05_shardingsphere,mode,convolutional neural network,0.018138089523388246
+05_shardingsphere,mode,natural language,0.018723900457718434
+05_shardingsphere,mode,package management system,0.019362600425422594
+05_shardingsphere,mode,kernel,0.01961074589139178
+05_shardingsphere,mode,language model,0.01987310087693106
+05_shardingsphere,mode,regular expression,0.02039041578638967
+05_shardingsphere,mode,penetration test,0.02072370401771395
+05_shardingsphere,mode,static program analysis,0.021461738487053794
+05_shardingsphere,mode,pattern matching,0.021681452513151567
+05_shardingsphere,mode,content management system,0.022243030310941436
+05_shardingsphere,mode,hyperparameter optimization,0.022521389207320275
+05_shardingsphere,mode,password manager,0.022743916591679736
+05_shardingsphere,mode,code generation,0.023261915965444913
+05_shardingsphere,mode,synchronization,0.02357770059517883
+05_shardingsphere,mode,optical character recognition,0.02400876721861034
+05_shardingsphere,mode,translation,0.0242193637306215
+05_shardingsphere,mode,encryption,0.024331048362752683
+05_shardingsphere,mode,static site generator,0.025183151439065576
+05_shardingsphere,mode,object–relational mapping,0.02546310165888277
+05_shardingsphere,mode,HTTP client,0.025533911393551323
+05_shardingsphere,mode,debugging,0.025758198609509453
+05_shardingsphere,mode,unit testing,0.026140748684191584
+05_shardingsphere,mode,information processing,0.026353430442143777
+05_shardingsphere,mode,text classification,0.02687679339235416
+05_shardingsphere,mode,sorting algorithm,0.0285681114784625
+05_shardingsphere,mode,client,0.028976745769569323
+05_shardingsphere,mode,game engine,0.029144299357409365
+05_shardingsphere,mode,3D modeling,0.029860556398947913
+05_shardingsphere,mode,continuous integration,0.03037089470767851
+05_shardingsphere,mode,smart contract,0.03057262039209807
+05_shardingsphere,mode,text processing,0.030713685537905544
+05_shardingsphere,mode,server,0.030763202815762503
+05_shardingsphere,mode,compiler,0.03115718250530297
+05_shardingsphere,mode,logging,0.031157765860732045
+05_shardingsphere,mode,HTTP server,0.03268250608295975
+05_shardingsphere,mode,Malware Analysis,0.03364735437140465
+05_shardingsphere,mode,security,0.03373531365323401
+05_shardingsphere,mode,internet of things,0.033889133967311524
+05_shardingsphere,mode,data,0.03402398340521118
+05_shardingsphere,mode,distributed computing,0.03439980289150579
+05_shardingsphere,mode,operating system,0.034764561844835895
+05_shardingsphere,mode,word embedding,0.03497401799644395
+05_shardingsphere,mode,game server,0.03503434736052791
+05_shardingsphere,mode,malware,0.03519764886045318
+05_shardingsphere,mode,graph algorithm,0.03533525955536809
+05_shardingsphere,mode,Web Components,0.03533735764413459
+05_shardingsphere,mode,streaming media,0.03540798108187637
+05_shardingsphere,mode,game,0.03598578054098822
+05_shardingsphere,mode,application performance management,0.036140124921111294
+05_shardingsphere,mode,command-line interface,0.03637188736239594
+05_shardingsphere,mode,embedded system,0.03678659762557257
+05_shardingsphere,mode,machine learning,0.03748130374466607
+05_shardingsphere,mode,test automation,0.038179250177984514
+05_shardingsphere,mode,data structure,0.038566853208859886
+05_shardingsphere,mode,software design pattern,0.03864694650744094
+05_shardingsphere,mode,deep learning,0.03893224529659689
+05_shardingsphere,mode,user interface,0.0391933332786949
+05_shardingsphere,mode,automation,0.03989725941794742
+05_shardingsphere,mode,deep neural network,0.04033777253031001
+05_shardingsphere,mode,analytics,0.040393382254154675
+05_shardingsphere,mode,back end,0.040581785499218426
+05_shardingsphere,mode,geographic information system,0.040600859746929285
+05_shardingsphere,mode,computer data storage,0.04079868263956843
+05_shardingsphere,mode,design,0.041167476197445096
+05_shardingsphere,mode,blockchain,0.041219308961923606
+05_shardingsphere,mode,computer configuration,0.04139363091418724
+05_shardingsphere,mode,File Transfer Protocol,0.041559977853718566
+05_shardingsphere,mode,data visualization,0.04244979552553718
+05_shardingsphere,mode,web service,0.04355832306716745
+05_shardingsphere,mode,artificial intelligence,0.04437299037223008
+05_shardingsphere,mode,distributed system,0.04474185898346639
+05_shardingsphere,mode,graphical user interface,0.04532967250069431
+05_shardingsphere,mode,digital image processing,0.04568181805257898
+05_shardingsphere,mode,web browser engine,0.04601909509460256
+05_shardingsphere,mode,automated machine learning,0.04680335725200979
+05_shardingsphere,mode,web server,0.046838365446033814
+05_shardingsphere,mode,artificial neural network,0.047546267020578625
+05_shardingsphere,mode,recommender system,0.04763825139515887
+05_shardingsphere,mode,big data,0.04829223475093014
+05_shardingsphere,mode,data compression,0.048937231580356455
+05_shardingsphere,mode,data binding,0.04933696789941133
+05_shardingsphere,mode,shell tool,0.04934948391512106
+05_shardingsphere,mode,linear regression,0.05020081499862039
+05_shardingsphere,mode,website,0.05024702058378183
+05_shardingsphere,mode,network security,0.05035757336809288
+05_shardingsphere,mode,benchmark,0.052081632149504564
+05_shardingsphere,mode,instant messaging,0.05384598381526717
+05_shardingsphere,mode,question answering,0.054952265493985686
+05_shardingsphere,mode,software testing,0.05537405017477748
+05_shardingsphere,mode,digital security,0.0561058597604025
+05_shardingsphere,mode,World Wide Web,0.05682263152777445
+05_shardingsphere,mode,computer benchmarking,0.05797137894754356
+05_shardingsphere,mode,web development,0.05893728169129908
+05_shardingsphere,mode,data analysis,0.05942627156304603
+05_shardingsphere,mode,software development,0.060495451859430616
+05_shardingsphere,mode,telecommunications network,0.06088372628935057
+05_shardingsphere,mode,support vector machine,0.06314371524538087
+05_shardingsphere,mode,database,0.06511958193031386
+05_shardingsphere,mode,web application security,0.0676873155113985
+05_shardingsphere,mode,database management,0.07041763967546
+05_shardingsphere,mode,distributed database,0.07112375699963924
+05_shardingsphere,mode,digital audio,0.07350169400720086
+05_shardingsphere,mode,web application,0.0749921063347484
+05_shardingsphere,mode,graph database,0.07830354272494311

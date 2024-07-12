@@ -1,0 +1,38 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-container,static program analysis,0.05099832624855993
+01_dubbo,dubbo-container,file system,0.054935121907712214
+01_dubbo,dubbo-container,package management system,0.05899423576077667
+01_dubbo,dubbo-container,command-line interface,0.059648772936900185
+01_dubbo,dubbo-container,web application security,0.06090156884589604
+01_dubbo,dubbo-container,recommender system,0.06250825983357366
+01_dubbo,dubbo-container,classification,0.06736257535498225
+01_dubbo,dubbo-container,software testing,0.06918157024286142
+01_dubbo,dubbo-container,test automation,0.0694364387018579
+01_dubbo,dubbo-container,content management system,0.0743690849667743
+01_dubbo,dubbo-container,cloud computing,0.07539083919937117
+01_dubbo,dubbo-container,graphical user interface,0.07615680635689959
+01_dubbo,dubbo-container,automation,0.07660043859934096
+01_dubbo,dubbo-container,database,0.07677314750355935
+01_dubbo,dubbo-container,web browser engine,0.07787538566050911
+01_dubbo,dubbo-container,machine learning,0.07996550526254653
+01_dubbo,dubbo-container,algorithm,0.07996720353555442
+01_dubbo,dubbo-container,instant messaging,0.08057315753180316
+01_dubbo,dubbo-container,user interface,0.08137835718282749
+01_dubbo,dubbo-container,analytics,0.08157602801246233
+01_dubbo,dubbo-container,operating system,0.08281239625127834
+01_dubbo,dubbo-container,server,0.08460849026299255
+01_dubbo,dubbo-container,distributed system,0.08532814236844699
+01_dubbo,dubbo-container,web server,0.0859075017302402
+01_dubbo,dubbo-container,security,0.08593124670097574
+01_dubbo,dubbo-container,website,0.08610711715484043
+01_dubbo,dubbo-container,telecommunications network,0.08845807347462475
+01_dubbo,dubbo-container,World Wide Web,0.08988127950727487
+01_dubbo,dubbo-container,streaming media,0.09074368272110156
+01_dubbo,dubbo-container,embedded system,0.09149251456974461
+01_dubbo,dubbo-container,web application,0.09189125430638556
+01_dubbo,dubbo-container,HTTP server,0.09226989878199632
+01_dubbo,dubbo-container,big data,0.09290267656162376
+01_dubbo,dubbo-container,benchmark,0.09592549895121127
+01_dubbo,dubbo-container,web service,0.09642388893700293
+01_dubbo,dubbo-container,Web Components,0.09835068052055129
+01_dubbo,dubbo-container,microservices,0.10224258376428763

@@ -1,0 +1,207 @@
+project_name,module,domain,diff_sim
+14_storm,storm-client,encryption,0.00022075698412699074
+14_storm,storm-client,information retrieval,0.0002690469841269416
+14_storm,storm-client,stock market,0.0004953798412699051
+14_storm,storm-client,word embedding,0.0006116439682540276
+14_storm,storm-client,code generation,0.0009935380952381667
+14_storm,storm-client,authentication,0.001215185555555498
+14_storm,storm-client,linear regression,0.0014850458730159
+14_storm,storm-client,search,0.0015770431746032765
+14_storm,storm-client,software engineering,0.0022137207936507863
+14_storm,storm-client,regression analysis,0.0029165761904761944
+14_storm,storm-client,blockchain,0.0033901923809523393
+14_storm,storm-client,continuous deployment,0.0039489839682539385
+14_storm,storm-client,microservices,0.004158538888888952
+14_storm,storm-client,HTTP server,0.004840994603174664
+14_storm,storm-client,Reverse engineering,0.005877308253968094
+14_storm,storm-client,security,0.00595296428571418
+14_storm,storm-client,debugging,0.006304262698412666
+14_storm,storm-client,router,0.006477790952380935
+14_storm,storm-client,interpreter,0.0067216457142857955
+14_storm,storm-client,smart contract,0.007037316349206346
+14_storm,storm-client,cloud computing,0.007791237301587373
+14_storm,storm-client,compiler,0.008111867936507977
+14_storm,storm-client,distributed multimedia communications platform,0.008318306031746214
+14_storm,storm-client,Containerization,0.009071323968253941
+14_storm,storm-client,web browser engine,0.009166254920634942
+14_storm,storm-client,network security,0.00935888142857133
+14_storm,storm-client,cryptocurrency,0.009745916984127023
+14_storm,storm-client,web server,0.010144485079365162
+14_storm,storm-client,internet of things,0.010366948888888894
+14_storm,storm-client,regular expression,0.01070810841269837
+14_storm,storm-client,internet bot,0.010888444126984143
+14_storm,storm-client,machine translation,0.011271710793650802
+14_storm,storm-client,kernel,0.01176912682539688
+14_storm,storm-client,image captioning,0.01183434841269837
+14_storm,storm-client,logging,0.012331126666666636
+14_storm,storm-client,logistic regression model,0.012495313492063564
+14_storm,storm-client,syntax highlighting,0.012635096825396763
+14_storm,storm-client,penetration test,0.012758773968253923
+14_storm,storm-client,database management,0.013153711111111133
+14_storm,storm-client,middleware,0.013221050476190377
+14_storm,storm-client,static site generator,0.013605712222222177
+14_storm,storm-client,command-line interface,0.014067815079365054
+14_storm,storm-client,web crawler,0.01577475825396818
+14_storm,storm-client,user interface,0.016005867936507934
+14_storm,storm-client,documentation,0.016117059365079345
+14_storm,storm-client,scheduler,0.016118478730158703
+14_storm,storm-client,support vector machine,0.016167967777777792
+14_storm,storm-client,routing,0.016196979206349216
+14_storm,storm-client,shell tool,0.016701343492063536
+14_storm,storm-client,DevOps,0.016881912698412715
+14_storm,storm-client,Malware Analysis,0.017097926984126988
+14_storm,storm-client,augmented reality,0.017255508412698406
+14_storm,storm-client,video,0.017304139047619016
+14_storm,storm-client,web scraping,0.01749123301587291
+14_storm,storm-client,digital audio,0.018364599682539562
+14_storm,storm-client,banking industry,0.01943568873015883
+14_storm,storm-client,translation,0.01950549873015872
+14_storm,storm-client,virtualization,0.01951527031746031
+14_storm,storm-client,telecommunications network,0.01960928428571418
+14_storm,storm-client,unit testing,0.022060218730158676
+14_storm,storm-client,network analysis,0.02265828746031745
+14_storm,storm-client,operating system,0.022796679682539678
+14_storm,storm-client,data,0.022927023650793688
+14_storm,storm-client,artificial intelligence,0.023258496666666573
+14_storm,storm-client,virtual machine,0.023719044603174644
+14_storm,storm-client,data compression,0.023755024285714355
+14_storm,storm-client,business dashboard,0.023809873333333287
+14_storm,storm-client,database,0.024019924920634983
+14_storm,storm-client,sentiment analysis,0.024139162380952373
+14_storm,storm-client,software testing,0.02420087999999998
+14_storm,storm-client,animation,0.024959828888888924
+14_storm,storm-client,3D modeling,0.025175134603174498
+14_storm,storm-client,game engine,0.02522161412698415
+14_storm,storm-client,Naive Bayes classifier,0.0255868363492065
+14_storm,storm-client,cryptography,0.025669267460317446
+14_storm,storm-client,validator,0.026012975714285735
+14_storm,storm-client,"extract, transform, load",0.02659143920634921
+14_storm,storm-client,Image analysis,0.026657803015873005
+14_storm,storm-client,file system,0.026967946984127078
+14_storm,storm-client,web service,0.027235289365079463
+14_storm,storm-client,text classification,0.02744905476190468
+14_storm,storm-client,software architecture,0.027771059206349036
+14_storm,storm-client,front end,0.027882044920634952
+14_storm,storm-client,graphical user interface,0.028019647142857318
+14_storm,storm-client,computer configuration,0.02822728285714282
+14_storm,storm-client,natural language,0.028232104761904686
+14_storm,storm-client,optical character recognition,0.028409280634920597
+14_storm,storm-client,language model,0.028451323492063363
+14_storm,storm-client,serialization,0.028589552698412568
+14_storm,storm-client,data binding,0.029521792698412708
+14_storm,storm-client,classification,0.02962081619047624
+14_storm,storm-client,computer data storage,0.030038716507936436
+14_storm,storm-client,image recognition,0.030978019682539715
+14_storm,storm-client,back end,0.031103731904761955
+14_storm,storm-client,server,0.03116649285714279
+14_storm,storm-client,web application security,0.03129926333333327
+14_storm,storm-client,computer vision,0.032042560952381005
+14_storm,storm-client,game server,0.032246262539682546
+14_storm,storm-client,text processing,0.03245588761904766
+14_storm,storm-client,facial recognition system,0.03254676984126981
+14_storm,storm-client,dependency injection,0.03349393412698409
+14_storm,storm-client,continuous integration,0.033585899365079386
+14_storm,storm-client,random forest,0.03392378349206365
+14_storm,storm-client,rendering,0.03427488777777776
+14_storm,storm-client,functional programming,0.03439573158730158
+14_storm,storm-client,named-entity recognition,0.0345978514285713
+14_storm,storm-client,automation,0.03514823936507938
+14_storm,storm-client,audio signal processing,0.035457497301587315
+14_storm,storm-client,password manager,0.036099145714285685
+14_storm,storm-client,plot,0.036154031111111096
+14_storm,storm-client,linear algebra,0.03655029571428564
+14_storm,storm-client,machine learning,0.036959118253968304
+14_storm,storm-client,WebSocket,0.03704483920634938
+14_storm,storm-client,natural language processing,0.03707302079365071
+14_storm,storm-client,text mining,0.037405926507936504
+14_storm,storm-client,education,0.03780811904761899
+14_storm,storm-client,graph,0.03799820888888894
+14_storm,storm-client,integrated development environment,0.03851099507936512
+14_storm,storm-client,software design pattern,0.039375387301587295
+14_storm,storm-client,digital security,0.03937808317460323
+14_storm,storm-client,game,0.039444201904762
+14_storm,storm-client,signal processing,0.0395882676190476
+14_storm,storm-client,test automation,0.04027884857142855
+14_storm,storm-client,object detection,0.04030909619047618
+14_storm,storm-client,backup,0.04040930222222222
+14_storm,storm-client,computational science,0.04057748476190465
+14_storm,storm-client,natural language understanding,0.040902194444444484
+14_storm,storm-client,application performance management,0.04113187936507956
+14_storm,storm-client,network monitoring,0.04243058428571439
+14_storm,storm-client,face detection,0.043344826984127005
+14_storm,storm-client,image editing,0.0435205349206349
+14_storm,storm-client,Web Components,0.044483905396825396
+14_storm,storm-client,camera,0.04538916063492071
+14_storm,storm-client,digital image processing,0.046202993333333386
+14_storm,storm-client,design,0.046344186349206395
+14_storm,storm-client,World Wide Web,0.04670613571428567
+14_storm,storm-client,graph database,0.04698160904761911
+14_storm,storm-client,reactive programming,0.04699458746031748
+14_storm,storm-client,data science,0.047152314920634986
+14_storm,storm-client,graph algorithm,0.04786835539682549
+14_storm,storm-client,computational biology,0.04842381857142847
+14_storm,storm-client,neural network,0.0490981580952381
+14_storm,storm-client,Q-learning,0.04933309968253974
+14_storm,storm-client,search engine,0.0494350763492063
+14_storm,storm-client,synchronization,0.049636368095237915
+14_storm,storm-client,data analysis,0.05006814730158732
+14_storm,storm-client,visualization,0.05073287999999998
+14_storm,storm-client,distributed computing,0.05093907015873006
+14_storm,storm-client,deep learning,0.0509770941269842
+14_storm,storm-client,Kalman filter,0.052057172222222226
+14_storm,storm-client,embedded system,0.05231943111111109
+14_storm,storm-client,statistics,0.05246133730158742
+14_storm,storm-client,analytics,0.052672368095238065
+14_storm,storm-client,distributed system,0.05302272523809515
+14_storm,storm-client,question answering,0.05350253111111114
+14_storm,storm-client,content management system,0.0541145436507936
+14_storm,storm-client,time series,0.05413747777777772
+14_storm,storm-client,geographic information system,0.05428439888888881
+14_storm,storm-client,big data,0.054349257777777715
+14_storm,storm-client,evolutionary algorithm,0.05580638285714279
+14_storm,storm-client,mathematical optimization,0.056526866349206284
+14_storm,storm-client,music,0.05695112825396831
+14_storm,storm-client,information processing,0.05773089126984132
+14_storm,storm-client,knowledge graph,0.05822466793650799
+14_storm,storm-client,Semantic Web,0.05884314365079374
+14_storm,storm-client,convolutional neural network,0.05893387158730162
+14_storm,storm-client,HTTP client,0.059705559365079375
+14_storm,storm-client,artificial neural network,0.060722772380952306
+14_storm,storm-client,static program analysis tool,0.061105935714285686
+14_storm,storm-client,software development,0.061759649841269804
+14_storm,storm-client,deep neural network,0.06183400793650784
+14_storm,storm-client,data mining,0.06193263777777769
+14_storm,storm-client,algorithm,0.0624715666666667
+14_storm,storm-client,data visualization,0.06251227984126978
+14_storm,storm-client,sorting algorithm,0.06333428809523811
+14_storm,storm-client,social network,0.06345970809523815
+14_storm,storm-client,File Transfer Protocol,0.06359779269841259
+14_storm,storm-client,distributed database,0.0643373287301589
+14_storm,storm-client,recommender system,0.06480543047619047
+14_storm,storm-client,long short-term memory,0.06566510619047622
+14_storm,storm-client,instant messaging,0.06617769365079373
+14_storm,storm-client,anomaly detection,0.06630577507936508
+14_storm,storm-client,website,0.06657861999999992
+14_storm,storm-client,reinforcement learning,0.06759859444444433
+14_storm,storm-client,genetic algorithm,0.06859212571428569
+14_storm,storm-client,web application,0.06934493492063493
+14_storm,storm-client,streaming media,0.0713475049206348
+14_storm,storm-client,cluster analysis,0.0752808344444445
+14_storm,storm-client,Parser combinator,0.07591292587301596
+14_storm,storm-client,Bidirectional recurrent neural networks,0.07806608507936519
+14_storm,storm-client,benchmark,0.07884796523809529
+14_storm,storm-client,static program analysis,0.07921571301587305
+14_storm,storm-client,malware,0.07975734428571435
+14_storm,storm-client,pattern matching,0.08049381079365087
+14_storm,storm-client,mobile application development,0.08367211476190473
+14_storm,storm-client,recurrent neural network,0.08525672095238102
+14_storm,storm-client,e-commerce,0.08612728190476204
+14_storm,storm-client,stream processing,0.08623093000000004
+14_storm,storm-client,client,0.08707002444444445
+14_storm,storm-client,data structure,0.08786888984126978
+14_storm,storm-client,package management system,0.08939091999999993
+14_storm,storm-client,audio player software,0.1064091112698412
+14_storm,storm-client,web development,0.10695431650793663
+14_storm,storm-client,object–relational mapping,0.10786357444444455
+14_storm,storm-client,quantum computer,0.11615376841269831
+14_storm,storm-client,email,0.22539999174603187

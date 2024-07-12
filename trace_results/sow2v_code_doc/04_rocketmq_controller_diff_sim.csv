@@ -1,0 +1,17 @@
+project_name,module,domain,diff_sim
+04_rocketmq,controller,logging,0.00966629749999992
+04_rocketmq,controller,microservices,0.01695003874999998
+04_rocketmq,controller,blockchain,0.01839729499999998
+04_rocketmq,controller,website,0.02304519375000011
+04_rocketmq,controller,security,0.02837278874999999
+04_rocketmq,controller,scheduler,0.031593094999999904
+04_rocketmq,controller,analytics,0.03600164000000011
+04_rocketmq,controller,algorithm,0.049870096
+04_rocketmq,controller,serialization,0.074902606125
+04_rocketmq,controller,database,0.09196127625
+04_rocketmq,controller,data,0.0927775737499999
+04_rocketmq,controller,server,0.09478702375000014
+04_rocketmq,controller,robotics,0.09870801478749991
+04_rocketmq,controller,email,0.10628789500000002
+04_rocketmq,controller,automation,0.12636777575
+04_rocketmq,controller,client,0.12914648625000003

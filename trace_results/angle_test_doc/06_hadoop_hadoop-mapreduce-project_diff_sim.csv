@@ -1,0 +1,222 @@
+project_name,module,domain,diff_sim
+06_hadoop,hadoop-mapreduce-project,data,0.00035357333333341234
+06_hadoop,hadoop-mapreduce-project,time series,0.00045095555555557665
+06_hadoop,hadoop-mapreduce-project,blockchain,0.002348897777777692
+06_hadoop,hadoop-mapreduce-project,digital security,0.0026314261111111126
+06_hadoop,hadoop-mapreduce-project,classification,0.0026837888888888717
+06_hadoop,hadoop-mapreduce-project,analytics,0.0032617005555555245
+06_hadoop,hadoop-mapreduce-project,data binding,0.0034845794444444134
+06_hadoop,hadoop-mapreduce-project,anomaly detection,0.0035018877777778235
+06_hadoop,hadoop-mapreduce-project,data analysis,0.003598597222222333
+06_hadoop,hadoop-mapreduce-project,operating system,0.004388180000000019
+06_hadoop,hadoop-mapreduce-project,interpreter,0.0044547811111110835
+06_hadoop,hadoop-mapreduce-project,artificial neural network,0.004573626666666664
+06_hadoop,hadoop-mapreduce-project,web application security,0.004614179999999968
+06_hadoop,hadoop-mapreduce-project,compiler,0.004692256666666728
+06_hadoop,hadoop-mapreduce-project,backup,0.004773309444444429
+06_hadoop,hadoop-mapreduce-project,text classification,0.005039719444444424
+06_hadoop,hadoop-mapreduce-project,computer data storage,0.0053965777777778
+06_hadoop,hadoop-mapreduce-project,banking industry,0.005515659444444432
+06_hadoop,hadoop-mapreduce-project,embedded system,0.005725148333333208
+06_hadoop,hadoop-mapreduce-project,Q-learning,0.005842013888888831
+06_hadoop,hadoop-mapreduce-project,router,0.005926144444444503
+06_hadoop,hadoop-mapreduce-project,transfer learning,0.006151381111111021
+06_hadoop,hadoop-mapreduce-project,neural network,0.00644824555555551
+06_hadoop,hadoop-mapreduce-project,image segmentation,0.006606607222222283
+06_hadoop,hadoop-mapreduce-project,cryptography,0.0072998461111110635
+06_hadoop,hadoop-mapreduce-project,cluster analysis,0.0074079311111111545
+06_hadoop,hadoop-mapreduce-project,computational science,0.00742840666666672
+06_hadoop,hadoop-mapreduce-project,server,0.007555549444444365
+06_hadoop,hadoop-mapreduce-project,email,0.0077524499999998
+06_hadoop,hadoop-mapreduce-project,Naive Bayes classifier,0.007896508888888876
+06_hadoop,hadoop-mapreduce-project,artificial intelligence,0.008134074999999907
+06_hadoop,hadoop-mapreduce-project,content management system,0.008291879444444317
+06_hadoop,hadoop-mapreduce-project,machine learning,0.008647355555555514
+06_hadoop,hadoop-mapreduce-project,statistics,0.008728692222222112
+06_hadoop,hadoop-mapreduce-project,virtual machine,0.008871152222222234
+06_hadoop,hadoop-mapreduce-project,encryption,0.009063544999999895
+06_hadoop,hadoop-mapreduce-project,data science,0.009191203333333287
+06_hadoop,hadoop-mapreduce-project,synchronization,0.00919461833333346
+06_hadoop,hadoop-mapreduce-project,network analysis,0.009319583888888872
+06_hadoop,hadoop-mapreduce-project,graph,0.010153337777777882
+06_hadoop,hadoop-mapreduce-project,Bidirectional recurrent neural networks,0.010169755000000003
+06_hadoop,hadoop-mapreduce-project,text mining,0.010268844444444425
+06_hadoop,hadoop-mapreduce-project,big data,0.01085462722222219
+06_hadoop,hadoop-mapreduce-project,mathematical optimization,0.01103530444444445
+06_hadoop,hadoop-mapreduce-project,long short-term memory,0.011323244999999982
+06_hadoop,hadoop-mapreduce-project,hyperparameter optimization,0.011394472222222285
+06_hadoop,hadoop-mapreduce-project,computer science,0.011498750555555493
+06_hadoop,hadoop-mapreduce-project,graph algorithm,0.01197404611111108
+06_hadoop,hadoop-mapreduce-project,support vector machine,0.01205398055555551
+06_hadoop,hadoop-mapreduce-project,object–relational mapping,0.01207939611111114
+06_hadoop,hadoop-mapreduce-project,internet of things,0.012154651666666683
+06_hadoop,hadoop-mapreduce-project,genetic algorithm,0.01215660111111122
+06_hadoop,hadoop-mapreduce-project,instant messaging,0.012184166666666774
+06_hadoop,hadoop-mapreduce-project,data structure,0.012223802777777792
+06_hadoop,hadoop-mapreduce-project,text processing,0.01230764833333342
+06_hadoop,hadoop-mapreduce-project,evolutionary algorithm,0.012838241111111093
+06_hadoop,hadoop-mapreduce-project,question answering,0.013253552777777788
+06_hadoop,hadoop-mapreduce-project,geographic information system,0.0133247155555557
+06_hadoop,hadoop-mapreduce-project,cloud computing,0.013481610555555579
+06_hadoop,hadoop-mapreduce-project,penetration test,0.013483663333333284
+06_hadoop,hadoop-mapreduce-project,computer programming,0.014298571111111047
+06_hadoop,hadoop-mapreduce-project,information processing,0.014456564999999921
+06_hadoop,hadoop-mapreduce-project,benchmark,0.015461692777777758
+06_hadoop,hadoop-mapreduce-project,information extraction,0.015739989444444435
+06_hadoop,hadoop-mapreduce-project,convolutional neural network,0.015825433333333305
+06_hadoop,hadoop-mapreduce-project,text editor,0.01589507944444446
+06_hadoop,hadoop-mapreduce-project,productivity,0.01618156833333323
+06_hadoop,hadoop-mapreduce-project,word embedding,0.016248371111111104
+06_hadoop,hadoop-mapreduce-project,real-time computing,0.01712618388888887
+06_hadoop,hadoop-mapreduce-project,syntax highlighting,0.017264043888888914
+06_hadoop,hadoop-mapreduce-project,authentication,0.017473847777777662
+06_hadoop,hadoop-mapreduce-project,image editing,0.01823723888888884
+06_hadoop,hadoop-mapreduce-project,game server,0.01841581888888899
+06_hadoop,hadoop-mapreduce-project,language model,0.01929626055555561
+06_hadoop,hadoop-mapreduce-project,translation,0.019518079444444614
+06_hadoop,hadoop-mapreduce-project,telecommunications network,0.019556485555555503
+06_hadoop,hadoop-mapreduce-project,genomics,0.019574218888888884
+06_hadoop,hadoop-mapreduce-project,sentiment analysis,0.01961461166666667
+06_hadoop,hadoop-mapreduce-project,design,0.0199819650000001
+06_hadoop,hadoop-mapreduce-project,database,0.020230410000000087
+06_hadoop,hadoop-mapreduce-project,documentation,0.020696611111110985
+06_hadoop,hadoop-mapreduce-project,natural language understanding,0.020862150555555514
+06_hadoop,hadoop-mapreduce-project,static site generator,0.02086744888888903
+06_hadoop,hadoop-mapreduce-project,web service,0.021554396111111207
+06_hadoop,hadoop-mapreduce-project,facial recognition system,0.021741753888888826
+06_hadoop,hadoop-mapreduce-project,named-entity recognition,0.021792558333333267
+06_hadoop,hadoop-mapreduce-project,logistic regression model,0.022140998333333328
+06_hadoop,hadoop-mapreduce-project,reinforcement learning,0.02259213388888881
+06_hadoop,hadoop-mapreduce-project,digital image processing,0.02273063333333325
+06_hadoop,hadoop-mapreduce-project,algorithmic trading,0.023091351111111214
+06_hadoop,hadoop-mapreduce-project,deep neural network,0.023091997222222327
+06_hadoop,hadoop-mapreduce-project,signal processing,0.02326445388888887
+06_hadoop,hadoop-mapreduce-project,simulation,0.023269919444444398
+06_hadoop,hadoop-mapreduce-project,image classification,0.023466466111111084
+06_hadoop,hadoop-mapreduce-project,logging,0.02387355944444447
+06_hadoop,hadoop-mapreduce-project,regression analysis,0.0243187938888888
+06_hadoop,hadoop-mapreduce-project,middleware,0.024584995
+06_hadoop,hadoop-mapreduce-project,electronic trading platform,0.025173842222222187
+06_hadoop,hadoop-mapreduce-project,parsing,0.025189980555555602
+06_hadoop,hadoop-mapreduce-project,kernel,0.02521506388888889
+06_hadoop,hadoop-mapreduce-project,distributed database,0.025610156666666717
+06_hadoop,hadoop-mapreduce-project,security,0.02577794999999994
+06_hadoop,hadoop-mapreduce-project,mathematics,0.025787300000000013
+06_hadoop,hadoop-mapreduce-project,data compression,0.02579625222222215
+06_hadoop,hadoop-mapreduce-project,back end,0.025848162222222193
+06_hadoop,hadoop-mapreduce-project,bitcoin,0.026309317777777785
+06_hadoop,hadoop-mapreduce-project,Kalman filter,0.0276058194444444
+06_hadoop,hadoop-mapreduce-project,automated machine learning,0.0276925638888888
+06_hadoop,hadoop-mapreduce-project,continuous delivery,0.027698839444444567
+06_hadoop,hadoop-mapreduce-project,search,0.02849793555555552
+06_hadoop,hadoop-mapreduce-project,business dashboard,0.029137413333333362
+06_hadoop,hadoop-mapreduce-project,linear regression,0.029558047777777707
+06_hadoop,hadoop-mapreduce-project,lexical analysis,0.029625646666666672
+06_hadoop,hadoop-mapreduce-project,stock market,0.029966005000000018
+06_hadoop,hadoop-mapreduce-project,Containerization,0.030146862777777672
+06_hadoop,hadoop-mapreduce-project,client,0.030956598333333363
+06_hadoop,hadoop-mapreduce-project,dependency injection,0.03140492722222227
+06_hadoop,hadoop-mapreduce-project,speech synthesis,0.031418722222222195
+06_hadoop,hadoop-mapreduce-project,automation,0.032151194444444475
+06_hadoop,hadoop-mapreduce-project,web development,0.03271980611111114
+06_hadoop,hadoop-mapreduce-project,optical character recognition,0.033154207222222176
+06_hadoop,hadoop-mapreduce-project,Malware Analysis,0.03367943611111124
+06_hadoop,hadoop-mapreduce-project,continuous integration,0.03382222888888886
+06_hadoop,hadoop-mapreduce-project,graphical user interface,0.0338338583333333
+06_hadoop,hadoop-mapreduce-project,image captioning,0.03403888999999988
+06_hadoop,hadoop-mapreduce-project,sorting algorithm,0.03417145333333321
+06_hadoop,hadoop-mapreduce-project,stream processing,0.03456091777777781
+06_hadoop,hadoop-mapreduce-project,graph database,0.034627185555555606
+06_hadoop,hadoop-mapreduce-project,data mining,0.0347270755555556
+06_hadoop,hadoop-mapreduce-project,deep learning,0.035283319444444516
+06_hadoop,hadoop-mapreduce-project,font,0.03592480166666667
+06_hadoop,hadoop-mapreduce-project,random forest,0.036635581111111204
+06_hadoop,hadoop-mapreduce-project,plot,0.03680390333333333
+06_hadoop,hadoop-mapreduce-project,game,0.036869188333333414
+06_hadoop,hadoop-mapreduce-project,knowledge graph,0.03707862444444443
+06_hadoop,hadoop-mapreduce-project,algorithm,0.03709771111111121
+06_hadoop,hadoop-mapreduce-project,distributed computing,0.03711822555555555
+06_hadoop,hadoop-mapreduce-project,"extract, transform, load",0.038826621111111126
+06_hadoop,hadoop-mapreduce-project,cryptocurrency,0.03895439055555561
+06_hadoop,hadoop-mapreduce-project,routing,0.039359460555555614
+06_hadoop,hadoop-mapreduce-project,network security,0.0395906711111112
+06_hadoop,hadoop-mapreduce-project,file system,0.03976136888888887
+06_hadoop,hadoop-mapreduce-project,audio signal processing,0.03981201666666667
+06_hadoop,hadoop-mapreduce-project,user interface,0.03982354277777794
+06_hadoop,hadoop-mapreduce-project,Parser combinator,0.03982971055555562
+06_hadoop,hadoop-mapreduce-project,microservices,0.04069239499999999
+06_hadoop,hadoop-mapreduce-project,code generation,0.04152264444444442
+06_hadoop,hadoop-mapreduce-project,image recognition,0.04176479222222218
+06_hadoop,hadoop-mapreduce-project,linear algebra,0.04184520777777778
+06_hadoop,hadoop-mapreduce-project,distributed system,0.04203118333333333
+06_hadoop,hadoop-mapreduce-project,mobile application development,0.04222153500000003
+06_hadoop,hadoop-mapreduce-project,3D modeling,0.042648993888888875
+06_hadoop,hadoop-mapreduce-project,data visualization,0.04276273611111109
+06_hadoop,hadoop-mapreduce-project,debugger,0.04280853111111099
+06_hadoop,hadoop-mapreduce-project,database management,0.04346905388888889
+06_hadoop,hadoop-mapreduce-project,File Transfer Protocol,0.04348702999999998
+06_hadoop,hadoop-mapreduce-project,computer vision,0.043937912777777866
+06_hadoop,hadoop-mapreduce-project,object detection,0.044580341111111144
+06_hadoop,hadoop-mapreduce-project,software engineering,0.04459497888888897
+06_hadoop,hadoop-mapreduce-project,network monitoring,0.044626786111111094
+06_hadoop,hadoop-mapreduce-project,unit testing,0.0449394766666667
+06_hadoop,hadoop-mapreduce-project,computer configuration,0.04519041611111113
+06_hadoop,hadoop-mapreduce-project,natural language processing,0.04742883833333339
+06_hadoop,hadoop-mapreduce-project,serialization,0.047432789444444456
+06_hadoop,hadoop-mapreduce-project,smart contract,0.04790217500000005
+06_hadoop,hadoop-mapreduce-project,integrated development environment,0.048235274444444476
+06_hadoop,hadoop-mapreduce-project,web application,0.048802122222222244
+06_hadoop,hadoop-mapreduce-project,malware,0.049931963888888986
+06_hadoop,hadoop-mapreduce-project,package management system,0.05014620277777776
+06_hadoop,hadoop-mapreduce-project,RNA sequencing,0.05041077222222218
+06_hadoop,hadoop-mapreduce-project,validator,0.050621820555555475
+06_hadoop,hadoop-mapreduce-project,game engine,0.05117191555555545
+06_hadoop,hadoop-mapreduce-project,front end,0.05141102166666667
+06_hadoop,hadoop-mapreduce-project,pattern matching,0.0522792422222223
+06_hadoop,hadoop-mapreduce-project,HTTP client,0.052295775000000044
+06_hadoop,hadoop-mapreduce-project,information retrieval,0.052366081111111074
+06_hadoop,hadoop-mapreduce-project,software development,0.052538085555555614
+06_hadoop,hadoop-mapreduce-project,computer graphics,0.05259966666666682
+06_hadoop,hadoop-mapreduce-project,image,0.05349801833333345
+06_hadoop,hadoop-mapreduce-project,social network,0.0535183594444445
+06_hadoop,hadoop-mapreduce-project,Image analysis,0.05458341555555557
+06_hadoop,hadoop-mapreduce-project,HTTP server,0.05481359666666663
+06_hadoop,hadoop-mapreduce-project,distributed multimedia communications platform,0.0555725938888888
+06_hadoop,hadoop-mapreduce-project,rendering,0.05590363444444446
+06_hadoop,hadoop-mapreduce-project,scheduler,0.056518667777777865
+06_hadoop,hadoop-mapreduce-project,application performance management,0.05660134277777784
+06_hadoop,hadoop-mapreduce-project,3D computer graphics,0.05707020888888881
+06_hadoop,hadoop-mapreduce-project,web server,0.05788756166666664
+06_hadoop,hadoop-mapreduce-project,serverless computing,0.05842930055555551
+06_hadoop,hadoop-mapreduce-project,e-commerce,0.060070029444444395
+06_hadoop,hadoop-mapreduce-project,static program analysis,0.06008458611111123
+06_hadoop,hadoop-mapreduce-project,schema migration,0.06026607611111101
+06_hadoop,hadoop-mapreduce-project,regular expression,0.06059012888888887
+06_hadoop,hadoop-mapreduce-project,face detection,0.060765887777777805
+06_hadoop,hadoop-mapreduce-project,software testing,0.06097795277777779
+06_hadoop,hadoop-mapreduce-project,Web Components,0.06234394277777772
+06_hadoop,hadoop-mapreduce-project,static program analysis tool,0.06309415722222217
+06_hadoop,hadoop-mapreduce-project,geographic information,0.06341476611111108
+06_hadoop,hadoop-mapreduce-project,command-line interface,0.06458205722222221
+06_hadoop,hadoop-mapreduce-project,reactive programming,0.06516067499999995
+06_hadoop,hadoop-mapreduce-project,image compression,0.06600591055555555
+06_hadoop,hadoop-mapreduce-project,web browser engine,0.06768373999999994
+06_hadoop,hadoop-mapreduce-project,augmented reality,0.06806685444444438
+06_hadoop,hadoop-mapreduce-project,WebSocket,0.06845549222222236
+06_hadoop,hadoop-mapreduce-project,shell tool,0.07015761000000004
+06_hadoop,hadoop-mapreduce-project,visualization,0.0726259055555557
+06_hadoop,hadoop-mapreduce-project,recommender system,0.0757435316666667
+06_hadoop,hadoop-mapreduce-project,password manager,0.07865461444444444
+06_hadoop,hadoop-mapreduce-project,test automation,0.08899227722222214
+06_hadoop,hadoop-mapreduce-project,virtual reality,0.09014220833333336
+06_hadoop,hadoop-mapreduce-project,continuous deployment,0.09210515444444439
+06_hadoop,hadoop-mapreduce-project,DevOps,0.09352416000000002
+06_hadoop,hadoop-mapreduce-project,video processing,0.10612329611111115
+06_hadoop,hadoop-mapreduce-project,website,0.1067675661111111
+06_hadoop,hadoop-mapreduce-project,World Wide Web,0.10840706833333341
+06_hadoop,hadoop-mapreduce-project,web scraping,0.11746150500000002
+06_hadoop,hadoop-mapreduce-project,web crawler,0.11903205388888899
+06_hadoop,hadoop-mapreduce-project,search engine,0.12917982611111112
+06_hadoop,hadoop-mapreduce-project,web browser,0.131673345
+06_hadoop,hadoop-mapreduce-project,video,0.15619804222222233
+06_hadoop,hadoop-mapreduce-project,streaming media,0.18515291555555558

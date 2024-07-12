@@ -1,0 +1,103 @@
+project_name,module,domain,diff_sim
+03_flink,flink-rpc,data binding,0.0008143233333333111
+03_flink,flink-rpc,computer vision,0.0010203844444444665
+03_flink,flink-rpc,validator,0.001175014444444289
+03_flink,flink-rpc,linear regression,0.0012478588888888975
+03_flink,flink-rpc,computer configuration,0.0013719233333334135
+03_flink,flink-rpc,static program analysis,0.0021743888888888785
+03_flink,flink-rpc,regular expression,0.0022319800000000223
+03_flink,flink-rpc,big data,0.002562322222222191
+03_flink,flink-rpc,password manager,0.003211809999999926
+03_flink,flink-rpc,mobile application development,0.0033935300000000335
+03_flink,flink-rpc,website,0.0034699844444445183
+03_flink,flink-rpc,classification,0.0035773344444445243
+03_flink,flink-rpc,image recognition,0.0036502855555555214
+03_flink,flink-rpc,pattern matching,0.004093818888888878
+03_flink,flink-rpc,user interface,0.004878232222222334
+03_flink,flink-rpc,translation,0.004930077777777708
+03_flink,flink-rpc,recommender system,0.005022011111111113
+03_flink,flink-rpc,support vector machine,0.00655649888888904
+03_flink,flink-rpc,synchronization,0.006750593333333388
+03_flink,flink-rpc,facial recognition system,0.007769834444444512
+03_flink,flink-rpc,regression analysis,0.00782235333333331
+03_flink,flink-rpc,operating system,0.008061658888888878
+03_flink,flink-rpc,scheduler,0.008318282222222084
+03_flink,flink-rpc,file system,0.008713023333333292
+03_flink,flink-rpc,object detection,0.00934740222222219
+03_flink,flink-rpc,digital audio,0.009399437777777797
+03_flink,flink-rpc,object–relational mapping,0.009783005555555502
+03_flink,flink-rpc,automation,0.010027746666666615
+03_flink,flink-rpc,continuous integration,0.011010532222222258
+03_flink,flink-rpc,distributed database,0.011590171111111103
+03_flink,flink-rpc,data structure,0.01171038000000002
+03_flink,flink-rpc,data,0.012208477777777671
+03_flink,flink-rpc,computer data storage,0.012338670000000107
+03_flink,flink-rpc,web application,0.014769896666666671
+03_flink,flink-rpc,design,0.015272615555555424
+03_flink,flink-rpc,time series,0.016189326666666726
+03_flink,flink-rpc,application performance management,0.016874068888888982
+03_flink,flink-rpc,stream processing,0.017208103333333336
+03_flink,flink-rpc,client,0.017584095555555623
+03_flink,flink-rpc,embedded system,0.01814204444444445
+03_flink,flink-rpc,geographic information system,0.019073282222222265
+03_flink,flink-rpc,reactive programming,0.02104886111111115
+03_flink,flink-rpc,unit testing,0.021073123333333332
+03_flink,flink-rpc,face detection,0.02131090777777772
+03_flink,flink-rpc,test automation,0.02201332666666672
+03_flink,flink-rpc,logging,0.02234865666666669
+03_flink,flink-rpc,word embedding,0.022915255555555514
+03_flink,flink-rpc,natural language processing,0.022941274444444437
+03_flink,flink-rpc,World Wide Web,0.023795148888888895
+03_flink,flink-rpc,email,0.024664033333333446
+03_flink,flink-rpc,long short-term memory,0.025695444444444493
+03_flink,flink-rpc,database,0.02603493777777771
+03_flink,flink-rpc,static program analysis tool,0.02605577888888888
+03_flink,flink-rpc,language model,0.026233629999999952
+03_flink,flink-rpc,Web Components,0.027950718888888892
+03_flink,flink-rpc,command-line interface,0.03000208666666665
+03_flink,flink-rpc,dependency injection,0.03059238333333325
+03_flink,flink-rpc,virtual machine,0.030804061111111114
+03_flink,flink-rpc,distributed computing,0.03318100666666679
+03_flink,flink-rpc,information processing,0.033497576666666806
+03_flink,flink-rpc,Parser combinator,0.0340268977777779
+03_flink,flink-rpc,analytics,0.034904919999999895
+03_flink,flink-rpc,software testing,0.03586130666666659
+03_flink,flink-rpc,microservices,0.03603148888888885
+03_flink,flink-rpc,signal processing,0.039403405555555715
+03_flink,flink-rpc,content management system,0.03992461111111112
+03_flink,flink-rpc,streaming media,0.04060428222222223
+03_flink,flink-rpc,deep neural network,0.04081617555555561
+03_flink,flink-rpc,package management system,0.042597944444444535
+03_flink,flink-rpc,network analysis,0.044038442222222085
+03_flink,flink-rpc,digital image processing,0.044653596666666795
+03_flink,flink-rpc,back end,0.046238032222222336
+03_flink,flink-rpc,distributed system,0.04762624333333343
+03_flink,flink-rpc,web service,0.04824485000000017
+03_flink,flink-rpc,web development,0.04826366444444441
+03_flink,flink-rpc,smart contract,0.048297152222222195
+03_flink,flink-rpc,instant messaging,0.049228857777777635
+03_flink,flink-rpc,server,0.049421243333333365
+03_flink,flink-rpc,game server,0.05172878666666669
+03_flink,flink-rpc,audio signal processing,0.052771883333333325
+03_flink,flink-rpc,web application security,0.05377622111111108
+03_flink,flink-rpc,penetration test,0.05559564777777776
+03_flink,flink-rpc,backup,0.055800174444444406
+03_flink,flink-rpc,blockchain,0.05957231000000013
+03_flink,flink-rpc,benchmark,0.0642892433333333
+03_flink,flink-rpc,digital security,0.06724002777777782
+03_flink,flink-rpc,web server,0.06769617444444448
+03_flink,flink-rpc,serialization,0.07069940333333347
+03_flink,flink-rpc,software development,0.08458337111111108
+03_flink,flink-rpc,text processing,0.08613640666666661
+03_flink,flink-rpc,security,0.08665168555555552
+03_flink,flink-rpc,internet bot,0.08684536777777785
+03_flink,flink-rpc,integrated development environment,0.08726119222222228
+03_flink,flink-rpc,WebSocket,0.09015568777777783
+03_flink,flink-rpc,middleware,0.09101506555555561
+03_flink,flink-rpc,distributed multimedia communications platform,0.0929854644444445
+03_flink,flink-rpc,File Transfer Protocol,0.09780810222222225
+03_flink,flink-rpc,HTTP server,0.10182626777777787
+03_flink,flink-rpc,compiler,0.10330567555555553
+03_flink,flink-rpc,telecommunications network,0.11147910555555557
+03_flink,flink-rpc,HTTP client,0.11256079555555554
+03_flink,flink-rpc,network security,0.13569456777777777

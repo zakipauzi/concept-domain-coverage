@@ -1,0 +1,80 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-filter,code generation,0.0022582950000000768
+01_dubbo,dubbo-filter,telecommunications network,0.002544417500000007
+01_dubbo,dubbo-filter,information processing,0.0027692437499999834
+01_dubbo,dubbo-filter,server,0.0032567824999999995
+01_dubbo,dubbo-filter,text classification,0.004916892499999992
+01_dubbo,dubbo-filter,database,0.005684560000000116
+01_dubbo,dubbo-filter,HTTP server,0.005835403750000023
+01_dubbo,dubbo-filter,HTTP client,0.006516055000000076
+01_dubbo,dubbo-filter,algorithmic trading,0.006640188749999998
+01_dubbo,dubbo-filter,support vector machine,0.007808037500000031
+01_dubbo,dubbo-filter,web browser,0.009047792500000096
+01_dubbo,dubbo-filter,data structure,0.009244098750000096
+01_dubbo,dubbo-filter,Semantic Web,0.009260273749999992
+01_dubbo,dubbo-filter,File Transfer Protocol,0.009600856250000012
+01_dubbo,dubbo-filter,instant messaging,0.010776903750000122
+01_dubbo,dubbo-filter,computer data storage,0.011109377499999962
+01_dubbo,dubbo-filter,web server,0.012452195
+01_dubbo,dubbo-filter,stream processing,0.014240987500000024
+01_dubbo,dubbo-filter,compiler,0.014699206249999985
+01_dubbo,dubbo-filter,automation,0.014953032500000019
+01_dubbo,dubbo-filter,big data,0.015091916249999893
+01_dubbo,dubbo-filter,Web Components,0.015770862500000038
+01_dubbo,dubbo-filter,application performance management,0.01630867749999998
+01_dubbo,dubbo-filter,logging,0.0195486700000001
+01_dubbo,dubbo-filter,game engine,0.019753906249999897
+01_dubbo,dubbo-filter,data science,0.02080423874999998
+01_dubbo,dubbo-filter,data compression,0.022514535000000002
+01_dubbo,dubbo-filter,static program analysis,0.022936817499999984
+01_dubbo,dubbo-filter,question answering,0.02308536
+01_dubbo,dubbo-filter,security,0.024448083750000016
+01_dubbo,dubbo-filter,distributed computing,0.027255323750000005
+01_dubbo,dubbo-filter,software testing,0.027956129999999968
+01_dubbo,dubbo-filter,analytics,0.029650388750000034
+01_dubbo,dubbo-filter,web browser engine,0.029672763749999997
+01_dubbo,dubbo-filter,encryption,0.029809223750000002
+01_dubbo,dubbo-filter,language model,0.031622130000000026
+01_dubbo,dubbo-filter,command-line interface,0.03354668999999999
+01_dubbo,dubbo-filter,streaming media,0.03857902499999999
+01_dubbo,dubbo-filter,data,0.039019355000000144
+01_dubbo,dubbo-filter,object detection,0.03967922875000002
+01_dubbo,dubbo-filter,web crawler,0.04009585624999995
+01_dubbo,dubbo-filter,time series,0.04091233500000002
+01_dubbo,dubbo-filter,password manager,0.04155754625000002
+01_dubbo,dubbo-filter,object–relational mapping,0.043894528749999995
+01_dubbo,dubbo-filter,web application,0.04496665124999999
+01_dubbo,dubbo-filter,web application security,0.04678530875000009
+01_dubbo,dubbo-filter,penetration test,0.04773359999999999
+01_dubbo,dubbo-filter,dependency injection,0.04945571500000001
+01_dubbo,dubbo-filter,lexical analysis,0.04958192499999997
+01_dubbo,dubbo-filter,smart contract,0.050996072499999934
+01_dubbo,dubbo-filter,electronic trading platform,0.051562391250000006
+01_dubbo,dubbo-filter,information extraction,0.05163550624999996
+01_dubbo,dubbo-filter,cryptocurrency,0.05225032000000002
+01_dubbo,dubbo-filter,cloud computing,0.05232770874999998
+01_dubbo,dubbo-filter,graphical user interface,0.052718147500000034
+01_dubbo,dubbo-filter,graph database,0.053487047499999996
+01_dubbo,dubbo-filter,user interface,0.05380666875000001
+01_dubbo,dubbo-filter,scheduler,0.054664215000000016
+01_dubbo,dubbo-filter,static site generator,0.059098587499999966
+01_dubbo,dubbo-filter,authentication,0.05959476375000011
+01_dubbo,dubbo-filter,data binding,0.06007471375000001
+01_dubbo,dubbo-filter,website,0.069251375
+01_dubbo,dubbo-filter,distributed system,0.07522496374999998
+01_dubbo,dubbo-filter,test automation,0.07531820750000001
+01_dubbo,dubbo-filter,web service,0.07596051250000002
+01_dubbo,dubbo-filter,stock market,0.0769360449999999
+01_dubbo,dubbo-filter,serialization,0.07882964874999998
+01_dubbo,dubbo-filter,microservices,0.08298688875000004
+01_dubbo,dubbo-filter,client,0.0841512587499999
+01_dubbo,dubbo-filter,World Wide Web,0.08787594750000005
+01_dubbo,dubbo-filter,back end,0.08834827750000013
+01_dubbo,dubbo-filter,regular expression,0.09063582749999999
+01_dubbo,dubbo-filter,pattern matching,0.09066757250000013
+01_dubbo,dubbo-filter,front end,0.09203346500000004
+01_dubbo,dubbo-filter,unit testing,0.09769018375000005
+01_dubbo,dubbo-filter,package management system,0.09953545875000003
+01_dubbo,dubbo-filter,file system,0.10657871749999998
+01_dubbo,dubbo-filter,content management system,0.12329291000000003
+01_dubbo,dubbo-filter,validator,0.16702001999999994
