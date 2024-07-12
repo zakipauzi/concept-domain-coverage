@@ -1,0 +1,41 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-broker-auth-athenz,website,0.006639095000000039
+08_pulsar,pulsar-broker-auth-athenz,web service,0.008872087750000035
+08_pulsar,pulsar-broker-auth-athenz,server,0.011365403999999968
+08_pulsar,pulsar-broker-auth-athenz,distributed computing,0.014832479249999975
+08_pulsar,pulsar-broker-auth-athenz,distributed multimedia communications platform,0.01492378124999999
+08_pulsar,pulsar-broker-auth-athenz,cloud computing,0.015025474499999969
+08_pulsar,pulsar-broker-auth-athenz,smart contract,0.017584736500000142
+08_pulsar,pulsar-broker-auth-athenz,World Wide Web,0.019089412249999993
+08_pulsar,pulsar-broker-auth-athenz,continuous integration,0.02270702450000006
+08_pulsar,pulsar-broker-auth-athenz,File Transfer Protocol,0.023380298999999938
+08_pulsar,pulsar-broker-auth-athenz,microservices,0.025018077000000027
+08_pulsar,pulsar-broker-auth-athenz,instant messaging,0.025832783999999887
+08_pulsar,pulsar-broker-auth-athenz,stream processing,0.02616845299999998
+08_pulsar,pulsar-broker-auth-athenz,distributed database,0.026363850000000022
+08_pulsar,pulsar-broker-auth-athenz,streaming media,0.02655866100000004
+08_pulsar,pulsar-broker-auth-athenz,information processing,0.028719372750000027
+08_pulsar,pulsar-broker-auth-athenz,web server,0.028932034749999946
+08_pulsar,pulsar-broker-auth-athenz,logging,0.03438627725000004
+08_pulsar,pulsar-broker-auth-athenz,analytics,0.03930723399999997
+08_pulsar,pulsar-broker-auth-athenz,back end,0.040801107250000024
+08_pulsar,pulsar-broker-auth-athenz,web application,0.04177271299999996
+08_pulsar,pulsar-broker-auth-athenz,HTTP server,0.042517720500000133
+08_pulsar,pulsar-broker-auth-athenz,file system,0.044874176749999994
+08_pulsar,pulsar-broker-auth-athenz,dependency injection,0.04596580750000012
+08_pulsar,pulsar-broker-auth-athenz,user interface,0.04816770200000009
+08_pulsar,pulsar-broker-auth-athenz,word embedding,0.05791882450000002
+08_pulsar,pulsar-broker-auth-athenz,big data,0.059019949000000016
+08_pulsar,pulsar-broker-auth-athenz,digital image processing,0.05994688024999989
+08_pulsar,pulsar-broker-auth-athenz,HTTP client,0.06060597150000002
+08_pulsar,pulsar-broker-auth-athenz,web application security,0.06124807199999993
+08_pulsar,pulsar-broker-auth-athenz,design,0.06226127400000009
+08_pulsar,pulsar-broker-auth-athenz,Containerization,0.06414648699999986
+08_pulsar,pulsar-broker-auth-athenz,digital security,0.0687577027500001
+08_pulsar,pulsar-broker-auth-athenz,digital audio,0.07024486550000003
+08_pulsar,pulsar-broker-auth-athenz,network security,0.08364914024999998
+08_pulsar,pulsar-broker-auth-athenz,package management system,0.09213212849999997
+08_pulsar,pulsar-broker-auth-athenz,password manager,0.10618664450000004
+08_pulsar,pulsar-broker-auth-athenz,client,0.10955175325
+08_pulsar,pulsar-broker-auth-athenz,security,0.13174339425000003
+08_pulsar,pulsar-broker-auth-athenz,authentication,0.17945912150000004

@@ -1,0 +1,17 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-broker-auth-sasl,database,0.0012941663888887955
+08_pulsar,pulsar-broker-auth-sasl,microservices,0.004148182799999983
+08_pulsar,pulsar-broker-auth-sasl,website,0.004301628611111108
+08_pulsar,pulsar-broker-auth-sasl,logging,0.009260948888888898
+08_pulsar,pulsar-broker-auth-sasl,compiler,0.016003246527777792
+08_pulsar,pulsar-broker-auth-sasl,serialization,0.019764300555555586
+08_pulsar,pulsar-broker-auth-sasl,analytics,0.02517328611111111
+08_pulsar,pulsar-broker-auth-sasl,validator,0.030178259444444494
+08_pulsar,pulsar-broker-auth-sasl,security,0.0323797472222222
+08_pulsar,pulsar-broker-auth-sasl,design,0.038593933999999996
+08_pulsar,pulsar-broker-auth-sasl,authentication,0.048802436944444416
+08_pulsar,pulsar-broker-auth-sasl,data,0.05997963333333328
+08_pulsar,pulsar-broker-auth-sasl,automation,0.06838343513333339
+08_pulsar,pulsar-broker-auth-sasl,client,0.07786701666666662
+08_pulsar,pulsar-broker-auth-sasl,encryption,0.0840109916666667
+08_pulsar,pulsar-broker-auth-sasl,server,0.09169057888888898

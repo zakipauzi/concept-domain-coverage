@@ -1,0 +1,118 @@
+project_name,module,domain,diff_sim
+05_shardingsphere,sql-parser,cluster analysis,1.1693968253900788e-05
+05_shardingsphere,sql-parser,natural language processing,0.0002497628571428989
+05_shardingsphere,sql-parser,translation,0.00034389095238102074
+05_shardingsphere,sql-parser,synchronization,0.00046386380952379014
+05_shardingsphere,sql-parser,instant messaging,0.0004938747619047668
+05_shardingsphere,sql-parser,text mining,0.000587310476190539
+05_shardingsphere,sql-parser,text editor,0.0007514599999998706
+05_shardingsphere,sql-parser,validator,0.001217316031746074
+05_shardingsphere,sql-parser,embedded system,0.0013228601587301214
+05_shardingsphere,sql-parser,back end,0.0013233322222223065
+05_shardingsphere,sql-parser,software testing,0.0013829931746031088
+05_shardingsphere,sql-parser,natural language,0.0014066980952380792
+05_shardingsphere,sql-parser,data mining,0.0015422673015872967
+05_shardingsphere,sql-parser,database,0.0016824026984125773
+05_shardingsphere,sql-parser,data structure,0.0018908617460317023
+05_shardingsphere,sql-parser,web application security,0.0019120476190475633
+05_shardingsphere,sql-parser,regression analysis,0.0019590426984126275
+05_shardingsphere,sql-parser,lexical analysis,0.001971600952380914
+05_shardingsphere,sql-parser,analytics,0.0020547182539683018
+05_shardingsphere,sql-parser,digital image processing,0.0020701277777777083
+05_shardingsphere,sql-parser,word embedding,0.002176394920634983
+05_shardingsphere,sql-parser,static program analysis tool,0.0026076426984126266
+05_shardingsphere,sql-parser,cryptocurrency,0.0026810625396825882
+05_shardingsphere,sql-parser,web service,0.0028361033333333396
+05_shardingsphere,sql-parser,text classification,0.0028589190476189796
+05_shardingsphere,sql-parser,compiler,0.00289425111111119
+05_shardingsphere,sql-parser,time series,0.0030522236507937173
+05_shardingsphere,sql-parser,artificial neural network,0.0034237084126984008
+05_shardingsphere,sql-parser,speech synthesis,0.00410115111111109
+05_shardingsphere,sql-parser,data,0.004144137936507919
+05_shardingsphere,sql-parser,search engine,0.004279046666666619
+05_shardingsphere,sql-parser,data analysis,0.00458056984126981
+05_shardingsphere,sql-parser,algorithm,0.004586640158730226
+05_shardingsphere,sql-parser,logging,0.004653484761904858
+05_shardingsphere,sql-parser,database management,0.004784559523809517
+05_shardingsphere,sql-parser,computer data storage,0.004998463333333314
+05_shardingsphere,sql-parser,digital security,0.005084146031746006
+05_shardingsphere,sql-parser,file system,0.005118736666666679
+05_shardingsphere,sql-parser,support vector machine,0.0053381706349205915
+05_shardingsphere,sql-parser,shell tool,0.006175840158730073
+05_shardingsphere,sql-parser,HTTP server,0.0071178823809524006
+05_shardingsphere,sql-parser,digital audio,0.007501479206349193
+05_shardingsphere,sql-parser,image,0.007527347777777804
+05_shardingsphere,sql-parser,named-entity recognition,0.007679051904761924
+05_shardingsphere,sql-parser,HTTP client,0.008080209047619025
+05_shardingsphere,sql-parser,penetration test,0.008226910793650843
+05_shardingsphere,sql-parser,stock market,0.008336450952380892
+05_shardingsphere,sql-parser,web application,0.008469269682539582
+05_shardingsphere,sql-parser,benchmark,0.0094804882539683
+05_shardingsphere,sql-parser,data science,0.009486603174603203
+05_shardingsphere,sql-parser,syntax highlighting,0.009563685555555423
+05_shardingsphere,sql-parser,continuous integration,0.010055644761904903
+05_shardingsphere,sql-parser,geometry,0.010262783333333358
+05_shardingsphere,sql-parser,Parser combinator,0.010427111746031725
+05_shardingsphere,sql-parser,static site generator,0.010440319523809527
+05_shardingsphere,sql-parser,search,0.010453917777777766
+05_shardingsphere,sql-parser,big data,0.010497472063492108
+05_shardingsphere,sql-parser,convolutional neural network,0.01058696047619051
+05_shardingsphere,sql-parser,machine learning,0.010822022857142843
+05_shardingsphere,sql-parser,static program analysis,0.011119610793650758
+05_shardingsphere,sql-parser,front end,0.011219817301587387
+05_shardingsphere,sql-parser,sorting algorithm,0.011538426349206432
+05_shardingsphere,sql-parser,computer science,0.011565629841269798
+05_shardingsphere,sql-parser,schema migration,0.011724089999999965
+05_shardingsphere,sql-parser,language model,0.012685246349206314
+05_shardingsphere,sql-parser,text processing,0.012687945079365048
+05_shardingsphere,sql-parser,data binding,0.012704019365079477
+05_shardingsphere,sql-parser,backup,0.012804560952380861
+05_shardingsphere,sql-parser,serialization,0.014124751269841307
+05_shardingsphere,sql-parser,distributed database,0.014606373333333145
+05_shardingsphere,sql-parser,web browser engine,0.014851058253968263
+05_shardingsphere,sql-parser,algorithmic trading,0.014870526507936577
+05_shardingsphere,sql-parser,game engine,0.014886446190476077
+05_shardingsphere,sql-parser,code generation,0.01507409047619046
+05_shardingsphere,sql-parser,unit testing,0.015476948730158813
+05_shardingsphere,sql-parser,e-commerce,0.015540737301587282
+05_shardingsphere,sql-parser,File Transfer Protocol,0.016109316031745924
+05_shardingsphere,sql-parser,object detection,0.016753700793650794
+05_shardingsphere,sql-parser,optical character recognition,0.0169065928571428
+05_shardingsphere,sql-parser,web server,0.017384506507936492
+05_shardingsphere,sql-parser,middleware,0.01746765539682532
+05_shardingsphere,sql-parser,streaming media,0.018004070317460374
+05_shardingsphere,sql-parser,test automation,0.018058600793650847
+05_shardingsphere,sql-parser,interpreter,0.01844048365079365
+05_shardingsphere,sql-parser,smart contract,0.01907413936507929
+05_shardingsphere,sql-parser,object–relational mapping,0.01915727396825395
+05_shardingsphere,sql-parser,random forest,0.019709724603174494
+05_shardingsphere,sql-parser,information processing,0.01976154539682551
+05_shardingsphere,sql-parser,parsing,0.01983597825396821
+05_shardingsphere,sql-parser,package management system,0.02065249587301582
+05_shardingsphere,sql-parser,web scraping,0.020837252380952298
+05_shardingsphere,sql-parser,World Wide Web,0.021828631746031724
+05_shardingsphere,sql-parser,web crawler,0.02220683761904768
+05_shardingsphere,sql-parser,website,0.02358811444444442
+05_shardingsphere,sql-parser,data visualization,0.0241211247619047
+05_shardingsphere,sql-parser,graph database,0.024624505079365144
+05_shardingsphere,sql-parser,simulation,0.024850170317460285
+05_shardingsphere,sql-parser,microservices,0.025049573968254024
+05_shardingsphere,sql-parser,distributed system,0.026425531111111122
+05_shardingsphere,sql-parser,electronic trading platform,0.027439590793650714
+05_shardingsphere,sql-parser,content management system,0.027552658412698494
+05_shardingsphere,sql-parser,graph algorithm,0.0275943507936508
+05_shardingsphere,sql-parser,command-line interface,0.029076976984126868
+05_shardingsphere,sql-parser,distributed computing,0.029117093968254015
+05_shardingsphere,sql-parser,client,0.02928840063492072
+05_shardingsphere,sql-parser,3D modeling,0.029661406666666723
+05_shardingsphere,sql-parser,Web Components,0.030173582698412693
+05_shardingsphere,sql-parser,server,0.03151648174603183
+05_shardingsphere,sql-parser,pattern matching,0.03158022047619036
+05_shardingsphere,sql-parser,dependency injection,0.031928035873016014
+05_shardingsphere,sql-parser,data compression,0.03427427904761898
+05_shardingsphere,sql-parser,design,0.036290099841269796
+05_shardingsphere,sql-parser,Semantic Web,0.03752415984126983
+05_shardingsphere,sql-parser,user interface,0.03956839460317463
+05_shardingsphere,sql-parser,distributed multimedia communications platform,0.04113590269841261
+05_shardingsphere,sql-parser,graphical user interface,0.04309559047619049
+05_shardingsphere,sql-parser,regular expression,0.0468748196825397

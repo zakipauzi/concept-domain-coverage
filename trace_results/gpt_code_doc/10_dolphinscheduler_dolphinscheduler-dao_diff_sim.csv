@@ -1,0 +1,111 @@
+project_name,module,domain,diff_sim
+10_dolphinscheduler,dolphinscheduler-dao,time series,0.002626591791546007
+10_dolphinscheduler,dolphinscheduler-dao,signal processing,0.007244020853315214
+10_dolphinscheduler,dolphinscheduler-dao,data analysis,0.008054096189019644
+10_dolphinscheduler,dolphinscheduler-dao,database management,0.008889439686724732
+10_dolphinscheduler,dolphinscheduler-dao,scheduler,0.009439828748589396
+10_dolphinscheduler,dolphinscheduler-dao,data,0.010436441869240531
+10_dolphinscheduler,dolphinscheduler-dao,graph database,0.011440777930309398
+10_dolphinscheduler,dolphinscheduler-dao,object–relational mapping,0.012017976918505702
+10_dolphinscheduler,dolphinscheduler-dao,data binding,0.01267463053251694
+10_dolphinscheduler,dolphinscheduler-dao,computer data storage,0.014691547055838194
+10_dolphinscheduler,dolphinscheduler-dao,regular expression,0.015465235347430828
+10_dolphinscheduler,dolphinscheduler-dao,data structure,0.015471160654377591
+10_dolphinscheduler,dolphinscheduler-dao,big data,0.015668692869098666
+10_dolphinscheduler,dolphinscheduler-dao,serialization,0.015751847978139666
+10_dolphinscheduler,dolphinscheduler-dao,data mining,0.01579064685264331
+10_dolphinscheduler,dolphinscheduler-dao,static program analysis,0.016665134109319357
+10_dolphinscheduler,dolphinscheduler-dao,network monitoring,0.017564751017088875
+10_dolphinscheduler,dolphinscheduler-dao,data compression,0.018611266841082164
+10_dolphinscheduler,dolphinscheduler-dao,database,0.0190693233048409
+10_dolphinscheduler,dolphinscheduler-dao,distributed database,0.019973338594230117
+10_dolphinscheduler,dolphinscheduler-dao,information processing,0.02010314873050878
+10_dolphinscheduler,dolphinscheduler-dao,distributed system,0.022254056220344043
+10_dolphinscheduler,dolphinscheduler-dao,penetration test,0.022696521055032726
+10_dolphinscheduler,dolphinscheduler-dao,pattern matching,0.022928935202761958
+10_dolphinscheduler,dolphinscheduler-dao,static program analysis tool,0.022929251805701156
+10_dolphinscheduler,dolphinscheduler-dao,data visualization,0.023126764180853798
+10_dolphinscheduler,dolphinscheduler-dao,stream processing,0.023216900312176714
+10_dolphinscheduler,dolphinscheduler-dao,File Transfer Protocol,0.023385377695807064
+10_dolphinscheduler,dolphinscheduler-dao,schema migration,0.024065606163963804
+10_dolphinscheduler,dolphinscheduler-dao,validator,0.02441593250938312
+10_dolphinscheduler,dolphinscheduler-dao,geographic information system,0.02455817443382058
+10_dolphinscheduler,dolphinscheduler-dao,long short-term memory,0.024610628573035864
+10_dolphinscheduler,dolphinscheduler-dao,cluster analysis,0.024692531475131174
+10_dolphinscheduler,dolphinscheduler-dao,server,0.026174913608262518
+10_dolphinscheduler,dolphinscheduler-dao,logging,0.026177282557420023
+10_dolphinscheduler,dolphinscheduler-dao,linear regression,0.026577410463696216
+10_dolphinscheduler,dolphinscheduler-dao,data science,0.02729347273908589
+10_dolphinscheduler,dolphinscheduler-dao,computer configuration,0.0283237963274362
+10_dolphinscheduler,dolphinscheduler-dao,HTTP server,0.02878147944300502
+10_dolphinscheduler,dolphinscheduler-dao,convolutional neural network,0.02928802035125666
+10_dolphinscheduler,dolphinscheduler-dao,password manager,0.02943147554431369
+10_dolphinscheduler,dolphinscheduler-dao,hyperparameter optimization,0.03326625938108363
+10_dolphinscheduler,dolphinscheduler-dao,object detection,0.033363960649937185
+10_dolphinscheduler,dolphinscheduler-dao,analytics,0.033816440793830616
+10_dolphinscheduler,dolphinscheduler-dao,digital security,0.03399597295652834
+10_dolphinscheduler,dolphinscheduler-dao,file system,0.03417520296938048
+10_dolphinscheduler,dolphinscheduler-dao,game server,0.03446952418552396
+10_dolphinscheduler,dolphinscheduler-dao,operating system,0.03456183398074397
+10_dolphinscheduler,dolphinscheduler-dao,application performance management,0.03470519910263403
+10_dolphinscheduler,dolphinscheduler-dao,HTTP client,0.03487485780850419
+10_dolphinscheduler,dolphinscheduler-dao,automation,0.034892204068915356
+10_dolphinscheduler,dolphinscheduler-dao,business dashboard,0.03536213280199452
+10_dolphinscheduler,dolphinscheduler-dao,web server,0.0358334885666064
+10_dolphinscheduler,dolphinscheduler-dao,"extract, transform, load",0.0359904327545304
+10_dolphinscheduler,dolphinscheduler-dao,information retrieval,0.03667146259030285
+10_dolphinscheduler,dolphinscheduler-dao,instant messaging,0.03683884716491814
+10_dolphinscheduler,dolphinscheduler-dao,streaming media,0.036901651272829517
+10_dolphinscheduler,dolphinscheduler-dao,user interface,0.03704701529088528
+10_dolphinscheduler,dolphinscheduler-dao,email,0.037136662795820174
+10_dolphinscheduler,dolphinscheduler-dao,security,0.03721197321442937
+10_dolphinscheduler,dolphinscheduler-dao,graphical user interface,0.037281302234074
+10_dolphinscheduler,dolphinscheduler-dao,text processing,0.038077633936411726
+10_dolphinscheduler,dolphinscheduler-dao,command-line interface,0.03842536015021891
+10_dolphinscheduler,dolphinscheduler-dao,middleware,0.038907961699627736
+10_dolphinscheduler,dolphinscheduler-dao,translation,0.03894676540200437
+10_dolphinscheduler,dolphinscheduler-dao,compiler,0.039192968661853955
+10_dolphinscheduler,dolphinscheduler-dao,web crawler,0.03983475938510861
+10_dolphinscheduler,dolphinscheduler-dao,client,0.039983786068389704
+10_dolphinscheduler,dolphinscheduler-dao,network security,0.040352967500922876
+10_dolphinscheduler,dolphinscheduler-dao,unit testing,0.04072386062930333
+10_dolphinscheduler,dolphinscheduler-dao,dependency injection,0.0408634532348654
+10_dolphinscheduler,dolphinscheduler-dao,embedded system,0.04131580853070149
+10_dolphinscheduler,dolphinscheduler-dao,blockchain,0.04154572221729558
+10_dolphinscheduler,dolphinscheduler-dao,text classification,0.0423691212706655
+10_dolphinscheduler,dolphinscheduler-dao,shell tool,0.04264964426144047
+10_dolphinscheduler,dolphinscheduler-dao,machine translation,0.04270911019694612
+10_dolphinscheduler,dolphinscheduler-dao,3D modeling,0.04302302250923318
+10_dolphinscheduler,dolphinscheduler-dao,optical character recognition,0.04357186252444267
+10_dolphinscheduler,dolphinscheduler-dao,artificial neural network,0.0437989824695697
+10_dolphinscheduler,dolphinscheduler-dao,language model,0.04397759486085717
+10_dolphinscheduler,dolphinscheduler-dao,virtual machine,0.04439935217567115
+10_dolphinscheduler,dolphinscheduler-dao,continuous integration,0.044472263389759625
+10_dolphinscheduler,dolphinscheduler-dao,back end,0.045427825046982506
+10_dolphinscheduler,dolphinscheduler-dao,test automation,0.04547367306367833
+10_dolphinscheduler,dolphinscheduler-dao,code generation,0.04581439594264469
+10_dolphinscheduler,dolphinscheduler-dao,web service,0.04799516845558749
+10_dolphinscheduler,dolphinscheduler-dao,website,0.048932467837206284
+10_dolphinscheduler,dolphinscheduler-dao,syntax highlighting,0.04962448152752852
+10_dolphinscheduler,dolphinscheduler-dao,computational biology,0.050762127788082756
+10_dolphinscheduler,dolphinscheduler-dao,machine learning,0.05085908694134478
+10_dolphinscheduler,dolphinscheduler-dao,package management system,0.05167139053960579
+10_dolphinscheduler,dolphinscheduler-dao,automated machine learning,0.05380067943478739
+10_dolphinscheduler,dolphinscheduler-dao,game engine,0.05399814820670512
+10_dolphinscheduler,dolphinscheduler-dao,content management system,0.05409096191697116
+10_dolphinscheduler,dolphinscheduler-dao,web browser engine,0.054441280638969025
+10_dolphinscheduler,dolphinscheduler-dao,cloud computing,0.05748424134527286
+10_dolphinscheduler,dolphinscheduler-dao,World Wide Web,0.058342877037967145
+10_dolphinscheduler,dolphinscheduler-dao,microservices,0.058399237970182094
+10_dolphinscheduler,dolphinscheduler-dao,software architecture,0.05927620573312142
+10_dolphinscheduler,dolphinscheduler-dao,recommender system,0.060177438071828404
+10_dolphinscheduler,dolphinscheduler-dao,static site generator,0.060958933903263235
+10_dolphinscheduler,dolphinscheduler-dao,software testing,0.061186526936139796
+10_dolphinscheduler,dolphinscheduler-dao,web application security,0.06133880223226673
+10_dolphinscheduler,dolphinscheduler-dao,web application,0.06203964044340926
+10_dolphinscheduler,dolphinscheduler-dao,integrated development environment,0.06214465150133586
+10_dolphinscheduler,dolphinscheduler-dao,support vector machine,0.06284121812118815
+10_dolphinscheduler,dolphinscheduler-dao,smart contract,0.06565462969625613
+10_dolphinscheduler,dolphinscheduler-dao,DevOps,0.0710758308425512
+10_dolphinscheduler,dolphinscheduler-dao,mobile application development,0.07223836547237239
+10_dolphinscheduler,dolphinscheduler-dao,Web Components,0.07962928066943031

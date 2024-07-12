@@ -1,0 +1,146 @@
+project_name,module,domain,diff_sim
+04_rocketmq,remoting,cluster analysis,5.9708333333130525e-06
+04_rocketmq,remoting,random forest,0.00040959430555553844
+04_rocketmq,remoting,interpreter,0.000731524583333365
+04_rocketmq,remoting,stock market,0.0014478283333332898
+04_rocketmq,remoting,word embedding,0.0014829494444444924
+04_rocketmq,remoting,front end,0.0016187202777778742
+04_rocketmq,remoting,data visualization,0.0020964609722222693
+04_rocketmq,remoting,natural language processing,0.002262514444444419
+04_rocketmq,remoting,big data,0.0023297620833334087
+04_rocketmq,remoting,game server,0.002567121527777827
+04_rocketmq,remoting,data science,0.0029498738888888987
+04_rocketmq,remoting,HTTP server,0.00434454791666683
+04_rocketmq,remoting,static site generator,0.004355826249999972
+04_rocketmq,remoting,website,0.0046386254166667085
+04_rocketmq,remoting,algorithm,0.0047042772222222196
+04_rocketmq,remoting,image segmentation,0.004731708472222207
+04_rocketmq,remoting,face detection,0.00478060833333338
+04_rocketmq,remoting,authentication,0.005465039166666685
+04_rocketmq,remoting,debugging,0.005686075833333304
+04_rocketmq,remoting,middleware,0.00611975055555547
+04_rocketmq,remoting,scheduler,0.006162942499999824
+04_rocketmq,remoting,network monitoring,0.006392667083333192
+04_rocketmq,remoting,design,0.0066841811111111316
+04_rocketmq,remoting,language model,0.007162300277777811
+04_rocketmq,remoting,electronic trading platform,0.007344258472222198
+04_rocketmq,remoting,server,0.007752880138888862
+04_rocketmq,remoting,digital image processing,0.008200999305555623
+04_rocketmq,remoting,text classification,0.00840491874999999
+04_rocketmq,remoting,back end,0.008866221111111128
+04_rocketmq,remoting,test automation,0.009338526527777835
+04_rocketmq,remoting,smart contract,0.009978897499999917
+04_rocketmq,remoting,natural language,0.010043180138888774
+04_rocketmq,remoting,penetration test,0.010200770416666782
+04_rocketmq,remoting,object detection,0.010202330555555417
+04_rocketmq,remoting,data mining,0.010721323749999956
+04_rocketmq,remoting,validator,0.01081025972222227
+04_rocketmq,remoting,static program analysis tool,0.011050994999999952
+04_rocketmq,remoting,automation,0.011170553472222344
+04_rocketmq,remoting,data compression,0.011219954305555613
+04_rocketmq,remoting,regular expression,0.011384953749999982
+04_rocketmq,remoting,distributed database,0.011446452638888771
+04_rocketmq,remoting,World Wide Web,0.012769221249999962
+04_rocketmq,remoting,network security,0.012870312777777726
+04_rocketmq,remoting,Web Components,0.012901323611111126
+04_rocketmq,remoting,analytics,0.013021049305555588
+04_rocketmq,remoting,Q-learning,0.01337052472222211
+04_rocketmq,remoting,machine learning,0.01361211722222233
+04_rocketmq,remoting,support vector machine,0.013881589861111099
+04_rocketmq,remoting,distributed multimedia communications platform,0.014248837083333354
+04_rocketmq,remoting,Parser combinator,0.01459820416666674
+04_rocketmq,remoting,dependency injection,0.014705564166666685
+04_rocketmq,remoting,signal processing,0.01479956555555556
+04_rocketmq,remoting,computer data storage,0.014877742638888802
+04_rocketmq,remoting,user interface,0.015055306111111166
+04_rocketmq,remoting,text processing,0.015070432500000008
+04_rocketmq,remoting,static program analysis,0.015963627222222332
+04_rocketmq,remoting,compiler,0.01664524555555552
+04_rocketmq,remoting,data analysis,0.016962482499999987
+04_rocketmq,remoting,optical character recognition,0.017303337638888916
+04_rocketmq,remoting,Semantic Web,0.0180131297222223
+04_rocketmq,remoting,File Transfer Protocol,0.018134095833333364
+04_rocketmq,remoting,neural machine translation,0.018339481388888856
+04_rocketmq,remoting,blockchain,0.01863477111111106
+04_rocketmq,remoting,serialization,0.018973303611111048
+04_rocketmq,remoting,code generation,0.019049089999999935
+04_rocketmq,remoting,embedded system,0.019618180555555642
+04_rocketmq,remoting,application performance management,0.019945553194444465
+04_rocketmq,remoting,facial recognition system,0.02049237569444451
+04_rocketmq,remoting,information extraction,0.020834073611111115
+04_rocketmq,remoting,logistic regression model,0.021558664999999977
+04_rocketmq,remoting,recommender system,0.02170375138888886
+04_rocketmq,remoting,internet bot,0.02171931777777769
+04_rocketmq,remoting,image recognition,0.02262736930555559
+04_rocketmq,remoting,information processing,0.02321133250000007
+04_rocketmq,remoting,machine translation,0.02355146319444451
+04_rocketmq,remoting,kernel,0.023562735416666647
+04_rocketmq,remoting,anomaly detection,0.023968995416666583
+04_rocketmq,remoting,benchmark,0.02410447361111101
+04_rocketmq,remoting,web scraping,0.02460778250000001
+04_rocketmq,remoting,pattern matching,0.024651994027777735
+04_rocketmq,remoting,security,0.02480553486111098
+04_rocketmq,remoting,cryptography,0.025305389305555537
+04_rocketmq,remoting,web server,0.02545497236111116
+04_rocketmq,remoting,audio signal processing,0.025506023194444505
+04_rocketmq,remoting,reinforcement learning,0.025621233611111183
+04_rocketmq,remoting,search,0.02621690069444449
+04_rocketmq,remoting,geographic information system,0.026495144861110986
+04_rocketmq,remoting,cryptocurrency,0.02661484250000007
+04_rocketmq,remoting,network analysis,0.027221931527777743
+04_rocketmq,remoting,software testing,0.027490070000000033
+04_rocketmq,remoting,telecommunications network,0.027695829166666686
+04_rocketmq,remoting,web service,0.027984199722222214
+04_rocketmq,remoting,WebSocket,0.02831556111111122
+04_rocketmq,remoting,instant messaging,0.028334911666666684
+04_rocketmq,remoting,distributed system,0.028357868472222214
+04_rocketmq,remoting,computer vision,0.028727618888888917
+04_rocketmq,remoting,image,0.03058812208333328
+04_rocketmq,remoting,mobile application development,0.03137212291666658
+04_rocketmq,remoting,database,0.03180832291666663
+04_rocketmq,remoting,web browser engine,0.0327703795833334
+04_rocketmq,remoting,plot,0.032956371805555496
+04_rocketmq,remoting,sorting algorithm,0.033256139861111145
+04_rocketmq,remoting,time series,0.03359880874999999
+04_rocketmq,remoting,question answering,0.03499567708333334
+04_rocketmq,remoting,backup,0.0350464797222223
+04_rocketmq,remoting,digital audio,0.03520458597222226
+04_rocketmq,remoting,graph database,0.03542096708333331
+04_rocketmq,remoting,graphical user interface,0.03556189319444458
+04_rocketmq,remoting,algorithmic trading,0.03590452527777788
+04_rocketmq,remoting,game engine,0.037287899166666694
+04_rocketmq,remoting,long short-term memory,0.03837236472222222
+04_rocketmq,remoting,digital security,0.03845750180555557
+04_rocketmq,remoting,distributed computing,0.0388790009722223
+04_rocketmq,remoting,computer configuration,0.03894447416666674
+04_rocketmq,remoting,unit testing,0.039714815555555616
+04_rocketmq,remoting,command-line interface,0.04155707319444457
+04_rocketmq,remoting,data,0.04187592305555565
+04_rocketmq,remoting,file system,0.04395264263888882
+04_rocketmq,remoting,knowledge graph,0.04399299638888893
+04_rocketmq,remoting,content management system,0.0441710213888889
+04_rocketmq,remoting,linear regression,0.0446763738888889
+04_rocketmq,remoting,synchronization,0.04493560291666665
+04_rocketmq,remoting,router,0.04614518125000011
+04_rocketmq,remoting,linear algebra,0.046534562083333286
+04_rocketmq,remoting,HTTP client,0.04989579361111107
+04_rocketmq,remoting,microservices,0.04993991180555557
+04_rocketmq,remoting,password manager,0.053333912777777825
+04_rocketmq,remoting,encryption,0.05544659763888893
+04_rocketmq,remoting,logging,0.05550211708333341
+04_rocketmq,remoting,email,0.0564642840277777
+04_rocketmq,remoting,web application security,0.05657445694444452
+04_rocketmq,remoting,shell tool,0.05770986055555549
+04_rocketmq,remoting,web application,0.05777257472222208
+04_rocketmq,remoting,operating system,0.05778489597222225
+04_rocketmq,remoting,object–relational mapping,0.06229602958333336
+04_rocketmq,remoting,data structure,0.06355478125000008
+04_rocketmq,remoting,software development,0.06468425486111118
+04_rocketmq,remoting,data binding,0.0657974194444445
+04_rocketmq,remoting,stream processing,0.06647796124999994
+04_rocketmq,remoting,routing,0.06849961458333337
+04_rocketmq,remoting,statistics,0.06967846958333329
+04_rocketmq,remoting,cloud computing,0.07789603513888887
+04_rocketmq,remoting,package management system,0.08184622083333332
+04_rocketmq,remoting,streaming media,0.08297430402777772
+04_rocketmq,remoting,client,0.09208617833333332

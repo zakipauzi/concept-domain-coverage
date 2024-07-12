@@ -1,0 +1,168 @@
+project_name,module,domain,diff_sim
+12_shenyu,shenyu-plugin,business dashboard,0.0003424600000000999
+12_shenyu,shenyu-plugin,search engine,0.0007275741666666891
+12_shenyu,shenyu-plugin,web browser,0.0011851511111110602
+12_shenyu,shenyu-plugin,graph database,0.0018299069444445148
+12_shenyu,shenyu-plugin,web development,0.0023204750000000995
+12_shenyu,shenyu-plugin,front end,0.00236485805555553
+12_shenyu,shenyu-plugin,Web Components,0.0031070288888888076
+12_shenyu,shenyu-plugin,web scraping,0.004213826388888953
+12_shenyu,shenyu-plugin,web crawler,0.005215207777777842
+12_shenyu,shenyu-plugin,computer configuration,0.0055496044444444115
+12_shenyu,shenyu-plugin,search,0.0056657099999999905
+12_shenyu,shenyu-plugin,data binding,0.0063321588888888836
+12_shenyu,shenyu-plugin,authentication,0.006739111666666575
+12_shenyu,shenyu-plugin,information extraction,0.007098861666666623
+12_shenyu,shenyu-plugin,analytics,0.007621460555555626
+12_shenyu,shenyu-plugin,reinforcement learning,0.008255404166666813
+12_shenyu,shenyu-plugin,password manager,0.009317724999999999
+12_shenyu,shenyu-plugin,graph algorithm,0.009321368333333302
+12_shenyu,shenyu-plugin,automation,0.009706668611111025
+12_shenyu,shenyu-plugin,test automation,0.010204123333333204
+12_shenyu,shenyu-plugin,content management system,0.010427142777777731
+12_shenyu,shenyu-plugin,dependency injection,0.011028389444444509
+12_shenyu,shenyu-plugin,database,0.011257086944444383
+12_shenyu,shenyu-plugin,software development,0.01226702583333339
+12_shenyu,shenyu-plugin,router,0.012620585277777707
+12_shenyu,shenyu-plugin,data mining,0.012788196111111094
+12_shenyu,shenyu-plugin,question answering,0.012976753055555401
+12_shenyu,shenyu-plugin,client,0.013339276666666677
+12_shenyu,shenyu-plugin,classification,0.014023091111110997
+12_shenyu,shenyu-plugin,static site generator,0.0144658847222221
+12_shenyu,shenyu-plugin,integrated development environment,0.014477606111111097
+12_shenyu,shenyu-plugin,logistic regression model,0.014661858888888879
+12_shenyu,shenyu-plugin,knowledge graph,0.014836682222222286
+12_shenyu,shenyu-plugin,automated machine learning,0.015431575833333377
+12_shenyu,shenyu-plugin,software design pattern,0.01564854305555552
+12_shenyu,shenyu-plugin,security,0.0160821711111111
+12_shenyu,shenyu-plugin,natural language processing,0.01668020833333339
+12_shenyu,shenyu-plugin,hyperparameter optimization,0.016840951111111224
+12_shenyu,shenyu-plugin,digital security,0.016859504166666706
+12_shenyu,shenyu-plugin,linear regression,0.016886202777777692
+12_shenyu,shenyu-plugin,algorithm,0.016904100277777778
+12_shenyu,shenyu-plugin,routing,0.01739590527777779
+12_shenyu,shenyu-plugin,long short-term memory,0.017534668333333392
+12_shenyu,shenyu-plugin,word embedding,0.017674735277777687
+12_shenyu,shenyu-plugin,backup,0.017801248888888788
+12_shenyu,shenyu-plugin,home automation,0.017825967777777896
+12_shenyu,shenyu-plugin,Semantic Web,0.01849200833333342
+12_shenyu,shenyu-plugin,time series,0.018801394722222198
+12_shenyu,shenyu-plugin,application performance management,0.018910846111111046
+12_shenyu,shenyu-plugin,design,0.01926512000000008
+12_shenyu,shenyu-plugin,sorting algorithm,0.020104853888888885
+12_shenyu,shenyu-plugin,data visualization,0.02021550694444446
+12_shenyu,shenyu-plugin,compiler,0.02021703333333319
+12_shenyu,shenyu-plugin,website,0.020450224722222188
+12_shenyu,shenyu-plugin,natural language,0.0207574977777778
+12_shenyu,shenyu-plugin,functional programming,0.02112570833333338
+12_shenyu,shenyu-plugin,email,0.021236662777777693
+12_shenyu,shenyu-plugin,regular expression,0.021352619444444443
+12_shenyu,shenyu-plugin,shell tool,0.02192210277777773
+12_shenyu,shenyu-plugin,package management system,0.02220736027777781
+12_shenyu,shenyu-plugin,web application,0.022447441388888878
+12_shenyu,shenyu-plugin,back end,0.02245199222222216
+12_shenyu,shenyu-plugin,Bayesian inference,0.022629749444444403
+12_shenyu,shenyu-plugin,middleware,0.02346441527777765
+12_shenyu,shenyu-plugin,data structure,0.023487463333333347
+12_shenyu,shenyu-plugin,data,0.023886023055555594
+12_shenyu,shenyu-plugin,graphical user interface,0.02424670055555561
+12_shenyu,shenyu-plugin,validator,0.024351108333333205
+12_shenyu,shenyu-plugin,object–relational mapping,0.02463994861111124
+12_shenyu,shenyu-plugin,logging,0.025389351666666615
+12_shenyu,shenyu-plugin,Naive Bayes classifier,0.026485737499999884
+12_shenyu,shenyu-plugin,support vector machine,0.02669155805555551
+12_shenyu,shenyu-plugin,debugger,0.026836899722222307
+12_shenyu,shenyu-plugin,geographic information system,0.02684623944444442
+12_shenyu,shenyu-plugin,Image analysis,0.02705835000000001
+12_shenyu,shenyu-plugin,network analysis,0.02730509888888899
+12_shenyu,shenyu-plugin,text classification,0.027653495277777773
+12_shenyu,shenyu-plugin,anomaly detection,0.029182661944444632
+12_shenyu,shenyu-plugin,neural machine translation,0.029402876388888832
+12_shenyu,shenyu-plugin,3D modeling,0.029733416111111077
+12_shenyu,shenyu-plugin,information processing,0.02987966833333333
+12_shenyu,shenyu-plugin,World Wide Web,0.029957936388888773
+12_shenyu,shenyu-plugin,web browser engine,0.030123709166666623
+12_shenyu,shenyu-plugin,web application security,0.030189456944444415
+12_shenyu,shenyu-plugin,deep learning,0.03088579416666659
+12_shenyu,shenyu-plugin,code generation,0.03127077472222234
+12_shenyu,shenyu-plugin,cluster analysis,0.031698496388888886
+12_shenyu,shenyu-plugin,sentiment analysis,0.032189685833333315
+12_shenyu,shenyu-plugin,animation,0.032952226666666695
+12_shenyu,shenyu-plugin,machine learning,0.033615618611111175
+12_shenyu,shenyu-plugin,pattern matching,0.03368029944444445
+12_shenyu,shenyu-plugin,text processing,0.03423631638888891
+12_shenyu,shenyu-plugin,object detection,0.03497071722222217
+12_shenyu,shenyu-plugin,data analysis,0.035259339722222116
+12_shenyu,shenyu-plugin,genetic algorithm,0.035264521388888914
+12_shenyu,shenyu-plugin,instant messaging,0.0357715469444444
+12_shenyu,shenyu-plugin,Q-learning,0.03583114444444441
+12_shenyu,shenyu-plugin,data science,0.03601047611111108
+12_shenyu,shenyu-plugin,artificial intelligence,0.03605103444444435
+12_shenyu,shenyu-plugin,operating system,0.037685164722222164
+12_shenyu,shenyu-plugin,digital image processing,0.038273587777777784
+12_shenyu,shenyu-plugin,Parser combinator,0.03926570944444441
+12_shenyu,shenyu-plugin,network monitoring,0.039316870277777805
+12_shenyu,shenyu-plugin,file system,0.039496139166666666
+12_shenyu,shenyu-plugin,statistics,0.039796678888888826
+12_shenyu,shenyu-plugin,static program analysis,0.039927111388888936
+12_shenyu,shenyu-plugin,internet of things,0.04018507916666669
+12_shenyu,shenyu-plugin,optical character recognition,0.040620072500000104
+12_shenyu,shenyu-plugin,language model,0.04089264861111103
+12_shenyu,shenyu-plugin,Malware Analysis,0.04092427361111112
+12_shenyu,shenyu-plugin,random forest,0.041129474999999915
+12_shenyu,shenyu-plugin,translation,0.042582151944444424
+12_shenyu,shenyu-plugin,game engine,0.04348694833333333
+12_shenyu,shenyu-plugin,static program analysis tool,0.04356061305555575
+12_shenyu,shenyu-plugin,artificial neural network,0.043655342222222226
+12_shenyu,shenyu-plugin,continuous delivery,0.04407070805555552
+12_shenyu,shenyu-plugin,big data,0.04468282861111117
+12_shenyu,shenyu-plugin,command-line interface,0.0447193758333333
+12_shenyu,shenyu-plugin,telecommunications network,0.04513100083333338
+12_shenyu,shenyu-plugin,computational science,0.045787224166666696
+12_shenyu,shenyu-plugin,benchmark,0.04628295277777772
+12_shenyu,shenyu-plugin,evolutionary algorithm,0.04693300277777768
+12_shenyu,shenyu-plugin,syntax highlighting,0.047096413888888855
+12_shenyu,shenyu-plugin,microservices,0.047181308888888884
+12_shenyu,shenyu-plugin,unit testing,0.04725906972222216
+12_shenyu,shenyu-plugin,HTTP client,0.047431026666666654
+12_shenyu,shenyu-plugin,computer data storage,0.0476704911111111
+12_shenyu,shenyu-plugin,internet bot,0.04789987083333341
+12_shenyu,shenyu-plugin,game server,0.049169521388889026
+12_shenyu,shenyu-plugin,reactive programming,0.04928760999999998
+12_shenyu,shenyu-plugin,physics,0.049540011111111115
+12_shenyu,shenyu-plugin,recommender system,0.050177367777777704
+12_shenyu,shenyu-plugin,digital audio,0.05093060222222229
+12_shenyu,shenyu-plugin,File Transfer Protocol,0.054461209722222126
+12_shenyu,shenyu-plugin,software testing,0.054535995000000004
+12_shenyu,shenyu-plugin,penetration test,0.05617701944444442
+12_shenyu,shenyu-plugin,streaming media,0.056302161944444484
+12_shenyu,shenyu-plugin,continuous integration,0.0564489036111111
+12_shenyu,shenyu-plugin,user interface,0.05701621861111117
+12_shenyu,shenyu-plugin,data compression,0.05881411388888891
+12_shenyu,shenyu-plugin,smart contract,0.05930205166666663
+12_shenyu,shenyu-plugin,banking industry,0.05943060805555561
+12_shenyu,shenyu-plugin,bitcoin,0.06027296222222217
+12_shenyu,shenyu-plugin,distributed database,0.06056536666666662
+12_shenyu,shenyu-plugin,audio signal processing,0.060795893888888786
+12_shenyu,shenyu-plugin,encryption,0.06178084444444448
+12_shenyu,shenyu-plugin,signal processing,0.06338408638888887
+12_shenyu,shenyu-plugin,server,0.06475606638888892
+12_shenyu,shenyu-plugin,embedded system,0.06541741972222231
+12_shenyu,shenyu-plugin,cryptocurrency,0.07015323611111113
+12_shenyu,shenyu-plugin,Containerization,0.07098713944444451
+12_shenyu,shenyu-plugin,distributed computing,0.07165505583333337
+12_shenyu,shenyu-plugin,scheduler,0.0722188555555554
+12_shenyu,shenyu-plugin,stream processing,0.07273378055555552
+12_shenyu,shenyu-plugin,web service,0.07370770333333337
+12_shenyu,shenyu-plugin,serialization,0.0791387291666667
+12_shenyu,shenyu-plugin,virtual machine,0.08002017527777783
+12_shenyu,shenyu-plugin,stock market,0.0813534658333333
+12_shenyu,shenyu-plugin,blockchain,0.08172382249999999
+12_shenyu,shenyu-plugin,simulation,0.08255224166666669
+12_shenyu,shenyu-plugin,cloud computing,0.08364518055555553
+12_shenyu,shenyu-plugin,WebSocket,0.085915195
+12_shenyu,shenyu-plugin,distributed multimedia communications platform,0.08593518055555549
+12_shenyu,shenyu-plugin,distributed system,0.0891232561111111
+12_shenyu,shenyu-plugin,HTTP server,0.08996984166666666
+12_shenyu,shenyu-plugin,cryptography,0.09030704333333339
+12_shenyu,shenyu-plugin,web server,0.09964345888888904

@@ -1,0 +1,12 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-configcenter,automation,0.0019180080952380975
+01_dubbo,dubbo-configcenter,logging,0.003066330714285692
+01_dubbo,dubbo-configcenter,data,0.012162956190476248
+01_dubbo,dubbo-configcenter,analytics,0.028672583333333307
+01_dubbo,dubbo-configcenter,router,0.042477952142857156
+01_dubbo,dubbo-configcenter,client,0.05382308976190475
+01_dubbo,dubbo-configcenter,database,0.0547478978571429
+01_dubbo,dubbo-configcenter,server,0.06372432571428582
+01_dubbo,dubbo-configcenter,security,0.0672453547619048
+01_dubbo,dubbo-configcenter,microservices,0.07519492909523809
+01_dubbo,dubbo-configcenter,website,0.1108176607142858

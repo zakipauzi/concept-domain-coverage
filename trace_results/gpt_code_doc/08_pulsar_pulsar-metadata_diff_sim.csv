@@ -1,0 +1,104 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-metadata,long short-term memory,0.0002215693651327344
+08_pulsar,pulsar-metadata,scheduler,0.0022162520072506187
+08_pulsar,pulsar-metadata,signal processing,0.0037718800052302104
+08_pulsar,pulsar-metadata,big data,0.005092118046356231
+08_pulsar,pulsar-metadata,time series,0.00517546097584054
+08_pulsar,pulsar-metadata,word embedding,0.006782565655075512
+08_pulsar,pulsar-metadata,anomaly detection,0.0074100535070891205
+08_pulsar,pulsar-metadata,information processing,0.008048145867080359
+08_pulsar,pulsar-metadata,pattern matching,0.009956852878734712
+08_pulsar,pulsar-metadata,file system,0.0103025624758597
+08_pulsar,pulsar-metadata,synchronization,0.010359027098545637
+08_pulsar,pulsar-metadata,data structure,0.010510476336618613
+08_pulsar,pulsar-metadata,data,0.010783143517795413
+08_pulsar,pulsar-metadata,stream processing,0.01231756857464772
+08_pulsar,pulsar-metadata,data mining,0.01385088340320284
+08_pulsar,pulsar-metadata,internet of things,0.014841112645114785
+08_pulsar,pulsar-metadata,graph algorithm,0.014848554442317807
+08_pulsar,pulsar-metadata,logging,0.016600141978136085
+08_pulsar,pulsar-metadata,audio signal processing,0.01661848894622553
+08_pulsar,pulsar-metadata,cloud computing,0.017077954460980926
+08_pulsar,pulsar-metadata,streaming media,0.017288637888367542
+08_pulsar,pulsar-metadata,distributed computing,0.017796801556123287
+08_pulsar,pulsar-metadata,distributed database,0.018206004022085054
+08_pulsar,pulsar-metadata,computer data storage,0.018435311490711648
+08_pulsar,pulsar-metadata,smart contract,0.01848215724779889
+08_pulsar,pulsar-metadata,object detection,0.019342382389154866
+08_pulsar,pulsar-metadata,WebSocket,0.01959289591726865
+08_pulsar,pulsar-metadata,sentiment analysis,0.019968166794032793
+08_pulsar,pulsar-metadata,data analysis,0.021704923198878956
+08_pulsar,pulsar-metadata,object–relational mapping,0.023342986057117376
+08_pulsar,pulsar-metadata,statistics,0.02394175564185219
+08_pulsar,pulsar-metadata,graph database,0.024482545769751063
+08_pulsar,pulsar-metadata,distributed system,0.025536528917988077
+08_pulsar,pulsar-metadata,web crawler,0.025544436513177726
+08_pulsar,pulsar-metadata,microservices,0.025643713121938805
+08_pulsar,pulsar-metadata,data visualization,0.026465859726118812
+08_pulsar,pulsar-metadata,continuous integration,0.026880051083037593
+08_pulsar,pulsar-metadata,natural language processing,0.027588077073498085
+08_pulsar,pulsar-metadata,data binding,0.027733381420498637
+08_pulsar,pulsar-metadata,analytics,0.028128663719194646
+08_pulsar,pulsar-metadata,recommender system,0.028134291809159828
+08_pulsar,pulsar-metadata,benchmark,0.028607642179957593
+08_pulsar,pulsar-metadata,File Transfer Protocol,0.029736311990425368
+08_pulsar,pulsar-metadata,digital audio,0.029854588556471162
+08_pulsar,pulsar-metadata,machine learning,0.030207792068720707
+08_pulsar,pulsar-metadata,data compression,0.030896192955610413
+08_pulsar,pulsar-metadata,search,0.03115591642118276
+08_pulsar,pulsar-metadata,penetration test,0.03126208052738688
+08_pulsar,pulsar-metadata,digital image processing,0.03141015814760939
+08_pulsar,pulsar-metadata,telecommunications network,0.03152664231186064
+08_pulsar,pulsar-metadata,back end,0.031569240556219014
+08_pulsar,pulsar-metadata,database,0.03249646301688758
+08_pulsar,pulsar-metadata,digital security,0.03255963010931939
+08_pulsar,pulsar-metadata,security,0.03401089861374229
+08_pulsar,pulsar-metadata,database management,0.03453099896541301
+08_pulsar,pulsar-metadata,text processing,0.034802434891351264
+08_pulsar,pulsar-metadata,geographic information system,0.036341215776724556
+08_pulsar,pulsar-metadata,artificial intelligence,0.036408994508496995
+08_pulsar,pulsar-metadata,serialization,0.03647340534535681
+08_pulsar,pulsar-metadata,question answering,0.03656253518592689
+08_pulsar,pulsar-metadata,web scraping,0.03712455995089359
+08_pulsar,pulsar-metadata,linear regression,0.03718147909194214
+08_pulsar,pulsar-metadata,instant messaging,0.037864969841736706
+08_pulsar,pulsar-metadata,automation,0.038506674071649205
+08_pulsar,pulsar-metadata,regular expression,0.03867489596515461
+08_pulsar,pulsar-metadata,embedded system,0.04060506874010461
+08_pulsar,pulsar-metadata,website,0.04098162773171954
+08_pulsar,pulsar-metadata,static program analysis,0.0415627760524091
+08_pulsar,pulsar-metadata,Web Components,0.041707809675195606
+08_pulsar,pulsar-metadata,HTTP server,0.04289016314908678
+08_pulsar,pulsar-metadata,dependency injection,0.043535306459100864
+08_pulsar,pulsar-metadata,server,0.04544691087597763
+08_pulsar,pulsar-metadata,support vector machine,0.045865572799685284
+08_pulsar,pulsar-metadata,distributed multimedia communications platform,0.04802304994013096
+08_pulsar,pulsar-metadata,internet bot,0.048104659935129135
+08_pulsar,pulsar-metadata,operating system,0.04847835023931546
+08_pulsar,pulsar-metadata,content management system,0.049568056042363695
+08_pulsar,pulsar-metadata,application performance management,0.049720943177943955
+08_pulsar,pulsar-metadata,unit testing,0.049827673569477815
+08_pulsar,pulsar-metadata,web server,0.054011445263782876
+08_pulsar,pulsar-metadata,game server,0.05404287389178952
+08_pulsar,pulsar-metadata,design,0.05483483564168534
+08_pulsar,pulsar-metadata,language model,0.055452026138839816
+08_pulsar,pulsar-metadata,World Wide Web,0.05564346019854893
+08_pulsar,pulsar-metadata,text editor,0.0558387787762491
+08_pulsar,pulsar-metadata,test automation,0.05737096248076601
+08_pulsar,pulsar-metadata,web service,0.0574139995716928
+08_pulsar,pulsar-metadata,3D modeling,0.058365996626965844
+08_pulsar,pulsar-metadata,compiler,0.0591385635387387
+08_pulsar,pulsar-metadata,static site generator,0.06035107815987639
+08_pulsar,pulsar-metadata,user interface,0.06272027433937966
+08_pulsar,pulsar-metadata,client,0.06329021962870673
+08_pulsar,pulsar-metadata,computer configuration,0.0638863051385441
+08_pulsar,pulsar-metadata,command-line interface,0.06419958763853029
+08_pulsar,pulsar-metadata,code generation,0.06656165377702405
+08_pulsar,pulsar-metadata,HTTP client,0.06820500212446234
+08_pulsar,pulsar-metadata,game engine,0.07024413742917535
+08_pulsar,pulsar-metadata,graphical user interface,0.07711919312262117
+08_pulsar,pulsar-metadata,package management system,0.07823799164869938
+08_pulsar,pulsar-metadata,web application security,0.08246337790994351
+08_pulsar,pulsar-metadata,web application,0.08367435613165664
+08_pulsar,pulsar-metadata,software testing,0.09861630516863118
+08_pulsar,pulsar-metadata,software development,0.11491240503124012

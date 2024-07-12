@@ -1,0 +1,143 @@
+project_name,module,domain,diff_sim
+11_shardingsphere-elasticjob,elasticjob-infra,data science,3.7156527777804094e-05
+11_shardingsphere-elasticjob,elasticjob-infra,web application,0.001127086944444633
+11_shardingsphere-elasticjob,elasticjob-infra,regression analysis,0.0012984555555555777
+11_shardingsphere-elasticjob,elasticjob-infra,electronic trading platform,0.0018510701388890216
+11_shardingsphere-elasticjob,elasticjob-infra,graphical user interface,0.0030090331944445103
+11_shardingsphere-elasticjob,elasticjob-infra,smart contract,0.0033938155555555127
+11_shardingsphere-elasticjob,elasticjob-infra,data visualization,0.003426627361111101
+11_shardingsphere-elasticjob,elasticjob-infra,blockchain,0.003780484722222144
+11_shardingsphere-elasticjob,elasticjob-infra,algorithm,0.004482043611111097
+11_shardingsphere-elasticjob,elasticjob-infra,documentation,0.004521293472222299
+11_shardingsphere-elasticjob,elasticjob-infra,microservices,0.0049985215277777995
+11_shardingsphere-elasticjob,elasticjob-infra,automated machine learning,0.005067743611111009
+11_shardingsphere-elasticjob,elasticjob-infra,analytics,0.005275010277777714
+11_shardingsphere-elasticjob,elasticjob-infra,algorithmic trading,0.005626769166666601
+11_shardingsphere-elasticjob,elasticjob-infra,data compression,0.007149385000000008
+11_shardingsphere-elasticjob,elasticjob-infra,benchmark,0.007305797777777789
+11_shardingsphere-elasticjob,elasticjob-infra,recommender system,0.0074388109722222095
+11_shardingsphere-elasticjob,elasticjob-infra,logging,0.007649380277777895
+11_shardingsphere-elasticjob,elasticjob-infra,operating system,0.00849635999999998
+11_shardingsphere-elasticjob,elasticjob-infra,code generation,0.00862241263888891
+11_shardingsphere-elasticjob,elasticjob-infra,static site generator,0.008889718611111097
+11_shardingsphere-elasticjob,elasticjob-infra,cryptocurrency,0.008912561250000006
+11_shardingsphere-elasticjob,elasticjob-infra,database,0.008964945833333404
+11_shardingsphere-elasticjob,elasticjob-infra,game server,0.009097442916666587
+11_shardingsphere-elasticjob,elasticjob-infra,Web Components,0.009829628333333229
+11_shardingsphere-elasticjob,elasticjob-infra,server,0.010377238194444471
+11_shardingsphere-elasticjob,elasticjob-infra,data structure,0.011004394444444288
+11_shardingsphere-elasticjob,elasticjob-infra,dependency injection,0.011077324444444425
+11_shardingsphere-elasticjob,elasticjob-infra,3D modeling,0.01135605458333322
+11_shardingsphere-elasticjob,elasticjob-infra,animation,0.012019868749999996
+11_shardingsphere-elasticjob,elasticjob-infra,graph algorithm,0.013173106666666767
+11_shardingsphere-elasticjob,elasticjob-infra,machine learning,0.013329508194444395
+11_shardingsphere-elasticjob,elasticjob-infra,password manager,0.014463442916666736
+11_shardingsphere-elasticjob,elasticjob-infra,quantum computer,0.01520475361111101
+11_shardingsphere-elasticjob,elasticjob-infra,geographic information system,0.01529907708333339
+11_shardingsphere-elasticjob,elasticjob-infra,hyperparameter optimization,0.015329925972222325
+11_shardingsphere-elasticjob,elasticjob-infra,security,0.018123793888888906
+11_shardingsphere-elasticjob,elasticjob-infra,linear regression,0.019380771388888884
+11_shardingsphere-elasticjob,elasticjob-infra,object–relational mapping,0.01997149625000011
+11_shardingsphere-elasticjob,elasticjob-infra,compiler,0.020174711250000033
+11_shardingsphere-elasticjob,elasticjob-infra,static program analysis tool,0.020227135416666653
+11_shardingsphere-elasticjob,elasticjob-infra,sorting algorithm,0.020294255277777784
+11_shardingsphere-elasticjob,elasticjob-infra,web application security,0.02039313138888904
+11_shardingsphere-elasticjob,elasticjob-infra,stock market,0.020573200138888914
+11_shardingsphere-elasticjob,elasticjob-infra,Semantic Web,0.020632897222222224
+11_shardingsphere-elasticjob,elasticjob-infra,client,0.020691146111111114
+11_shardingsphere-elasticjob,elasticjob-infra,artificial neural network,0.020884197222222234
+11_shardingsphere-elasticjob,elasticjob-infra,kernel,0.0213141105555556
+11_shardingsphere-elasticjob,elasticjob-infra,automation,0.022580043888889012
+11_shardingsphere-elasticjob,elasticjob-infra,data analysis,0.022648252638888977
+11_shardingsphere-elasticjob,elasticjob-infra,static program analysis,0.022650575416666707
+11_shardingsphere-elasticjob,elasticjob-infra,optical character recognition,0.02478611777777784
+11_shardingsphere-elasticjob,elasticjob-infra,object detection,0.0250429704166667
+11_shardingsphere-elasticjob,elasticjob-infra,deep learning,0.025211585277777893
+11_shardingsphere-elasticjob,elasticjob-infra,video processing,0.025401243194444312
+11_shardingsphere-elasticjob,elasticjob-infra,application performance management,0.025657865694444504
+11_shardingsphere-elasticjob,elasticjob-infra,game engine,0.025911897222222258
+11_shardingsphere-elasticjob,elasticjob-infra,back end,0.0261205541666667
+11_shardingsphere-elasticjob,elasticjob-infra,computer data storage,0.026284799583333296
+11_shardingsphere-elasticjob,elasticjob-infra,website,0.02731382097222229
+11_shardingsphere-elasticjob,elasticjob-infra,reactive programming,0.027698741527777737
+11_shardingsphere-elasticjob,elasticjob-infra,big data,0.02783432250000001
+11_shardingsphere-elasticjob,elasticjob-infra,web development,0.02803458541666659
+11_shardingsphere-elasticjob,elasticjob-infra,reinforcement learning,0.028869754861111097
+11_shardingsphere-elasticjob,elasticjob-infra,mathematics,0.029017543750000097
+11_shardingsphere-elasticjob,elasticjob-infra,software testing,0.029059434861111122
+11_shardingsphere-elasticjob,elasticjob-infra,semi-supervised learning,0.029213528472222305
+11_shardingsphere-elasticjob,elasticjob-infra,validator,0.030060778611111227
+11_shardingsphere-elasticjob,elasticjob-infra,continuous delivery,0.030255520277777892
+11_shardingsphere-elasticjob,elasticjob-infra,graph database,0.030390760833333308
+11_shardingsphere-elasticjob,elasticjob-infra,command-line interface,0.030691164999999965
+11_shardingsphere-elasticjob,elasticjob-infra,test automation,0.030692005555555568
+11_shardingsphere-elasticjob,elasticjob-infra,file system,0.0308549768055556
+11_shardingsphere-elasticjob,elasticjob-infra,time series,0.031242763750000013
+11_shardingsphere-elasticjob,elasticjob-infra,search,0.03172099180555549
+11_shardingsphere-elasticjob,elasticjob-infra,embedded system,0.03266450097222218
+11_shardingsphere-elasticjob,elasticjob-infra,debugger,0.03289619888888884
+11_shardingsphere-elasticjob,elasticjob-infra,web server,0.03440115458333337
+11_shardingsphere-elasticjob,elasticjob-infra,malware,0.03452588152777769
+11_shardingsphere-elasticjob,elasticjob-infra,user interface,0.03458958180555555
+11_shardingsphere-elasticjob,elasticjob-infra,middleware,0.03481573250000003
+11_shardingsphere-elasticjob,elasticjob-infra,content management system,0.03528811388888892
+11_shardingsphere-elasticjob,elasticjob-infra,virtual machine,0.03599109388888888
+11_shardingsphere-elasticjob,elasticjob-infra,web browser engine,0.036099132083333374
+11_shardingsphere-elasticjob,elasticjob-infra,streaming media,0.0364777181944444
+11_shardingsphere-elasticjob,elasticjob-infra,World Wide Web,0.03691270583333339
+11_shardingsphere-elasticjob,elasticjob-infra,synchronization,0.03708705013888891
+11_shardingsphere-elasticjob,elasticjob-infra,distributed multimedia communications platform,0.03846637055555535
+11_shardingsphere-elasticjob,elasticjob-infra,data,0.039004461527777756
+11_shardingsphere-elasticjob,elasticjob-infra,Malware Analysis,0.03969724347222231
+11_shardingsphere-elasticjob,elasticjob-infra,sentiment analysis,0.04021813486111103
+11_shardingsphere-elasticjob,elasticjob-infra,network analysis,0.04129632208333334
+11_shardingsphere-elasticjob,elasticjob-infra,web crawler,0.04172133861111105
+11_shardingsphere-elasticjob,elasticjob-infra,web browser,0.04180608805555547
+11_shardingsphere-elasticjob,elasticjob-infra,convolutional neural network,0.0436639604166667
+11_shardingsphere-elasticjob,elasticjob-infra,network security,0.04572471805555561
+11_shardingsphere-elasticjob,elasticjob-infra,support vector machine,0.04728515875
+11_shardingsphere-elasticjob,elasticjob-infra,continuous integration,0.04772126305555563
+11_shardingsphere-elasticjob,elasticjob-infra,distributed database,0.04812248444444445
+11_shardingsphere-elasticjob,elasticjob-infra,database management,0.04882393152777792
+11_shardingsphere-elasticjob,elasticjob-infra,network monitoring,0.04887040291666672
+11_shardingsphere-elasticjob,elasticjob-infra,signal processing,0.0502808663888889
+11_shardingsphere-elasticjob,elasticjob-infra,schema migration,0.050961610277777736
+11_shardingsphere-elasticjob,elasticjob-infra,language model,0.05120132250000009
+11_shardingsphere-elasticjob,elasticjob-infra,audio signal processing,0.05134495722222221
+11_shardingsphere-elasticjob,elasticjob-infra,web scraping,0.05188991736111109
+11_shardingsphere-elasticjob,elasticjob-infra,unit testing,0.052818320555555576
+11_shardingsphere-elasticjob,elasticjob-infra,Kalman filter,0.05320601708333339
+11_shardingsphere-elasticjob,elasticjob-infra,long short-term memory,0.05370117833333321
+11_shardingsphere-elasticjob,elasticjob-infra,search engine,0.0542431901388889
+11_shardingsphere-elasticjob,elasticjob-infra,virtualization,0.054797664444444505
+11_shardingsphere-elasticjob,elasticjob-infra,penetration test,0.05491342305555558
+11_shardingsphere-elasticjob,elasticjob-infra,text processing,0.056529866250000116
+11_shardingsphere-elasticjob,elasticjob-infra,File Transfer Protocol,0.05707032624999997
+11_shardingsphere-elasticjob,elasticjob-infra,serialization,0.057141049861111015
+11_shardingsphere-elasticjob,elasticjob-infra,scheduler,0.05799023569444439
+11_shardingsphere-elasticjob,elasticjob-infra,data binding,0.05874280944444438
+11_shardingsphere-elasticjob,elasticjob-infra,distributed system,0.06045146333333329
+11_shardingsphere-elasticjob,elasticjob-infra,natural language processing,0.0615469188888888
+11_shardingsphere-elasticjob,elasticjob-infra,stream processing,0.06205621277777795
+11_shardingsphere-elasticjob,elasticjob-infra,computer configuration,0.062492987499999986
+11_shardingsphere-elasticjob,elasticjob-infra,information processing,0.06561899888888906
+11_shardingsphere-elasticjob,elasticjob-infra,web service,0.06601374333333337
+11_shardingsphere-elasticjob,elasticjob-infra,front end,0.06763398319444447
+11_shardingsphere-elasticjob,elasticjob-infra,WebSocket,0.06841099194444444
+11_shardingsphere-elasticjob,elasticjob-infra,distributed computing,0.07015139749999988
+11_shardingsphere-elasticjob,elasticjob-infra,router,0.07038021527777782
+11_shardingsphere-elasticjob,elasticjob-infra,pattern matching,0.07079645597222228
+11_shardingsphere-elasticjob,elasticjob-infra,telecommunications network,0.07111593402777777
+11_shardingsphere-elasticjob,elasticjob-infra,internet bot,0.07162186819444455
+11_shardingsphere-elasticjob,elasticjob-infra,software development,0.07173923986111114
+11_shardingsphere-elasticjob,elasticjob-infra,regular expression,0.07245995402777783
+11_shardingsphere-elasticjob,elasticjob-infra,text classification,0.07336132305555548
+11_shardingsphere-elasticjob,elasticjob-infra,information retrieval,0.07581722722222228
+11_shardingsphere-elasticjob,elasticjob-infra,Parser combinator,0.07751874138888876
+11_shardingsphere-elasticjob,elasticjob-infra,DevOps,0.0841792941666667
+11_shardingsphere-elasticjob,elasticjob-infra,instant messaging,0.09408988513888877
+11_shardingsphere-elasticjob,elasticjob-infra,cloud computing,0.09720389555555553
+11_shardingsphere-elasticjob,elasticjob-infra,HTTP server,0.09851824597222225
+11_shardingsphere-elasticjob,elasticjob-infra,continuous deployment,0.10438755333333327
+11_shardingsphere-elasticjob,elasticjob-infra,package management system,0.11171776902777775
+11_shardingsphere-elasticjob,elasticjob-infra,HTTP client,0.11260034874999997

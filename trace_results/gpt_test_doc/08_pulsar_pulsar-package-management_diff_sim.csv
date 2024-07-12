@@ -1,0 +1,88 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-package-management,data structure,0.0008884954536693135
+08_pulsar,pulsar-package-management,logging,0.0010423731609712217
+08_pulsar,pulsar-package-management,microservices,0.001462922590749094
+08_pulsar,pulsar-package-management,data compression,0.001687981008994699
+08_pulsar,pulsar-package-management,audio signal processing,0.0025777342610728837
+08_pulsar,pulsar-package-management,distributed computing,0.004273885808645406
+08_pulsar,pulsar-package-management,reinforcement learning,0.00446585760032947
+08_pulsar,pulsar-package-management,smart contract,0.004702879081248557
+08_pulsar,pulsar-package-management,distributed database,0.004738697395672564
+08_pulsar,pulsar-package-management,file system,0.005055539352668781
+08_pulsar,pulsar-package-management,distributed system,0.0050806263538928365
+08_pulsar,pulsar-package-management,computer data storage,0.005381934276086797
+08_pulsar,pulsar-package-management,pattern matching,0.005522094183490367
+08_pulsar,pulsar-package-management,cloud computing,0.006062189253140282
+08_pulsar,pulsar-package-management,File Transfer Protocol,0.006087214000419561
+08_pulsar,pulsar-package-management,penetration test,0.006955443195451938
+08_pulsar,pulsar-package-management,back end,0.007246314795070763
+08_pulsar,pulsar-package-management,data,0.007379651269577292
+08_pulsar,pulsar-package-management,data analysis,0.00816175050293122
+08_pulsar,pulsar-package-management,telecommunications network,0.009122209587231422
+08_pulsar,pulsar-package-management,streaming media,0.009902534011258846
+08_pulsar,pulsar-package-management,data binding,0.010003457036888985
+08_pulsar,pulsar-package-management,information processing,0.010193438424577761
+08_pulsar,pulsar-package-management,database management,0.010896954344046916
+08_pulsar,pulsar-package-management,long short-term memory,0.010976209988237118
+08_pulsar,pulsar-package-management,object–relational mapping,0.011401713893553045
+08_pulsar,pulsar-package-management,algorithm,0.01145032615264574
+08_pulsar,pulsar-package-management,benchmark,0.012753167093676243
+08_pulsar,pulsar-package-management,serialization,0.012815553571878024
+08_pulsar,pulsar-package-management,validator,0.013021041451761528
+08_pulsar,pulsar-package-management,security,0.013057271898618383
+08_pulsar,pulsar-package-management,object detection,0.013201306988417594
+08_pulsar,pulsar-package-management,word embedding,0.013317640952220322
+08_pulsar,pulsar-package-management,dependency injection,0.01370739484477046
+08_pulsar,pulsar-package-management,continuous integration,0.01447026502403359
+08_pulsar,pulsar-package-management,digital audio,0.01452388100042823
+08_pulsar,pulsar-package-management,database,0.014679380691438593
+08_pulsar,pulsar-package-management,signal processing,0.015539511960006691
+08_pulsar,pulsar-package-management,recommender system,0.016111643936531195
+08_pulsar,pulsar-package-management,application performance management,0.01670581020997919
+08_pulsar,pulsar-package-management,automation,0.01721520270082222
+08_pulsar,pulsar-package-management,embedded system,0.017223999389927247
+08_pulsar,pulsar-package-management,Web Components,0.017489823925134984
+08_pulsar,pulsar-package-management,face detection,0.017526532817844
+08_pulsar,pulsar-package-management,digital image processing,0.017590463252954103
+08_pulsar,pulsar-package-management,machine learning,0.01775051507290648
+08_pulsar,pulsar-package-management,big data,0.017957414864543053
+08_pulsar,pulsar-package-management,analytics,0.01796599126047882
+08_pulsar,pulsar-package-management,digital security,0.018050105190586363
+08_pulsar,pulsar-package-management,unit testing,0.018629556466330355
+08_pulsar,pulsar-package-management,HTTP server,0.019882464134011624
+08_pulsar,pulsar-package-management,server,0.020771868865244514
+08_pulsar,pulsar-package-management,image recognition,0.02113195319778649
+08_pulsar,pulsar-package-management,instant messaging,0.022844022624318283
+08_pulsar,pulsar-package-management,website,0.023629318517318088
+08_pulsar,pulsar-package-management,facial recognition system,0.023860278261084167
+08_pulsar,pulsar-package-management,support vector machine,0.02473037527191224
+08_pulsar,pulsar-package-management,operating system,0.024825135839720347
+08_pulsar,pulsar-package-management,content management system,0.02539538205433356
+08_pulsar,pulsar-package-management,static program analysis,0.025559026380602257
+08_pulsar,pulsar-package-management,web server,0.025755575977597256
+08_pulsar,pulsar-package-management,game server,0.02613185287978992
+08_pulsar,pulsar-package-management,geographic information system,0.02645100038950965
+08_pulsar,pulsar-package-management,regular expression,0.028016801311019468
+08_pulsar,pulsar-package-management,distributed multimedia communications platform,0.02824312050401978
+08_pulsar,pulsar-package-management,World Wide Web,0.02834008479692729
+08_pulsar,pulsar-package-management,web service,0.02947398786280042
+08_pulsar,pulsar-package-management,test automation,0.031457143478234695
+08_pulsar,pulsar-package-management,compiler,0.032345155087936894
+08_pulsar,pulsar-package-management,language model,0.033591085682075694
+08_pulsar,pulsar-package-management,3D modeling,0.03400391286848159
+08_pulsar,pulsar-package-management,design,0.034016607204124916
+08_pulsar,pulsar-package-management,linear regression,0.03422728950940346
+08_pulsar,pulsar-package-management,stream processing,0.03433735765501156
+08_pulsar,pulsar-package-management,computer configuration,0.03442994542122335
+08_pulsar,pulsar-package-management,user interface,0.037639852214814695
+08_pulsar,pulsar-package-management,client,0.03793054247187977
+08_pulsar,pulsar-package-management,computer vision,0.03868550792079517
+08_pulsar,pulsar-package-management,command-line interface,0.03994443870942621
+08_pulsar,pulsar-package-management,package management system,0.043358007339958204
+08_pulsar,pulsar-package-management,web application security,0.05391014304431874
+08_pulsar,pulsar-package-management,graphical user interface,0.05406307751273243
+08_pulsar,pulsar-package-management,web application,0.05706077896251094
+08_pulsar,pulsar-package-management,web development,0.05778275342888739
+08_pulsar,pulsar-package-management,software testing,0.06177653814517858
+08_pulsar,pulsar-package-management,mobile application development,0.06414771901710259
+08_pulsar,pulsar-package-management,integrated development environment,0.06955743240111423

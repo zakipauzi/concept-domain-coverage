@@ -1,0 +1,17 @@
+project_name,module,domain,diff_sim
+14_storm,storm-webapp,data,0.008220301587301526
+14_storm,storm-webapp,server,0.011231110952380996
+14_storm,storm-webapp,logging,0.014206451603174602
+14_storm,storm-webapp,authentication,0.023074017714285744
+14_storm,storm-webapp,search,0.040593296666666695
+14_storm,storm-webapp,validator,0.044580630063492
+14_storm,storm-webapp,analytics,0.04515393541269841
+14_storm,storm-webapp,microservices,0.046259122318095196
+14_storm,storm-webapp,client,0.059159602698412694
+14_storm,storm-webapp,database,0.06474265492063491
+14_storm,storm-webapp,security,0.0666496545396826
+14_storm,storm-webapp,serialization,0.06862107766666661
+14_storm,storm-webapp,automation,0.0898179534444444
+14_storm,storm-webapp,website,0.10626978631746031
+14_storm,storm-webapp,interpreter,0.11160374568253961
+14_storm,storm-webapp,middleware,0.161925873015873

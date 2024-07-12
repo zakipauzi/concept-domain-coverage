@@ -1,0 +1,123 @@
+project_name,module,domain,diff_sim
+03_flink,flink-filesystems,object detection,5.725979124571179e-05
+03_flink,flink-filesystems,big data,6.69632093357464e-05
+03_flink,flink-filesystems,streaming media,0.0004849876428880684
+03_flink,flink-filesystems,security,0.000698003536031333
+03_flink,flink-filesystems,telecommunications network,0.0010950076327503888
+03_flink,flink-filesystems,distributed system,0.0011044999310230175
+03_flink,flink-filesystems,cryptocurrency,0.0011978628209328157
+03_flink,flink-filesystems,backup,0.0013044045510557378
+03_flink,flink-filesystems,data,0.0013817922275090044
+03_flink,flink-filesystems,geographic information,0.0017868259728115454
+03_flink,flink-filesystems,penetration test,0.002064522167816718
+03_flink,flink-filesystems,distributed computing,0.002733447873947248
+03_flink,flink-filesystems,object–relational mapping,0.004714092109712076
+03_flink,flink-filesystems,network security,0.004855339806998815
+03_flink,flink-filesystems,database,0.004894880419808345
+03_flink,flink-filesystems,geographic information system,0.005021938907504464
+03_flink,flink-filesystems,long short-term memory,0.005053612274421915
+03_flink,flink-filesystems,data compression,0.005089963025655342
+03_flink,flink-filesystems,WebSocket,0.005137841268352816
+03_flink,flink-filesystems,password manager,0.006695087250404019
+03_flink,flink-filesystems,client,0.006924822995019286
+03_flink,flink-filesystems,deep learning,0.006966595778464479
+03_flink,flink-filesystems,distributed multimedia communications platform,0.007045779323063384
+03_flink,flink-filesystems,HTTP server,0.007432358087870128
+03_flink,flink-filesystems,file system,0.00783339332111832
+03_flink,flink-filesystems,email,0.007870012949541372
+03_flink,flink-filesystems,word embedding,0.008520812890986718
+03_flink,flink-filesystems,facial recognition system,0.008632802017686125
+03_flink,flink-filesystems,cloud computing,0.008772413923690991
+03_flink,flink-filesystems,server,0.009016514116438001
+03_flink,flink-filesystems,data structure,0.010697908964065972
+03_flink,flink-filesystems,web server,0.010722188122619714
+03_flink,flink-filesystems,information retrieval,0.01104087776881335
+03_flink,flink-filesystems,data mining,0.011217215835506056
+03_flink,flink-filesystems,HTTP client,0.011435688943679745
+03_flink,flink-filesystems,face detection,0.011864262785397983
+03_flink,flink-filesystems,File Transfer Protocol,0.012446464475403762
+03_flink,flink-filesystems,content management system,0.013312717754943693
+03_flink,flink-filesystems,validator,0.013410323755837505
+03_flink,flink-filesystems,logging,0.013630867193562213
+03_flink,flink-filesystems,distributed database,0.01375894693940427
+03_flink,flink-filesystems,recommender system,0.013770462174987785
+03_flink,flink-filesystems,website,0.014173119177388172
+03_flink,flink-filesystems,digital security,0.014285917919858782
+03_flink,flink-filesystems,computer data storage,0.015354795970936586
+03_flink,flink-filesystems,authentication,0.016336423735252015
+03_flink,flink-filesystems,smart contract,0.016801951681978955
+03_flink,flink-filesystems,blockchain,0.016889119974803024
+03_flink,flink-filesystems,stock market,0.01695024411878332
+03_flink,flink-filesystems,dependency injection,0.01729148898144106
+03_flink,flink-filesystems,shell tool,0.01761305494877985
+03_flink,flink-filesystems,graph database,0.017839631187940297
+03_flink,flink-filesystems,World Wide Web,0.01828273591092644
+03_flink,flink-filesystems,encryption,0.018874026603735272
+03_flink,flink-filesystems,synchronization,0.019942038215917224
+03_flink,flink-filesystems,back end,0.01996223423010679
+03_flink,flink-filesystems,hyperparameter optimization,0.020292252865801053
+03_flink,flink-filesystems,operating system,0.020455345037427075
+03_flink,flink-filesystems,digital audio,0.02059639729341123
+03_flink,flink-filesystems,cluster analysis,0.02278787950594996
+03_flink,flink-filesystems,plot,0.02297397258169387
+03_flink,flink-filesystems,text classification,0.02310739825735353
+03_flink,flink-filesystems,serialization,0.023390333560626475
+03_flink,flink-filesystems,web service,0.023667608776015925
+03_flink,flink-filesystems,Web Components,0.02386492578055799
+03_flink,flink-filesystems,embedded system,0.024186463862951313
+03_flink,flink-filesystems,microservices,0.02442368569200215
+03_flink,flink-filesystems,design,0.024458268098679903
+03_flink,flink-filesystems,information extraction,0.024561896548012663
+03_flink,flink-filesystems,benchmark,0.024750489016061583
+03_flink,flink-filesystems,data science,0.024868129349834955
+03_flink,flink-filesystems,linear regression,0.02713229231332548
+03_flink,flink-filesystems,data binding,0.027168353601216277
+03_flink,flink-filesystems,scheduler,0.02755277814830359
+03_flink,flink-filesystems,front end,0.02901632235008167
+03_flink,flink-filesystems,instant messaging,0.02982594990622578
+03_flink,flink-filesystems,computer vision,0.030141384561673257
+03_flink,flink-filesystems,web application security,0.03036498121750386
+03_flink,flink-filesystems,computer configuration,0.030371821235013696
+03_flink,flink-filesystems,electronic trading platform,0.030382702682494322
+03_flink,flink-filesystems,stream processing,0.03163332486011361
+03_flink,flink-filesystems,digital image processing,0.03219353980530881
+03_flink,flink-filesystems,user interface,0.03240177402399769
+03_flink,flink-filesystems,algorithm,0.032494931845147956
+03_flink,flink-filesystems,automation,0.03302301818908271
+03_flink,flink-filesystems,virtual machine,0.033222869205763006
+03_flink,flink-filesystems,pattern matching,0.03367006601478961
+03_flink,flink-filesystems,documentation,0.035254982552772596
+03_flink,flink-filesystems,algorithmic trading,0.03542325657012557
+03_flink,flink-filesystems,data analysis,0.03572699316415251
+03_flink,flink-filesystems,web application,0.03577890721980603
+03_flink,flink-filesystems,graphical user interface,0.036068210951294644
+03_flink,flink-filesystems,3D modeling,0.03655322008863271
+03_flink,flink-filesystems,regular expression,0.03680125528075995
+03_flink,flink-filesystems,machine learning,0.037069214741931145
+03_flink,flink-filesystems,analytics,0.03713156566002851
+03_flink,flink-filesystems,artificial intelligence,0.038075193757921344
+03_flink,flink-filesystems,information processing,0.03909368117507406
+03_flink,flink-filesystems,automated machine learning,0.03988721129629269
+03_flink,flink-filesystems,command-line interface,0.04091344485781134
+03_flink,flink-filesystems,unit testing,0.04159094130909902
+03_flink,flink-filesystems,continuous integration,0.04188039030596136
+03_flink,flink-filesystems,application performance management,0.04447026938741683
+03_flink,flink-filesystems,test automation,0.04477763082494812
+03_flink,flink-filesystems,signal processing,0.04616303165972935
+03_flink,flink-filesystems,natural language processing,0.04683523200927253
+03_flink,flink-filesystems,audio signal processing,0.047126852318917556
+03_flink,flink-filesystems,static site generator,0.04756908908530755
+03_flink,flink-filesystems,mobile application development,0.0479101154011482
+03_flink,flink-filesystems,Parser combinator,0.04916666752157195
+03_flink,flink-filesystems,text processing,0.049690219249758805
+03_flink,flink-filesystems,game engine,0.04990594331875231
+03_flink,flink-filesystems,language model,0.05246007477225312
+03_flink,flink-filesystems,support vector machine,0.059524971052436704
+03_flink,flink-filesystems,functional programming,0.06270772586403928
+03_flink,flink-filesystems,package management system,0.06654789986368415
+03_flink,flink-filesystems,software testing,0.07010407012765107
+03_flink,flink-filesystems,software engineering,0.07350397946465714
+03_flink,flink-filesystems,syntax highlighting,0.07561801053365014
+03_flink,flink-filesystems,static program analysis,0.07605244727497074
+03_flink,flink-filesystems,software development,0.07789914424725564
+03_flink,flink-filesystems,static program analysis tool,0.08818605210487318

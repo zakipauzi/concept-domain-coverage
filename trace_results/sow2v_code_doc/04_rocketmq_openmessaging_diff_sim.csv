@@ -1,0 +1,17 @@
+project_name,module,domain,diff_sim
+04_rocketmq,openmessaging,middleware,0.0011143812499999906
+04_rocketmq,openmessaging,compiler,0.00166364375000011
+04_rocketmq,openmessaging,router,0.0017736287499999226
+04_rocketmq,openmessaging,serialization,0.016496325625000002
+04_rocketmq,openmessaging,database,0.03129579625000001
+04_rocketmq,openmessaging,synchronization,0.07789368675000011
+04_rocketmq,openmessaging,scheduler,0.09543184625000001
+04_rocketmq,openmessaging,design,0.1051202123500001
+04_rocketmq,openmessaging,data,0.12035030375
+04_rocketmq,openmessaging,logging,0.1300711530949999
+04_rocketmq,openmessaging,statistics,0.15225326775
+04_rocketmq,openmessaging,encryption,0.16464353787500002
+04_rocketmq,openmessaging,microservices,0.180738486625
+04_rocketmq,openmessaging,security,0.189181471875
+04_rocketmq,openmessaging,client,0.19973984000000006
+04_rocketmq,openmessaging,server,0.24376538250000002

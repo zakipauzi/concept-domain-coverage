@@ -1,0 +1,172 @@
+project_name,module,domain,diff_sim
+05_shardingsphere,infra,lexical analysis,0.0017263581709954234
+05_shardingsphere,infra,static program analysis,0.0017464870914006836
+05_shardingsphere,infra,"extract, transform, load",0.0022788497432941757
+05_shardingsphere,infra,topic modeling,0.0061220787453866166
+05_shardingsphere,infra,parsing,0.006444012056961879
+05_shardingsphere,infra,image segmentation,0.008062375118505383
+05_shardingsphere,infra,serialization,0.010427937812471089
+05_shardingsphere,infra,regular expression,0.011021490815128154
+05_shardingsphere,infra,language model,0.011954505181583253
+05_shardingsphere,infra,pattern matching,0.012160896535779231
+05_shardingsphere,infra,code generation,0.012199066694148608
+05_shardingsphere,infra,functional programming,0.0129971301888272
+05_shardingsphere,infra,validator,0.013056663978710747
+05_shardingsphere,infra,schema migration,0.014781716372015974
+05_shardingsphere,infra,natural language,0.01484731646280768
+05_shardingsphere,infra,object detection,0.015612701641001814
+05_shardingsphere,infra,geometry,0.016165430216389165
+05_shardingsphere,infra,scheduler,0.016801727167150338
+05_shardingsphere,infra,stream processing,0.01681814805985593
+05_shardingsphere,infra,information extraction,0.017533087922084856
+05_shardingsphere,infra,natural language processing,0.01761678289254709
+05_shardingsphere,infra,translation,0.017850963004280684
+05_shardingsphere,infra,static program analysis tool,0.018903110336307094
+05_shardingsphere,infra,sorting algorithm,0.019038728215202583
+05_shardingsphere,infra,hyperparameter optimization,0.019364907356875016
+05_shardingsphere,infra,syntax highlighting,0.020214903242597893
+05_shardingsphere,infra,object–relational mapping,0.02070073994264121
+05_shardingsphere,infra,convolutional neural network,0.021376130815901284
+05_shardingsphere,infra,debugging,0.021963159999828896
+05_shardingsphere,infra,plot,0.022164334154717302
+05_shardingsphere,infra,text classification,0.02228667567470377
+05_shardingsphere,infra,compiler,0.022366958582210716
+05_shardingsphere,infra,interpreter,0.022831751925663446
+05_shardingsphere,infra,Semantic Web,0.0230174739157053
+05_shardingsphere,infra,web crawler,0.02316694056039914
+05_shardingsphere,infra,optical character recognition,0.023754377882941657
+05_shardingsphere,infra,Parser combinator,0.023971667450577883
+05_shardingsphere,infra,sentiment analysis,0.02441626606428049
+05_shardingsphere,infra,Kalman filter,0.024420071572159974
+05_shardingsphere,infra,cluster analysis,0.026717784546562262
+05_shardingsphere,infra,computational science,0.027001248513076614
+05_shardingsphere,infra,static site generator,0.027102212271274073
+05_shardingsphere,infra,simulation,0.027182503382009338
+05_shardingsphere,infra,image recognition,0.02737582152731266
+05_shardingsphere,infra,regression analysis,0.02744169862056589
+05_shardingsphere,infra,time series,0.02784806255628003
+05_shardingsphere,infra,computer vision,0.02842741342137045
+05_shardingsphere,infra,3D modeling,0.02883723584851139
+05_shardingsphere,infra,penetration test,0.02911312779218067
+05_shardingsphere,infra,routing,0.029396697069494437
+05_shardingsphere,infra,game engine,0.02977684157843241
+05_shardingsphere,infra,front end,0.029791106822090407
+05_shardingsphere,infra,unit testing,0.02984495579272095
+05_shardingsphere,infra,dependency injection,0.029877430162940977
+05_shardingsphere,infra,word embedding,0.03024890270342573
+05_shardingsphere,infra,kernel,0.030543135491182705
+05_shardingsphere,infra,algorithm,0.03066316301745553
+05_shardingsphere,infra,graph algorithm,0.031070853735371107
+05_shardingsphere,infra,cloud computing,0.03116510366441927
+05_shardingsphere,infra,long short-term memory,0.032160929635480784
+05_shardingsphere,infra,text processing,0.03241912637613531
+05_shardingsphere,infra,search,0.03314975957158495
+05_shardingsphere,infra,reinforcement learning,0.034085397180386945
+05_shardingsphere,infra,knowledge graph,0.03444741222359782
+05_shardingsphere,infra,linear regression,0.034652160846429414
+05_shardingsphere,infra,Malware Analysis,0.035033686261796815
+05_shardingsphere,infra,smart contract,0.03507576399303314
+05_shardingsphere,infra,virtualization,0.035547303264984564
+05_shardingsphere,infra,statistics,0.03599406654460069
+05_shardingsphere,infra,face detection,0.03689697786700086
+05_shardingsphere,infra,speech recognition,0.03728991361646694
+05_shardingsphere,infra,web scraping,0.037524733780812
+05_shardingsphere,infra,logging,0.03780848421616845
+05_shardingsphere,infra,malware,0.037855416924537866
+05_shardingsphere,infra,test automation,0.03787237589879744
+05_shardingsphere,infra,shell tool,0.037880808136737776
+05_shardingsphere,infra,encryption,0.0381692359763971
+05_shardingsphere,infra,data,0.03825445374636727
+05_shardingsphere,infra,information processing,0.038524726687705346
+05_shardingsphere,infra,search engine,0.03880492003703495
+05_shardingsphere,infra,middleware,0.03902696790569049
+05_shardingsphere,infra,data structure,0.0397554913982211
+05_shardingsphere,infra,machine learning,0.03989886082627003
+05_shardingsphere,infra,DevOps,0.040007328155845956
+05_shardingsphere,infra,HTTP client,0.040315351099830976
+05_shardingsphere,infra,authentication,0.040490454646003426
+05_shardingsphere,infra,microservices,0.04069165737600844
+05_shardingsphere,infra,algorithmic trading,0.04096947666072581
+05_shardingsphere,infra,streaming media,0.04160673843503848
+05_shardingsphere,infra,facial recognition system,0.04164677116352988
+05_shardingsphere,infra,design,0.042026061756096356
+05_shardingsphere,infra,file system,0.042170698174523236
+05_shardingsphere,infra,security,0.042558004537076144
+05_shardingsphere,infra,software design pattern,0.04260870217522872
+05_shardingsphere,infra,game,0.042705381850913327
+05_shardingsphere,infra,content management system,0.04306067221343468
+05_shardingsphere,infra,Web Components,0.043293940665304786
+05_shardingsphere,infra,client,0.04439425046304657
+05_shardingsphere,infra,signal processing,0.04467643179943814
+05_shardingsphere,infra,video,0.04517262674333411
+05_shardingsphere,infra,password manager,0.045178464537199314
+05_shardingsphere,infra,virtual machine,0.045783164268659915
+05_shardingsphere,infra,data visualization,0.04636161748790224
+05_shardingsphere,infra,analytics,0.04641307943986517
+05_shardingsphere,infra,embedded system,0.046439614036227095
+05_shardingsphere,infra,synchronization,0.047747998949339565
+05_shardingsphere,infra,artificial intelligence,0.04792458292811941
+05_shardingsphere,infra,automation,0.04794457166040367
+05_shardingsphere,infra,server,0.04802129744910466
+05_shardingsphere,infra,benchmark,0.04818443021589491
+05_shardingsphere,infra,internet of things,0.048270700029134805
+05_shardingsphere,infra,data binding,0.04834573955220933
+05_shardingsphere,infra,digital image processing,0.048362625837599094
+05_shardingsphere,infra,data science,0.04840779318851429
+05_shardingsphere,infra,router,0.04902077069594735
+05_shardingsphere,infra,email,0.049074284584669337
+05_shardingsphere,infra,HTTP server,0.049361263045535564
+05_shardingsphere,infra,cryptocurrency,0.04951073258215655
+05_shardingsphere,infra,question answering,0.049729906332273255
+05_shardingsphere,infra,support vector machine,0.04975608747448945
+05_shardingsphere,infra,operating system,0.0499008860927006
+05_shardingsphere,infra,command-line interface,0.049998823738595544
+05_shardingsphere,infra,continuous integration,0.05039258849223083
+05_shardingsphere,infra,back end,0.050410299454053176
+05_shardingsphere,infra,stock market,0.05087650771062069
+05_shardingsphere,infra,automated machine learning,0.05127299075869385
+05_shardingsphere,infra,data mining,0.051382445973148005
+05_shardingsphere,infra,continuous deployment,0.05182319676177616
+05_shardingsphere,infra,geographic information system,0.05202182940730782
+05_shardingsphere,infra,web browser engine,0.05207638096026124
+05_shardingsphere,infra,user interface,0.05212496262076338
+05_shardingsphere,infra,package management system,0.0523411511886368
+05_shardingsphere,infra,data compression,0.053093841009410614
+05_shardingsphere,infra,e-commerce,0.053631978678550185
+05_shardingsphere,infra,data analysis,0.05386349865816653
+05_shardingsphere,infra,game server,0.05579500909457302
+05_shardingsphere,infra,graphical user interface,0.056608692542103434
+05_shardingsphere,infra,artificial neural network,0.05663831379944284
+05_shardingsphere,infra,big data,0.05664207439966562
+05_shardingsphere,infra,application performance management,0.05704152705632071
+05_shardingsphere,infra,computer configuration,0.057403845550450416
+05_shardingsphere,infra,website,0.05783632614155132
+05_shardingsphere,infra,backup,0.058166309338450684
+05_shardingsphere,infra,File Transfer Protocol,0.05833863355011448
+05_shardingsphere,infra,audio signal processing,0.059576468802637894
+05_shardingsphere,infra,distributed computing,0.061189685001812766
+05_shardingsphere,infra,blockchain,0.061712649041100076
+05_shardingsphere,infra,recommender system,0.06224865633840104
+05_shardingsphere,infra,software testing,0.06244163184214546
+05_shardingsphere,infra,web service,0.06274544763944245
+05_shardingsphere,infra,instant messaging,0.0635893896588573
+05_shardingsphere,infra,World Wide Web,0.06448331583748534
+05_shardingsphere,infra,computer data storage,0.06474715948539456
+05_shardingsphere,infra,web server,0.06700256666189841
+05_shardingsphere,infra,network analysis,0.06720171032969735
+05_shardingsphere,infra,electronic trading platform,0.06795221182429068
+05_shardingsphere,infra,web development,0.06811875524519351
+05_shardingsphere,infra,digital security,0.06995515927863993
+05_shardingsphere,infra,software development,0.07020164560022313
+05_shardingsphere,infra,mobile application development,0.07130797356625485
+05_shardingsphere,infra,network monitoring,0.07141885202216725
+05_shardingsphere,infra,distributed system,0.07469809047027842
+05_shardingsphere,infra,database,0.0748599555022722
+05_shardingsphere,infra,telecommunications network,0.0760926269936486
+05_shardingsphere,infra,digital audio,0.07817993355047048
+05_shardingsphere,infra,social network,0.0787382873018444
+05_shardingsphere,infra,graph database,0.08073625524179318
+05_shardingsphere,infra,web application security,0.08231970622675944
+05_shardingsphere,infra,database management,0.08714848011497611
+05_shardingsphere,infra,web application,0.0902527874954715
+05_shardingsphere,infra,distributed database,0.09668030807502348

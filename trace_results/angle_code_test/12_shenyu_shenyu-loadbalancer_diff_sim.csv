@@ -1,0 +1,79 @@
+project_name,module,domain,diff_sim
+12_shenyu,shenyu-loadbalancer,Containerization,0.0005493111111110061
+12_shenyu,shenyu-loadbalancer,language model,0.0008170299999999964
+12_shenyu,shenyu-loadbalancer,linear regression,0.0011953077777779875
+12_shenyu,shenyu-loadbalancer,code generation,0.002562703333333416
+12_shenyu,shenyu-loadbalancer,time series,0.002607592222222288
+12_shenyu,shenyu-loadbalancer,computer data storage,0.002960570000000051
+12_shenyu,shenyu-loadbalancer,package management system,0.0031448388888888346
+12_shenyu,shenyu-loadbalancer,middleware,0.0033720044444444097
+12_shenyu,shenyu-loadbalancer,stream processing,0.0035060255555556807
+12_shenyu,shenyu-loadbalancer,user interface,0.0038339555555554905
+12_shenyu,shenyu-loadbalancer,telecommunications network,0.004021897777777783
+12_shenyu,shenyu-loadbalancer,test automation,0.004252906666666556
+12_shenyu,shenyu-loadbalancer,continuous integration,0.004561066666666669
+12_shenyu,shenyu-loadbalancer,graphical user interface,0.0047910777777777636
+12_shenyu,shenyu-loadbalancer,content management system,0.004831829999999981
+12_shenyu,shenyu-loadbalancer,front end,0.004887084444444523
+12_shenyu,shenyu-loadbalancer,regular expression,0.005000974444444417
+12_shenyu,shenyu-loadbalancer,data binding,0.005107281111111195
+12_shenyu,shenyu-loadbalancer,web server,0.005228408888888869
+12_shenyu,shenyu-loadbalancer,client,0.005527615555555587
+12_shenyu,shenyu-loadbalancer,continuous deployment,0.005824778888888993
+12_shenyu,shenyu-loadbalancer,game engine,0.0059467233333334035
+12_shenyu,shenyu-loadbalancer,file system,0.006446453333333213
+12_shenyu,shenyu-loadbalancer,data structure,0.007414910000000052
+12_shenyu,shenyu-loadbalancer,HTTP client,0.007672376666666758
+12_shenyu,shenyu-loadbalancer,HTTP server,0.008200985555555595
+12_shenyu,shenyu-loadbalancer,sorting algorithm,0.008779475555555583
+12_shenyu,shenyu-loadbalancer,algorithm,0.009863595555555493
+12_shenyu,shenyu-loadbalancer,cloud computing,0.010544525555555517
+12_shenyu,shenyu-loadbalancer,blockchain,0.01056509666666694
+12_shenyu,shenyu-loadbalancer,web application,0.01059955666666662
+12_shenyu,shenyu-loadbalancer,World Wide Web,0.01089238444444457
+12_shenyu,shenyu-loadbalancer,Web Components,0.010909207777777707
+12_shenyu,shenyu-loadbalancer,unit testing,0.01095975444444458
+12_shenyu,shenyu-loadbalancer,random forest,0.011198665555555598
+12_shenyu,shenyu-loadbalancer,command-line interface,0.01131999222222213
+12_shenyu,shenyu-loadbalancer,computational science,0.0116567999999998
+12_shenyu,shenyu-loadbalancer,streaming media,0.011999527777777796
+12_shenyu,shenyu-loadbalancer,data compression,0.013193552222222293
+12_shenyu,shenyu-loadbalancer,distributed system,0.013504881111111144
+12_shenyu,shenyu-loadbalancer,shell tool,0.013754047777777778
+12_shenyu,shenyu-loadbalancer,scheduler,0.01388312333333308
+12_shenyu,shenyu-loadbalancer,analytics,0.013917144444444585
+12_shenyu,shenyu-loadbalancer,search,0.013998881111111083
+12_shenyu,shenyu-loadbalancer,software architecture,0.01557276777777794
+12_shenyu,shenyu-loadbalancer,machine learning,0.015811178888888833
+12_shenyu,shenyu-loadbalancer,server,0.015960122222222317
+12_shenyu,shenyu-loadbalancer,microservices,0.016378768888888895
+12_shenyu,shenyu-loadbalancer,instant messaging,0.016652778888888997
+12_shenyu,shenyu-loadbalancer,game server,0.017287633333333163
+12_shenyu,shenyu-loadbalancer,encryption,0.017430763333333377
+12_shenyu,shenyu-loadbalancer,back end,0.017819589999999996
+12_shenyu,shenyu-loadbalancer,data analysis,0.01811974444444442
+12_shenyu,shenyu-loadbalancer,automation,0.018640380000000012
+12_shenyu,shenyu-loadbalancer,smart contract,0.018798331111111066
+12_shenyu,shenyu-loadbalancer,data science,0.018813329999999906
+12_shenyu,shenyu-loadbalancer,object detection,0.019166582222222173
+12_shenyu,shenyu-loadbalancer,web service,0.019344267777777813
+12_shenyu,shenyu-loadbalancer,security,0.0196226077777778
+12_shenyu,shenyu-loadbalancer,database,0.02017224111111121
+12_shenyu,shenyu-loadbalancer,support vector machine,0.020174772222222304
+12_shenyu,shenyu-loadbalancer,pattern matching,0.022462824444444585
+12_shenyu,shenyu-loadbalancer,big data,0.024090544444444528
+12_shenyu,shenyu-loadbalancer,Image analysis,0.0241232277777777
+12_shenyu,shenyu-loadbalancer,data,0.024748122222222335
+12_shenyu,shenyu-loadbalancer,website,0.025192139999999974
+12_shenyu,shenyu-loadbalancer,software testing,0.025333391111111214
+12_shenyu,shenyu-loadbalancer,File Transfer Protocol,0.026509032222222284
+12_shenyu,shenyu-loadbalancer,distributed database,0.02735608777777765
+12_shenyu,shenyu-loadbalancer,distributed computing,0.027910544444444407
+12_shenyu,shenyu-loadbalancer,web application security,0.029643424444444566
+12_shenyu,shenyu-loadbalancer,benchmark,0.03052109111111101
+12_shenyu,shenyu-loadbalancer,data visualization,0.03150071333333332
+12_shenyu,shenyu-loadbalancer,data mining,0.03335723111111105
+12_shenyu,shenyu-loadbalancer,penetration test,0.033436543333333346
+12_shenyu,shenyu-loadbalancer,object–relational mapping,0.03343768222222221
+12_shenyu,shenyu-loadbalancer,geographic information system,0.03401719222222227
+12_shenyu,shenyu-loadbalancer,graph database,0.03661296111111123

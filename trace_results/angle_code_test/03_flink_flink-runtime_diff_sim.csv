@@ -1,0 +1,219 @@
+project_name,module,domain,diff_sim
+03_flink,flink-runtime,linear algebra,0.00026613208333331473
+03_flink,flink-runtime,video processing,0.00029012236111120027
+03_flink,flink-runtime,computer science,0.0004842936111111307
+03_flink,flink-runtime,lexical analysis,0.0006675158333334097
+03_flink,flink-runtime,word embedding,0.0006731036111111699
+03_flink,flink-runtime,audio signal processing,0.0007116849999999619
+03_flink,flink-runtime,debugging,0.000768233888888914
+03_flink,flink-runtime,time series,0.0007726533333332619
+03_flink,flink-runtime,web service,0.0007765341666666203
+03_flink,flink-runtime,mathematical optimization,0.00079028916666668
+03_flink,flink-runtime,digital image processing,0.0009271473611112135
+03_flink,flink-runtime,video,0.001007650694444473
+03_flink,flink-runtime,penetration test,0.0011003602777777677
+03_flink,flink-runtime,benchmark,0.001108251944444416
+03_flink,flink-runtime,distributed computing,0.0011679184722220848
+03_flink,flink-runtime,web crawler,0.0012094693055554884
+03_flink,flink-runtime,computer programming,0.001458137222222211
+03_flink,flink-runtime,algorithm,0.0015082498611111994
+03_flink,flink-runtime,reactive programming,0.00152595138888878
+03_flink,flink-runtime,language model,0.0015906086111110995
+03_flink,flink-runtime,stream processing,0.0016032986111109704
+03_flink,flink-runtime,image,0.001605454861111133
+03_flink,flink-runtime,test automation,0.00161993180555553
+03_flink,flink-runtime,Malware Analysis,0.0016888351388889
+03_flink,flink-runtime,plot,0.0017110497222222465
+03_flink,flink-runtime,WebSocket,0.0018467656944444744
+03_flink,flink-runtime,schema migration,0.001991553888888886
+03_flink,flink-runtime,command-line interface,0.002126989305555549
+03_flink,flink-runtime,distributed system,0.0021876066666666194
+03_flink,flink-runtime,image segmentation,0.0022293886111111605
+03_flink,flink-runtime,continuous deployment,0.0022603612500000647
+03_flink,flink-runtime,server,0.0022850723611109736
+03_flink,flink-runtime,design,0.0028157847222222143
+03_flink,flink-runtime,DevOps,0.0028409687499999503
+03_flink,flink-runtime,Q-learning,0.0029012744444443794
+03_flink,flink-runtime,sorting algorithm,0.0029919394444444247
+03_flink,flink-runtime,computational science,0.0029928263888888695
+03_flink,flink-runtime,web server,0.0031270319444444694
+03_flink,flink-runtime,optical character recognition,0.0031287202777777745
+03_flink,flink-runtime,static program analysis,0.0032226469444445183
+03_flink,flink-runtime,graph algorithm,0.0033957344444444093
+03_flink,flink-runtime,recommender system,0.003455188194444514
+03_flink,flink-runtime,streaming media,0.003743387361111017
+03_flink,flink-runtime,logging,0.0037904783333331804
+03_flink,flink-runtime,computer benchmarking,0.003913347083333241
+03_flink,flink-runtime,animation,0.0039855681944444
+03_flink,flink-runtime,debugger,0.004252463194444389
+03_flink,flink-runtime,code generation,0.004417917499999868
+03_flink,flink-runtime,unit testing,0.00448171861111113
+03_flink,flink-runtime,object–relational mapping,0.004553233888888897
+03_flink,flink-runtime,reinforcement learning,0.004727311805555634
+03_flink,flink-runtime,3D modeling,0.004764587638888984
+03_flink,flink-runtime,parsing,0.004775077499999891
+03_flink,flink-runtime,email,0.004778284166666591
+03_flink,flink-runtime,operating system,0.004839394027777777
+03_flink,flink-runtime,virtual machine,0.005018090000000086
+03_flink,flink-runtime,image recognition,0.005029511111111162
+03_flink,flink-runtime,deep neural network,0.005074266249999959
+03_flink,flink-runtime,web scraping,0.0050994298611111155
+03_flink,flink-runtime,internet bot,0.005253741944444501
+03_flink,flink-runtime,distributed database,0.005272774444444517
+03_flink,flink-runtime,deep learning,0.005377826527777796
+03_flink,flink-runtime,web browser engine,0.005606564305555506
+03_flink,flink-runtime,computer configuration,0.005748264444444484
+03_flink,flink-runtime,web development,0.0060905247222222125
+03_flink,flink-runtime,Bidirectional recurrent neural networks,0.006153617500000097
+03_flink,flink-runtime,static program analysis tool,0.006218709999999961
+03_flink,flink-runtime,machine translation,0.006290338472222212
+03_flink,flink-runtime,signal processing,0.006369894027777823
+03_flink,flink-runtime,graph database,0.006404149861111097
+03_flink,flink-runtime,image captioning,0.006463841388888947
+03_flink,flink-runtime,regression analysis,0.006571261111111226
+03_flink,flink-runtime,text processing,0.006584397222222316
+03_flink,flink-runtime,data science,0.006624655000000035
+03_flink,flink-runtime,HTTP server,0.006636720277777675
+03_flink,flink-runtime,HTTP client,0.0066373504166666875
+03_flink,flink-runtime,artificial intelligence,0.0067852687500000175
+03_flink,flink-runtime,continuous integration,0.006825200833333378
+03_flink,flink-runtime,syntax highlighting,0.006910859166666616
+03_flink,flink-runtime,search,0.006981615277777797
+03_flink,flink-runtime,computer vision,0.007056297777777831
+03_flink,flink-runtime,rendering,0.007064668888888903
+03_flink,flink-runtime,functional programming,0.007316819166666599
+03_flink,flink-runtime,cluster analysis,0.007510887083333306
+03_flink,flink-runtime,computer data storage,0.007539685277777708
+03_flink,flink-runtime,long short-term memory,0.007576373194444486
+03_flink,flink-runtime,automation,0.007671988888888981
+03_flink,flink-runtime,object-oriented programming,0.007750010555555575
+03_flink,flink-runtime,question answering,0.007768218055555498
+03_flink,flink-runtime,continuous delivery,0.007848327083333384
+03_flink,flink-runtime,graph,0.007938437500000006
+03_flink,flink-runtime,virtual reality,0.008323958611111126
+03_flink,flink-runtime,hyperparameter optimization,0.008486544583333366
+03_flink,flink-runtime,middleware,0.008522571388888789
+03_flink,flink-runtime,information extraction,0.008614410416666662
+03_flink,flink-runtime,computer graphics,0.008673086527777818
+03_flink,flink-runtime,software architecture,0.008709403333333365
+03_flink,flink-runtime,database management,0.008768375555555596
+03_flink,flink-runtime,real-time computing,0.00880322986111115
+03_flink,flink-runtime,back end,0.008903067499999917
+03_flink,flink-runtime,security,0.008956801805555581
+03_flink,flink-runtime,digital security,0.009026025555555484
+03_flink,flink-runtime,package management system,0.009070408888888881
+03_flink,flink-runtime,malware,0.009117642777777879
+03_flink,flink-runtime,machine learning,0.00914614236111111
+03_flink,flink-runtime,embedded system,0.009269833750000123
+03_flink,flink-runtime,regular expression,0.009399542222222113
+03_flink,flink-runtime,digital audio,0.00957688763888892
+03_flink,flink-runtime,integrated development environment,0.009610055833333297
+03_flink,flink-runtime,data structure,0.009633057777777787
+03_flink,flink-runtime,big data,0.009779949583333447
+03_flink,flink-runtime,File Transfer Protocol,0.009864492499999877
+03_flink,flink-runtime,microservices,0.00989144763888894
+03_flink,flink-runtime,mobile application development,0.01003403499999983
+03_flink,flink-runtime,web application security,0.010194787638888925
+03_flink,flink-runtime,home automation,0.010259026111111125
+03_flink,flink-runtime,3D computer graphics,0.01031031041666669
+03_flink,flink-runtime,cryptocurrency,0.010418429861111078
+03_flink,flink-runtime,kernel,0.010543328055555579
+03_flink,flink-runtime,topic modeling,0.010561579305555624
+03_flink,flink-runtime,software development,0.010642274166666632
+03_flink,flink-runtime,website,0.010674403472222205
+03_flink,flink-runtime,e-commerce,0.010816594166666693
+03_flink,flink-runtime,dependency injection,0.010953935833333373
+03_flink,flink-runtime,synchronization,0.010955142638888749
+03_flink,flink-runtime,software testing,0.011024903749999926
+03_flink,flink-runtime,cryptography,0.011240843888889018
+03_flink,flink-runtime,cloud computing,0.01125432486111122
+03_flink,flink-runtime,interpreter,0.011354834305555506
+03_flink,flink-runtime,logistic regression model,0.011419260694444489
+03_flink,flink-runtime,game,0.01148079027777782
+03_flink,flink-runtime,simulation,0.011563612777777732
+03_flink,flink-runtime,authentication,0.011679908611111123
+03_flink,flink-runtime,Containerization,0.011739320277777798
+03_flink,flink-runtime,visualization,0.011802438749999922
+03_flink,flink-runtime,artificial neural network,0.011823421805555512
+03_flink,flink-runtime,algorithmic trading,0.011847614583333221
+03_flink,flink-runtime,sentiment analysis,0.011861178333333389
+03_flink,flink-runtime,database,0.011893129166666683
+03_flink,flink-runtime,translation,0.011927643333333293
+03_flink,flink-runtime,game engine,0.012009812777777795
+03_flink,flink-runtime,pattern matching,0.012050515555555474
+03_flink,flink-runtime,linear regression,0.012177099166666705
+03_flink,flink-runtime,static site generator,0.012200206944444458
+03_flink,flink-runtime,content management system,0.012246580833333298
+03_flink,flink-runtime,documentation,0.012259120138888857
+03_flink,flink-runtime,data analysis,0.012309398749999978
+03_flink,flink-runtime,Web Components,0.012365158888889005
+03_flink,flink-runtime,game server,0.01240045041666682
+03_flink,flink-runtime,web application,0.012401016111111107
+03_flink,flink-runtime,neural network,0.012406780833333297
+03_flink,flink-runtime,evolutionary algorithm,0.012837585972222232
+03_flink,flink-runtime,natural language understanding,0.012851084166666804
+03_flink,flink-runtime,mathematical finance,0.013521779166666692
+03_flink,flink-runtime,software engineering,0.013594295694444591
+03_flink,flink-runtime,Kalman filter,0.013640157361111072
+03_flink,flink-runtime,blockchain,0.013829884305555429
+03_flink,flink-runtime,facial recognition system,0.013885709305555605
+03_flink,flink-runtime,object detection,0.013904059722222306
+03_flink,flink-runtime,natural language,0.01405102763888888
+03_flink,flink-runtime,data,0.014051733888888807
+03_flink,flink-runtime,network security,0.014080106388888902
+03_flink,flink-runtime,smart contract,0.014371129583333309
+03_flink,flink-runtime,password manager,0.014569724305555642
+03_flink,flink-runtime,random forest,0.014611991527777868
+03_flink,flink-runtime,software design pattern,0.014922940138888952
+03_flink,flink-runtime,information retrieval,0.014938128333333356
+03_flink,flink-runtime,compiler,0.015328146388888797
+03_flink,flink-runtime,client,0.015371845833333342
+03_flink,flink-runtime,natural language processing,0.015517872361111074
+03_flink,flink-runtime,electronic trading platform,0.015576494861111068
+03_flink,flink-runtime,support vector machine,0.015597702361111132
+03_flink,flink-runtime,social network,0.01563509319444445
+03_flink,flink-runtime,distributed multimedia communications platform,0.01611073347222236
+03_flink,flink-runtime,classification,0.016231182916666587
+03_flink,flink-runtime,data visualization,0.016378077361111187
+03_flink,flink-runtime,stock market,0.016403515555555637
+03_flink,flink-runtime,data mining,0.016830927777777838
+03_flink,flink-runtime,router,0.016984863611111067
+03_flink,flink-runtime,network analysis,0.01705856458333327
+03_flink,flink-runtime,validator,0.01707502361111113
+03_flink,flink-runtime,face detection,0.0172691065277778
+03_flink,flink-runtime,geometry,0.017522479722222206
+03_flink,flink-runtime,speech synthesis,0.01755057416666672
+03_flink,flink-runtime,front end,0.017582329861111023
+03_flink,flink-runtime,Semantic Web,0.017664698472222184
+03_flink,flink-runtime,quantum computer,0.017872913194444395
+03_flink,flink-runtime,application performance management,0.018497377916666835
+03_flink,flink-runtime,anomaly detection,0.01867026194444449
+03_flink,flink-runtime,data compression,0.019205757916666677
+03_flink,flink-runtime,analytics,0.01931091069444446
+03_flink,flink-runtime,image compression,0.01934456458333328
+03_flink,flink-runtime,World Wide Web,0.019464815972222327
+03_flink,flink-runtime,Naive Bayes classifier,0.019599873888888897
+03_flink,flink-runtime,data binding,0.019600365138888964
+03_flink,flink-runtime,genetic algorithm,0.020217352499999897
+03_flink,flink-runtime,instant messaging,0.020719686527777892
+03_flink,flink-runtime,audio player software,0.021896797777777866
+03_flink,flink-runtime,user interface,0.021973816249999945
+03_flink,flink-runtime,internet of things,0.023547435000000005
+03_flink,flink-runtime,telecommunications network,0.0237843898611112
+03_flink,flink-runtime,information processing,0.02392923805555569
+03_flink,flink-runtime,text classification,0.024236373055555593
+03_flink,flink-runtime,serialization,0.02423757999999998
+03_flink,flink-runtime,file system,0.024381759166666572
+03_flink,flink-runtime,Parser combinator,0.024477531944444353
+03_flink,flink-runtime,graphical user interface,0.024867455694444596
+03_flink,flink-runtime,network monitoring,0.02609334013888892
+03_flink,flink-runtime,"extract, transform, load",0.026999282222222143
+03_flink,flink-runtime,shell tool,0.027359257777777812
+03_flink,flink-runtime,scheduler,0.028298423611111012
+03_flink,flink-runtime,statistics,0.028402360972222207
+03_flink,flink-runtime,routing,0.028821744166666607
+03_flink,flink-runtime,business dashboard,0.03320456597222232
+03_flink,flink-runtime,encryption,0.03411081819444434
+03_flink,flink-runtime,geographic information system,0.03555005611111117
+03_flink,flink-runtime,backup,0.04013073833333336
+03_flink,flink-runtime,geographic information,0.043504573055555495

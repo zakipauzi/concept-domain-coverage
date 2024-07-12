@@ -1,0 +1,12 @@
+project_name,module,domain,diff_sim
+15_zeppelin,zeppelin-jupyter,interpreter,0.001518844999999991
+15_zeppelin,zeppelin-jupyter,email,0.009109868888889039
+15_zeppelin,zeppelin-jupyter,compiler,0.0406894057777778
+15_zeppelin,zeppelin-jupyter,serialization,0.0530690377777778
+15_zeppelin,zeppelin-jupyter,database,0.08324385777777782
+15_zeppelin,zeppelin-jupyter,analytics,0.11182865699555561
+15_zeppelin,zeppelin-jupyter,website,0.1763315585555556
+15_zeppelin,zeppelin-jupyter,data,0.18875557777777768
+15_zeppelin,zeppelin-jupyter,client,0.1938823511111112
+15_zeppelin,zeppelin-jupyter,security,0.2302222942222223
+15_zeppelin,zeppelin-jupyter,server,0.24640696499999998

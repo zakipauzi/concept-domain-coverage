@@ -1,0 +1,107 @@
+project_name,module,domain,diff_sim
+10_dolphinscheduler,dolphinscheduler-alert,WebSocket,0.0011446911620853761
+10_dolphinscheduler,dolphinscheduler-alert,audio signal processing,0.001608396938764245
+10_dolphinscheduler,dolphinscheduler-alert,email,0.002140232165247391
+10_dolphinscheduler,dolphinscheduler-alert,encryption,0.004062025995639207
+10_dolphinscheduler,dolphinscheduler-alert,signal processing,0.005248831466554527
+10_dolphinscheduler,dolphinscheduler-alert,chatbot,0.008830220871267946
+10_dolphinscheduler,dolphinscheduler-alert,HTTP client,0.009233989917099228
+10_dolphinscheduler,dolphinscheduler-alert,internet bot,0.011173411263895705
+10_dolphinscheduler,dolphinscheduler-alert,File Transfer Protocol,0.011466327272125043
+10_dolphinscheduler,dolphinscheduler-alert,data,0.012835027187919623
+10_dolphinscheduler,dolphinscheduler-alert,validator,0.013796161581438704
+10_dolphinscheduler,dolphinscheduler-alert,security,0.014468305981771179
+10_dolphinscheduler,dolphinscheduler-alert,Malware Analysis,0.014565028286848025
+10_dolphinscheduler,dolphinscheduler-alert,telecommunications network,0.01615663389364197
+10_dolphinscheduler,dolphinscheduler-alert,logging,0.016882444954454567
+10_dolphinscheduler,dolphinscheduler-alert,regular expression,0.01864760413672717
+10_dolphinscheduler,dolphinscheduler-alert,authentication,0.01866821178444611
+10_dolphinscheduler,dolphinscheduler-alert,data compression,0.018747625948948188
+10_dolphinscheduler,dolphinscheduler-alert,instant messaging,0.018798855082187704
+10_dolphinscheduler,dolphinscheduler-alert,HTTP server,0.018917042009511387
+10_dolphinscheduler,dolphinscheduler-alert,pattern matching,0.02125626621931509
+10_dolphinscheduler,dolphinscheduler-alert,penetration test,0.021568469889558628
+10_dolphinscheduler,dolphinscheduler-alert,server,0.022854736370297002
+10_dolphinscheduler,dolphinscheduler-alert,password manager,0.023414499776759135
+10_dolphinscheduler,dolphinscheduler-alert,image,0.023907379401563622
+10_dolphinscheduler,dolphinscheduler-alert,linear regression,0.02414606368922745
+10_dolphinscheduler,dolphinscheduler-alert,malware,0.024300691583930778
+10_dolphinscheduler,dolphinscheduler-alert,data analysis,0.02445017553073059
+10_dolphinscheduler,dolphinscheduler-alert,image segmentation,0.02514489074856119
+10_dolphinscheduler,dolphinscheduler-alert,scheduler,0.02578596938436417
+10_dolphinscheduler,dolphinscheduler-alert,data binding,0.02607391149117766
+10_dolphinscheduler,dolphinscheduler-alert,text processing,0.026176837364093375
+10_dolphinscheduler,dolphinscheduler-alert,statistics,0.027449868697643542
+10_dolphinscheduler,dolphinscheduler-alert,client,0.02757311802750928
+10_dolphinscheduler,dolphinscheduler-alert,text classification,0.027930154454916645
+10_dolphinscheduler,dolphinscheduler-alert,web browser,0.028208206365272992
+10_dolphinscheduler,dolphinscheduler-alert,time series,0.028530129835171225
+10_dolphinscheduler,dolphinscheduler-alert,hyperparameter optimization,0.02910891972741758
+10_dolphinscheduler,dolphinscheduler-alert,automation,0.029281716276469583
+10_dolphinscheduler,dolphinscheduler-alert,object detection,0.02948135542760455
+10_dolphinscheduler,dolphinscheduler-alert,web server,0.029527016065286404
+10_dolphinscheduler,dolphinscheduler-alert,web service,0.029541119664954985
+10_dolphinscheduler,dolphinscheduler-alert,big data,0.02960087170322101
+10_dolphinscheduler,dolphinscheduler-alert,text mining,0.029825474651793082
+10_dolphinscheduler,dolphinscheduler-alert,embedded system,0.02992056521827624
+10_dolphinscheduler,dolphinscheduler-alert,streaming media,0.030025754896496837
+10_dolphinscheduler,dolphinscheduler-alert,interpreter,0.030313749492726694
+10_dolphinscheduler,dolphinscheduler-alert,analytics,0.03037038941795378
+10_dolphinscheduler,dolphinscheduler-alert,question answering,0.03160762798714778
+10_dolphinscheduler,dolphinscheduler-alert,word embedding,0.03214129762261675
+10_dolphinscheduler,dolphinscheduler-alert,network analysis,0.03276766136176046
+10_dolphinscheduler,dolphinscheduler-alert,language model,0.03310739757919723
+10_dolphinscheduler,dolphinscheduler-alert,optical character recognition,0.03336759804375555
+10_dolphinscheduler,dolphinscheduler-alert,website,0.034586124845565225
+10_dolphinscheduler,dolphinscheduler-alert,game server,0.035014543770816364
+10_dolphinscheduler,dolphinscheduler-alert,static program analysis,0.035189105538043
+10_dolphinscheduler,dolphinscheduler-alert,benchmark,0.03542835388566634
+10_dolphinscheduler,dolphinscheduler-alert,continuous delivery,0.035488854318877716
+10_dolphinscheduler,dolphinscheduler-alert,information processing,0.03564575982545337
+10_dolphinscheduler,dolphinscheduler-alert,text editor,0.03572871938150857
+10_dolphinscheduler,dolphinscheduler-alert,stock market,0.035793286684162706
+10_dolphinscheduler,dolphinscheduler-alert,computer configuration,0.0361760078622978
+10_dolphinscheduler,dolphinscheduler-alert,data mining,0.03675044328148025
+10_dolphinscheduler,dolphinscheduler-alert,data structure,0.03768592867532483
+10_dolphinscheduler,dolphinscheduler-alert,test automation,0.037925154444795495
+10_dolphinscheduler,dolphinscheduler-alert,computer data storage,0.038168585246030395
+10_dolphinscheduler,dolphinscheduler-alert,command-line interface,0.0382892633231563
+10_dolphinscheduler,dolphinscheduler-alert,user interface,0.038292696782110114
+10_dolphinscheduler,dolphinscheduler-alert,data visualization,0.039389606415955014
+10_dolphinscheduler,dolphinscheduler-alert,database,0.03944418830123253
+10_dolphinscheduler,dolphinscheduler-alert,web scraping,0.03948752773014508
+10_dolphinscheduler,dolphinscheduler-alert,static program analysis tool,0.039729450531484356
+10_dolphinscheduler,dolphinscheduler-alert,unit testing,0.040121831846631206
+10_dolphinscheduler,dolphinscheduler-alert,World Wide Web,0.04031971727997241
+10_dolphinscheduler,dolphinscheduler-alert,web browser engine,0.04078409231616065
+10_dolphinscheduler,dolphinscheduler-alert,kernel,0.04115634727607953
+10_dolphinscheduler,dolphinscheduler-alert,web application security,0.041557909176827446
+10_dolphinscheduler,dolphinscheduler-alert,back end,0.04183774299782328
+10_dolphinscheduler,dolphinscheduler-alert,operating system,0.043954963161509264
+10_dolphinscheduler,dolphinscheduler-alert,object–relational mapping,0.04548149736105711
+10_dolphinscheduler,dolphinscheduler-alert,content management system,0.04573066313839769
+10_dolphinscheduler,dolphinscheduler-alert,artificial intelligence,0.04629333080418996
+10_dolphinscheduler,dolphinscheduler-alert,stream processing,0.04716540339125641
+10_dolphinscheduler,dolphinscheduler-alert,geographic information system,0.04741239940095565
+10_dolphinscheduler,dolphinscheduler-alert,web application,0.04983130072152886
+10_dolphinscheduler,dolphinscheduler-alert,graph database,0.05127049952277063
+10_dolphinscheduler,dolphinscheduler-alert,graphical user interface,0.0512769890095901
+10_dolphinscheduler,dolphinscheduler-alert,automated machine learning,0.05168985924267333
+10_dolphinscheduler,dolphinscheduler-alert,static site generator,0.05183207963026959
+10_dolphinscheduler,dolphinscheduler-alert,application performance management,0.052401166928317866
+10_dolphinscheduler,dolphinscheduler-alert,smart contract,0.05253536370369527
+10_dolphinscheduler,dolphinscheduler-alert,continuous integration,0.05314074200654639
+10_dolphinscheduler,dolphinscheduler-alert,code generation,0.054116073787266794
+10_dolphinscheduler,dolphinscheduler-alert,Web Components,0.054854374250914884
+10_dolphinscheduler,dolphinscheduler-alert,recommender system,0.05520876228317939
+10_dolphinscheduler,dolphinscheduler-alert,file system,0.055664106602141716
+10_dolphinscheduler,dolphinscheduler-alert,machine learning,0.05597597463425508
+10_dolphinscheduler,dolphinscheduler-alert,cloud computing,0.05760454286958139
+10_dolphinscheduler,dolphinscheduler-alert,dependency injection,0.058235993033730615
+10_dolphinscheduler,dolphinscheduler-alert,package management system,0.059298610550759245
+10_dolphinscheduler,dolphinscheduler-alert,game engine,0.061031950693287595
+10_dolphinscheduler,dolphinscheduler-alert,microservices,0.06217981197559863
+10_dolphinscheduler,dolphinscheduler-alert,software testing,0.06406932111271713
+10_dolphinscheduler,dolphinscheduler-alert,continuous deployment,0.06528723990669716
+10_dolphinscheduler,dolphinscheduler-alert,distributed computing,0.06725222238446438
+10_dolphinscheduler,dolphinscheduler-alert,DevOps,0.08101896372391404

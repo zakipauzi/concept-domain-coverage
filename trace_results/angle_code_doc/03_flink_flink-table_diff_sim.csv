@@ -1,0 +1,214 @@
+project_name,module,domain,diff_sim
+03_flink,flink-table,computer science,0.00031978888888889445
+03_flink,flink-table,distributed system,0.0003881655555554864
+03_flink,flink-table,functional programming,0.0005510033333333553
+03_flink,flink-table,embedded system,0.0008081066666666414
+03_flink,flink-table,education,0.0010281600000000557
+03_flink,flink-table,web application,0.0010634311111111794
+03_flink,flink-table,code generation,0.0011660311111111321
+03_flink,flink-table,test automation,0.0016571244444445465
+03_flink,flink-table,static program analysis,0.0018510088888888943
+03_flink,flink-table,text processing,0.0021192733333332825
+03_flink,flink-table,graphical user interface,0.0023713911111110653
+03_flink,flink-table,computer programming,0.0036662711111111745
+03_flink,flink-table,engineering,0.003872005555555613
+03_flink,flink-table,debugging,0.004047117777777665
+03_flink,flink-table,game server,0.004070434444444382
+03_flink,flink-table,smart contract,0.004335571111111047
+03_flink,flink-table,benchmark,0.004479933333333408
+03_flink,flink-table,signal processing,0.005006076666666637
+03_flink,flink-table,stream processing,0.005202609999999996
+03_flink,flink-table,3D modeling,0.006016228888888697
+03_flink,flink-table,streaming media,0.0066406922222223
+03_flink,flink-table,content management system,0.007178970000000007
+03_flink,flink-table,distributed computing,0.007456742222222035
+03_flink,flink-table,web browser engine,0.008616928888888875
+03_flink,flink-table,object-oriented programming,0.008644225555555551
+03_flink,flink-table,unit testing,0.008729407777777809
+03_flink,flink-table,kernel,0.008785472222222201
+03_flink,flink-table,continuous deployment,0.009230275555555445
+03_flink,flink-table,automation,0.009287379999999956
+03_flink,flink-table,digital image processing,0.009435855555555428
+03_flink,flink-table,virtual machine,0.010097161111111197
+03_flink,flink-table,science,0.010494800000000026
+03_flink,flink-table,virtualization,0.010956906666666655
+03_flink,flink-table,animation,0.011230777777777867
+03_flink,flink-table,client,0.011407254444444459
+03_flink,flink-table,mathematics,0.011764369999999857
+03_flink,flink-table,web service,0.011876403333333452
+03_flink,flink-table,sentiment analysis,0.012644075555555412
+03_flink,flink-table,synchronization,0.012782612222222212
+03_flink,flink-table,computer graphics,0.0128341855555556
+03_flink,flink-table,web application security,0.01521051444444449
+03_flink,flink-table,3D computer graphics,0.015334412222222316
+03_flink,flink-table,front end,0.015935769999999905
+03_flink,flink-table,cloud computing,0.016299655555555626
+03_flink,flink-table,visualization,0.01686302111111121
+03_flink,flink-table,audio signal processing,0.016865850000000016
+03_flink,flink-table,shell tool,0.01713901666666673
+03_flink,flink-table,design,0.01723687222222231
+03_flink,flink-table,debugger,0.017429926666666706
+03_flink,flink-table,genetic algorithm,0.01759400111111109
+03_flink,flink-table,distributed multimedia communications platform,0.018665667777777784
+03_flink,flink-table,information processing,0.019064983333333285
+03_flink,flink-table,scheduler,0.01953029444444443
+03_flink,flink-table,continuous integration,0.019607482222222083
+03_flink,flink-table,recommender system,0.019658228888888796
+03_flink,flink-table,operating system,0.019895817777777824
+03_flink,flink-table,static program analysis tool,0.019955322222222183
+03_flink,flink-table,"extract, transform, load",0.019972395555555633
+03_flink,flink-table,reactive programming,0.021088297777777654
+03_flink,flink-table,artificial intelligence,0.02128792444444444
+03_flink,flink-table,syntax highlighting,0.0219794900000001
+03_flink,flink-table,command-line interface,0.02222906666666663
+03_flink,flink-table,WebSocket,0.02235708555555549
+03_flink,flink-table,Image analysis,0.02312892333333333
+03_flink,flink-table,image editing,0.023233083333333182
+03_flink,flink-table,HTTP client,0.023525882222222128
+03_flink,flink-table,language model,0.023612574444444423
+03_flink,flink-table,Web Components,0.023619177777777778
+03_flink,flink-table,evolutionary algorithm,0.024077143333333273
+03_flink,flink-table,lexical analysis,0.0244172577777777
+03_flink,flink-table,back end,0.0251674288888889
+03_flink,flink-table,rendering,0.025291482222222217
+03_flink,flink-table,web development,0.02662311555555552
+03_flink,flink-table,game engine,0.026655167777777877
+03_flink,flink-table,web browser,0.02763560999999992
+03_flink,flink-table,digital audio,0.027771857777777798
+03_flink,flink-table,middleware,0.028032901111111008
+03_flink,flink-table,mathematical optimization,0.02805677333333334
+03_flink,flink-table,topic modeling,0.028341102222222192
+03_flink,flink-table,graph algorithm,0.02854198666666674
+03_flink,flink-table,computer vision,0.02864146444444443
+03_flink,flink-table,documentation,0.0286672577777779
+03_flink,flink-table,facial recognition system,0.028788127777777728
+03_flink,flink-table,graph,0.028928203333333236
+03_flink,flink-table,computer configuration,0.029041122222222215
+03_flink,flink-table,virtual reality,0.029483638888888775
+03_flink,flink-table,server,0.02949347777777772
+03_flink,flink-table,internet of things,0.03059987555555549
+03_flink,flink-table,web server,0.030956254444444498
+03_flink,flink-table,compiler,0.0314490255555554
+03_flink,flink-table,schema migration,0.03163243333333321
+03_flink,flink-table,algorithm,0.03198819555555543
+03_flink,flink-table,user interface,0.03232789777777767
+03_flink,flink-table,plot,0.0332033155555555
+03_flink,flink-table,dependency injection,0.03357420888888901
+03_flink,flink-table,instant messaging,0.034140471111111015
+03_flink,flink-table,mobile application development,0.03433284111111112
+03_flink,flink-table,blockchain,0.034681988888888904
+03_flink,flink-table,validator,0.03555118333333346
+03_flink,flink-table,static site generator,0.03665689555555557
+03_flink,flink-table,object detection,0.037406888888888934
+03_flink,flink-table,computational science,0.03765724222222222
+03_flink,flink-table,geographic information system,0.03789590222222211
+03_flink,flink-table,Parser combinator,0.03793609999999992
+03_flink,flink-table,geometry,0.0380021444444445
+03_flink,flink-table,text mining,0.0381324011111111
+03_flink,flink-table,HTTP server,0.03830003777777791
+03_flink,flink-table,face detection,0.03830989000000001
+03_flink,flink-table,email,0.038589953333333316
+03_flink,flink-table,software design pattern,0.03869500777777779
+03_flink,flink-table,Semantic Web,0.03892455666666683
+03_flink,flink-table,password manager,0.03901702777777771
+03_flink,flink-table,machine learning,0.039712828888888774
+03_flink,flink-table,artificial neural network,0.04004709777777771
+03_flink,flink-table,random forest,0.040376242222222414
+03_flink,flink-table,stock market,0.04070020666666668
+03_flink,flink-table,image recognition,0.040726578888888976
+03_flink,flink-table,sorting algorithm,0.04095109222222232
+03_flink,flink-table,search engine,0.04108751555555551
+03_flink,flink-table,data compression,0.041641427777777795
+03_flink,flink-table,translation,0.04167291444444443
+03_flink,flink-table,image,0.0417815311111111
+03_flink,flink-table,bioinformatics,0.04293032888888898
+03_flink,flink-table,text classification,0.04294412111111123
+03_flink,flink-table,application performance management,0.04299044777777772
+03_flink,flink-table,software architecture,0.04365129111111116
+03_flink,flink-table,natural language processing,0.04398253444444444
+03_flink,flink-table,image segmentation,0.04449557222222228
+03_flink,flink-table,logging,0.0449560566666668
+03_flink,flink-table,machine translation,0.04526083222222227
+03_flink,flink-table,anomaly detection,0.04545921555555549
+03_flink,flink-table,analytics,0.045508043333333414
+03_flink,flink-table,microservices,0.04630215444444441
+03_flink,flink-table,text editor,0.0463969288888888
+03_flink,flink-table,interpreter,0.046409523333333424
+03_flink,flink-table,network analysis,0.04818871444444439
+03_flink,flink-table,website,0.04828025000000008
+03_flink,flink-table,genomics,0.049995278888888994
+03_flink,flink-table,web crawler,0.05001393111111119
+03_flink,flink-table,penetration test,0.05046050444444439
+03_flink,flink-table,data science,0.050508081111111214
+03_flink,flink-table,banking industry,0.05056665555555556
+03_flink,flink-table,parsing,0.05168577333333335
+03_flink,flink-table,big data,0.05181246888888891
+03_flink,flink-table,internet bot,0.05216311666666662
+03_flink,flink-table,file system,0.05220962111111099
+03_flink,flink-table,data visualization,0.05235284888888897
+03_flink,flink-table,algorithmic trading,0.052861206666666605
+03_flink,flink-table,image classification,0.05311644222222223
+03_flink,flink-table,classification,0.0540457322222222
+03_flink,flink-table,digital security,0.054898226666666716
+03_flink,flink-table,World Wide Web,0.05503672333333326
+03_flink,flink-table,mathematical finance,0.055086301111111124
+03_flink,flink-table,support vector machine,0.05519321666666671
+03_flink,flink-table,search,0.05604471111111131
+03_flink,flink-table,software testing,0.05681249999999999
+03_flink,flink-table,backup,0.05712220666666673
+03_flink,flink-table,cluster analysis,0.05719091111111119
+03_flink,flink-table,deep learning,0.058784448888888896
+03_flink,flink-table,neural machine translation,0.05886378888888888
+03_flink,flink-table,time series,0.06007252333333335
+03_flink,flink-table,File Transfer Protocol,0.06009924222222229
+03_flink,flink-table,security,0.06059782555555554
+03_flink,flink-table,data analysis,0.06168597888888877
+03_flink,flink-table,graph database,0.06255538555555556
+03_flink,flink-table,router,0.06277365666666668
+03_flink,flink-table,DevOps,0.06394537666666655
+03_flink,flink-table,semi-supervised learning,0.06479743111111119
+03_flink,flink-table,Naive Bayes classifier,0.06581915222222223
+03_flink,flink-table,reinforcement learning,0.0658893533333334
+03_flink,flink-table,Kalman filter,0.06589937444444449
+03_flink,flink-table,data mining,0.06645219000000002
+03_flink,flink-table,package management system,0.06658076111111111
+03_flink,flink-table,word embedding,0.06705577777777788
+03_flink,flink-table,deep neural network,0.06756842777777772
+03_flink,flink-table,linear regression,0.0677676077777778
+03_flink,flink-table,regression analysis,0.06808090444444437
+03_flink,flink-table,database management,0.06869713222222223
+03_flink,flink-table,distributed database,0.06879100777777791
+03_flink,flink-table,telecommunications network,0.06943061222222219
+03_flink,flink-table,electronic trading platform,0.07039989666666674
+03_flink,flink-table,statistics,0.07205252555555558
+03_flink,flink-table,recurrent neural network,0.07207122666666682
+03_flink,flink-table,geographic information,0.07251166666666675
+03_flink,flink-table,optical character recognition,0.0725312266666665
+03_flink,flink-table,regular expression,0.07291072555555561
+03_flink,flink-table,data,0.07411940444444448
+03_flink,flink-table,linear algebra,0.07432340999999998
+03_flink,flink-table,serialization,0.07495924888888894
+03_flink,flink-table,natural language,0.07543348666666672
+03_flink,flink-table,web scraping,0.0767319488888889
+03_flink,flink-table,long short-term memory,0.07741732333333334
+03_flink,flink-table,business dashboard,0.0778096244444445
+03_flink,flink-table,cryptocurrency,0.08042356555555558
+03_flink,flink-table,Bidirectional recurrent neural networks,0.08120592222222228
+03_flink,flink-table,software development,0.08199580666666667
+03_flink,flink-table,logistic regression model,0.08265250000000002
+03_flink,flink-table,information retrieval,0.08350903333333348
+03_flink,flink-table,pattern matching,0.08446661888888901
+03_flink,flink-table,question answering,0.08513539444444457
+03_flink,flink-table,data binding,0.08547887444444446
+03_flink,flink-table,information extraction,0.08593330888888895
+03_flink,flink-table,data structure,0.08881801111111115
+03_flink,flink-table,Bayesian inference,0.0901285666666668
+03_flink,flink-table,computer data storage,0.09043313555555554
+03_flink,flink-table,convolutional neural network,0.09070372333333337
+03_flink,flink-table,e-commerce,0.0907209155555555
+03_flink,flink-table,image captioning,0.09312612111111113
+03_flink,flink-table,object–relational mapping,0.09814970444444443
+03_flink,flink-table,encryption,0.1031996788888887
+03_flink,flink-table,integrated development environment,0.10413426666666681
+03_flink,flink-table,database,0.10773743111111117
+03_flink,flink-table,named-entity recognition,0.10777986333333323

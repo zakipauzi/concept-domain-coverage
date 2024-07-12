@@ -1,0 +1,101 @@
+project_name,module,domain,diff_sim
+03_flink,flink-yarn,Web Components,0.00016044999999997867
+03_flink,flink-yarn,mobile application development,0.00030113888888899654
+03_flink,flink-yarn,smart contract,0.0007134155555557076
+03_flink,flink-yarn,operating system,0.000913644444444417
+03_flink,flink-yarn,web browser engine,0.0014948066666666815
+03_flink,flink-yarn,stock market,0.0016016877777776939
+03_flink,flink-yarn,artificial intelligence,0.0021210266666666366
+03_flink,flink-yarn,package management system,0.002212724444444425
+03_flink,flink-yarn,camera,0.0027257155555555634
+03_flink,flink-yarn,embedded system,0.0031009988888888174
+03_flink,flink-yarn,data binding,0.003191695555555485
+03_flink,flink-yarn,continuous integration,0.003402505555555435
+03_flink,flink-yarn,geographic information system,0.004078577777777703
+03_flink,flink-yarn,unit testing,0.004153253333333329
+03_flink,flink-yarn,automation,0.004936684444444395
+03_flink,flink-yarn,pattern matching,0.005043798888888895
+03_flink,flink-yarn,analytics,0.007015482222222091
+03_flink,flink-yarn,face detection,0.007367721111111114
+03_flink,flink-yarn,user interface,0.009029224444444373
+03_flink,flink-yarn,DevOps,0.009097696666666821
+03_flink,flink-yarn,instant messaging,0.009131584444444285
+03_flink,flink-yarn,regular expression,0.009798486666666606
+03_flink,flink-yarn,object–relational mapping,0.01047935111111109
+03_flink,flink-yarn,database,0.011292884444444429
+03_flink,flink-yarn,digital image processing,0.013138838888888893
+03_flink,flink-yarn,computational science,0.01313956999999999
+03_flink,flink-yarn,facial recognition system,0.013838598888888887
+03_flink,flink-yarn,recommender system,0.015246684444444492
+03_flink,flink-yarn,command-line interface,0.015747721111111168
+03_flink,flink-yarn,data structure,0.01627040888888892
+03_flink,flink-yarn,web development,0.01633147333333329
+03_flink,flink-yarn,data compression,0.016576338888888875
+03_flink,flink-yarn,web application,0.017706687777777896
+03_flink,flink-yarn,stream processing,0.018093095555555605
+03_flink,flink-yarn,test automation,0.019608035555555625
+03_flink,flink-yarn,data,0.019752125555555666
+03_flink,flink-yarn,database management,0.020703058888888903
+03_flink,flink-yarn,text classification,0.021108200000000132
+03_flink,flink-yarn,dependency injection,0.02111349222222214
+03_flink,flink-yarn,linear regression,0.02128433111111111
+03_flink,flink-yarn,computer vision,0.021684571111111106
+03_flink,flink-yarn,image recognition,0.022093641111111118
+03_flink,flink-yarn,information processing,0.022626741111111237
+03_flink,flink-yarn,website,0.02420148888888901
+03_flink,flink-yarn,design,0.024376954444444487
+03_flink,flink-yarn,3D modeling,0.025070978888888817
+03_flink,flink-yarn,graphical user interface,0.025522389999999895
+03_flink,flink-yarn,web scraping,0.025679606666666577
+03_flink,flink-yarn,benchmark,0.027307415555555492
+03_flink,flink-yarn,application performance management,0.027372688888888996
+03_flink,flink-yarn,word embedding,0.029059834444444488
+03_flink,flink-yarn,language model,0.029594767777777753
+03_flink,flink-yarn,Parser combinator,0.03050647444444443
+03_flink,flink-yarn,signal processing,0.030524333333333376
+03_flink,flink-yarn,big data,0.030985590000000063
+03_flink,flink-yarn,digital audio,0.03234605111111105
+03_flink,flink-yarn,cluster analysis,0.032698591111111175
+03_flink,flink-yarn,digital security,0.033469851111111115
+03_flink,flink-yarn,deep learning,0.03397200333333328
+03_flink,flink-yarn,distributed database,0.03438134888888883
+03_flink,flink-yarn,client,0.03641376888888881
+03_flink,flink-yarn,machine learning,0.03671957444444457
+03_flink,flink-yarn,object detection,0.03709324111111112
+03_flink,flink-yarn,web crawler,0.037478694444444405
+03_flink,flink-yarn,algorithm,0.03968414444444446
+03_flink,flink-yarn,streaming media,0.03972082666666671
+03_flink,flink-yarn,logging,0.0402745544444445
+03_flink,flink-yarn,classification,0.04161294444444452
+03_flink,flink-yarn,software testing,0.04263969222222219
+03_flink,flink-yarn,back end,0.04279298333333337
+03_flink,flink-yarn,deep neural network,0.04364131333333332
+03_flink,flink-yarn,web service,0.043645916666666784
+03_flink,flink-yarn,microservices,0.04379700666666664
+03_flink,flink-yarn,support vector machine,0.04480917111111132
+03_flink,flink-yarn,computer configuration,0.04551188666666661
+03_flink,flink-yarn,World Wide Web,0.04587131666666666
+03_flink,flink-yarn,content management system,0.047065584444444475
+03_flink,flink-yarn,penetration test,0.04961040444444448
+03_flink,flink-yarn,web application security,0.05356037111111123
+03_flink,flink-yarn,computer data storage,0.054036137777777826
+03_flink,flink-yarn,file system,0.0547125911111111
+03_flink,flink-yarn,scheduler,0.05575884666666664
+03_flink,flink-yarn,game engine,0.056546406666666826
+03_flink,flink-yarn,audio signal processing,0.0565786622222223
+03_flink,flink-yarn,server,0.057171185555555504
+03_flink,flink-yarn,distributed computing,0.05793765444444443
+03_flink,flink-yarn,functional programming,0.05940523333333325
+03_flink,flink-yarn,File Transfer Protocol,0.06329647333333338
+03_flink,flink-yarn,security,0.06480445222222214
+03_flink,flink-yarn,distributed system,0.06614477555555565
+03_flink,flink-yarn,text processing,0.0689341444444444
+03_flink,flink-yarn,integrated development environment,0.07304870666666674
+03_flink,flink-yarn,telecommunications network,0.07427509888888889
+03_flink,flink-yarn,distributed multimedia communications platform,0.07465342888888898
+03_flink,flink-yarn,HTTP client,0.07896922444444443
+03_flink,flink-yarn,HTTP server,0.08389851444444457
+03_flink,flink-yarn,cloud computing,0.08721218444444451
+03_flink,flink-yarn,web server,0.08751445333333346
+03_flink,flink-yarn,middleware,0.09561010888888888
+03_flink,flink-yarn,text editor,0.10670235666666672

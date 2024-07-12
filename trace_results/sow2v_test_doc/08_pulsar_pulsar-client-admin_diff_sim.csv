@@ -1,0 +1,17 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-client-admin,database,0.00796986222222218
+08_pulsar,pulsar-client-admin,client,0.008921758000000057
+08_pulsar,pulsar-client-admin,server,0.014176672444444371
+08_pulsar,pulsar-client-admin,website,0.01727929666666661
+08_pulsar,pulsar-client-admin,microservices,0.017878711333333408
+08_pulsar,pulsar-client-admin,serialization,0.018403983555555614
+08_pulsar,pulsar-client-admin,documentation,0.024752236999999996
+08_pulsar,pulsar-client-admin,data,0.03971565511111111
+08_pulsar,pulsar-client-admin,scheduler,0.05347273977777772
+08_pulsar,pulsar-client-admin,analytics,0.0684901637777777
+08_pulsar,pulsar-client-admin,design,0.09972916211111112
+08_pulsar,pulsar-client-admin,security,0.12137938399999998
+08_pulsar,pulsar-client-admin,logging,0.19761587355555563
+08_pulsar,pulsar-client-admin,automation,0.20064344566666673
+08_pulsar,pulsar-client-admin,middleware,0.3294949422222222
+08_pulsar,pulsar-client-admin,authentication,0.33149863244444455

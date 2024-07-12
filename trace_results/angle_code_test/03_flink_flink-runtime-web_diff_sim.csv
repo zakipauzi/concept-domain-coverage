@@ -1,0 +1,87 @@
+project_name,module,domain,diff_sim
+03_flink,flink-runtime-web,sorting algorithm,0.00028054166666674485
+03_flink,flink-runtime-web,security,0.0007449904761904214
+03_flink,flink-runtime-web,validator,0.0007483711904762158
+03_flink,flink-runtime-web,command-line interface,0.0008401264285713417
+03_flink,flink-runtime-web,Web Components,0.0010387095238095778
+03_flink,flink-runtime-web,object detection,0.001164720000000008
+03_flink,flink-runtime-web,linear regression,0.0013169359523809154
+03_flink,flink-runtime-web,regular expression,0.0014377207142856063
+03_flink,flink-runtime-web,web application,0.0018412259523810093
+03_flink,flink-runtime-web,client,0.002033055714285692
+03_flink,flink-runtime-web,software design pattern,0.002484876190476215
+03_flink,flink-runtime-web,website,0.0030597790476190045
+03_flink,flink-runtime-web,package management system,0.0031619485714284856
+03_flink,flink-runtime-web,content management system,0.0035513059523809565
+03_flink,flink-runtime-web,design,0.0036750892857143613
+03_flink,flink-runtime-web,digital audio,0.0036820128571427024
+03_flink,flink-runtime-web,digital image processing,0.0038271266666666803
+03_flink,flink-runtime-web,software development,0.0043461959523810045
+03_flink,flink-runtime-web,penetration test,0.004396174047619106
+03_flink,flink-runtime-web,web application security,0.00454744047619049
+03_flink,flink-runtime-web,unit testing,0.004835702619047477
+03_flink,flink-runtime-web,big data,0.0050437976190476075
+03_flink,flink-runtime-web,compiler,0.00525669309523813
+03_flink,flink-runtime-web,data analysis,0.005841192619047697
+03_flink,flink-runtime-web,support vector machine,0.005859263095238099
+03_flink,flink-runtime-web,word embedding,0.005985985238095237
+03_flink,flink-runtime-web,dependency injection,0.00687650857142863
+03_flink,flink-runtime-web,recommender system,0.006946622619047604
+03_flink,flink-runtime-web,pattern matching,0.0071407440476189965
+03_flink,flink-runtime-web,embedded system,0.007924750714285611
+03_flink,flink-runtime-web,data compression,0.008160551904761948
+03_flink,flink-runtime-web,stream processing,0.00857407523809528
+03_flink,flink-runtime-web,computer configuration,0.008776761666666688
+03_flink,flink-runtime-web,artificial intelligence,0.009173951666666624
+03_flink,flink-runtime-web,streaming media,0.009361292380952402
+03_flink,flink-runtime-web,web service,0.009398335714285722
+03_flink,flink-runtime-web,language model,0.009545694047619013
+03_flink,flink-runtime-web,operating system,0.010531514285714305
+03_flink,flink-runtime-web,continuous integration,0.010592034047619048
+03_flink,flink-runtime-web,web scraping,0.010984482142857188
+03_flink,flink-runtime-web,software testing,0.011360116190476166
+03_flink,flink-runtime-web,File Transfer Protocol,0.011480083571428601
+03_flink,flink-runtime-web,digital security,0.01200007023809524
+03_flink,flink-runtime-web,static program analysis,0.012013777857142971
+03_flink,flink-runtime-web,logging,0.0123274314285714
+03_flink,flink-runtime-web,data structure,0.012350580714285686
+03_flink,flink-runtime-web,World Wide Web,0.012740842857142942
+03_flink,flink-runtime-web,graphical user interface,0.012759675952380922
+03_flink,flink-runtime-web,user interface,0.013085962142857066
+03_flink,flink-runtime-web,reactive programming,0.013354528809523813
+03_flink,flink-runtime-web,distributed multimedia communications platform,0.013370585238095312
+03_flink,flink-runtime-web,regression analysis,0.013600034047619114
+03_flink,flink-runtime-web,instant messaging,0.013870433333333154
+03_flink,flink-runtime-web,distributed database,0.014423169523809398
+03_flink,flink-runtime-web,benchmark,0.014517861666666687
+03_flink,flink-runtime-web,machine learning,0.014635000000000009
+03_flink,flink-runtime-web,cloud computing,0.015868445476190485
+03_flink,flink-runtime-web,file system,0.016554067619047708
+03_flink,flink-runtime-web,HTTP client,0.017125590714285654
+03_flink,flink-runtime-web,data,0.01871455857142873
+03_flink,flink-runtime-web,smart contract,0.018837677619047588
+03_flink,flink-runtime-web,information processing,0.019347513809523875
+03_flink,flink-runtime-web,backup,0.01948582357142864
+03_flink,flink-runtime-web,back end,0.019695034999999916
+03_flink,flink-runtime-web,computer data storage,0.020787142857142893
+03_flink,flink-runtime-web,serialization,0.020849626428571466
+03_flink,flink-runtime-web,server,0.02144866619047625
+03_flink,flink-runtime-web,static program analysis tool,0.022020418333333236
+03_flink,flink-runtime-web,database,0.0223525026190477
+03_flink,flink-runtime-web,telecommunications network,0.023555998333333272
+03_flink,flink-runtime-web,object–relational mapping,0.023638417857142935
+03_flink,flink-runtime-web,distributed computing,0.02599947809523817
+03_flink,flink-runtime-web,WebSocket,0.026758160952381038
+03_flink,flink-runtime-web,automation,0.027029286190476176
+03_flink,flink-runtime-web,documentation,0.027871272619047538
+03_flink,flink-runtime-web,test automation,0.02859802452380955
+03_flink,flink-runtime-web,data binding,0.028698789761904875
+03_flink,flink-runtime-web,DevOps,0.029621427857142835
+03_flink,flink-runtime-web,router,0.030466681190476186
+03_flink,flink-runtime-web,HTTP server,0.03215887452380939
+03_flink,flink-runtime-web,distributed system,0.03272157547619037
+03_flink,flink-runtime-web,internet bot,0.033862620476190375
+03_flink,flink-runtime-web,blockchain,0.03809030904761901
+03_flink,flink-runtime-web,web server,0.041680230476190405
+03_flink,flink-runtime-web,microservices,0.04379155261904755
+03_flink,flink-runtime-web,scheduler,0.044373782857142885

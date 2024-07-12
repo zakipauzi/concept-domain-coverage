@@ -1,0 +1,136 @@
+project_name,module,domain,diff_sim
+09_zookeeper,zookeeper-contrib,web browser engine,0.00015888722713963688
+09_zookeeper,zookeeper-contrib,text editor,0.000355093581132504
+09_zookeeper,zookeeper-contrib,digital image processing,0.0007315086348221866
+09_zookeeper,zookeeper-contrib,image segmentation,0.0011973126302753379
+09_zookeeper,zookeeper-contrib,stream processing,0.0013305724788666984
+09_zookeeper,zookeeper-contrib,image captioning,0.001337079368185834
+09_zookeeper,zookeeper-contrib,face detection,0.0018502481848718944
+09_zookeeper,zookeeper-contrib,animation,0.0018627223975541396
+09_zookeeper,zookeeper-contrib,data,0.0019124134249949298
+09_zookeeper,zookeeper-contrib,facial recognition system,0.0019521422606452177
+09_zookeeper,zookeeper-contrib,audio signal processing,0.0026987724384422984
+09_zookeeper,zookeeper-contrib,file system,0.002995170182489182
+09_zookeeper,zookeeper-contrib,text processing,0.0033150179856017425
+09_zookeeper,zookeeper-contrib,object detection,0.004027470978876124
+09_zookeeper,zookeeper-contrib,image classification,0.004127786455554894
+09_zookeeper,zookeeper-contrib,graph algorithm,0.004208985630205775
+09_zookeeper,zookeeper-contrib,font,0.004237228850953123
+09_zookeeper,zookeeper-contrib,sorting algorithm,0.004557560670406247
+09_zookeeper,zookeeper-contrib,image,0.004960840897497043
+09_zookeeper,zookeeper-contrib,time series,0.005333053270790589
+09_zookeeper,zookeeper-contrib,authentication,0.005451758809660312
+09_zookeeper,zookeeper-contrib,image recognition,0.005847675879322889
+09_zookeeper,zookeeper-contrib,middleware,0.005918624815014484
+09_zookeeper,zookeeper-contrib,web browser,0.00592590625667988
+09_zookeeper,zookeeper-contrib,regular expression,0.006159580075140392
+09_zookeeper,zookeeper-contrib,data binding,0.006256003353722783
+09_zookeeper,zookeeper-contrib,encryption,0.006440482701070227
+09_zookeeper,zookeeper-contrib,WebSocket,0.006659377703316149
+09_zookeeper,zookeeper-contrib,pattern matching,0.007089125658612749
+09_zookeeper,zookeeper-contrib,image editing,0.007269576150076951
+09_zookeeper,zookeeper-contrib,embedded system,0.007397139835529809
+09_zookeeper,zookeeper-contrib,streaming media,0.007422911674222932
+09_zookeeper,zookeeper-contrib,password manager,0.0075713347060411
+09_zookeeper,zookeeper-contrib,information processing,0.007651743942428402
+09_zookeeper,zookeeper-contrib,data structure,0.007871082119336292
+09_zookeeper,zookeeper-contrib,server,0.008383494141319114
+09_zookeeper,zookeeper-contrib,graph,0.008464555380397476
+09_zookeeper,zookeeper-contrib,serialization,0.008483841333890685
+09_zookeeper,zookeeper-contrib,operating system,0.008503521459910512
+09_zookeeper,zookeeper-contrib,scheduler,0.008509350131943871
+09_zookeeper,zookeeper-contrib,data visualization,0.00863704246501329
+09_zookeeper,zookeeper-contrib,benchmark,0.008775767669172763
+09_zookeeper,zookeeper-contrib,HTTP server,0.008932020850228706
+09_zookeeper,zookeeper-contrib,computer data storage,0.009044326155517535
+09_zookeeper,zookeeper-contrib,signal processing,0.009253433938067213
+09_zookeeper,zookeeper-contrib,geographic information system,0.00927789583619365
+09_zookeeper,zookeeper-contrib,natural language understanding,0.009296385873461377
+09_zookeeper,zookeeper-contrib,graph database,0.009408806578361628
+09_zookeeper,zookeeper-contrib,security,0.009646927633740199
+09_zookeeper,zookeeper-contrib,long short-term memory,0.009664799408906743
+09_zookeeper,zookeeper-contrib,internet of things,0.009879594557783755
+09_zookeeper,zookeeper-contrib,Kalman filter,0.010083298253978357
+09_zookeeper,zookeeper-contrib,instant messaging,0.010103483506558875
+09_zookeeper,zookeeper-contrib,user interface,0.010595727543816436
+09_zookeeper,zookeeper-contrib,automation,0.010787419941635235
+09_zookeeper,zookeeper-contrib,File Transfer Protocol,0.011093451928610998
+09_zookeeper,zookeeper-contrib,command-line interface,0.011434950177439562
+09_zookeeper,zookeeper-contrib,database,0.011471544598531391
+09_zookeeper,zookeeper-contrib,cluster analysis,0.011756784923360186
+09_zookeeper,zookeeper-contrib,deep neural network,0.011958054859011358
+09_zookeeper,zookeeper-contrib,text classification,0.01238062681646579
+09_zookeeper,zookeeper-contrib,algorithm,0.012668188647757428
+09_zookeeper,zookeeper-contrib,computer vision,0.01274603670081631
+09_zookeeper,zookeeper-contrib,logging,0.013412473174429174
+09_zookeeper,zookeeper-contrib,web server,0.014115174544738873
+09_zookeeper,zookeeper-contrib,penetration test,0.014130157690529943
+09_zookeeper,zookeeper-contrib,computer configuration,0.014291179338998483
+09_zookeeper,zookeeper-contrib,kernel,0.014684641009164778
+09_zookeeper,zookeeper-contrib,graphical user interface,0.014705904135238868
+09_zookeeper,zookeeper-contrib,HTTP client,0.014706362851477306
+09_zookeeper,zookeeper-contrib,object–relational mapping,0.016655762444953814
+09_zookeeper,zookeeper-contrib,plot,0.016749974938400802
+09_zookeeper,zookeeper-contrib,backup,0.016773319546738108
+09_zookeeper,zookeeper-contrib,back end,0.016882011762604954
+09_zookeeper,zookeeper-contrib,data analysis,0.016885861019654058
+09_zookeeper,zookeeper-contrib,rendering,0.017191340229397722
+09_zookeeper,zookeeper-contrib,front end,0.01786775058347112
+09_zookeeper,zookeeper-contrib,client,0.017966860565601595
+09_zookeeper,zookeeper-contrib,algorithmic trading,0.018091479466681215
+09_zookeeper,zookeeper-contrib,big data,0.018357006588826108
+09_zookeeper,zookeeper-contrib,search,0.01842460142389757
+09_zookeeper,zookeeper-contrib,website,0.0186647234624453
+09_zookeeper,zookeeper-contrib,web service,0.0188800640486243
+09_zookeeper,zookeeper-contrib,World Wide Web,0.01900694003561776
+09_zookeeper,zookeeper-contrib,text mining,0.01901430948787808
+09_zookeeper,zookeeper-contrib,question answering,0.019069187269535992
+09_zookeeper,zookeeper-contrib,language model,0.019306925113472984
+09_zookeeper,zookeeper-contrib,cryptocurrency,0.01963401688647859
+09_zookeeper,zookeeper-contrib,design,0.01988944837931539
+09_zookeeper,zookeeper-contrib,static program analysis tool,0.019913943443071624
+09_zookeeper,zookeeper-contrib,data mining,0.01993976792588914
+09_zookeeper,zookeeper-contrib,static program analysis,0.020163569839315665
+09_zookeeper,zookeeper-contrib,computer graphics,0.02042208407384616
+09_zookeeper,zookeeper-contrib,web application security,0.020446196486376356
+09_zookeeper,zookeeper-contrib,telecommunications network,0.020535274821242955
+09_zookeeper,zookeeper-contrib,data science,0.020745063900932892
+09_zookeeper,zookeeper-contrib,data compression,0.020773488295309228
+09_zookeeper,zookeeper-contrib,analytics,0.020806396484886802
+09_zookeeper,zookeeper-contrib,bioinformatics,0.02170793673890592
+09_zookeeper,zookeeper-contrib,machine learning,0.02182473761124537
+09_zookeeper,zookeeper-contrib,compiler,0.021936111753145027
+09_zookeeper,zookeeper-contrib,distributed database,0.02337782651739928
+09_zookeeper,zookeeper-contrib,electronic trading platform,0.02414213474213911
+09_zookeeper,zookeeper-contrib,visualization,0.0246885841565061
+09_zookeeper,zookeeper-contrib,machine translation,0.02493759540640139
+09_zookeeper,zookeeper-contrib,Web Components,0.02496486412429355
+09_zookeeper,zookeeper-contrib,virtual machine,0.02497230518433735
+09_zookeeper,zookeeper-contrib,linear regression,0.02518123910665493
+09_zookeeper,zookeeper-contrib,game engine,0.02560310531554988
+09_zookeeper,zookeeper-contrib,email,0.025745178256155965
+09_zookeeper,zookeeper-contrib,test automation,0.02631618320486917
+09_zookeeper,zookeeper-contrib,web application,0.026916828497472234
+09_zookeeper,zookeeper-contrib,stock market,0.02727772603403622
+09_zookeeper,zookeeper-contrib,reactive programming,0.027390332612602042
+09_zookeeper,zookeeper-contrib,3D computer graphics,0.0279061350261941
+09_zookeeper,zookeeper-contrib,support vector machine,0.028502183354416344
+09_zookeeper,zookeeper-contrib,content management system,0.028669772243581693
+09_zookeeper,zookeeper-contrib,cloud computing,0.02903129284778394
+09_zookeeper,zookeeper-contrib,game server,0.029083498525630413
+09_zookeeper,zookeeper-contrib,object-oriented programming,0.03058426512906598
+09_zookeeper,zookeeper-contrib,recommender system,0.030721670000650847
+09_zookeeper,zookeeper-contrib,video game,0.030954182018274934
+09_zookeeper,zookeeper-contrib,dependency injection,0.03134297554776799
+09_zookeeper,zookeeper-contrib,integrated development environment,0.03225144528338131
+09_zookeeper,zookeeper-contrib,application performance management,0.03273442040237895
+09_zookeeper,zookeeper-contrib,unit testing,0.03371654519059453
+09_zookeeper,zookeeper-contrib,smart contract,0.03608637498206546
+09_zookeeper,zookeeper-contrib,documentation,0.03608961669537114
+09_zookeeper,zookeeper-contrib,mobile application development,0.03630221708157588
+09_zookeeper,zookeeper-contrib,microservices,0.03723822844627689
+09_zookeeper,zookeeper-contrib,distributed computing,0.03800397570692715
+09_zookeeper,zookeeper-contrib,web development,0.038051958840246924
+09_zookeeper,zookeeper-contrib,continuous integration,0.04048322672763238
+09_zookeeper,zookeeper-contrib,software testing,0.04433278442163702
+09_zookeeper,zookeeper-contrib,package management system,0.0497028779308506

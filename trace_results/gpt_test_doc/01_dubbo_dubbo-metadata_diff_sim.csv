@@ -1,0 +1,123 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-metadata,data binding,0.0004111699540121361
+01_dubbo,dubbo-metadata,regular expression,0.0006601095597066342
+01_dubbo,dubbo-metadata,long short-term memory,0.0011971624558974048
+01_dubbo,dubbo-metadata,information processing,0.0025999348778843467
+01_dubbo,dubbo-metadata,data compression,0.0029572997027074166
+01_dubbo,dubbo-metadata,encryption,0.003422735609827088
+01_dubbo,dubbo-metadata,optical character recognition,0.004478770547134192
+01_dubbo,dubbo-metadata,word embedding,0.006488819969345583
+01_dubbo,dubbo-metadata,audio signal processing,0.007504190322250581
+01_dubbo,dubbo-metadata,embedded system,0.007684085923681305
+01_dubbo,dubbo-metadata,pattern matching,0.0077200182124940175
+01_dubbo,dubbo-metadata,text classification,0.007770879660118357
+01_dubbo,dubbo-metadata,object–relational mapping,0.007856139554259678
+01_dubbo,dubbo-metadata,image classification,0.009436322291293986
+01_dubbo,dubbo-metadata,object detection,0.009541203473047877
+01_dubbo,dubbo-metadata,stream processing,0.009836880823709149
+01_dubbo,dubbo-metadata,Semantic Web,0.01017132568965462
+01_dubbo,dubbo-metadata,signal processing,0.010318100441649047
+01_dubbo,dubbo-metadata,serialization,0.010641834143674589
+01_dubbo,dubbo-metadata,geographic information system,0.010786022482302537
+01_dubbo,dubbo-metadata,neural machine translation,0.01202564479245094
+01_dubbo,dubbo-metadata,data structure,0.01338496377086884
+01_dubbo,dubbo-metadata,computer data storage,0.013889638046096775
+01_dubbo,dubbo-metadata,"extract, transform, load",0.014054600102953785
+01_dubbo,dubbo-metadata,interpreter,0.014211952539873174
+01_dubbo,dubbo-metadata,validator,0.014344714448349394
+01_dubbo,dubbo-metadata,text processing,0.016224439196727003
+01_dubbo,dubbo-metadata,big data,0.01658214554403259
+01_dubbo,dubbo-metadata,schema migration,0.016591782395349752
+01_dubbo,dubbo-metadata,data,0.016716358680708643
+01_dubbo,dubbo-metadata,language model,0.017069775114117114
+01_dubbo,dubbo-metadata,3D computer graphics,0.01707785680394802
+01_dubbo,dubbo-metadata,static program analysis,0.01731142031718691
+01_dubbo,dubbo-metadata,deep learning,0.018426767574656444
+01_dubbo,dubbo-metadata,data mining,0.018434424135050254
+01_dubbo,dubbo-metadata,compiler,0.018673768118491307
+01_dubbo,dubbo-metadata,distributed database,0.019012286433142456
+01_dubbo,dubbo-metadata,distributed multimedia communications platform,0.019344312884977066
+01_dubbo,dubbo-metadata,telecommunications network,0.019442422145880656
+01_dubbo,dubbo-metadata,router,0.019615033338071686
+01_dubbo,dubbo-metadata,password manager,0.019645688778999082
+01_dubbo,dubbo-metadata,WebSocket,0.020201036532286443
+01_dubbo,dubbo-metadata,linear regression,0.022099257256233962
+01_dubbo,dubbo-metadata,computer graphics,0.022415154000300364
+01_dubbo,dubbo-metadata,dependency injection,0.022846761415635686
+01_dubbo,dubbo-metadata,scheduler,0.023051422112076003
+01_dubbo,dubbo-metadata,benchmark,0.02334345743555921
+01_dubbo,dubbo-metadata,Kalman filter,0.023542084268304064
+01_dubbo,dubbo-metadata,distributed system,0.023843928183470475
+01_dubbo,dubbo-metadata,web crawler,0.023908974693798712
+01_dubbo,dubbo-metadata,File Transfer Protocol,0.024233623829005402
+01_dubbo,dubbo-metadata,static program analysis tool,0.02470637102056461
+01_dubbo,dubbo-metadata,algorithmic trading,0.02523434792086421
+01_dubbo,dubbo-metadata,web browser,0.025726810719750692
+01_dubbo,dubbo-metadata,database management,0.025822486986435855
+01_dubbo,dubbo-metadata,instant messaging,0.02639119600017037
+01_dubbo,dubbo-metadata,streaming media,0.026442943787893136
+01_dubbo,dubbo-metadata,computer configuration,0.026847554816780472
+01_dubbo,dubbo-metadata,distributed computing,0.027078796155116325
+01_dubbo,dubbo-metadata,code generation,0.027488247981632075
+01_dubbo,dubbo-metadata,classification,0.02777149582485605
+01_dubbo,dubbo-metadata,web browser engine,0.028223696239330298
+01_dubbo,dubbo-metadata,HTTP client,0.028461241127117565
+01_dubbo,dubbo-metadata,server,0.028501383764238497
+01_dubbo,dubbo-metadata,web application,0.02861280154477841
+01_dubbo,dubbo-metadata,image,0.02873015818310587
+01_dubbo,dubbo-metadata,algorithm,0.028903731289694812
+01_dubbo,dubbo-metadata,HTTP server,0.029011513426131397
+01_dubbo,dubbo-metadata,web server,0.02942500792054048
+01_dubbo,dubbo-metadata,time series,0.029748055606466983
+01_dubbo,dubbo-metadata,database,0.029909295053178186
+01_dubbo,dubbo-metadata,electronic trading platform,0.030035864239263854
+01_dubbo,dubbo-metadata,back end,0.030224877518428617
+01_dubbo,dubbo-metadata,penetration test,0.03043564399725096
+01_dubbo,dubbo-metadata,anomaly detection,0.030683854911239927
+01_dubbo,dubbo-metadata,stock market,0.0307346154279583
+01_dubbo,dubbo-metadata,data analysis,0.030886101829829316
+01_dubbo,dubbo-metadata,education,0.03095266815687714
+01_dubbo,dubbo-metadata,logging,0.03103452964994302
+01_dubbo,dubbo-metadata,analytics,0.03188844312494177
+01_dubbo,dubbo-metadata,automation,0.03202491762245441
+01_dubbo,dubbo-metadata,World Wide Web,0.03212276677956616
+01_dubbo,dubbo-metadata,machine learning,0.032531888425151645
+01_dubbo,dubbo-metadata,e-commerce,0.03259445686090856
+01_dubbo,dubbo-metadata,application performance management,0.032969684486703565
+01_dubbo,dubbo-metadata,file system,0.03325034174075592
+01_dubbo,dubbo-metadata,blockchain,0.03342820280389214
+01_dubbo,dubbo-metadata,front end,0.03376432049248512
+01_dubbo,dubbo-metadata,cloud computing,0.0337988973533877
+01_dubbo,dubbo-metadata,data science,0.034062044958300786
+01_dubbo,dubbo-metadata,text editor,0.03456576489383223
+01_dubbo,dubbo-metadata,graph database,0.03472291969497443
+01_dubbo,dubbo-metadata,functional programming,0.035270146286118687
+01_dubbo,dubbo-metadata,cryptocurrency,0.03621298308738363
+01_dubbo,dubbo-metadata,web application security,0.03732268854608245
+01_dubbo,dubbo-metadata,statistics,0.03880705615025137
+01_dubbo,dubbo-metadata,security,0.03889489324288742
+01_dubbo,dubbo-metadata,backup,0.039103459843534694
+01_dubbo,dubbo-metadata,operating system,0.03910848645242748
+01_dubbo,dubbo-metadata,client,0.03972175378965781
+01_dubbo,dubbo-metadata,data visualization,0.039965675380658205
+01_dubbo,dubbo-metadata,Web Components,0.04002035590388697
+01_dubbo,dubbo-metadata,game engine,0.04148735303657236
+01_dubbo,dubbo-metadata,microservices,0.04162972102175755
+01_dubbo,dubbo-metadata,bitcoin,0.042061143278576796
+01_dubbo,dubbo-metadata,continuous integration,0.04220112679165999
+01_dubbo,dubbo-metadata,website,0.04225417445164459
+01_dubbo,dubbo-metadata,support vector machine,0.04247786641498863
+01_dubbo,dubbo-metadata,user interface,0.04269748604576096
+01_dubbo,dubbo-metadata,content management system,0.04485900821846078
+01_dubbo,dubbo-metadata,command-line interface,0.045290770766155175
+01_dubbo,dubbo-metadata,web service,0.04542748498536375
+01_dubbo,dubbo-metadata,smart contract,0.0456394475074654
+01_dubbo,dubbo-metadata,graphical user interface,0.0468174462071097
+01_dubbo,dubbo-metadata,test automation,0.04901613341363187
+01_dubbo,dubbo-metadata,unit testing,0.05088138261973918
+01_dubbo,dubbo-metadata,package management system,0.05258270369557971
+01_dubbo,dubbo-metadata,recommender system,0.05309882592944415
+01_dubbo,dubbo-metadata,documentation,0.05519467351956431
+01_dubbo,dubbo-metadata,static site generator,0.058010825742060734
+01_dubbo,dubbo-metadata,web development,0.05937604482633241
+01_dubbo,dubbo-metadata,software testing,0.07040259028061957

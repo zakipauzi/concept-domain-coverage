@@ -1,0 +1,71 @@
+project_name,module,domain,diff_sim
+07_druid,extendedset,linear regression,0.00022781500000002008
+07_druid,extendedset,word embedding,0.0012913724999999987
+07_druid,extendedset,virtual machine,0.0024254887499999267
+07_druid,extendedset,mobile application development,0.003709434999999983
+07_druid,extendedset,3D computer graphics,0.0038021025000000153
+07_druid,extendedset,natural language understanding,0.0038204887500000173
+07_druid,extendedset,data analysis,0.004979019999999945
+07_druid,extendedset,file system,0.005980127499999988
+07_druid,extendedset,named-entity recognition,0.006927336249999971
+07_druid,extendedset,information retrieval,0.0071023237499999725
+07_druid,extendedset,software testing,0.007193698749999977
+07_druid,extendedset,streaming media,0.007245297499999914
+07_druid,extendedset,data binding,0.00788423625000001
+07_druid,extendedset,text classification,0.008759983749999978
+07_druid,extendedset,question answering,0.009744074999999963
+07_druid,extendedset,unit testing,0.010548142499999968
+07_druid,extendedset,smart contract,0.010985616250000052
+07_druid,extendedset,backup,0.012017964999999964
+07_druid,extendedset,natural language processing,0.015842460000000003
+07_druid,extendedset,sentiment analysis,0.016526722500000035
+07_druid,extendedset,text mining,0.016626184999999905
+07_druid,extendedset,front end,0.017506511250000023
+07_druid,extendedset,back end,0.02255292124999997
+07_druid,extendedset,compiler,0.025005858750000054
+07_druid,extendedset,data,0.025094978749999886
+07_druid,extendedset,regression analysis,0.02634538249999996
+07_druid,extendedset,serialization,0.027465001250000065
+07_druid,extendedset,search,0.029079051249999988
+07_druid,extendedset,text editor,0.030265660000000083
+07_druid,extendedset,time series,0.031080327500000005
+07_druid,extendedset,support vector machine,0.032791963749999986
+07_druid,extendedset,automation,0.03419401249999998
+07_druid,extendedset,cluster analysis,0.03500939999999997
+07_druid,extendedset,virtual reality,0.03921148124999996
+07_druid,extendedset,penetration test,0.03995365000000001
+07_druid,extendedset,data visualization,0.040440456250000034
+07_druid,extendedset,router,0.0406316149999999
+07_druid,extendedset,database,0.04233865875000009
+07_druid,extendedset,command-line interface,0.04247548499999998
+07_druid,extendedset,machine learning,0.05004045999999995
+07_druid,extendedset,optical character recognition,0.050185301250000036
+07_druid,extendedset,regular expression,0.05356965999999996
+07_druid,extendedset,artificial intelligence,0.05507524624999999
+07_druid,extendedset,big data,0.05523935750000003
+07_druid,extendedset,computer vision,0.05649476375000012
+07_druid,extendedset,website,0.05724095749999991
+07_druid,extendedset,instant messaging,0.05991068124999993
+07_druid,extendedset,software development,0.06157561499999997
+07_druid,extendedset,static site generator,0.06659750625000005
+07_druid,extendedset,deep learning,0.06784718
+07_druid,extendedset,graphical user interface,0.06843568124999999
+07_druid,extendedset,reinforcement learning,0.06951870250000003
+07_druid,extendedset,user interface,0.07049778999999995
+07_druid,extendedset,text processing,0.07229887374999988
+07_druid,extendedset,image recognition,0.07295784875
+07_druid,extendedset,deep neural network,0.07363573000000001
+07_druid,extendedset,long short-term memory,0.07388344625000004
+07_druid,extendedset,World Wide Web,0.07585458624999997
+07_druid,extendedset,facial recognition system,0.0768564525
+07_druid,extendedset,object detection,0.08514826499999995
+07_druid,extendedset,information processing,0.09405912750000006
+07_druid,extendedset,image segmentation,0.09489519750000003
+07_druid,extendedset,graph algorithm,0.09617445375
+07_druid,extendedset,face detection,0.10056587125000005
+07_druid,extendedset,data compression,0.12264389124999997
+07_druid,extendedset,data structure,0.12430470999999998
+07_druid,extendedset,algorithm,0.1311318225
+07_druid,extendedset,pattern matching,0.13395755874999998
+07_druid,extendedset,stream processing,0.14234948500000005
+07_druid,extendedset,sorting algorithm,0.14582741625000012

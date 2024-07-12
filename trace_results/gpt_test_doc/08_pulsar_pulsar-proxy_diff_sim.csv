@@ -1,0 +1,96 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-proxy,microservices,0.0005836880351948182
+08_pulsar,pulsar-proxy,anomaly detection,0.0013228991619290698
+08_pulsar,pulsar-proxy,authentication,0.0022078781644392365
+08_pulsar,pulsar-proxy,File Transfer Protocol,0.002810214368970221
+08_pulsar,pulsar-proxy,pattern matching,0.0030214314550233157
+08_pulsar,pulsar-proxy,audio signal processing,0.0031354737361517504
+08_pulsar,pulsar-proxy,HTTP server,0.003596183450740087
+08_pulsar,pulsar-proxy,web crawler,0.003639520394537965
+08_pulsar,pulsar-proxy,penetration test,0.0037471434061869813
+08_pulsar,pulsar-proxy,network analysis,0.0040762021426643535
+08_pulsar,pulsar-proxy,middleware,0.006020590458195585
+08_pulsar,pulsar-proxy,network monitoring,0.0066583068974750415
+08_pulsar,pulsar-proxy,telecommunications network,0.007585235027813275
+08_pulsar,pulsar-proxy,streaming media,0.007803827930893958
+08_pulsar,pulsar-proxy,cloud computing,0.007968877839311661
+08_pulsar,pulsar-proxy,backup,0.00818024751821489
+08_pulsar,pulsar-proxy,scheduler,0.00867206316996616
+08_pulsar,pulsar-proxy,web service,0.008779623627920619
+08_pulsar,pulsar-proxy,word embedding,0.010933425502618332
+08_pulsar,pulsar-proxy,web server,0.01273288496378766
+08_pulsar,pulsar-proxy,logging,0.012976163696158172
+08_pulsar,pulsar-proxy,dependency injection,0.013454560980990293
+08_pulsar,pulsar-proxy,validator,0.014132217557074389
+08_pulsar,pulsar-proxy,HTTP client,0.014516197607590153
+08_pulsar,pulsar-proxy,WebSocket,0.014610708305982878
+08_pulsar,pulsar-proxy,smart contract,0.014979354369946463
+08_pulsar,pulsar-proxy,stream processing,0.01506777076566257
+08_pulsar,pulsar-proxy,back end,0.015254484395085033
+08_pulsar,pulsar-proxy,instant messaging,0.015539732061481515
+08_pulsar,pulsar-proxy,big data,0.01616411049167299
+08_pulsar,pulsar-proxy,encryption,0.01637503192660339
+08_pulsar,pulsar-proxy,data,0.016577988465035443
+08_pulsar,pulsar-proxy,object detection,0.01660090724293961
+08_pulsar,pulsar-proxy,Web Components,0.01662874937174319
+08_pulsar,pulsar-proxy,data binding,0.01670838543845854
+08_pulsar,pulsar-proxy,internet bot,0.018266730507684126
+08_pulsar,pulsar-proxy,Semantic Web,0.0189651873335972
+08_pulsar,pulsar-proxy,information processing,0.01913943269250795
+08_pulsar,pulsar-proxy,signal processing,0.019539405488169348
+08_pulsar,pulsar-proxy,security,0.019761605298309837
+08_pulsar,pulsar-proxy,password manager,0.019832947749418572
+08_pulsar,pulsar-proxy,regular expression,0.020822363582460812
+08_pulsar,pulsar-proxy,server,0.02098700875641435
+08_pulsar,pulsar-proxy,digital audio,0.02123280492377866
+08_pulsar,pulsar-proxy,embedded system,0.023244824327190772
+08_pulsar,pulsar-proxy,text classification,0.02393993381848858
+08_pulsar,pulsar-proxy,data compression,0.024646300534576393
+08_pulsar,pulsar-proxy,website,0.025405003551601912
+08_pulsar,pulsar-proxy,World Wide Web,0.02562362070923485
+08_pulsar,pulsar-proxy,automation,0.026096422025171262
+08_pulsar,pulsar-proxy,text processing,0.026300445718219878
+08_pulsar,pulsar-proxy,object–relational mapping,0.026412953434916786
+08_pulsar,pulsar-proxy,distributed computing,0.026760855898898872
+08_pulsar,pulsar-proxy,unit testing,0.02682857297068142
+08_pulsar,pulsar-proxy,static program analysis,0.027555009787392115
+08_pulsar,pulsar-proxy,web browser engine,0.02788775639317731
+08_pulsar,pulsar-proxy,web application security,0.02791568014613588
+08_pulsar,pulsar-proxy,data analysis,0.0280052228373614
+08_pulsar,pulsar-proxy,distributed system,0.028075651510075517
+08_pulsar,pulsar-proxy,file system,0.02838059483828559
+08_pulsar,pulsar-proxy,data science,0.028688599892374045
+08_pulsar,pulsar-proxy,digital image processing,0.028986569414727437
+08_pulsar,pulsar-proxy,digital security,0.02970528132234629
+08_pulsar,pulsar-proxy,static site generator,0.02991415199857328
+08_pulsar,pulsar-proxy,application performance management,0.030259351039458204
+08_pulsar,pulsar-proxy,information extraction,0.03097197438649557
+08_pulsar,pulsar-proxy,data mining,0.032079399918371054
+08_pulsar,pulsar-proxy,analytics,0.03252993339016563
+08_pulsar,pulsar-proxy,data structure,0.03291730172981999
+08_pulsar,pulsar-proxy,game server,0.03334518974694223
+08_pulsar,pulsar-proxy,benchmark,0.03374912248411788
+08_pulsar,pulsar-proxy,support vector machine,0.034169784057214714
+08_pulsar,pulsar-proxy,distributed multimedia communications platform,0.03442337801460904
+08_pulsar,pulsar-proxy,client,0.03483432669961606
+08_pulsar,pulsar-proxy,data visualization,0.03601395380964212
+08_pulsar,pulsar-proxy,web application,0.03603991229910086
+08_pulsar,pulsar-proxy,test automation,0.03615378558303617
+08_pulsar,pulsar-proxy,continuous integration,0.0375635175516581
+08_pulsar,pulsar-proxy,serialization,0.03820338219741548
+08_pulsar,pulsar-proxy,statistics,0.0386198649275058
+08_pulsar,pulsar-proxy,language model,0.03922640897937679
+08_pulsar,pulsar-proxy,database,0.04171301851664422
+08_pulsar,pulsar-proxy,distributed database,0.04226638136622296
+08_pulsar,pulsar-proxy,computer data storage,0.04630806905690754
+08_pulsar,pulsar-proxy,design,0.04638301615459417
+08_pulsar,pulsar-proxy,content management system,0.04640546082322383
+08_pulsar,pulsar-proxy,geographic information system,0.04644949669073406
+08_pulsar,pulsar-proxy,operating system,0.0489013880823731
+08_pulsar,pulsar-proxy,web development,0.049120696445941525
+08_pulsar,pulsar-proxy,user interface,0.05308833388261558
+08_pulsar,pulsar-proxy,command-line interface,0.05374472227665872
+08_pulsar,pulsar-proxy,computer configuration,0.05742317125589547
+08_pulsar,pulsar-proxy,package management system,0.07228074719433775
+08_pulsar,pulsar-proxy,graphical user interface,0.07263487345493203
+08_pulsar,pulsar-proxy,software testing,0.08029135080442817

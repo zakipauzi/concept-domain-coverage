@@ -1,0 +1,130 @@
+project_name,module,domain,diff_sim
+04_rocketmq,broker,static site generator,0.00015222958333338532
+04_rocketmq,broker,static program analysis tool,0.0004010249999999438
+04_rocketmq,broker,data science,0.0010327072222222067
+04_rocketmq,broker,HTTP server,0.0013058631944444787
+04_rocketmq,broker,mobile application development,0.0013854148611112116
+04_rocketmq,broker,penetration test,0.001595154027777712
+04_rocketmq,broker,machine learning,0.001976922777777834
+04_rocketmq,broker,audio signal processing,0.0023679823611110207
+04_rocketmq,broker,neural machine translation,0.0025475947222222683
+04_rocketmq,broker,machine translation,0.0026368054166666655
+04_rocketmq,broker,facial recognition system,0.0026867431944443965
+04_rocketmq,broker,Web Components,0.002948083055555384
+04_rocketmq,broker,image recognition,0.0044600815277777706
+04_rocketmq,broker,cryptocurrency,0.005008489166666685
+04_rocketmq,broker,authentication,0.0051079291666666915
+04_rocketmq,broker,blockchain,0.005633714444444382
+04_rocketmq,broker,computer vision,0.005765891111111088
+04_rocketmq,broker,embedded system,0.00675123611111117
+04_rocketmq,broker,digital image processing,0.006829342916666592
+04_rocketmq,broker,web browser engine,0.007241041805555626
+04_rocketmq,broker,compiler,0.00746264000000002
+04_rocketmq,broker,cluster analysis,0.007539846944444373
+04_rocketmq,broker,computer data storage,0.007712675972222249
+04_rocketmq,broker,data compression,0.00774839541666672
+04_rocketmq,broker,signal processing,0.008486932222222299
+04_rocketmq,broker,graphical user interface,0.008623888750000086
+04_rocketmq,broker,bioinformatics,0.009076770138888857
+04_rocketmq,broker,application performance management,0.009138869027777718
+04_rocketmq,broker,web service,0.009215681944444443
+04_rocketmq,broker,network monitoring,0.00948711486111109
+04_rocketmq,broker,reactive programming,0.009994121805555478
+04_rocketmq,broker,big data,0.01140897569444449
+04_rocketmq,broker,content management system,0.011436689166666625
+04_rocketmq,broker,automation,0.011551410972222231
+04_rocketmq,broker,serialization,0.012521189166666669
+04_rocketmq,broker,middleware,0.012667368333333262
+04_rocketmq,broker,test automation,0.01283302875000003
+04_rocketmq,broker,File Transfer Protocol,0.012927763611111143
+04_rocketmq,broker,design,0.013086203333333268
+04_rocketmq,broker,distributed database,0.01329561930555545
+04_rocketmq,broker,security,0.014285095972222106
+04_rocketmq,broker,support vector machine,0.014310855694444402
+04_rocketmq,broker,word embedding,0.01450395388888881
+04_rocketmq,broker,website,0.014580352361110993
+04_rocketmq,broker,recommender system,0.014741236388888912
+04_rocketmq,broker,game server,0.014969152638888983
+04_rocketmq,broker,distributed system,0.014989777361111178
+04_rocketmq,broker,Semantic Web,0.015637451944444603
+04_rocketmq,broker,dependency injection,0.015902500833333277
+04_rocketmq,broker,geographic information system,0.015924750416666578
+04_rocketmq,broker,user interface,0.016500538333333203
+04_rocketmq,broker,regular expression,0.017846902638888884
+04_rocketmq,broker,network security,0.018370489444444527
+04_rocketmq,broker,scheduler,0.018488846944444304
+04_rocketmq,broker,back end,0.018866504444444376
+04_rocketmq,broker,object detection,0.019879575000000094
+04_rocketmq,broker,server,0.020129050138888882
+04_rocketmq,broker,algorithm,0.0201813661111111
+04_rocketmq,broker,email,0.020483752916666487
+04_rocketmq,broker,text editor,0.020945337499999994
+04_rocketmq,broker,face detection,0.021263972777777695
+04_rocketmq,broker,WebSocket,0.021482917777777888
+04_rocketmq,broker,World Wide Web,0.022861401250000024
+04_rocketmq,broker,digital audio,0.023026124861111164
+04_rocketmq,broker,data mining,0.02315750263888877
+04_rocketmq,broker,text processing,0.023523211944444455
+04_rocketmq,broker,data analysis,0.023750049166666676
+04_rocketmq,broker,web scraping,0.02375834916666658
+04_rocketmq,broker,natural language processing,0.023824860000000003
+04_rocketmq,broker,instant messaging,0.02389511055555571
+04_rocketmq,broker,game engine,0.024018964722222202
+04_rocketmq,broker,static program analysis,0.024367311666666724
+04_rocketmq,broker,language model,0.02450781527777779
+04_rocketmq,broker,search,0.025129326249999917
+04_rocketmq,broker,smart contract,0.027324910833333216
+04_rocketmq,broker,pattern matching,0.0276729162499999
+04_rocketmq,broker,front end,0.02833412027777782
+04_rocketmq,broker,benchmark,0.029937239166666685
+04_rocketmq,broker,analytics,0.03146499375
+04_rocketmq,broker,natural language,0.03188831569444439
+04_rocketmq,broker,backup,0.03228555305555564
+04_rocketmq,broker,information extraction,0.032642170277777716
+04_rocketmq,broker,web server,0.03280857791666669
+04_rocketmq,broker,distributed computing,0.03332236875000005
+04_rocketmq,broker,password manager,0.033879238333333395
+04_rocketmq,broker,internet bot,0.03437041222222226
+04_rocketmq,broker,database,0.03485368958333335
+04_rocketmq,broker,digital security,0.036087242916666706
+04_rocketmq,broker,microservices,0.03613491402777769
+04_rocketmq,broker,software testing,0.0369058988888889
+04_rocketmq,broker,anomaly detection,0.03706324319444437
+04_rocketmq,broker,time series,0.037077787638888915
+04_rocketmq,broker,validator,0.0374158908333333
+04_rocketmq,broker,data,0.0377131086111111
+04_rocketmq,broker,web application,0.03787786916666647
+04_rocketmq,broker,unit testing,0.03877843333333347
+04_rocketmq,broker,telecommunications network,0.04064210361111109
+04_rocketmq,broker,Parser combinator,0.04139106638888884
+04_rocketmq,broker,computer configuration,0.041476728611111124
+04_rocketmq,broker,text classification,0.042115804305555504
+04_rocketmq,broker,stream processing,0.04428897902777762
+04_rocketmq,broker,router,0.044815507916666886
+04_rocketmq,broker,HTTP client,0.04538864138888887
+04_rocketmq,broker,geographic information,0.04563327708333331
+04_rocketmq,broker,graph database,0.04627044375
+04_rocketmq,broker,natural language understanding,0.04704750486111109
+04_rocketmq,broker,operating system,0.04762935708333327
+04_rocketmq,broker,web application security,0.04783804027777783
+04_rocketmq,broker,linear regression,0.04873724611111102
+04_rocketmq,broker,mathematics,0.04929676208333339
+04_rocketmq,broker,file system,0.0504760115277777
+04_rocketmq,broker,information processing,0.0509709447222223
+04_rocketmq,broker,sorting algorithm,0.051609245416666616
+04_rocketmq,broker,command-line interface,0.0522300920833334
+04_rocketmq,broker,reinforcement learning,0.05271965027777781
+04_rocketmq,broker,knowledge graph,0.05421913416666663
+04_rocketmq,broker,logging,0.05428034597222231
+04_rocketmq,broker,encryption,0.056046148750000024
+04_rocketmq,broker,long short-term memory,0.05741115805555563
+04_rocketmq,broker,client,0.057868188333333404
+04_rocketmq,broker,question answering,0.05886524819444444
+04_rocketmq,broker,data structure,0.06015140569444438
+04_rocketmq,broker,object–relational mapping,0.0628555118055556
+04_rocketmq,broker,topic modeling,0.0682771881944444
+04_rocketmq,broker,streaming media,0.07029344180555552
+04_rocketmq,broker,package management system,0.07084590750000003
+04_rocketmq,broker,cloud computing,0.0722342773611111
+04_rocketmq,broker,synchronization,0.07285391180555556
+04_rocketmq,broker,data binding,0.07657915055555559

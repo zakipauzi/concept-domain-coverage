@@ -1,0 +1,147 @@
+project_name,module,domain,diff_sim
+15_zeppelin,zeppelin-zengine,machine learning,0.00020928777777773355
+15_zeppelin,zeppelin-zengine,data compression,0.0013016422222222324
+15_zeppelin,zeppelin-zengine,shell tool,0.0013363933333332412
+15_zeppelin,zeppelin-zengine,internet bot,0.0015001277777778044
+15_zeppelin,zeppelin-zengine,optical character recognition,0.0015387088888889067
+15_zeppelin,zeppelin-zengine,telecommunications network,0.001982863333333418
+15_zeppelin,zeppelin-zengine,encryption,0.0019955477777778285
+15_zeppelin,zeppelin-zengine,content management system,0.002070951111111219
+15_zeppelin,zeppelin-zengine,object–relational mapping,0.0021148444444444303
+15_zeppelin,zeppelin-zengine,linear regression,0.0022689944444443944
+15_zeppelin,zeppelin-zengine,information retrieval,0.0023228377777776976
+15_zeppelin,zeppelin-zengine,backup,0.0025706911111111896
+15_zeppelin,zeppelin-zengine,data mining,0.0026461577777778245
+15_zeppelin,zeppelin-zengine,authentication,0.0030890533333332026
+15_zeppelin,zeppelin-zengine,file system,0.003232522222222145
+15_zeppelin,zeppelin-zengine,back end,0.003924519999999987
+15_zeppelin,zeppelin-zengine,web scraping,0.004264025555555606
+15_zeppelin,zeppelin-zengine,security,0.004364311111111185
+15_zeppelin,zeppelin-zengine,game server,0.004634438888888925
+15_zeppelin,zeppelin-zengine,object detection,0.005268709999999954
+15_zeppelin,zeppelin-zengine,data visualization,0.005343616666666606
+15_zeppelin,zeppelin-zengine,algorithm,0.005374698888888918
+15_zeppelin,zeppelin-zengine,embedded system,0.00566644000000005
+15_zeppelin,zeppelin-zengine,command-line interface,0.00590411111111111
+15_zeppelin,zeppelin-zengine,documentation,0.006169492222222184
+15_zeppelin,zeppelin-zengine,HTTP client,0.00641440444444441
+15_zeppelin,zeppelin-zengine,banking industry,0.006890837777777714
+15_zeppelin,zeppelin-zengine,object-oriented programming,0.006907206666666721
+15_zeppelin,zeppelin-zengine,data science,0.007136384444444477
+15_zeppelin,zeppelin-zengine,game engine,0.007233994444444503
+15_zeppelin,zeppelin-zengine,sorting algorithm,0.007392703333333306
+15_zeppelin,zeppelin-zengine,cluster analysis,0.007876826666666725
+15_zeppelin,zeppelin-zengine,validator,0.0087493377777777
+15_zeppelin,zeppelin-zengine,Bayesian inference,0.009078451111111219
+15_zeppelin,zeppelin-zengine,big data,0.009280532222222082
+15_zeppelin,zeppelin-zengine,artificial intelligence,0.009837851111111184
+15_zeppelin,zeppelin-zengine,database,0.010884661111111082
+15_zeppelin,zeppelin-zengine,geographic information system,0.011141733333333403
+15_zeppelin,zeppelin-zengine,support vector machine,0.011558892222222172
+15_zeppelin,zeppelin-zengine,network monitoring,0.01163216888888885
+15_zeppelin,zeppelin-zengine,image recognition,0.01174505333333331
+15_zeppelin,zeppelin-zengine,web server,0.012430386666666682
+15_zeppelin,zeppelin-zengine,static program analysis tool,0.012617248888888821
+15_zeppelin,zeppelin-zengine,streaming media,0.012628880000000064
+15_zeppelin,zeppelin-zengine,cryptography,0.013276397777777893
+15_zeppelin,zeppelin-zengine,kernel,0.013499232222222213
+15_zeppelin,zeppelin-zengine,computer data storage,0.013656828888888972
+15_zeppelin,zeppelin-zengine,user interface,0.01385549888888904
+15_zeppelin,zeppelin-zengine,web crawler,0.013886994444444412
+15_zeppelin,zeppelin-zengine,penetration test,0.01421902222222221
+15_zeppelin,zeppelin-zengine,data structure,0.01452534111111109
+15_zeppelin,zeppelin-zengine,face detection,0.014539131111111214
+15_zeppelin,zeppelin-zengine,analytics,0.014590366666666632
+15_zeppelin,zeppelin-zengine,distributed system,0.015139498888888991
+15_zeppelin,zeppelin-zengine,random forest,0.015990678888888887
+15_zeppelin,zeppelin-zengine,front end,0.01601655888888892
+15_zeppelin,zeppelin-zengine,data analysis,0.016036691111111112
+15_zeppelin,zeppelin-zengine,router,0.01611918555555547
+15_zeppelin,zeppelin-zengine,text mining,0.0162320311111111
+15_zeppelin,zeppelin-zengine,search,0.016759414444444398
+15_zeppelin,zeppelin-zengine,facial recognition system,0.016823019999999855
+15_zeppelin,zeppelin-zengine,unit testing,0.016851605555555593
+15_zeppelin,zeppelin-zengine,distributed computing,0.0171820322222222
+15_zeppelin,zeppelin-zengine,language model,0.01758866333333331
+15_zeppelin,zeppelin-zengine,web application security,0.018032665555555494
+15_zeppelin,zeppelin-zengine,dependency injection,0.01847880333333335
+15_zeppelin,zeppelin-zengine,graphical user interface,0.019199807777777744
+15_zeppelin,zeppelin-zengine,compiler,0.019619973333333318
+15_zeppelin,zeppelin-zengine,"extract, transform, load",0.020146914444444386
+15_zeppelin,zeppelin-zengine,password manager,0.020961895555555665
+15_zeppelin,zeppelin-zengine,data,0.02163501666666673
+15_zeppelin,zeppelin-zengine,web service,0.02236974555555543
+15_zeppelin,zeppelin-zengine,static site generator,0.023027077777777682
+15_zeppelin,zeppelin-zengine,server,0.023231136666666707
+15_zeppelin,zeppelin-zengine,graph database,0.023308056666666632
+15_zeppelin,zeppelin-zengine,pattern matching,0.0242688788888889
+15_zeppelin,zeppelin-zengine,instant messaging,0.024870729999999952
+15_zeppelin,zeppelin-zengine,logging,0.025017190000000078
+15_zeppelin,zeppelin-zengine,syntax highlighting,0.025023230000000063
+15_zeppelin,zeppelin-zengine,test automation,0.025487101111111077
+15_zeppelin,zeppelin-zengine,website,0.025511155555555665
+15_zeppelin,zeppelin-zengine,code generation,0.02586459111111128
+15_zeppelin,zeppelin-zengine,classification,0.025938201111111003
+15_zeppelin,zeppelin-zengine,static program analysis,0.026413958888888756
+15_zeppelin,zeppelin-zengine,computer vision,0.026510595555555516
+15_zeppelin,zeppelin-zengine,synchronization,0.026993514444444477
+15_zeppelin,zeppelin-zengine,computer configuration,0.027752662222222335
+15_zeppelin,zeppelin-zengine,signal processing,0.028306868888888892
+15_zeppelin,zeppelin-zengine,WebSocket,0.029083241111111102
+15_zeppelin,zeppelin-zengine,network analysis,0.029531929999999984
+15_zeppelin,zeppelin-zengine,HTTP server,0.029667585555555598
+15_zeppelin,zeppelin-zengine,continuous integration,0.029735951111111047
+15_zeppelin,zeppelin-zengine,smart contract,0.03026532222222228
+15_zeppelin,zeppelin-zengine,blockchain,0.03027757888888888
+15_zeppelin,zeppelin-zengine,Malware Analysis,0.031880818888888995
+15_zeppelin,zeppelin-zengine,serialization,0.03207863444444442
+15_zeppelin,zeppelin-zengine,automation,0.03328443222222227
+15_zeppelin,zeppelin-zengine,World Wide Web,0.033342102222222225
+15_zeppelin,zeppelin-zengine,information processing,0.03467357444444441
+15_zeppelin,zeppelin-zengine,debugger,0.034840403333333436
+15_zeppelin,zeppelin-zengine,natural language,0.03504367666666658
+15_zeppelin,zeppelin-zengine,text classification,0.03530792555555551
+15_zeppelin,zeppelin-zengine,deep learning,0.035411063333333326
+15_zeppelin,zeppelin-zengine,web application,0.03551570444444435
+15_zeppelin,zeppelin-zengine,virtual machine,0.035601943333333275
+15_zeppelin,zeppelin-zengine,cloud computing,0.03609056999999993
+15_zeppelin,zeppelin-zengine,mobile application development,0.03646304555555552
+15_zeppelin,zeppelin-zengine,search engine,0.03656470000000006
+15_zeppelin,zeppelin-zengine,lexical analysis,0.0369981800000001
+15_zeppelin,zeppelin-zengine,File Transfer Protocol,0.03711228
+15_zeppelin,zeppelin-zengine,text editor,0.03718416000000013
+15_zeppelin,zeppelin-zengine,rendering,0.03755961000000002
+15_zeppelin,zeppelin-zengine,application performance management,0.0379026088888888
+15_zeppelin,zeppelin-zengine,data binding,0.03918998999999995
+15_zeppelin,zeppelin-zengine,scheduler,0.03963124111111116
+15_zeppelin,zeppelin-zengine,question answering,0.04053985888888889
+15_zeppelin,zeppelin-zengine,virtualization,0.041887488888888935
+15_zeppelin,zeppelin-zengine,natural language processing,0.042036306666666745
+15_zeppelin,zeppelin-zengine,software testing,0.04205152888888902
+15_zeppelin,zeppelin-zengine,text processing,0.04267116666666659
+15_zeppelin,zeppelin-zengine,regular expression,0.043069864444444494
+15_zeppelin,zeppelin-zengine,operating system,0.04313134666666657
+15_zeppelin,zeppelin-zengine,internet of things,0.04358620666666668
+15_zeppelin,zeppelin-zengine,audio signal processing,0.04582276999999996
+15_zeppelin,zeppelin-zengine,anomaly detection,0.04824164777777773
+15_zeppelin,zeppelin-zengine,Containerization,0.048659661111111197
+15_zeppelin,zeppelin-zengine,recommender system,0.04994469666666679
+15_zeppelin,zeppelin-zengine,malware,0.05033879555555565
+15_zeppelin,zeppelin-zengine,client,0.050437176666666694
+15_zeppelin,zeppelin-zengine,3D modeling,0.05056328888888889
+15_zeppelin,zeppelin-zengine,stream processing,0.05087961111111122
+15_zeppelin,zeppelin-zengine,image captioning,0.05334303666666662
+15_zeppelin,zeppelin-zengine,microservices,0.053445722222222214
+15_zeppelin,zeppelin-zengine,time series,0.05349898666666669
+15_zeppelin,zeppelin-zengine,social network,0.05573081444444439
+15_zeppelin,zeppelin-zengine,benchmark,0.05788796111111105
+15_zeppelin,zeppelin-zengine,continuous delivery,0.05960352888888876
+15_zeppelin,zeppelin-zengine,long short-term memory,0.06061596555555554
+15_zeppelin,zeppelin-zengine,Parser combinator,0.06234046666666654
+15_zeppelin,zeppelin-zengine,Bidirectional recurrent neural networks,0.07041482777777769
+15_zeppelin,zeppelin-zengine,interpreter,0.0709762822222223
+15_zeppelin,zeppelin-zengine,software development,0.07681112444444449
+15_zeppelin,zeppelin-zengine,e-commerce,0.07785418
+15_zeppelin,zeppelin-zengine,parsing,0.08457957555555551
+15_zeppelin,zeppelin-zengine,email,0.12603287222222226
+15_zeppelin,zeppelin-zengine,package management system,0.15135385666666662

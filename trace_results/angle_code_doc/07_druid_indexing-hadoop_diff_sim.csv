@@ -1,0 +1,111 @@
+project_name,module,domain,diff_sim
+07_druid,indexing-hadoop,data analysis,0.0014965016666665942
+07_druid,indexing-hadoop,automation,0.0015056219444444796
+07_druid,indexing-hadoop,sentiment analysis,0.0019048425000000035
+07_druid,indexing-hadoop,server,0.001946381388888807
+07_druid,indexing-hadoop,mathematical finance,0.0021234836111110877
+07_druid,indexing-hadoop,test automation,0.0021942141666665416
+07_druid,indexing-hadoop,language model,0.0034628769444444707
+07_druid,indexing-hadoop,data,0.004403407638888801
+07_druid,indexing-hadoop,statistics,0.004861123194444428
+07_druid,indexing-hadoop,web service,0.005368102222222171
+07_druid,indexing-hadoop,object–relational mapping,0.005658859305555652
+07_druid,indexing-hadoop,database management,0.005784139444444447
+07_druid,indexing-hadoop,cloud computing,0.006710058749999914
+07_druid,indexing-hadoop,computer configuration,0.007735690277777818
+07_druid,indexing-hadoop,graph algorithm,0.00774798375000002
+07_druid,indexing-hadoop,code generation,0.007902515138888955
+07_druid,indexing-hadoop,static program analysis,0.008448036944444515
+07_druid,indexing-hadoop,validator,0.008475842777777798
+07_druid,indexing-hadoop,rendering,0.008895118750000042
+07_druid,indexing-hadoop,analytics,0.00916504569444443
+07_druid,indexing-hadoop,streaming media,0.009565932499999819
+07_druid,indexing-hadoop,schema migration,0.009916205555555502
+07_druid,indexing-hadoop,computational science,0.011266299444444516
+07_druid,indexing-hadoop,microservices,0.011788895277777878
+07_druid,indexing-hadoop,telecommunications network,0.011985344583333335
+07_druid,indexing-hadoop,penetration test,0.013527378333333284
+07_druid,indexing-hadoop,instant messaging,0.0137200912499999
+07_druid,indexing-hadoop,continuous integration,0.013850958749999975
+07_druid,indexing-hadoop,web server,0.014285958194444393
+07_druid,indexing-hadoop,Q-learning,0.015243773611111067
+07_druid,indexing-hadoop,geographic information system,0.016475151249999986
+07_druid,indexing-hadoop,embedded system,0.01771025152777783
+07_druid,indexing-hadoop,data visualization,0.017744376250000027
+07_druid,indexing-hadoop,logging,0.01808432361111112
+07_druid,indexing-hadoop,support vector machine,0.01841160708333328
+07_druid,indexing-hadoop,machine learning,0.018439585000000036
+07_druid,indexing-hadoop,game engine,0.018810143194444462
+07_druid,indexing-hadoop,distributed computing,0.018890454861111072
+07_druid,indexing-hadoop,artificial intelligence,0.01957030513888891
+07_druid,indexing-hadoop,image captioning,0.019788886805555572
+07_druid,indexing-hadoop,benchmark,0.020780421111111114
+07_druid,indexing-hadoop,static program analysis tool,0.021144960555555703
+07_druid,indexing-hadoop,regular expression,0.021969183333333364
+07_druid,indexing-hadoop,database,0.022052582083333383
+07_druid,indexing-hadoop,time series,0.022420658611111033
+07_druid,indexing-hadoop,HTTP server,0.022540075416666694
+07_druid,indexing-hadoop,blockchain,0.02254528027777769
+07_druid,indexing-hadoop,data science,0.02254932361111117
+07_druid,indexing-hadoop,front end,0.02331028069444452
+07_druid,indexing-hadoop,"extract, transform, load",0.023980685694444448
+07_druid,indexing-hadoop,web application security,0.02450641902777778
+07_druid,indexing-hadoop,linear regression,0.024943603333333286
+07_druid,indexing-hadoop,unit testing,0.027301117500000083
+07_druid,indexing-hadoop,cluster analysis,0.027863713333333262
+07_druid,indexing-hadoop,back end,0.02815853125000012
+07_druid,indexing-hadoop,file system,0.02843312083333349
+07_druid,indexing-hadoop,dependency injection,0.029620800277777748
+07_druid,indexing-hadoop,data binding,0.030524185416666794
+07_druid,indexing-hadoop,security,0.030732351944444458
+07_druid,indexing-hadoop,object detection,0.030954559444444363
+07_druid,indexing-hadoop,command-line interface,0.03123388222222223
+07_druid,indexing-hadoop,reinforcement learning,0.03167437361111097
+07_druid,indexing-hadoop,search engine,0.031695997222222216
+07_druid,indexing-hadoop,graph database,0.031728973194444454
+07_druid,indexing-hadoop,digital security,0.031912077500000025
+07_druid,indexing-hadoop,web crawler,0.0326169548611111
+07_druid,indexing-hadoop,recommender system,0.032689298194444494
+07_druid,indexing-hadoop,distributed system,0.034368634305555645
+07_druid,indexing-hadoop,algorithm,0.03656899194444452
+07_druid,indexing-hadoop,search,0.03694063902777778
+07_druid,indexing-hadoop,user interface,0.037396182222222074
+07_druid,indexing-hadoop,regression analysis,0.03857278361111105
+07_druid,indexing-hadoop,data mining,0.039166477777777764
+07_druid,indexing-hadoop,software testing,0.040445453194444536
+07_druid,indexing-hadoop,application performance management,0.04123328361111117
+07_druid,indexing-hadoop,deep learning,0.041897988888888904
+07_druid,indexing-hadoop,image compression,0.04320142013888889
+07_druid,indexing-hadoop,compiler,0.04357750291666662
+07_druid,indexing-hadoop,File Transfer Protocol,0.04408965125000003
+07_druid,indexing-hadoop,operating system,0.04598132013888878
+07_druid,indexing-hadoop,text processing,0.04748880708333325
+07_druid,indexing-hadoop,web application,0.04920815861111105
+07_druid,indexing-hadoop,anomaly detection,0.049467053888888834
+07_druid,indexing-hadoop,serialization,0.05009799569444451
+07_druid,indexing-hadoop,content management system,0.05052100749999999
+07_druid,indexing-hadoop,Web Components,0.05121786902777786
+07_druid,indexing-hadoop,graphical user interface,0.051705471250000024
+07_druid,indexing-hadoop,scheduler,0.05178378208333334
+07_druid,indexing-hadoop,long short-term memory,0.052044342916666764
+07_druid,indexing-hadoop,artificial neural network,0.052643605833333385
+07_druid,indexing-hadoop,HTTP client,0.0539869827777778
+07_druid,indexing-hadoop,computer data storage,0.05422870749999997
+07_druid,indexing-hadoop,big data,0.05434256249999997
+07_druid,indexing-hadoop,data structure,0.06420533055555566
+07_druid,indexing-hadoop,client,0.06429926486111126
+07_druid,indexing-hadoop,finance,0.06511984472222215
+07_druid,indexing-hadoop,smart contract,0.0656382870833333
+07_druid,indexing-hadoop,package management system,0.06585502861111114
+07_druid,indexing-hadoop,sorting algorithm,0.07158906402777793
+07_druid,indexing-hadoop,pattern matching,0.07204326986111104
+07_druid,indexing-hadoop,data compression,0.07316605680555544
+07_druid,indexing-hadoop,software development,0.07404067611111109
+07_druid,indexing-hadoop,website,0.07464172194444435
+07_druid,indexing-hadoop,information processing,0.07612103472222226
+07_druid,indexing-hadoop,Parser combinator,0.07840386125000015
+07_druid,indexing-hadoop,World Wide Web,0.07880119958333331
+07_druid,indexing-hadoop,recurrent neural network,0.08234145083333322
+07_druid,indexing-hadoop,3D modeling,0.083444506388889
+07_druid,indexing-hadoop,stream processing,0.10617736611111112
+07_druid,indexing-hadoop,documentation,0.1683262655555554

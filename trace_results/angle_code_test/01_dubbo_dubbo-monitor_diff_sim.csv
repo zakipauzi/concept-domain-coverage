@@ -1,0 +1,81 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-monitor,client,0.0007255360714285564
+01_dubbo,dubbo-monitor,unit testing,0.0007355503571429001
+01_dubbo,dubbo-monitor,instant messaging,0.0009430617857142387
+01_dubbo,dubbo-monitor,penetration test,0.0014008360714286017
+01_dubbo,dubbo-monitor,streaming media,0.0016320157142857283
+01_dubbo,dubbo-monitor,web crawler,0.0034769389285713714
+01_dubbo,dubbo-monitor,web application security,0.003538689285714325
+01_dubbo,dubbo-monitor,data,0.0036919478571428854
+01_dubbo,dubbo-monitor,graphical user interface,0.003942804642857123
+01_dubbo,dubbo-monitor,user interface,0.004946687142857176
+01_dubbo,dubbo-monitor,statistics,0.005353519642857241
+01_dubbo,dubbo-monitor,regular expression,0.005992802857142876
+01_dubbo,dubbo-monitor,World Wide Web,0.0066661475000000525
+01_dubbo,dubbo-monitor,back end,0.00671549214285716
+01_dubbo,dubbo-monitor,geographic information system,0.007047351785714195
+01_dubbo,dubbo-monitor,game server,0.007736357142857253
+01_dubbo,dubbo-monitor,HTTP server,0.007818333214285711
+01_dubbo,dubbo-monitor,File Transfer Protocol,0.00818536000000003
+01_dubbo,dubbo-monitor,"extract, transform, load",0.008391170357142874
+01_dubbo,dubbo-monitor,content management system,0.008526641071428587
+01_dubbo,dubbo-monitor,search,0.008792805357142885
+01_dubbo,dubbo-monitor,file system,0.010004627499999863
+01_dubbo,dubbo-monitor,web browser,0.010493181428571363
+01_dubbo,dubbo-monitor,microservices,0.010724170714285663
+01_dubbo,dubbo-monitor,package management system,0.011064798214285798
+01_dubbo,dubbo-monitor,telecommunications network,0.011243237857142985
+01_dubbo,dubbo-monitor,backup,0.0113786328571428
+01_dubbo,dubbo-monitor,logging,0.012511642500000086
+01_dubbo,dubbo-monitor,website,0.012525909642857214
+01_dubbo,dubbo-monitor,test automation,0.01255192035714281
+01_dubbo,dubbo-monitor,web application,0.012980085714285883
+01_dubbo,dubbo-monitor,command-line interface,0.013099083214285656
+01_dubbo,dubbo-monitor,web server,0.014187617499999972
+01_dubbo,dubbo-monitor,security,0.014250053214285685
+01_dubbo,dubbo-monitor,mobile application development,0.015218665000000076
+01_dubbo,dubbo-monitor,software testing,0.01529348428571431
+01_dubbo,dubbo-monitor,web service,0.016286604285714268
+01_dubbo,dubbo-monitor,data science,0.01641960357142863
+01_dubbo,dubbo-monitor,continuous delivery,0.016908966785714408
+01_dubbo,dubbo-monitor,HTTP client,0.017413992142857215
+01_dubbo,dubbo-monitor,automation,0.017855828571428534
+01_dubbo,dubbo-monitor,game engine,0.017948223928571316
+01_dubbo,dubbo-monitor,password manager,0.0182312614285714
+01_dubbo,dubbo-monitor,web browser engine,0.018523262142857044
+01_dubbo,dubbo-monitor,data compression,0.02148831964285708
+01_dubbo,dubbo-monitor,data analysis,0.021682105714285693
+01_dubbo,dubbo-monitor,data binding,0.0218830221428572
+01_dubbo,dubbo-monitor,database,0.022518897142857208
+01_dubbo,dubbo-monitor,Web Components,0.022984783214285653
+01_dubbo,dubbo-monitor,scheduler,0.023380333214285787
+01_dubbo,dubbo-monitor,data structure,0.026147680357142877
+01_dubbo,dubbo-monitor,server,0.026601319285714298
+01_dubbo,dubbo-monitor,text classification,0.028247644642857117
+01_dubbo,dubbo-monitor,computer data storage,0.028575597857142976
+01_dubbo,dubbo-monitor,cloud computing,0.02982529607142853
+01_dubbo,dubbo-monitor,smart contract,0.030156771071428667
+01_dubbo,dubbo-monitor,operating system,0.03022795857142857
+01_dubbo,dubbo-monitor,cluster analysis,0.03219458499999989
+01_dubbo,dubbo-monitor,analytics,0.0325059407142857
+01_dubbo,dubbo-monitor,support vector machine,0.035214068928571485
+01_dubbo,dubbo-monitor,blockchain,0.03679501321428574
+01_dubbo,dubbo-monitor,graph database,0.03775581892857138
+01_dubbo,dubbo-monitor,big data,0.039819162499999894
+01_dubbo,dubbo-monitor,recommender system,0.04069659607142856
+01_dubbo,dubbo-monitor,image segmentation,0.0417545150000001
+01_dubbo,dubbo-monitor,text processing,0.04502153214285709
+01_dubbo,dubbo-monitor,benchmark,0.047064768928571366
+01_dubbo,dubbo-monitor,static program analysis,0.047824782499999774
+01_dubbo,dubbo-monitor,time series,0.04797122749999999
+01_dubbo,dubbo-monitor,information processing,0.04895622750000017
+01_dubbo,dubbo-monitor,application performance management,0.049015139642857086
+01_dubbo,dubbo-monitor,object detection,0.05104998607142858
+01_dubbo,dubbo-monitor,continuous integration,0.0528464739285715
+01_dubbo,dubbo-monitor,pattern matching,0.053369336428571335
+01_dubbo,dubbo-monitor,audio signal processing,0.0535985203571428
+01_dubbo,dubbo-monitor,stream processing,0.05857451107142864
+01_dubbo,dubbo-monitor,signal processing,0.05948233749999998
+01_dubbo,dubbo-monitor,distributed system,0.06096713071428572
+01_dubbo,dubbo-monitor,network monitoring,0.06345510285714284
+01_dubbo,dubbo-monitor,distributed computing,0.06475674285714272

@@ -1,0 +1,208 @@
+project_name,module,domain,diff_sim
+02_skywalking,oap-server,game engine,0.000103389999999981
+02_skywalking,oap-server,software architecture,0.00017552111111118762
+02_skywalking,oap-server,static program analysis,0.00023442777777782364
+02_skywalking,oap-server,kernel,0.0003095899999999707
+02_skywalking,oap-server,smart contract,0.0004469622222221803
+02_skywalking,oap-server,search engine,0.0009753144444443751
+02_skywalking,oap-server,data mining,0.0010286444444445042
+02_skywalking,oap-server,3D modeling,0.0016985977777776995
+02_skywalking,oap-server,deep learning,0.0017618022222223306
+02_skywalking,oap-server,unit testing,0.0018040611111110882
+02_skywalking,oap-server,topic modeling,0.002502335555555568
+02_skywalking,oap-server,question answering,0.0025322611111111004
+02_skywalking,oap-server,regular expression,0.003149132222222184
+02_skywalking,oap-server,reactive programming,0.0032177255555556616
+02_skywalking,oap-server,front end,0.003278551111111083
+02_skywalking,oap-server,electronic trading platform,0.0036857211111110955
+02_skywalking,oap-server,graph database,0.0037079022222222813
+02_skywalking,oap-server,data structure,0.0039426722222221655
+02_skywalking,oap-server,statistics,0.003952154444444411
+02_skywalking,oap-server,cluster analysis,0.004011306666666659
+02_skywalking,oap-server,serialization,0.0044804622222222035
+02_skywalking,oap-server,Naive Bayes classifier,0.004720576666666587
+02_skywalking,oap-server,web application,0.0047820222222221265
+02_skywalking,oap-server,facial recognition system,0.004872624444444418
+02_skywalking,oap-server,software development,0.004972308888888888
+02_skywalking,oap-server,linear algebra,0.005083852222222296
+02_skywalking,oap-server,support vector machine,0.005225001111111127
+02_skywalking,oap-server,classification,0.005241296666666673
+02_skywalking,oap-server,e-commerce,0.005648040000000021
+02_skywalking,oap-server,data visualization,0.005804497777777695
+02_skywalking,oap-server,parsing,0.005835075555555569
+02_skywalking,oap-server,user interface,0.005899786666666795
+02_skywalking,oap-server,functional programming,0.006082422222222217
+02_skywalking,oap-server,HTTP client,0.006309888888888837
+02_skywalking,oap-server,bitcoin,0.006594252222222208
+02_skywalking,oap-server,password manager,0.006618384444444403
+02_skywalking,oap-server,Bayesian inference,0.007103346666666677
+02_skywalking,oap-server,syntax highlighting,0.007205511111111174
+02_skywalking,oap-server,client,0.007229588888888916
+02_skywalking,oap-server,sorting algorithm,0.008129802222222315
+02_skywalking,oap-server,deep neural network,0.008415355555555504
+02_skywalking,oap-server,web application security,0.008432201111111204
+02_skywalking,oap-server,compiler,0.008468543333333356
+02_skywalking,oap-server,geometry,0.008575437777777806
+02_skywalking,oap-server,algorithmic trading,0.008596842222222068
+02_skywalking,oap-server,digital audio,0.008879208888888823
+02_skywalking,oap-server,digital image processing,0.009499685555555526
+02_skywalking,oap-server,information processing,0.009599395555555668
+02_skywalking,oap-server,website,0.009924391111111097
+02_skywalking,oap-server,mobile application development,0.0103580511111111
+02_skywalking,oap-server,HTTP server,0.010416122222222213
+02_skywalking,oap-server,cryptocurrency,0.010459261111111007
+02_skywalking,oap-server,finance,0.010501825555555622
+02_skywalking,oap-server,object detection,0.010568357777777704
+02_skywalking,oap-server,plot,0.010849692222222096
+02_skywalking,oap-server,logistic regression model,0.010860286666666719
+02_skywalking,oap-server,interpreter,0.010966118888888932
+02_skywalking,oap-server,lexical analysis,0.010972293333333216
+02_skywalking,oap-server,time series,0.011375268888888956
+02_skywalking,oap-server,simulation,0.011830687777777793
+02_skywalking,oap-server,web browser engine,0.011940484444444288
+02_skywalking,oap-server,semi-supervised learning,0.012129979999999985
+02_skywalking,oap-server,language model,0.012366153333333352
+02_skywalking,oap-server,software engineering,0.012602763333333433
+02_skywalking,oap-server,stream processing,0.012910038888888864
+02_skywalking,oap-server,static program analysis tool,0.013158033333333319
+02_skywalking,oap-server,computer vision,0.013162223333333278
+02_skywalking,oap-server,image classification,0.013403656666666708
+02_skywalking,oap-server,data science,0.013487585555555792
+02_skywalking,oap-server,education,0.013496960000000002
+02_skywalking,oap-server,random forest,0.013616260000000047
+02_skywalking,oap-server,web development,0.013882052222222163
+02_skywalking,oap-server,artificial neural network,0.01473236
+02_skywalking,oap-server,rendering,0.014772696666666585
+02_skywalking,oap-server,scheduler,0.014996346666666716
+02_skywalking,oap-server,Web Components,0.015270114444444483
+02_skywalking,oap-server,design,0.015284221111111107
+02_skywalking,oap-server,translation,0.015384920000000024
+02_skywalking,oap-server,Image analysis,0.01541787444444448
+02_skywalking,oap-server,web browser,0.015837933333333276
+02_skywalking,oap-server,"extract, transform, load",0.015928419999999888
+02_skywalking,oap-server,graphical user interface,0.016069274444444615
+02_skywalking,oap-server,named-entity recognition,0.016141729999999965
+02_skywalking,oap-server,code generation,0.01622014111111103
+02_skywalking,oap-server,stock market,0.017089233333333287
+02_skywalking,oap-server,mathematical optimization,0.017355769999999993
+02_skywalking,oap-server,video processing,0.017542945555555522
+02_skywalking,oap-server,content management system,0.017891529999999878
+02_skywalking,oap-server,image segmentation,0.01791036333333329
+02_skywalking,oap-server,pattern matching,0.01813258222222225
+02_skywalking,oap-server,computational science,0.018598539999999997
+02_skywalking,oap-server,data analysis,0.018641088888888935
+02_skywalking,oap-server,World Wide Web,0.01899186222222221
+02_skywalking,oap-server,text editor,0.01907784777777788
+02_skywalking,oap-server,security,0.019248138888888877
+02_skywalking,oap-server,image,0.01926600222222219
+02_skywalking,oap-server,validator,0.019595464444444433
+02_skywalking,oap-server,algorithm,0.019847388888888984
+02_skywalking,oap-server,real-time computing,0.020390766666666615
+02_skywalking,oap-server,server,0.020645722222222163
+02_skywalking,oap-server,computer data storage,0.02077635111111109
+02_skywalking,oap-server,convolutional neural network,0.021022700000000005
+02_skywalking,oap-server,natural language processing,0.02136278888888904
+02_skywalking,oap-server,computer science,0.02173996222222213
+02_skywalking,oap-server,optical character recognition,0.0217830366666667
+02_skywalking,oap-server,machine learning,0.0219904877777779
+02_skywalking,oap-server,long short-term memory,0.02204883777777783
+02_skywalking,oap-server,big data,0.022140824444444596
+02_skywalking,oap-server,face detection,0.02219184666666668
+02_skywalking,oap-server,web server,0.022310800000000075
+02_skywalking,oap-server,linear regression,0.022427938888888943
+02_skywalking,oap-server,authentication,0.02321241888888892
+02_skywalking,oap-server,artificial intelligence,0.023215764444444342
+02_skywalking,oap-server,chatbot,0.023611855555555672
+02_skywalking,oap-server,object-oriented programming,0.023737589999999975
+02_skywalking,oap-server,sentiment analysis,0.024110083333333365
+02_skywalking,oap-server,mathematical finance,0.024321528888888888
+02_skywalking,oap-server,home automation,0.02438577555555549
+02_skywalking,oap-server,search,0.02451643333333342
+02_skywalking,oap-server,recommender system,0.024958965555555546
+02_skywalking,oap-server,text mining,0.025985649999999805
+02_skywalking,oap-server,data,0.025989249999999964
+02_skywalking,oap-server,web scraping,0.026606795555555618
+02_skywalking,oap-server,information retrieval,0.026615014444444474
+02_skywalking,oap-server,computer programming,0.02664032999999999
+02_skywalking,oap-server,encryption,0.02668815111111128
+02_skywalking,oap-server,Parser combinator,0.026783768888888893
+02_skywalking,oap-server,distributed computing,0.027331587777777777
+02_skywalking,oap-server,natural language,0.027545655555555548
+02_skywalking,oap-server,word embedding,0.027591056666666725
+02_skywalking,oap-server,Semantic Web,0.027639955555555595
+02_skywalking,oap-server,image recognition,0.02788671999999992
+02_skywalking,oap-server,Kalman filter,0.028161880000000084
+02_skywalking,oap-server,distributed database,0.02838741333333339
+02_skywalking,oap-server,natural language understanding,0.028675551111110975
+02_skywalking,oap-server,game,0.028702776666666707
+02_skywalking,oap-server,distributed system,0.028982838888888973
+02_skywalking,oap-server,business dashboard,0.02914554555555554
+02_skywalking,oap-server,automated machine learning,0.029849728888888816
+02_skywalking,oap-server,blockchain,0.030000057777777756
+02_skywalking,oap-server,database,0.030226861111111225
+02_skywalking,oap-server,game server,0.031378296666666805
+02_skywalking,oap-server,audio signal processing,0.03186966555555548
+02_skywalking,oap-server,hyperparameter optimization,0.03192503000000002
+02_skywalking,oap-server,computer configuration,0.03201277111111128
+02_skywalking,oap-server,text classification,0.03339797222222213
+02_skywalking,oap-server,streaming media,0.0340001244444445
+02_skywalking,oap-server,cryptography,0.034029194444444466
+02_skywalking,oap-server,geographic information system,0.03427059444444441
+02_skywalking,oap-server,digital security,0.03452757555555552
+02_skywalking,oap-server,regression analysis,0.03520084000000001
+02_skywalking,oap-server,social network,0.035210692222222395
+02_skywalking,oap-server,embedded system,0.0352128988888889
+02_skywalking,oap-server,command-line interface,0.036643821111111086
+02_skywalking,oap-server,cloud computing,0.03678345777777792
+02_skywalking,oap-server,web crawler,0.03733895555555544
+02_skywalking,oap-server,web service,0.03740404000000008
+02_skywalking,oap-server,middleware,0.037913849999999916
+02_skywalking,oap-server,signal processing,0.03924674555555552
+02_skywalking,oap-server,database management,0.03976507555555564
+02_skywalking,oap-server,automation,0.039837133333333274
+02_skywalking,oap-server,analytics,0.0401838911111112
+02_skywalking,oap-server,microservices,0.04072903333333333
+02_skywalking,oap-server,synchronization,0.04099818222222229
+02_skywalking,oap-server,distributed multimedia communications platform,0.041723216666666674
+02_skywalking,oap-server,graph algorithm,0.04314440777777773
+02_skywalking,oap-server,static site generator,0.043300767777777804
+02_skywalking,oap-server,shell tool,0.043782265555555644
+02_skywalking,oap-server,data compression,0.043876535555555485
+02_skywalking,oap-server,operating system,0.044156890000000004
+02_skywalking,oap-server,virtual machine,0.04538200888888888
+02_skywalking,oap-server,network analysis,0.04658308666666672
+02_skywalking,oap-server,DevOps,0.04728684444444459
+02_skywalking,oap-server,machine translation,0.047316562222222136
+02_skywalking,oap-server,continuous deployment,0.04827737222222228
+02_skywalking,oap-server,internet of things,0.04905688111111112
+02_skywalking,oap-server,neural machine translation,0.049836638888888896
+02_skywalking,oap-server,software testing,0.05088320333333324
+02_skywalking,oap-server,data binding,0.05113382777777786
+02_skywalking,oap-server,internet bot,0.05151205666666675
+02_skywalking,oap-server,dependency injection,0.05206147333333344
+02_skywalking,oap-server,anomaly detection,0.0526802122222223
+02_skywalking,oap-server,Reverse engineering,0.052930738888888884
+02_skywalking,oap-server,text processing,0.053855651111111125
+02_skywalking,oap-server,debugging,0.05468087444444447
+02_skywalking,oap-server,WebSocket,0.05516969777777769
+02_skywalking,oap-server,back end,0.05602969111111111
+02_skywalking,oap-server,continuous integration,0.05814515222222216
+02_skywalking,oap-server,network security,0.05850488111111107
+02_skywalking,oap-server,banking industry,0.05875687333333329
+02_skywalking,oap-server,application performance management,0.059365547777777805
+02_skywalking,oap-server,telecommunications network,0.06007423666666678
+02_skywalking,oap-server,test automation,0.060103256666666716
+02_skywalking,oap-server,instant messaging,0.06313348555555542
+02_skywalking,oap-server,benchmark,0.06319660222222212
+02_skywalking,oap-server,backup,0.0670561155555554
+02_skywalking,oap-server,malware,0.06736968333333343
+02_skywalking,oap-server,Malware Analysis,0.06790165888888883
+02_skywalking,oap-server,file system,0.06942722333333345
+02_skywalking,oap-server,penetration test,0.07146591444444444
+02_skywalking,oap-server,object–relational mapping,0.07742557666666655
+02_skywalking,oap-server,package management system,0.07903495333333332
+02_skywalking,oap-server,schema migration,0.08585432222222233
+02_skywalking,oap-server,File Transfer Protocol,0.08730152111111122
+02_skywalking,oap-server,network monitoring,0.1075187299999999
+02_skywalking,oap-server,logging,0.11193284000000003
+02_skywalking,oap-server,email,0.18014808111111114

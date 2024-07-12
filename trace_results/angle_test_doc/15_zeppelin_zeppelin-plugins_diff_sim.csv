@@ -1,0 +1,96 @@
+project_name,module,domain,diff_sim
+15_zeppelin,zeppelin-plugins,pattern matching,7.295513888888605e-05
+15_zeppelin,zeppelin-plugins,scheduler,0.0004091937499999254
+15_zeppelin,zeppelin-plugins,regular expression,0.0006009136111110869
+15_zeppelin,zeppelin-plugins,automation,0.0011790848611111238
+15_zeppelin,zeppelin-plugins,data binding,0.0022488648611111994
+15_zeppelin,zeppelin-plugins,backup,0.002370323333333313
+15_zeppelin,zeppelin-plugins,internet of things,0.0024473012500000335
+15_zeppelin,zeppelin-plugins,geographic information system,0.002466179305555538
+15_zeppelin,zeppelin-plugins,algorithm,0.002751574166666715
+15_zeppelin,zeppelin-plugins,telecommunications network,0.002828523333333388
+15_zeppelin,zeppelin-plugins,analytics,0.0029544986111110227
+15_zeppelin,zeppelin-plugins,data,0.0029760184722222305
+15_zeppelin,zeppelin-plugins,search,0.003029290416666719
+15_zeppelin,zeppelin-plugins,game engine,0.003417411666666703
+15_zeppelin,zeppelin-plugins,test automation,0.003529664444444469
+15_zeppelin,zeppelin-plugins,static program analysis,0.003869687500000163
+15_zeppelin,zeppelin-plugins,database,0.005679716527777712
+15_zeppelin,zeppelin-plugins,continuous integration,0.005711346388888816
+15_zeppelin,zeppelin-plugins,lexical analysis,0.005823173888888811
+15_zeppelin,zeppelin-plugins,penetration test,0.00596847583333332
+15_zeppelin,zeppelin-plugins,data analysis,0.006997628055555538
+15_zeppelin,zeppelin-plugins,back end,0.007194822638888876
+15_zeppelin,zeppelin-plugins,information processing,0.007344417916666679
+15_zeppelin,zeppelin-plugins,web server,0.007582833472222217
+15_zeppelin,zeppelin-plugins,unit testing,0.008147852916666698
+15_zeppelin,zeppelin-plugins,security,0.00903148749999999
+15_zeppelin,zeppelin-plugins,kernel,0.009629231805555638
+15_zeppelin,zeppelin-plugins,embedded system,0.010647359444444449
+15_zeppelin,zeppelin-plugins,sorting algorithm,0.010832330000000001
+15_zeppelin,zeppelin-plugins,encryption,0.010903538472222196
+15_zeppelin,zeppelin-plugins,interpreter,0.011814836805555506
+15_zeppelin,zeppelin-plugins,smart contract,0.01373565555555556
+15_zeppelin,zeppelin-plugins,microservices,0.013933373888888878
+15_zeppelin,zeppelin-plugins,artificial intelligence,0.01442531736111119
+15_zeppelin,zeppelin-plugins,graph database,0.014640606666666611
+15_zeppelin,zeppelin-plugins,computer data storage,0.015150742222222291
+15_zeppelin,zeppelin-plugins,language model,0.016513246805555604
+15_zeppelin,zeppelin-plugins,data structure,0.016942401250000017
+15_zeppelin,zeppelin-plugins,image compression,0.017103401666666684
+15_zeppelin,zeppelin-plugins,WebSocket,0.017258980138888824
+15_zeppelin,zeppelin-plugins,linear regression,0.017452746249999984
+15_zeppelin,zeppelin-plugins,serialization,0.017455538333333243
+15_zeppelin,zeppelin-plugins,network analysis,0.01784187027777767
+15_zeppelin,zeppelin-plugins,application performance management,0.017861572361111133
+15_zeppelin,zeppelin-plugins,Parser combinator,0.017977952361111105
+15_zeppelin,zeppelin-plugins,data compression,0.01823556625
+15_zeppelin,zeppelin-plugins,object–relational mapping,0.018543170694444444
+15_zeppelin,zeppelin-plugins,game,0.019314170972222267
+15_zeppelin,zeppelin-plugins,support vector machine,0.01986046013888887
+15_zeppelin,zeppelin-plugins,streaming media,0.019951605138888884
+15_zeppelin,zeppelin-plugins,machine learning,0.02026058833333333
+15_zeppelin,zeppelin-plugins,logging,0.02068844430555561
+15_zeppelin,zeppelin-plugins,File Transfer Protocol,0.020912246111110977
+15_zeppelin,zeppelin-plugins,static program analysis tool,0.02229308166666677
+15_zeppelin,zeppelin-plugins,command-line interface,0.02375332625000004
+15_zeppelin,zeppelin-plugins,file system,0.024090350555555473
+15_zeppelin,zeppelin-plugins,password manager,0.025590030694444377
+15_zeppelin,zeppelin-plugins,software testing,0.027231977500000115
+15_zeppelin,zeppelin-plugins,HTTP server,0.02766124347222232
+15_zeppelin,zeppelin-plugins,cloud computing,0.028673491527777872
+15_zeppelin,zeppelin-plugins,long short-term memory,0.02961345472222221
+15_zeppelin,zeppelin-plugins,synchronization,0.02982360638888898
+15_zeppelin,zeppelin-plugins,content management system,0.030242482083333355
+15_zeppelin,zeppelin-plugins,benchmark,0.03068938847222219
+15_zeppelin,zeppelin-plugins,validator,0.031153043333333297
+15_zeppelin,zeppelin-plugins,blockchain,0.03139681333333333
+15_zeppelin,zeppelin-plugins,big data,0.03431029986111106
+15_zeppelin,zeppelin-plugins,rendering,0.03489974444444449
+15_zeppelin,zeppelin-plugins,object detection,0.035034616666666685
+15_zeppelin,zeppelin-plugins,web service,0.03607334013888891
+15_zeppelin,zeppelin-plugins,text processing,0.03666492458333337
+15_zeppelin,zeppelin-plugins,computer configuration,0.03750886222222222
+15_zeppelin,zeppelin-plugins,distributed computing,0.03810431166666678
+15_zeppelin,zeppelin-plugins,static site generator,0.041032777638888795
+15_zeppelin,zeppelin-plugins,stream processing,0.04188444361111121
+15_zeppelin,zeppelin-plugins,code generation,0.042885256805555605
+15_zeppelin,zeppelin-plugins,web application security,0.043774417222222195
+15_zeppelin,zeppelin-plugins,distributed system,0.04670385069444444
+15_zeppelin,zeppelin-plugins,instant messaging,0.049803376944444366
+15_zeppelin,zeppelin-plugins,operating system,0.05037450736111104
+15_zeppelin,zeppelin-plugins,recommender system,0.05075396513888891
+15_zeppelin,zeppelin-plugins,user interface,0.05356810513888882
+15_zeppelin,zeppelin-plugins,game server,0.05368696097222231
+15_zeppelin,zeppelin-plugins,website,0.053750090694444475
+15_zeppelin,zeppelin-plugins,compiler,0.05443573902777765
+15_zeppelin,zeppelin-plugins,software development,0.061836089861111165
+15_zeppelin,zeppelin-plugins,client,0.06233558277777779
+15_zeppelin,zeppelin-plugins,server,0.06694554375000017
+15_zeppelin,zeppelin-plugins,World Wide Web,0.07004377555555552
+15_zeppelin,zeppelin-plugins,continuous delivery,0.07049440402777774
+15_zeppelin,zeppelin-plugins,graphical user interface,0.07272500041666657
+15_zeppelin,zeppelin-plugins,Web Components,0.0799033737499999
+15_zeppelin,zeppelin-plugins,web application,0.08051317500000005
+15_zeppelin,zeppelin-plugins,package management system,0.1313102086111111
+15_zeppelin,zeppelin-plugins,email,0.1664741394444445

@@ -1,0 +1,92 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-websocket,data compression,0.0006549447499999972
+08_pulsar,pulsar-websocket,data,0.0010151077500000216
+08_pulsar,pulsar-websocket,content management system,0.0013307025000000028
+08_pulsar,pulsar-websocket,game server,0.0017803494999999447
+08_pulsar,pulsar-websocket,algorithm,0.0019138532500000416
+08_pulsar,pulsar-websocket,website,0.002167296250000006
+08_pulsar,pulsar-websocket,language model,0.003386069749999998
+08_pulsar,pulsar-websocket,data structure,0.003446185749999997
+08_pulsar,pulsar-websocket,web application,0.004532633250000084
+08_pulsar,pulsar-websocket,recommender system,0.0048139682499999115
+08_pulsar,pulsar-websocket,security,0.005332081750000106
+08_pulsar,pulsar-websocket,authentication,0.005450616000000019
+08_pulsar,pulsar-websocket,distributed database,0.00549287374999996
+08_pulsar,pulsar-websocket,knowledge graph,0.005501663250000011
+08_pulsar,pulsar-websocket,application performance management,0.006373582749999995
+08_pulsar,pulsar-websocket,word embedding,0.006438751749999971
+08_pulsar,pulsar-websocket,smart contract,0.009332319749999929
+08_pulsar,pulsar-websocket,computer data storage,0.009590576000000017
+08_pulsar,pulsar-websocket,microservices,0.00971514699999998
+08_pulsar,pulsar-websocket,cloud computing,0.009873040750000006
+08_pulsar,pulsar-websocket,object detection,0.010241956249999962
+08_pulsar,pulsar-websocket,big data,0.010981628500000007
+08_pulsar,pulsar-websocket,web application security,0.01163395300000003
+08_pulsar,pulsar-websocket,test automation,0.011810180249999969
+08_pulsar,pulsar-websocket,logging,0.012938432750000062
+08_pulsar,pulsar-websocket,time series,0.013245955250000108
+08_pulsar,pulsar-websocket,analytics,0.014602465249999974
+08_pulsar,pulsar-websocket,data science,0.01818724574999997
+08_pulsar,pulsar-websocket,validator,0.019476387499999914
+08_pulsar,pulsar-websocket,object–relational mapping,0.019521434749999955
+08_pulsar,pulsar-websocket,distributed computing,0.02012910200000001
+08_pulsar,pulsar-websocket,server,0.021746279000000035
+08_pulsar,pulsar-websocket,data mining,0.022086944250000018
+08_pulsar,pulsar-websocket,serialization,0.023208190500000003
+08_pulsar,pulsar-websocket,penetration test,0.023473396749999986
+08_pulsar,pulsar-websocket,Web Components,0.02361623749999986
+08_pulsar,pulsar-websocket,data analysis,0.023702197749999876
+08_pulsar,pulsar-websocket,static program analysis,0.024960334999999945
+08_pulsar,pulsar-websocket,regular expression,0.026329344750000094
+08_pulsar,pulsar-websocket,automation,0.02712473274999999
+08_pulsar,pulsar-websocket,data binding,0.031546101999999965
+08_pulsar,pulsar-websocket,database,0.03236578600000001
+08_pulsar,pulsar-websocket,unit testing,0.03289004174999999
+08_pulsar,pulsar-websocket,command-line interface,0.03360984924999999
+08_pulsar,pulsar-websocket,user interface,0.03399724450000008
+08_pulsar,pulsar-websocket,sorting algorithm,0.03532705250000001
+08_pulsar,pulsar-websocket,web browser engine,0.03558992275000006
+08_pulsar,pulsar-websocket,Semantic Web,0.03696990100000003
+08_pulsar,pulsar-websocket,HTTP client,0.037209571
+08_pulsar,pulsar-websocket,back end,0.042822062250000015
+08_pulsar,pulsar-websocket,distributed multimedia communications platform,0.04309252874999997
+08_pulsar,pulsar-websocket,digital security,0.04498226474999989
+08_pulsar,pulsar-websocket,web browser,0.045404244750000045
+08_pulsar,pulsar-websocket,dependency injection,0.04616273625
+08_pulsar,pulsar-websocket,machine learning,0.04800834524999997
+08_pulsar,pulsar-websocket,telecommunications network,0.04833941299999989
+08_pulsar,pulsar-websocket,internet of things,0.04936878974999992
+08_pulsar,pulsar-websocket,text editor,0.04953151750000012
+08_pulsar,pulsar-websocket,File Transfer Protocol,0.050551339750000035
+08_pulsar,pulsar-websocket,data visualization,0.05059123300000007
+08_pulsar,pulsar-websocket,file system,0.051039263
+08_pulsar,pulsar-websocket,streaming media,0.052281268999999964
+08_pulsar,pulsar-websocket,web development,0.05298150699999998
+08_pulsar,pulsar-websocket,text classification,0.053769096249999926
+08_pulsar,pulsar-websocket,digital image processing,0.05396327524999989
+08_pulsar,pulsar-websocket,World Wide Web,0.05416038600000006
+08_pulsar,pulsar-websocket,middleware,0.05561731750000004
+08_pulsar,pulsar-websocket,computer configuration,0.05690001624999996
+08_pulsar,pulsar-websocket,design,0.05848507650000012
+08_pulsar,pulsar-websocket,syntax highlighting,0.06072235399999992
+08_pulsar,pulsar-websocket,Containerization,0.06156969074999985
+08_pulsar,pulsar-websocket,information extraction,0.06199510899999999
+08_pulsar,pulsar-websocket,text processing,0.063558016
+08_pulsar,pulsar-websocket,code generation,0.06485796199999994
+08_pulsar,pulsar-websocket,digital audio,0.06630882050000003
+08_pulsar,pulsar-websocket,pattern matching,0.06648174325
+08_pulsar,pulsar-websocket,web server,0.06733271475000002
+08_pulsar,pulsar-websocket,documentation,0.07036508275000003
+08_pulsar,pulsar-websocket,graphical user interface,0.07234292399999998
+08_pulsar,pulsar-websocket,web crawler,0.08846360999999997
+08_pulsar,pulsar-websocket,web service,0.08869127399999999
+08_pulsar,pulsar-websocket,web scraping,0.09132163574999991
+08_pulsar,pulsar-websocket,stream processing,0.09623524449999993
+08_pulsar,pulsar-websocket,information processing,0.10170964650000003
+08_pulsar,pulsar-websocket,operating system,0.10645542925000001
+08_pulsar,pulsar-websocket,instant messaging,0.1068411514999999
+08_pulsar,pulsar-websocket,package management system,0.11194945224999997
+08_pulsar,pulsar-websocket,HTTP server,0.11343774800000006
+08_pulsar,pulsar-websocket,WebSocket,0.11706335125
+08_pulsar,pulsar-websocket,client,0.11844841950000007
+08_pulsar,pulsar-websocket,software testing,0.12150533775

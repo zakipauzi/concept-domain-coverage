@@ -1,0 +1,121 @@
+project_name,module,domain,diff_sim
+04_rocketmq,proxy,sentiment analysis,8.099375000003572e-05
+04_rocketmq,proxy,algorithm,0.00014159375000000196
+04_rocketmq,proxy,static program analysis tool,0.00021465749999993733
+04_rocketmq,proxy,web crawler,0.0003167024999998769
+04_rocketmq,proxy,object detection,0.000352739999999907
+04_rocketmq,proxy,middleware,0.00045568000000006936
+04_rocketmq,proxy,authentication,0.0005540725000000024
+04_rocketmq,proxy,database,0.0009063024999999558
+04_rocketmq,proxy,data,0.0011376949999999941
+04_rocketmq,proxy,neural machine translation,0.0014444787499999778
+04_rocketmq,proxy,static site generator,0.0017516087500000221
+04_rocketmq,proxy,sorting algorithm,0.0018438587499999826
+04_rocketmq,proxy,analytics,0.0029887212499999927
+04_rocketmq,proxy,recommender system,0.0031445287500000974
+04_rocketmq,proxy,information extraction,0.003159672500000099
+04_rocketmq,proxy,automation,0.0031689012500000224
+04_rocketmq,proxy,Web Components,0.0034667637499999904
+04_rocketmq,proxy,compiler,0.00366762625
+04_rocketmq,proxy,front end,0.0037224499999999883
+04_rocketmq,proxy,back end,0.004018507499999879
+04_rocketmq,proxy,code generation,0.004193918749999914
+04_rocketmq,proxy,network monitoring,0.004411227500000114
+04_rocketmq,proxy,data mining,0.0046957049999999945
+04_rocketmq,proxy,natural language processing,0.004876306250000018
+04_rocketmq,proxy,blockchain,0.0049439012499999935
+04_rocketmq,proxy,benchmark,0.0055003849999999965
+04_rocketmq,proxy,World Wide Web,0.005987201250000018
+04_rocketmq,proxy,instant messaging,0.006030124999999997
+04_rocketmq,proxy,support vector machine,0.006105744999999996
+04_rocketmq,proxy,language model,0.006355434999999909
+04_rocketmq,proxy,web service,0.006461902499999894
+04_rocketmq,proxy,machine learning,0.006879061250000096
+04_rocketmq,proxy,big data,0.008240673749999983
+04_rocketmq,proxy,dependency injection,0.008319201249999963
+04_rocketmq,proxy,web scraping,0.008333386250000019
+04_rocketmq,proxy,text processing,0.008631882500000077
+04_rocketmq,proxy,penetration test,0.009262447500000104
+04_rocketmq,proxy,time series,0.009509596249999919
+04_rocketmq,proxy,user interface,0.010020746250000157
+04_rocketmq,proxy,image segmentation,0.010021076249999983
+04_rocketmq,proxy,machine translation,0.010800802499999984
+04_rocketmq,proxy,software testing,0.011815611250000024
+04_rocketmq,proxy,information retrieval,0.012825196250000004
+04_rocketmq,proxy,stock market,0.013439963750000006
+04_rocketmq,proxy,scheduler,0.013463522499999936
+04_rocketmq,proxy,HTTP server,0.013882944999999869
+04_rocketmq,proxy,geographic information system,0.015034535000000016
+04_rocketmq,proxy,anomaly detection,0.015258492499999998
+04_rocketmq,proxy,network security,0.015876193750000045
+04_rocketmq,proxy,search,0.016920738749999997
+04_rocketmq,proxy,data analysis,0.016964618749999938
+04_rocketmq,proxy,regular expression,0.017214229999999997
+04_rocketmq,proxy,virtual reality,0.01743088625
+04_rocketmq,proxy,bitcoin,0.01780240124999999
+04_rocketmq,proxy,information processing,0.018646124999999958
+04_rocketmq,proxy,synchronization,0.018751775000000026
+04_rocketmq,proxy,security,0.019763787499999907
+04_rocketmq,proxy,File Transfer Protocol,0.020920738750000112
+04_rocketmq,proxy,static program analysis,0.021473938750000032
+04_rocketmq,proxy,website,0.02151381625000004
+04_rocketmq,proxy,Semantic Web,0.021996717500000096
+04_rocketmq,proxy,network analysis,0.02214842625000002
+04_rocketmq,proxy,linear regression,0.02266744000000004
+04_rocketmq,proxy,pattern matching,0.022726491250000036
+04_rocketmq,proxy,game server,0.023396588749999947
+04_rocketmq,proxy,test automation,0.02377285625000003
+04_rocketmq,proxy,signal processing,0.02411088374999998
+04_rocketmq,proxy,WebSocket,0.024196140000000033
+04_rocketmq,proxy,audio signal processing,0.024807682499999983
+04_rocketmq,proxy,web browser engine,0.026008218750000034
+04_rocketmq,proxy,data structure,0.026138565000000002
+04_rocketmq,proxy,distributed system,0.027999228749999938
+04_rocketmq,proxy,data visualization,0.028352570000000077
+04_rocketmq,proxy,reactive programming,0.028461857499999965
+04_rocketmq,proxy,web browser,0.02998301625000005
+04_rocketmq,proxy,microservices,0.029985684999999984
+04_rocketmq,proxy,graph database,0.031459697499999995
+04_rocketmq,proxy,router,0.03180139500000012
+04_rocketmq,proxy,application performance management,0.03187993999999994
+04_rocketmq,proxy,HTTP client,0.03284311375000004
+04_rocketmq,proxy,internet bot,0.03299133624999995
+04_rocketmq,proxy,embedded system,0.03358567500000004
+04_rocketmq,proxy,graphical user interface,0.03393699500000008
+04_rocketmq,proxy,serialization,0.034356466249999995
+04_rocketmq,proxy,cryptography,0.03523223374999995
+04_rocketmq,proxy,backup,0.035366303750000105
+04_rocketmq,proxy,email,0.03539739499999989
+04_rocketmq,proxy,distributed computing,0.03548577375000006
+04_rocketmq,proxy,telecommunications network,0.0369154075
+04_rocketmq,proxy,Bayesian inference,0.03716498625000003
+04_rocketmq,proxy,long short-term memory,0.03744650125000004
+04_rocketmq,proxy,continuous integration,0.037579513749999904
+04_rocketmq,proxy,password manager,0.037669288749999974
+04_rocketmq,proxy,data compression,0.037871006250000006
+04_rocketmq,proxy,server,0.04012226625000004
+04_rocketmq,proxy,web development,0.04093355375000002
+04_rocketmq,proxy,content management system,0.04296352874999998
+04_rocketmq,proxy,knowledge graph,0.04551135875000001
+04_rocketmq,proxy,logging,0.04675935500000011
+04_rocketmq,proxy,data binding,0.04805913875000012
+04_rocketmq,proxy,Parser combinator,0.04906578249999999
+04_rocketmq,proxy,object–relational mapping,0.049670691249999954
+04_rocketmq,proxy,client,0.05123404875000004
+04_rocketmq,proxy,web application security,0.05412267625
+04_rocketmq,proxy,smart contract,0.05586304624999994
+04_rocketmq,proxy,computer data storage,0.05838796875000002
+04_rocketmq,proxy,unit testing,0.05990974500000007
+04_rocketmq,proxy,web server,0.06107401000000001
+04_rocketmq,proxy,encryption,0.06269164500000002
+04_rocketmq,proxy,web application,0.06335424124999989
+04_rocketmq,proxy,command-line interface,0.06504743250000011
+04_rocketmq,proxy,cloud computing,0.06655990875000001
+04_rocketmq,proxy,validator,0.06790404875000017
+04_rocketmq,proxy,computer configuration,0.06993905750000001
+04_rocketmq,proxy,shell tool,0.07002256499999998
+04_rocketmq,proxy,operating system,0.07104015874999997
+04_rocketmq,proxy,stream processing,0.0722243924999999
+04_rocketmq,proxy,package management system,0.0737793925000001
+04_rocketmq,proxy,streaming media,0.07756500249999998
+04_rocketmq,proxy,file system,0.08963558500000002

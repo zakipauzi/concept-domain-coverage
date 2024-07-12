@@ -1,0 +1,129 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-registry,router,0.00032821754482048604
+01_dubbo,dubbo-registry,regular expression,0.00047872413726968155
+01_dubbo,dubbo-registry,object–relational mapping,0.0018954746434909353
+01_dubbo,dubbo-registry,encryption,0.002433040386552676
+01_dubbo,dubbo-registry,serialization,0.002731368944310475
+01_dubbo,dubbo-registry,long short-term memory,0.004522008496884888
+01_dubbo,dubbo-registry,scheduler,0.007269159038072348
+01_dubbo,dubbo-registry,deep neural network,0.007592814891197341
+01_dubbo,dubbo-registry,information processing,0.009681412847269755
+01_dubbo,dubbo-registry,pattern matching,0.00968804757379449
+01_dubbo,dubbo-registry,password manager,0.00980003219217429
+01_dubbo,dubbo-registry,telecommunications network,0.011368510502019702
+01_dubbo,dubbo-registry,geographic information system,0.011397440350596422
+01_dubbo,dubbo-registry,network security,0.011801376712280098
+01_dubbo,dubbo-registry,data binding,0.012416536319917348
+01_dubbo,dubbo-registry,object detection,0.012747492756277845
+01_dubbo,dubbo-registry,digital audio,0.013306166011459841
+01_dubbo,dubbo-registry,natural language,0.013329556223105832
+01_dubbo,dubbo-registry,File Transfer Protocol,0.014336080542877161
+01_dubbo,dubbo-registry,artificial neural network,0.014536961432962126
+01_dubbo,dubbo-registry,word embedding,0.014859490688605703
+01_dubbo,dubbo-registry,digital security,0.015520567673686259
+01_dubbo,dubbo-registry,streaming media,0.016034309229238985
+01_dubbo,dubbo-registry,instant messaging,0.01626758359502334
+01_dubbo,dubbo-registry,web crawler,0.016279816054325935
+01_dubbo,dubbo-registry,hyperparameter optimization,0.01632596409995546
+01_dubbo,dubbo-registry,validator,0.016452328781305536
+01_dubbo,dubbo-registry,schema migration,0.01646792679171516
+01_dubbo,dubbo-registry,malware,0.016771546264749526
+01_dubbo,dubbo-registry,data compression,0.01687829077488745
+01_dubbo,dubbo-registry,distributed system,0.017282652514154284
+01_dubbo,dubbo-registry,topic modeling,0.01838131943980803
+01_dubbo,dubbo-registry,distributed database,0.018660261660444988
+01_dubbo,dubbo-registry,deep learning,0.018812883956511595
+01_dubbo,dubbo-registry,embedded system,0.018822562146114885
+01_dubbo,dubbo-registry,distributed multimedia communications platform,0.018916051142313206
+01_dubbo,dubbo-registry,signal processing,0.0196248387665221
+01_dubbo,dubbo-registry,anomaly detection,0.01968443494898464
+01_dubbo,dubbo-registry,HTTP client,0.019830354209975254
+01_dubbo,dubbo-registry,middleware,0.020073621802246033
+01_dubbo,dubbo-registry,big data,0.020615921364207423
+01_dubbo,dubbo-registry,data,0.0217583832752688
+01_dubbo,dubbo-registry,web browser,0.021925771555507456
+01_dubbo,dubbo-registry,"extract, transform, load",0.02274122632220399
+01_dubbo,dubbo-registry,computer data storage,0.02403774104554135
+01_dubbo,dubbo-registry,text classification,0.02419618231249343
+01_dubbo,dubbo-registry,World Wide Web,0.024312535628303378
+01_dubbo,dubbo-registry,language model,0.024963356611230614
+01_dubbo,dubbo-registry,audio signal processing,0.02532131225998402
+01_dubbo,dubbo-registry,algorithmic trading,0.026043369308777264
+01_dubbo,dubbo-registry,time series,0.026496992146607612
+01_dubbo,dubbo-registry,dependency injection,0.02679665688038657
+01_dubbo,dubbo-registry,linear regression,0.02734003788736017
+01_dubbo,dubbo-registry,logging,0.02841410214940021
+01_dubbo,dubbo-registry,HTTP server,0.028552711557846666
+01_dubbo,dubbo-registry,e-commerce,0.02856164319298027
+01_dubbo,dubbo-registry,server,0.029031923188273634
+01_dubbo,dubbo-registry,blockchain,0.02904564064862969
+01_dubbo,dubbo-registry,distributed computing,0.029151426021864935
+01_dubbo,dubbo-registry,education,0.02985732876370273
+01_dubbo,dubbo-registry,web server,0.029919637540467003
+01_dubbo,dubbo-registry,backup,0.030568094016849345
+01_dubbo,dubbo-registry,file system,0.030578092052193973
+01_dubbo,dubbo-registry,digital image processing,0.030673811129601325
+01_dubbo,dubbo-registry,data structure,0.030758707951860753
+01_dubbo,dubbo-registry,web browser engine,0.031173017762899935
+01_dubbo,dubbo-registry,algorithm,0.031213509096135073
+01_dubbo,dubbo-registry,microservices,0.031318587396772735
+01_dubbo,dubbo-registry,automation,0.03184382059401769
+01_dubbo,dubbo-registry,application performance management,0.031930118672908736
+01_dubbo,dubbo-registry,benchmark,0.032502294072515925
+01_dubbo,dubbo-registry,cloud computing,0.032642502631976655
+01_dubbo,dubbo-registry,web application,0.03264610178705385
+01_dubbo,dubbo-registry,database management,0.03269962742256549
+01_dubbo,dubbo-registry,mathematics,0.032982394681084326
+01_dubbo,dubbo-registry,database,0.03310965244671937
+01_dubbo,dubbo-registry,home automation,0.03312177713216724
+01_dubbo,dubbo-registry,web application security,0.03336233467171179
+01_dubbo,dubbo-registry,electronic trading platform,0.03338675106423994
+01_dubbo,dubbo-registry,Malware Analysis,0.034111010098233585
+01_dubbo,dubbo-registry,sorting algorithm,0.034706481744912976
+01_dubbo,dubbo-registry,security,0.03483802809146608
+01_dubbo,dubbo-registry,computer configuration,0.035373792753140565
+01_dubbo,dubbo-registry,text processing,0.035694196397008215
+01_dubbo,dubbo-registry,web service,0.035927522046463545
+01_dubbo,dubbo-registry,back end,0.03699884318501989
+01_dubbo,dubbo-registry,analytics,0.037995987758475014
+01_dubbo,dubbo-registry,penetration test,0.03801196130590778
+01_dubbo,dubbo-registry,stock market,0.03900476769604233
+01_dubbo,dubbo-registry,client,0.03901477913710838
+01_dubbo,dubbo-registry,cryptocurrency,0.039632764428312095
+01_dubbo,dubbo-registry,operating system,0.03998047556259299
+01_dubbo,dubbo-registry,data science,0.04005171606387059
+01_dubbo,dubbo-registry,website,0.04077323657227505
+01_dubbo,dubbo-registry,semi-supervised learning,0.04114869816483324
+01_dubbo,dubbo-registry,machine learning,0.04151799650101218
+01_dubbo,dubbo-registry,plot,0.041523538961037554
+01_dubbo,dubbo-registry,continuous integration,0.04188412821618481
+01_dubbo,dubbo-registry,functional programming,0.04213062414233282
+01_dubbo,dubbo-registry,debugging,0.04263542375947005
+01_dubbo,dubbo-registry,question answering,0.044242625965185245
+01_dubbo,dubbo-registry,user interface,0.044518677112298954
+01_dubbo,dubbo-registry,computational science,0.04493487141051988
+01_dubbo,dubbo-registry,compiler,0.045256016294405677
+01_dubbo,dubbo-registry,game server,0.046802655723964026
+01_dubbo,dubbo-registry,data analysis,0.0472190806868138
+01_dubbo,dubbo-registry,design,0.047929678514525786
+01_dubbo,dubbo-registry,web scraping,0.04809797297699214
+01_dubbo,dubbo-registry,static program analysis,0.04918090564997768
+01_dubbo,dubbo-registry,Web Components,0.0505858675197296
+01_dubbo,dubbo-registry,recommender system,0.05069951820687446
+01_dubbo,dubbo-registry,mobile application development,0.05074835982284531
+01_dubbo,dubbo-registry,content management system,0.053233755580654574
+01_dubbo,dubbo-registry,test automation,0.05332602332588965
+01_dubbo,dubbo-registry,code generation,0.05337952049114736
+01_dubbo,dubbo-registry,smart contract,0.053804558013326065
+01_dubbo,dubbo-registry,support vector machine,0.054927579738091814
+01_dubbo,dubbo-registry,static program analysis tool,0.05539438520838602
+01_dubbo,dubbo-registry,command-line interface,0.055554946390716564
+01_dubbo,dubbo-registry,integrated development environment,0.05710211793912989
+01_dubbo,dubbo-registry,graphical user interface,0.05951429975550504
+01_dubbo,dubbo-registry,unit testing,0.061144087269301206
+01_dubbo,dubbo-registry,game engine,0.061351116185832444
+01_dubbo,dubbo-registry,package management system,0.06139621300592746
+01_dubbo,dubbo-registry,documentation,0.06527042541496952
+01_dubbo,dubbo-registry,web development,0.07322747377075978
+01_dubbo,dubbo-registry,static site generator,0.07483043351672414
+01_dubbo,dubbo-registry,software testing,0.08337915952542951

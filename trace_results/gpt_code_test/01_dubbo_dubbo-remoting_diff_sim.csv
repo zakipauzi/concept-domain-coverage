@@ -1,0 +1,141 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-remoting,data,5.1796383378932553e-05
+01_dubbo,dubbo-remoting,middleware,6.930440999119991e-05
+01_dubbo,dubbo-remoting,time series,0.00010773233597316523
+01_dubbo,dubbo-remoting,embedded system,0.00012667834897406305
+01_dubbo,dubbo-remoting,network monitoring,0.00021610724151555072
+01_dubbo,dubbo-remoting,3D computer graphics,0.00021639277336760188
+01_dubbo,dubbo-remoting,software development,0.0002210026822290212
+01_dubbo,dubbo-remoting,backup,0.00029819345283976784
+01_dubbo,dubbo-remoting,validator,0.0003001385574220583
+01_dubbo,dubbo-remoting,image,0.00030063140211067374
+01_dubbo,dubbo-remoting,regression analysis,0.0003473923689538694
+01_dubbo,dubbo-remoting,password manager,0.00035921874153233
+01_dubbo,dubbo-remoting,content management system,0.00036266195228440434
+01_dubbo,dubbo-remoting,server,0.00043295143433963457
+01_dubbo,dubbo-remoting,file system,0.00047961971926524516
+01_dubbo,dubbo-remoting,network security,0.000547803844501038
+01_dubbo,dubbo-remoting,network analysis,0.0005639778513821803
+01_dubbo,dubbo-remoting,kernel,0.0006302621212155302
+01_dubbo,dubbo-remoting,security,0.0006344495969208275
+01_dubbo,dubbo-remoting,logging,0.0006776806380418554
+01_dubbo,dubbo-remoting,front end,0.000702854681136289
+01_dubbo,dubbo-remoting,geographic information system,0.0008004216145521825
+01_dubbo,dubbo-remoting,HTTP server,0.0009145908543188863
+01_dubbo,dubbo-remoting,plot,0.0009234310959769232
+01_dubbo,dubbo-remoting,digital image processing,0.000925558529281556
+01_dubbo,dubbo-remoting,object detection,0.0009559663084240944
+01_dubbo,dubbo-remoting,algorithm,0.0010075967054659074
+01_dubbo,dubbo-remoting,computer data storage,0.0010855691319839877
+01_dubbo,dubbo-remoting,scheduler,0.001100250289124749
+01_dubbo,dubbo-remoting,graphical user interface,0.0011656949399632133
+01_dubbo,dubbo-remoting,artificial intelligence,0.0011678361014493266
+01_dubbo,dubbo-remoting,mobile application development,0.001219562110578054
+01_dubbo,dubbo-remoting,topic modeling,0.0012573261234233302
+01_dubbo,dubbo-remoting,Image analysis,0.0012997492112141185
+01_dubbo,dubbo-remoting,pattern matching,0.0013305126986158378
+01_dubbo,dubbo-remoting,search,0.0013308702531292793
+01_dubbo,dubbo-remoting,static program analysis,0.001499997804864539
+01_dubbo,dubbo-remoting,data analysis,0.0015405584181535925
+01_dubbo,dubbo-remoting,translation,0.0015424876519668507
+01_dubbo,dubbo-remoting,instant messaging,0.0015546141449237494
+01_dubbo,dubbo-remoting,web application security,0.0015709773246513903
+01_dubbo,dubbo-remoting,image segmentation,0.0016873760690008233
+01_dubbo,dubbo-remoting,Web Components,0.0017281583714923165
+01_dubbo,dubbo-remoting,stock market,0.0017413442793710043
+01_dubbo,dubbo-remoting,recommender system,0.0017759049154064677
+01_dubbo,dubbo-remoting,computer graphics,0.0017972210696542978
+01_dubbo,dubbo-remoting,linear algebra,0.0020433988773702616
+01_dubbo,dubbo-remoting,email,0.002066701482871025
+01_dubbo,dubbo-remoting,static program analysis tool,0.0020673847820812385
+01_dubbo,dubbo-remoting,statistics,0.0020749264066247664
+01_dubbo,dubbo-remoting,cloud computing,0.002083068116266684
+01_dubbo,dubbo-remoting,text processing,0.0021616623319596906
+01_dubbo,dubbo-remoting,web browser,0.002163904224841473
+01_dubbo,dubbo-remoting,distributed computing,0.0021706408497058627
+01_dubbo,dubbo-remoting,data visualization,0.0021770590405484347
+01_dubbo,dubbo-remoting,reactive programming,0.0021784413099260602
+01_dubbo,dubbo-remoting,back end,0.00219354647689618
+01_dubbo,dubbo-remoting,face detection,0.0022030176429232995
+01_dubbo,dubbo-remoting,benchmark,0.002236448987172457
+01_dubbo,dubbo-remoting,text classification,0.002322492668686005
+01_dubbo,dubbo-remoting,computer vision,0.002336647852885232
+01_dubbo,dubbo-remoting,WebSocket,0.0023504655341458625
+01_dubbo,dubbo-remoting,linear regression,0.002384736247431296
+01_dubbo,dubbo-remoting,website,0.002385686341124238
+01_dubbo,dubbo-remoting,text mining,0.002400678953842661
+01_dubbo,dubbo-remoting,web application,0.0024210611603128207
+01_dubbo,dubbo-remoting,code generation,0.0024762179838518916
+01_dubbo,dubbo-remoting,cryptocurrency,0.002498656242982622
+01_dubbo,dubbo-remoting,web crawler,0.0025663221999348007
+01_dubbo,dubbo-remoting,internet bot,0.002904405378670649
+01_dubbo,dubbo-remoting,operating system,0.0029284252764514296
+01_dubbo,dubbo-remoting,computer configuration,0.0029939011702528884
+01_dubbo,dubbo-remoting,web server,0.0030415819876991046
+01_dubbo,dubbo-remoting,information retrieval,0.003043697022030223
+01_dubbo,dubbo-remoting,long short-term memory,0.0030550800569230097
+01_dubbo,dubbo-remoting,stream processing,0.003104303314461432
+01_dubbo,dubbo-remoting,compiler,0.003110652551864934
+01_dubbo,dubbo-remoting,artificial neural network,0.003145611038487872
+01_dubbo,dubbo-remoting,HTTP client,0.003207932346075748
+01_dubbo,dubbo-remoting,analytics,0.0032215980613619077
+01_dubbo,dubbo-remoting,smart contract,0.0032660722905825113
+01_dubbo,dubbo-remoting,information processing,0.003269802233186181
+01_dubbo,dubbo-remoting,distributed system,0.0033325901477827546
+01_dubbo,dubbo-remoting,graph database,0.0033641870541050167
+01_dubbo,dubbo-remoting,search engine,0.0034161020566145783
+01_dubbo,dubbo-remoting,application performance management,0.003420226070437904
+01_dubbo,dubbo-remoting,router,0.0034950662709775093
+01_dubbo,dubbo-remoting,sentiment analysis,0.0034955373409343293
+01_dubbo,dubbo-remoting,sorting algorithm,0.003503897693350244
+01_dubbo,dubbo-remoting,computational science,0.003544933372317871
+01_dubbo,dubbo-remoting,regular expression,0.0035719728562875197
+01_dubbo,dubbo-remoting,user interface,0.0037660399886464413
+01_dubbo,dubbo-remoting,language model,0.003774539596899662
+01_dubbo,dubbo-remoting,syntax highlighting,0.0037823660824298777
+01_dubbo,dubbo-remoting,blockchain,0.0038013796747902173
+01_dubbo,dubbo-remoting,encryption,0.0038199768672927403
+01_dubbo,dubbo-remoting,image recognition,0.0039114107043213275
+01_dubbo,dubbo-remoting,web browser engine,0.003971958011309229
+01_dubbo,dubbo-remoting,support vector machine,0.004103987028181488
+01_dubbo,dubbo-remoting,client,0.004134932531649982
+01_dubbo,dubbo-remoting,web scraping,0.004301494517645055
+01_dubbo,dubbo-remoting,automation,0.004309277420385338
+01_dubbo,dubbo-remoting,signal processing,0.004369766715578871
+01_dubbo,dubbo-remoting,package management system,0.004385457583514163
+01_dubbo,dubbo-remoting,database,0.004515154820751488
+01_dubbo,dubbo-remoting,machine learning,0.0045830010531605625
+01_dubbo,dubbo-remoting,microservices,0.004608348748726621
+01_dubbo,dubbo-remoting,big data,0.004688344248111931
+01_dubbo,dubbo-remoting,facial recognition system,0.00485572818015223
+01_dubbo,dubbo-remoting,web service,0.005126362288846775
+01_dubbo,dubbo-remoting,convolutional neural network,0.005320514269530285
+01_dubbo,dubbo-remoting,data structure,0.005499638498064341
+01_dubbo,dubbo-remoting,3D modeling,0.005593257159623777
+01_dubbo,dubbo-remoting,game server,0.005685234040680998
+01_dubbo,dubbo-remoting,command-line interface,0.005803503360654272
+01_dubbo,dubbo-remoting,natural language,0.006037091640257897
+01_dubbo,dubbo-remoting,object–relational mapping,0.006200342949638227
+01_dubbo,dubbo-remoting,World Wide Web,0.006372569336948408
+01_dubbo,dubbo-remoting,deep learning,0.006513277032818454
+01_dubbo,dubbo-remoting,authentication,0.006551639242959317
+01_dubbo,dubbo-remoting,mathematics,0.006618722538100252
+01_dubbo,dubbo-remoting,natural language processing,0.006810252660313987
+01_dubbo,dubbo-remoting,serialization,0.007238347136950041
+01_dubbo,dubbo-remoting,distributed multimedia communications platform,0.007308439297272984
+01_dubbo,dubbo-remoting,image compression,0.007423841865978553
+01_dubbo,dubbo-remoting,unit testing,0.007445169990384248
+01_dubbo,dubbo-remoting,game engine,0.007556057928988724
+01_dubbo,dubbo-remoting,streaming media,0.00785233171058497
+01_dubbo,dubbo-remoting,penetration test,0.008370803099761015
+01_dubbo,dubbo-remoting,dependency injection,0.008413839241662613
+01_dubbo,dubbo-remoting,software testing,0.008420615434651002
+01_dubbo,dubbo-remoting,data binding,0.008542763983181545
+01_dubbo,dubbo-remoting,data compression,0.008614273345774581
+01_dubbo,dubbo-remoting,data science,0.008736938681967121
+01_dubbo,dubbo-remoting,deep neural network,0.008755637694762508
+01_dubbo,dubbo-remoting,audio signal processing,0.008808813752937628
+01_dubbo,dubbo-remoting,test automation,0.008841631142200934
+01_dubbo,dubbo-remoting,optical character recognition,0.010192520188913146
+01_dubbo,dubbo-remoting,telecommunications network,0.01173477808362866
+01_dubbo,dubbo-remoting,File Transfer Protocol,0.014338469471393944

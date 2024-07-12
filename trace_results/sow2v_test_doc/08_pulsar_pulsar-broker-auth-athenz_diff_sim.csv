@@ -1,0 +1,10 @@
+project_name,module,domain,diff_sim
+08_pulsar,pulsar-broker-auth-athenz,microservices,0.037005621999999905
+08_pulsar,pulsar-broker-auth-athenz,client,0.042364347999999996
+08_pulsar,pulsar-broker-auth-athenz,server,0.0656401820000001
+08_pulsar,pulsar-broker-auth-athenz,design,0.11536477400000011
+08_pulsar,pulsar-broker-auth-athenz,analytics,0.145352716
+08_pulsar,pulsar-broker-auth-athenz,website,0.15575888800000007
+08_pulsar,pulsar-broker-auth-athenz,logging,0.182579458
+08_pulsar,pulsar-broker-auth-athenz,security,0.18930498599999995
+08_pulsar,pulsar-broker-auth-athenz,authentication,0.522820306

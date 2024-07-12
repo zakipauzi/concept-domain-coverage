@@ -1,0 +1,145 @@
+project_name,module,domain,diff_sim
+01_dubbo,dubbo-plugin,data binding,0.00030463540548686385
+01_dubbo,dubbo-plugin,topic modeling,0.0013560041435851655
+01_dubbo,dubbo-plugin,pattern matching,0.0021985416436677285
+01_dubbo,dubbo-plugin,regular expression,0.0022529166740193896
+01_dubbo,dubbo-plugin,validator,0.002303764079877535
+01_dubbo,dubbo-plugin,facial recognition system,0.0025032891349070496
+01_dubbo,dubbo-plugin,natural language processing,0.0029785154870989317
+01_dubbo,dubbo-plugin,instant messaging,0.0032904663137016676
+01_dubbo,dubbo-plugin,authentication,0.003333170914771477
+01_dubbo,dubbo-plugin,interpreter,0.003379097875038539
+01_dubbo,dubbo-plugin,middleware,0.003976941572489845
+01_dubbo,dubbo-plugin,telecommunications network,0.00400842955244296
+01_dubbo,dubbo-plugin,deep neural network,0.004387508024622622
+01_dubbo,dubbo-plugin,object detection,0.004463503428185467
+01_dubbo,dubbo-plugin,embedded system,0.004808323655848934
+01_dubbo,dubbo-plugin,signal processing,0.005041758683428821
+01_dubbo,dubbo-plugin,WebSocket,0.005150987941340834
+01_dubbo,dubbo-plugin,scheduler,0.005245288122232683
+01_dubbo,dubbo-plugin,File Transfer Protocol,0.005320937511459345
+01_dubbo,dubbo-plugin,network security,0.005324105961334036
+01_dubbo,dubbo-plugin,distributed multimedia communications platform,0.005916994676441578
+01_dubbo,dubbo-plugin,image recognition,0.006002702161142737
+01_dubbo,dubbo-plugin,streaming media,0.006433516818552976
+01_dubbo,dubbo-plugin,serialization,0.006612442237780791
+01_dubbo,dubbo-plugin,stream processing,0.00677967992849382
+01_dubbo,dubbo-plugin,information processing,0.0068772251502204895
+01_dubbo,dubbo-plugin,web browser,0.007076918890714046
+01_dubbo,dubbo-plugin,cryptography,0.007083055357303802
+01_dubbo,dubbo-plugin,HTTP client,0.007099349320286552
+01_dubbo,dubbo-plugin,encryption,0.007382029601451068
+01_dubbo,dubbo-plugin,artificial neural network,0.007621197870741225
+01_dubbo,dubbo-plugin,named-entity recognition,0.007627006955215898
+01_dubbo,dubbo-plugin,data compression,0.008605537662282225
+01_dubbo,dubbo-plugin,information retrieval,0.009045303923245207
+01_dubbo,dubbo-plugin,password manager,0.009554859027984808
+01_dubbo,dubbo-plugin,distributed system,0.009579762678227133
+01_dubbo,dubbo-plugin,synchronization,0.009772470662991695
+01_dubbo,dubbo-plugin,router,0.009854784683838602
+01_dubbo,dubbo-plugin,Semantic Web,0.010137940502283671
+01_dubbo,dubbo-plugin,object–relational mapping,0.01016010489616992
+01_dubbo,dubbo-plugin,web crawler,0.010974043042971893
+01_dubbo,dubbo-plugin,face detection,0.011989013026865725
+01_dubbo,dubbo-plugin,word embedding,0.012232568830277568
+01_dubbo,dubbo-plugin,dependency injection,0.012536468364591657
+01_dubbo,dubbo-plugin,language model,0.012899000321723753
+01_dubbo,dubbo-plugin,penetration test,0.012998460238644372
+01_dubbo,dubbo-plugin,data,0.013666290034299422
+01_dubbo,dubbo-plugin,internet of things,0.014227017969485112
+01_dubbo,dubbo-plugin,translation,0.014490692818781015
+01_dubbo,dubbo-plugin,deep learning,0.014540643741566606
+01_dubbo,dubbo-plugin,reactive programming,0.01461469367506274
+01_dubbo,dubbo-plugin,audio signal processing,0.014635000322051672
+01_dubbo,dubbo-plugin,digital security,0.015127571021463782
+01_dubbo,dubbo-plugin,network analysis,0.015186534801951534
+01_dubbo,dubbo-plugin,text classification,0.015328887258826307
+01_dubbo,dubbo-plugin,blockchain,0.015595809650704617
+01_dubbo,dubbo-plugin,continuous delivery,0.015613771750509375
+01_dubbo,dubbo-plugin,distributed database,0.015694320659136007
+01_dubbo,dubbo-plugin,web browser engine,0.01582206012293308
+01_dubbo,dubbo-plugin,HTTP server,0.015908538787605675
+01_dubbo,dubbo-plugin,internet bot,0.01596351788704009
+01_dubbo,dubbo-plugin,benchmark,0.017691087172800324
+01_dubbo,dubbo-plugin,3D modeling,0.018185305982371447
+01_dubbo,dubbo-plugin,electronic trading platform,0.018592830695239537
+01_dubbo,dubbo-plugin,data structure,0.01893325269400159
+01_dubbo,dubbo-plugin,linear algebra,0.019340796476647992
+01_dubbo,dubbo-plugin,algorithmic trading,0.021321068930153952
+01_dubbo,dubbo-plugin,server,0.021554400058138468
+01_dubbo,dubbo-plugin,World Wide Web,0.021732785003196087
+01_dubbo,dubbo-plugin,front end,0.022022973239292698
+01_dubbo,dubbo-plugin,web server,0.02203565159734089
+01_dubbo,dubbo-plugin,image segmentation,0.02212220413416277
+01_dubbo,dubbo-plugin,back end,0.022757290518515938
+01_dubbo,dubbo-plugin,computer vision,0.022958170178045467
+01_dubbo,dubbo-plugin,distributed computing,0.023184271618768237
+01_dubbo,dubbo-plugin,web application security,0.02364860936962343
+01_dubbo,dubbo-plugin,web application,0.024237263192248615
+01_dubbo,dubbo-plugin,automation,0.024510128432023492
+01_dubbo,dubbo-plugin,shell tool,0.024544397164958598
+01_dubbo,dubbo-plugin,security,0.024861935436062743
+01_dubbo,dubbo-plugin,big data,0.0249059473827018
+01_dubbo,dubbo-plugin,3D computer graphics,0.025529319936960393
+01_dubbo,dubbo-plugin,computer data storage,0.025659086661229735
+01_dubbo,dubbo-plugin,file system,0.02568021960435707
+01_dubbo,dubbo-plugin,logging,0.02629188252539505
+01_dubbo,dubbo-plugin,linear regression,0.026354973305707352
+01_dubbo,dubbo-plugin,e-commerce,0.027538680707103413
+01_dubbo,dubbo-plugin,algorithm,0.027664347276594503
+01_dubbo,dubbo-plugin,text processing,0.027858379536536915
+01_dubbo,dubbo-plugin,backup,0.028017000633671074
+01_dubbo,dubbo-plugin,database,0.028251460421405028
+01_dubbo,dubbo-plugin,education,0.028777524987495084
+01_dubbo,dubbo-plugin,client,0.028998505808801034
+01_dubbo,dubbo-plugin,compiler,0.029062873229551922
+01_dubbo,dubbo-plugin,computer configuration,0.029359561886213248
+01_dubbo,dubbo-plugin,text mining,0.02946853733976673
+01_dubbo,dubbo-plugin,image,0.029948904809112165
+01_dubbo,dubbo-plugin,operating system,0.029975913900131768
+01_dubbo,dubbo-plugin,cloud computing,0.03046468203227004
+01_dubbo,dubbo-plugin,sorting algorithm,0.030566664736410454
+01_dubbo,dubbo-plugin,cryptocurrency,0.03093328266612627
+01_dubbo,dubbo-plugin,database management,0.03141049321598621
+01_dubbo,dubbo-plugin,user interface,0.03147965841967726
+01_dubbo,dubbo-plugin,command-line interface,0.03164492706020827
+01_dubbo,dubbo-plugin,continuous integration,0.03282829205569504
+01_dubbo,dubbo-plugin,machine learning,0.032920443529394494
+01_dubbo,dubbo-plugin,static program analysis,0.03311022201769276
+01_dubbo,dubbo-plugin,geographic information system,0.033187456036275154
+01_dubbo,dubbo-plugin,microservices,0.03470967268737346
+01_dubbo,dubbo-plugin,Malware Analysis,0.034888530528696116
+01_dubbo,dubbo-plugin,sentiment analysis,0.035562758017646745
+01_dubbo,dubbo-plugin,application performance management,0.03568947935106637
+01_dubbo,dubbo-plugin,stock market,0.03571519011476787
+01_dubbo,dubbo-plugin,plot,0.03613997717127582
+01_dubbo,dubbo-plugin,analytics,0.03706645445561374
+01_dubbo,dubbo-plugin,content management system,0.03719794083664518
+01_dubbo,dubbo-plugin,computational science,0.03726626332906113
+01_dubbo,dubbo-plugin,web service,0.037272358294229924
+01_dubbo,dubbo-plugin,banking industry,0.03727287715470318
+01_dubbo,dubbo-plugin,game server,0.03766324052447323
+01_dubbo,dubbo-plugin,graph algorithm,0.03766841196514037
+01_dubbo,dubbo-plugin,recommender system,0.038036159971993944
+01_dubbo,dubbo-plugin,code generation,0.03869821737195789
+01_dubbo,dubbo-plugin,static program analysis tool,0.03964181933193256
+01_dubbo,dubbo-plugin,graphical user interface,0.03964795484503547
+01_dubbo,dubbo-plugin,text editor,0.040298718048515036
+01_dubbo,dubbo-plugin,Web Components,0.04039317922285468
+01_dubbo,dubbo-plugin,mobile application development,0.04072361740239394
+01_dubbo,dubbo-plugin,data science,0.04083731454223061
+01_dubbo,dubbo-plugin,game engine,0.04134592639757462
+01_dubbo,dubbo-plugin,website,0.0418433483910694
+01_dubbo,dubbo-plugin,smart contract,0.041966588527808435
+01_dubbo,dubbo-plugin,search,0.042555604100733335
+01_dubbo,dubbo-plugin,email,0.043106643885669205
+01_dubbo,dubbo-plugin,graph database,0.04391025442985308
+01_dubbo,dubbo-plugin,support vector machine,0.04656039156473968
+01_dubbo,dubbo-plugin,business dashboard,0.046994971260514884
+01_dubbo,dubbo-plugin,test automation,0.04946015985488106
+01_dubbo,dubbo-plugin,package management system,0.04972805347350684
+01_dubbo,dubbo-plugin,unit testing,0.05044913218042424
+01_dubbo,dubbo-plugin,documentation,0.05991210913912348
+01_dubbo,dubbo-plugin,static site generator,0.061210358076104754
+01_dubbo,dubbo-plugin,software development,0.06802500123109545
+01_dubbo,dubbo-plugin,software testing,0.07555387726104601

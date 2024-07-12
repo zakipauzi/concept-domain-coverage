@@ -1,0 +1,209 @@
+project_name,module,domain,diff_sim
+03_flink,flink-core,logging,2.078054740439761e-05
+03_flink,flink-core,recommender system,0.0001478207392811015
+03_flink,flink-core,translation,0.00017972670088262088
+03_flink,flink-core,Semantic Web,0.00021246525764107016
+03_flink,flink-core,web browser engine,0.0003346577850508181
+03_flink,flink-core,synchronization,0.0003400097545150915
+03_flink,flink-core,image recognition,0.00040361327632676414
+03_flink,flink-core,HTTP server,0.0006797058444391046
+03_flink,flink-core,embedded system,0.0007116964976237039
+03_flink,flink-core,Web Components,0.0008779773752762843
+03_flink,flink-core,face detection,0.001020645369624873
+03_flink,flink-core,HTTP client,0.0011872603061362508
+03_flink,flink-core,content management system,0.0013031975841990562
+03_flink,flink-core,simulation,0.0013792797755997066
+03_flink,flink-core,web crawler,0.0014453490207555486
+03_flink,flink-core,linear regression,0.0014848782058329846
+03_flink,flink-core,plot,0.001518062802308373
+03_flink,flink-core,Q-learning,0.0016412674208909905
+03_flink,flink-core,design,0.0017290989891388664
+03_flink,flink-core,geometry,0.0017966346233735386
+03_flink,flink-core,anomaly detection,0.00183975534445735
+03_flink,flink-core,knowledge graph,0.0020786979231636193
+03_flink,flink-core,logistic regression model,0.002131441198369166
+03_flink,flink-core,World Wide Web,0.0025179890846671604
+03_flink,flink-core,big data,0.0027870700764274225
+03_flink,flink-core,email,0.0027890894496238605
+03_flink,flink-core,image classification,0.0028027428680562627
+03_flink,flink-core,convolutional neural network,0.0028482253195835083
+03_flink,flink-core,stock market,0.003028388230573942
+03_flink,flink-core,server,0.003193621473456032
+03_flink,flink-core,user interface,0.0032789476991784694
+03_flink,flink-core,search,0.0033252538855458313
+03_flink,flink-core,data mining,0.003439385125374894
+03_flink,flink-core,deep neural network,0.0035553835101794773
+03_flink,flink-core,scheduler,0.003673475950933369
+03_flink,flink-core,e-commerce,0.003859016344666677
+03_flink,flink-core,question answering,0.004117481975120407
+03_flink,flink-core,cryptography,0.004246786471441832
+03_flink,flink-core,debugger,0.00449809678163926
+03_flink,flink-core,middleware,0.004508270949679649
+03_flink,flink-core,information retrieval,0.004688896104140694
+03_flink,flink-core,digital audio,0.0050422498720629205
+03_flink,flink-core,Kalman filter,0.005064770597102419
+03_flink,flink-core,web server,0.005188896910158003
+03_flink,flink-core,network analysis,0.005309414173435223
+03_flink,flink-core,image captioning,0.005443260522844606
+03_flink,flink-core,penetration test,0.005560554628136871
+03_flink,flink-core,computer data storage,0.005562147769612835
+03_flink,flink-core,security,0.005571861154475166
+03_flink,flink-core,information extraction,0.005744991164521762
+03_flink,flink-core,audio player software,0.005790187065791708
+03_flink,flink-core,topic modeling,0.005846201398151618
+03_flink,flink-core,WebSocket,0.006452493981538021
+03_flink,flink-core,Image analysis,0.006557114129619235
+03_flink,flink-core,benchmark,0.0065626281515371865
+03_flink,flink-core,cryptocurrency,0.006593123153547431
+03_flink,flink-core,database management,0.006699034220833955
+03_flink,flink-core,backup,0.006733385930754343
+03_flink,flink-core,graph algorithm,0.006806000158936398
+03_flink,flink-core,sequencing,0.006857303871696252
+03_flink,flink-core,facial recognition system,0.006883671187746798
+03_flink,flink-core,deep learning,0.006981997658307204
+03_flink,flink-core,front end,0.007039379036445137
+03_flink,flink-core,digital image processing,0.0071411744980250935
+03_flink,flink-core,reinforcement learning,0.007178590585227851
+03_flink,flink-core,image segmentation,0.00726535563148889
+03_flink,flink-core,operating system,0.00739869009832872
+03_flink,flink-core,stream processing,0.007503602068778759
+03_flink,flink-core,website,0.007632178939475653
+03_flink,flink-core,object detection,0.0077667378671001375
+03_flink,flink-core,data visualization,0.007822499021680751
+03_flink,flink-core,client,0.007853382966074851
+03_flink,flink-core,smart contract,0.007881110961364235
+03_flink,flink-core,graph database,0.007906047994702847
+03_flink,flink-core,audio signal processing,0.008043173576782636
+03_flink,flink-core,time series,0.00805475786840626
+03_flink,flink-core,distributed computing,0.008081665907542335
+03_flink,flink-core,computer vision,0.008091764275370616
+03_flink,flink-core,data binding,0.008487736830296355
+03_flink,flink-core,natural language understanding,0.008593138740166095
+03_flink,flink-core,distributed system,0.008884548739301557
+03_flink,flink-core,Parser combinator,0.009075192438205981
+03_flink,flink-core,dependency injection,0.00909170811439175
+03_flink,flink-core,internet bot,0.00911116846339799
+03_flink,flink-core,distributed multimedia communications platform,0.009297438219217247
+03_flink,flink-core,streaming media,0.009411295049229995
+03_flink,flink-core,database,0.009596153850827127
+03_flink,flink-core,password manager,0.009649195639652053
+03_flink,flink-core,signal processing,0.009929127488500389
+03_flink,flink-core,image editing,0.010004592806372337
+03_flink,flink-core,file system,0.010341054441528552
+03_flink,flink-core,named-entity recognition,0.010375476650078097
+03_flink,flink-core,natural language,0.010426464619245124
+03_flink,flink-core,game server,0.010503226378266617
+03_flink,flink-core,information processing,0.010552414063179083
+03_flink,flink-core,virtual reality,0.01058967600295102
+03_flink,flink-core,Reverse engineering,0.010914200929767137
+03_flink,flink-core,random forest,0.010918006591621121
+03_flink,flink-core,pattern matching,0.011070294897662758
+03_flink,flink-core,web browser,0.011272701818844655
+03_flink,flink-core,optical character recognition,0.011295333791814799
+03_flink,flink-core,artificial neural network,0.01139104147450809
+03_flink,flink-core,interpreter,0.011604603176115225
+03_flink,flink-core,"extract, transform, load",0.01165741551287447
+03_flink,flink-core,computer graphics,0.011715908828162425
+03_flink,flink-core,text classification,0.011762480520716712
+03_flink,flink-core,computational biology,0.011797450460091397
+03_flink,flink-core,malware,0.011821455920289048
+03_flink,flink-core,kernel,0.01183484760654785
+03_flink,flink-core,data structure,0.01183574812108612
+03_flink,flink-core,regular expression,0.011838625201235464
+03_flink,flink-core,network security,0.011839524676906743
+03_flink,flink-core,text mining,0.011907675000315532
+03_flink,flink-core,cloud computing,0.011937258256141114
+03_flink,flink-core,shell tool,0.011993169710488694
+03_flink,flink-core,automation,0.012084778518966277
+03_flink,flink-core,geographic information system,0.01216023563891655
+03_flink,flink-core,image compression,0.01222096471064471
+03_flink,flink-core,image,0.012309579928975523
+03_flink,flink-core,data,0.012760527081773443
+03_flink,flink-core,long short-term memory,0.01311737448207495
+03_flink,flink-core,telecommunications network,0.013215771754952144
+03_flink,flink-core,sorting algorithm,0.013327655753347267
+03_flink,flink-core,electronic trading platform,0.013327802977667003
+03_flink,flink-core,algorithm,0.013379994620991709
+03_flink,flink-core,authentication,0.013383742960213052
+03_flink,flink-core,graphical user interface,0.013399704904039078
+03_flink,flink-core,validator,0.013646882405815353
+03_flink,flink-core,computer configuration,0.01365700732227959
+03_flink,flink-core,genetic algorithm,0.01375885919926223
+03_flink,flink-core,word embedding,0.013803747778039499
+03_flink,flink-core,virtual machine,0.01416778088667825
+03_flink,flink-core,serialization,0.014579529214370224
+03_flink,flink-core,documentation,0.014684206390358834
+03_flink,flink-core,Malware Analysis,0.01472244374268561
+03_flink,flink-core,RNA sequencing,0.014730466807404419
+03_flink,flink-core,data analysis,0.014830257352431264
+03_flink,flink-core,cluster analysis,0.015172043731760176
+03_flink,flink-core,3D computer graphics,0.015284081442101138
+03_flink,flink-core,social network,0.015509583033201602
+03_flink,flink-core,File Transfer Protocol,0.015558514753764685
+03_flink,flink-core,quantum computer,0.015693503876501813
+03_flink,flink-core,instant messaging,0.015775062133513207
+03_flink,flink-core,linear algebra,0.01603477485430338
+03_flink,flink-core,geographic information,0.016428018619772056
+03_flink,flink-core,schema migration,0.01645068524008364
+03_flink,flink-core,regression analysis,0.01646368379686136
+03_flink,flink-core,distributed database,0.01656643088846288
+03_flink,flink-core,parsing,0.016600962036992017
+03_flink,flink-core,data science,0.016850558191147336
+03_flink,flink-core,machine translation,0.017116449046582827
+03_flink,flink-core,digital security,0.017187747000759312
+03_flink,flink-core,data compression,0.017257087355711853
+03_flink,flink-core,mathematical optimization,0.01728551069182982
+03_flink,flink-core,web service,0.01846707816791049
+03_flink,flink-core,encryption,0.01872615395055577
+03_flink,flink-core,back end,0.01895937747336085
+03_flink,flink-core,finance,0.019736254919199836
+03_flink,flink-core,banking industry,0.019984066156744862
+03_flink,flink-core,router,0.020028789355960197
+03_flink,flink-core,software design pattern,0.020228868090496732
+03_flink,flink-core,genomics,0.02026972959885509
+03_flink,flink-core,text editor,0.02041802427204098
+03_flink,flink-core,language model,0.021019579118029208
+03_flink,flink-core,compiler,0.021573436231963283
+03_flink,flink-core,natural language processing,0.02160034061523597
+03_flink,flink-core,algorithmic trading,0.02192124230180137
+03_flink,flink-core,blockchain,0.022330444628752888
+03_flink,flink-core,analytics,0.022442012677375778
+03_flink,flink-core,sentiment analysis,0.02260145214848952
+03_flink,flink-core,static site generator,0.022819994895681983
+03_flink,flink-core,neural machine translation,0.02294384452398479
+03_flink,flink-core,semi-supervised learning,0.02339214844719406
+03_flink,flink-core,application performance management,0.023560911734276324
+03_flink,flink-core,speech synthesis,0.023616885058004078
+03_flink,flink-core,continuous deployment,0.023871935299758396
+03_flink,flink-core,mathematics,0.024290748931413808
+03_flink,flink-core,web application security,0.024313464565631326
+03_flink,flink-core,mathematical finance,0.024468790738136792
+03_flink,flink-core,web application,0.02488444311801119
+03_flink,flink-core,artificial intelligence,0.025268251820412813
+03_flink,flink-core,game engine,0.025284052238424892
+03_flink,flink-core,unit testing,0.0252905645334508
+03_flink,flink-core,continuous integration,0.025351881377675856
+03_flink,flink-core,command-line interface,0.02537761084578949
+03_flink,flink-core,web scraping,0.025463420089449906
+03_flink,flink-core,object–relational mapping,0.025954402850796532
+03_flink,flink-core,test automation,0.026678440529235292
+03_flink,flink-core,text processing,0.026958815145961434
+03_flink,flink-core,machine learning,0.027207550672550762
+03_flink,flink-core,microservices,0.029275943812529293
+03_flink,flink-core,DevOps,0.0294629042709188
+03_flink,flink-core,code generation,0.029729441948554425
+03_flink,flink-core,mobile application development,0.03232616265439647
+03_flink,flink-core,web development,0.032647771131408154
+03_flink,flink-core,support vector machine,0.0328848654923215
+03_flink,flink-core,computational science,0.03433650335545457
+03_flink,flink-core,functional programming,0.034483938268461856
+03_flink,flink-core,computer science,0.037799720282447935
+03_flink,flink-core,computer programming,0.04070381758900754
+03_flink,flink-core,static program analysis,0.04275416891604422
+03_flink,flink-core,software engineering,0.04527889956209041
+03_flink,flink-core,software testing,0.045677071961682025
+03_flink,flink-core,software development,0.04814547577258754
+03_flink,flink-core,static program analysis tool,0.04976311187588367
+03_flink,flink-core,syntax highlighting,0.05294439367900228
+03_flink,flink-core,package management system,0.058782472389828255
+03_flink,flink-core,integrated development environment,0.062400632165485304

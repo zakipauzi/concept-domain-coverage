@@ -1,0 +1,219 @@
+project_name,module,domain,diff_sim
+06_hadoop,hadoop-tools,graph database,0.0009819422222223095
+06_hadoop,hadoop-tools,encryption,0.001218977222222195
+06_hadoop,hadoop-tools,syntax highlighting,0.0015796594444444922
+06_hadoop,hadoop-tools,backup,0.001650598333333364
+06_hadoop,hadoop-tools,translation,0.0018506638888887705
+06_hadoop,hadoop-tools,distributed computing,0.0020507311111110926
+06_hadoop,hadoop-tools,software engineering,0.00206666111111109
+06_hadoop,hadoop-tools,scheduler,0.002107891111111093
+06_hadoop,hadoop-tools,Parser combinator,0.0028987027777778174
+06_hadoop,hadoop-tools,cryptography,0.0029551783333332526
+06_hadoop,hadoop-tools,automation,0.0033727322222222855
+06_hadoop,hadoop-tools,digital security,0.0034507461111110693
+06_hadoop,hadoop-tools,documentation,0.003665579999999946
+06_hadoop,hadoop-tools,middleware,0.004348554999999976
+06_hadoop,hadoop-tools,language model,0.004494015000000073
+06_hadoop,hadoop-tools,telecommunications network,0.004657013333333293
+06_hadoop,hadoop-tools,continuous integration,0.004931330000000067
+06_hadoop,hadoop-tools,distributed database,0.005579233333333433
+06_hadoop,hadoop-tools,statistics,0.005591664444444477
+06_hadoop,hadoop-tools,artificial neural network,0.005679137777777732
+06_hadoop,hadoop-tools,reinforcement learning,0.005779850555555577
+06_hadoop,hadoop-tools,cluster analysis,0.00633549777777781
+06_hadoop,hadoop-tools,mobile application development,0.006373047222222206
+06_hadoop,hadoop-tools,software development,0.006918928888888898
+06_hadoop,hadoop-tools,genetic algorithm,0.00800175555555549
+06_hadoop,hadoop-tools,software architecture,0.008399756666666702
+06_hadoop,hadoop-tools,functional programming,0.009686552777777913
+06_hadoop,hadoop-tools,sentiment analysis,0.010045220555555512
+06_hadoop,hadoop-tools,data,0.010127957777777752
+06_hadoop,hadoop-tools,machine learning,0.010189363333333423
+06_hadoop,hadoop-tools,content management system,0.010276096111111133
+06_hadoop,hadoop-tools,engineering,0.010400247222222325
+06_hadoop,hadoop-tools,logging,0.01062968722222224
+06_hadoop,hadoop-tools,artificial intelligence,0.010657942777777762
+06_hadoop,hadoop-tools,web application security,0.010733904444444498
+06_hadoop,hadoop-tools,reactive programming,0.01086001944444448
+06_hadoop,hadoop-tools,image segmentation,0.010940188333333267
+06_hadoop,hadoop-tools,object–relational mapping,0.011013147222222186
+06_hadoop,hadoop-tools,client,0.011049943888888969
+06_hadoop,hadoop-tools,cloud computing,0.011231824999999973
+06_hadoop,hadoop-tools,natural language understanding,0.011292127222222281
+06_hadoop,hadoop-tools,natural language processing,0.011506187222222297
+06_hadoop,hadoop-tools,classification,0.01198365666666662
+06_hadoop,hadoop-tools,bioinformatics,0.01272705944444441
+06_hadoop,hadoop-tools,hacking tool,0.013843722222222299
+06_hadoop,hadoop-tools,operating system,0.01389006888888894
+06_hadoop,hadoop-tools,email,0.01434042555555548
+06_hadoop,hadoop-tools,named-entity recognition,0.015102860555555597
+06_hadoop,hadoop-tools,static site generator,0.015469562222222288
+06_hadoop,hadoop-tools,machine translation,0.015549515000000014
+06_hadoop,hadoop-tools,knowledge graph,0.015590523333333384
+06_hadoop,hadoop-tools,embedded system,0.015955933888888774
+06_hadoop,hadoop-tools,Naive Bayes classifier,0.016183975555555508
+06_hadoop,hadoop-tools,geographic information system,0.01627957666666674
+06_hadoop,hadoop-tools,object-oriented programming,0.016326316666666618
+06_hadoop,hadoop-tools,server,0.01634378499999989
+06_hadoop,hadoop-tools,code generation,0.016582175555555412
+06_hadoop,hadoop-tools,virtual machine,0.016718158888888834
+06_hadoop,hadoop-tools,computer data storage,0.017833554444444455
+06_hadoop,hadoop-tools,support vector machine,0.01784282277777771
+06_hadoop,hadoop-tools,facial recognition system,0.018274328333333312
+06_hadoop,hadoop-tools,automated machine learning,0.018615880555555464
+06_hadoop,hadoop-tools,penetration test,0.018819599999999992
+06_hadoop,hadoop-tools,banking industry,0.018830148333333296
+06_hadoop,hadoop-tools,genomics,0.01972827444444447
+06_hadoop,hadoop-tools,database,0.01979152999999989
+06_hadoop,hadoop-tools,font,0.020052646111111183
+06_hadoop,hadoop-tools,microservices,0.02043212944444439
+06_hadoop,hadoop-tools,graph algorithm,0.020800730555555536
+06_hadoop,hadoop-tools,random forest,0.021760981111111244
+06_hadoop,hadoop-tools,anomaly detection,0.022168193333333364
+06_hadoop,hadoop-tools,image editing,0.022384478888888837
+06_hadoop,hadoop-tools,dependency injection,0.022404761666666717
+06_hadoop,hadoop-tools,data mining,0.023135888888888956
+06_hadoop,hadoop-tools,integrated development environment,0.023152697777777786
+06_hadoop,hadoop-tools,electronic trading platform,0.02339745222222217
+06_hadoop,hadoop-tools,application performance management,0.02373484722222241
+06_hadoop,hadoop-tools,computer programming,0.0237760955555556
+06_hadoop,hadoop-tools,network monitoring,0.023838751666666713
+06_hadoop,hadoop-tools,hyperparameter optimization,0.023913395555555605
+06_hadoop,hadoop-tools,interpreter,0.024027873333333394
+06_hadoop,hadoop-tools,text classification,0.02410827833333329
+06_hadoop,hadoop-tools,smart contract,0.024992729444444584
+06_hadoop,hadoop-tools,distributed system,0.02566473777777778
+06_hadoop,hadoop-tools,kernel,0.02579561722222229
+06_hadoop,hadoop-tools,data analysis,0.02587214833333351
+06_hadoop,hadoop-tools,word embedding,0.026112503333333315
+06_hadoop,hadoop-tools,data binding,0.02647388944444451
+06_hadoop,hadoop-tools,blockchain,0.026962221111111073
+06_hadoop,hadoop-tools,text mining,0.027094491111111063
+06_hadoop,hadoop-tools,game server,0.027779893333333416
+06_hadoop,hadoop-tools,big data,0.02806551722222228
+06_hadoop,hadoop-tools,data structure,0.028092400555555563
+06_hadoop,hadoop-tools,validator,0.028231443888888874
+06_hadoop,hadoop-tools,neural network,0.028973416666666696
+06_hadoop,hadoop-tools,search,0.029175699999999916
+06_hadoop,hadoop-tools,data science,0.029923064444444425
+06_hadoop,hadoop-tools,stock market,0.029958086111111115
+06_hadoop,hadoop-tools,pattern matching,0.030282314444444514
+06_hadoop,hadoop-tools,text processing,0.031040467222222257
+06_hadoop,hadoop-tools,compiler,0.0310590188888889
+06_hadoop,hadoop-tools,authentication,0.03141447333333336
+06_hadoop,hadoop-tools,File Transfer Protocol,0.03144510999999994
+06_hadoop,hadoop-tools,analytics,0.031477794999999975
+06_hadoop,hadoop-tools,computer benchmarking,0.031616948888888774
+06_hadoop,hadoop-tools,software testing,0.031650826111111086
+06_hadoop,hadoop-tools,time series,0.0317696922222222
+06_hadoop,hadoop-tools,digital image processing,0.0320284388888889
+06_hadoop,hadoop-tools,logistic regression model,0.032060627222222304
+06_hadoop,hadoop-tools,security,0.03219126444444431
+06_hadoop,hadoop-tools,static program analysis,0.032237810555555635
+06_hadoop,hadoop-tools,computational science,0.032255604444444474
+06_hadoop,hadoop-tools,serialization,0.03230606388888896
+06_hadoop,hadoop-tools,long short-term memory,0.03294742722222216
+06_hadoop,hadoop-tools,Containerization,0.032971359444444515
+06_hadoop,hadoop-tools,optical character recognition,0.03353865277777779
+06_hadoop,hadoop-tools,convolutional neural network,0.03365903888888888
+06_hadoop,hadoop-tools,3D modeling,0.033904086111111065
+06_hadoop,hadoop-tools,instant messaging,0.034165956666666775
+06_hadoop,hadoop-tools,evolutionary algorithm,0.03419234999999998
+06_hadoop,hadoop-tools,internet of things,0.03431120833333329
+06_hadoop,hadoop-tools,unit testing,0.03470973666666671
+06_hadoop,hadoop-tools,Semantic Web,0.03533025944444451
+06_hadoop,hadoop-tools,static program analysis tool,0.03566849166666669
+06_hadoop,hadoop-tools,computer science,0.036000378333333194
+06_hadoop,hadoop-tools,network analysis,0.03643250055555558
+06_hadoop,hadoop-tools,software design pattern,0.0364598794444444
+06_hadoop,hadoop-tools,serverless computing,0.037980465000000074
+06_hadoop,hadoop-tools,mathematical optimization,0.03838129777777782
+06_hadoop,hadoop-tools,linear regression,0.0386099955555555
+06_hadoop,hadoop-tools,image recognition,0.0389769422222222
+06_hadoop,hadoop-tools,web service,0.039212121666666655
+06_hadoop,hadoop-tools,Q-learning,0.03975316166666659
+06_hadoop,hadoop-tools,database management,0.040628347222222194
+06_hadoop,hadoop-tools,linear algebra,0.040802408888888975
+06_hadoop,hadoop-tools,signal processing,0.04177224722222217
+06_hadoop,hadoop-tools,speech synthesis,0.04283588999999993
+06_hadoop,hadoop-tools,RNA sequencing,0.04339267777777778
+06_hadoop,hadoop-tools,regression analysis,0.0439273705555554
+06_hadoop,hadoop-tools,simulation,0.043986237222222224
+06_hadoop,hadoop-tools,image captioning,0.044669737777777774
+06_hadoop,hadoop-tools,image,0.04494251722222237
+06_hadoop,hadoop-tools,deep neural network,0.0450721294444445
+06_hadoop,hadoop-tools,network security,0.045094159999999994
+06_hadoop,hadoop-tools,Kalman filter,0.04531513166666662
+06_hadoop,hadoop-tools,package management system,0.045336136111111036
+06_hadoop,hadoop-tools,Malware Analysis,0.04588260833333335
+06_hadoop,hadoop-tools,user interface,0.04604260277777794
+06_hadoop,hadoop-tools,mathematics,0.04699862777777769
+06_hadoop,hadoop-tools,information processing,0.04742117944444446
+06_hadoop,hadoop-tools,graphical user interface,0.04749364611111112
+06_hadoop,hadoop-tools,debugging,0.048103246111111164
+06_hadoop,hadoop-tools,question answering,0.04845655388888881
+06_hadoop,hadoop-tools,HTTP server,0.04882681111111098
+06_hadoop,hadoop-tools,malware,0.04890771277777789
+06_hadoop,hadoop-tools,back end,0.04922572444444451
+06_hadoop,hadoop-tools,DevOps,0.05007246666666665
+06_hadoop,hadoop-tools,deep learning,0.050161876111111114
+06_hadoop,hadoop-tools,business dashboard,0.050253611111111096
+06_hadoop,hadoop-tools,sorting algorithm,0.05093919999999991
+06_hadoop,hadoop-tools,sequencing,0.05141388277777781
+06_hadoop,hadoop-tools,stream processing,0.0514314577777778
+06_hadoop,hadoop-tools,"extract, transform, load",0.051693665555555546
+06_hadoop,hadoop-tools,game,0.0517049472222223
+06_hadoop,hadoop-tools,computer configuration,0.05170991055555563
+06_hadoop,hadoop-tools,benchmark,0.05182524944444439
+06_hadoop,hadoop-tools,HTTP client,0.052877335000000025
+06_hadoop,hadoop-tools,text editor,0.05375406055555554
+06_hadoop,hadoop-tools,computer vision,0.054057362777777784
+06_hadoop,hadoop-tools,data compression,0.054529124444444466
+06_hadoop,hadoop-tools,information retrieval,0.05487802666666669
+06_hadoop,hadoop-tools,synchronization,0.054972529444444584
+06_hadoop,hadoop-tools,3D computer graphics,0.05568571222222213
+06_hadoop,hadoop-tools,topic modeling,0.0564553438888889
+06_hadoop,hadoop-tools,Image analysis,0.057816521111111074
+06_hadoop,hadoop-tools,plot,0.05807079777777774
+06_hadoop,hadoop-tools,audio signal processing,0.05874738555555559
+06_hadoop,hadoop-tools,computer graphics,0.05889499222222233
+06_hadoop,hadoop-tools,object detection,0.05912651333333341
+06_hadoop,hadoop-tools,distributed multimedia communications platform,0.059289956111110986
+06_hadoop,hadoop-tools,algorithm,0.06040380000000012
+06_hadoop,hadoop-tools,command-line interface,0.06057158055555556
+06_hadoop,hadoop-tools,web development,0.06112849388888897
+06_hadoop,hadoop-tools,social network,0.061242776111111064
+06_hadoop,hadoop-tools,regular expression,0.06253977333333327
+06_hadoop,hadoop-tools,front end,0.06345643833333353
+06_hadoop,hadoop-tools,debugger,0.0639368199999999
+06_hadoop,hadoop-tools,web server,0.06637735388888899
+06_hadoop,hadoop-tools,test automation,0.0688293049999999
+06_hadoop,hadoop-tools,continuous deployment,0.06883378333333329
+06_hadoop,hadoop-tools,shell tool,0.06977369333333333
+06_hadoop,hadoop-tools,data visualization,0.0704970338888889
+06_hadoop,hadoop-tools,web application,0.07059059000000001
+06_hadoop,hadoop-tools,game engine,0.07213497222222215
+06_hadoop,hadoop-tools,rendering,0.07300896555555553
+06_hadoop,hadoop-tools,face detection,0.07584145111111107
+06_hadoop,hadoop-tools,recommender system,0.07715690277777781
+06_hadoop,hadoop-tools,e-commerce,0.07940309611111102
+06_hadoop,hadoop-tools,image compression,0.08052310499999987
+06_hadoop,hadoop-tools,digital audio,0.08143348888888885
+06_hadoop,hadoop-tools,education,0.08277483833333338
+06_hadoop,hadoop-tools,Web Components,0.09233487277777774
+06_hadoop,hadoop-tools,audio player software,0.09260477722222221
+06_hadoop,hadoop-tools,file system,0.09289175444444447
+06_hadoop,hadoop-tools,password manager,0.09538799666666664
+06_hadoop,hadoop-tools,internet bot,0.09729536722222215
+06_hadoop,hadoop-tools,web browser engine,0.09825035111111108
+06_hadoop,hadoop-tools,virtual reality,0.10402119500000007
+06_hadoop,hadoop-tools,website,0.10432174166666658
+06_hadoop,hadoop-tools,World Wide Web,0.12178722277777781
+06_hadoop,hadoop-tools,video processing,0.12956046833333335
+06_hadoop,hadoop-tools,web scraping,0.1304352972222222
+06_hadoop,hadoop-tools,search engine,0.13795911500000008
+06_hadoop,hadoop-tools,animation,0.14038336888888886
+06_hadoop,hadoop-tools,web browser,0.14262250611111105
+06_hadoop,hadoop-tools,web crawler,0.1431570616666667
+06_hadoop,hadoop-tools,video,0.15929488111111112
+06_hadoop,hadoop-tools,streaming media,0.1628447033333334

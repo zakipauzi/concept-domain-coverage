@@ -1,0 +1,94 @@
+project_name,module,domain,diff_sim
+05_shardingsphere,jdbc,information extraction,0.001166495873015816
+05_shardingsphere,jdbc,object detection,0.001180367777777802
+05_shardingsphere,jdbc,unit testing,0.0013188476190476028
+05_shardingsphere,jdbc,data binding,0.0018512444444445109
+05_shardingsphere,jdbc,analytics,0.0053864563492064255
+05_shardingsphere,jdbc,schema migration,0.005679791428571446
+05_shardingsphere,jdbc,convolutional neural network,0.005817232857142807
+05_shardingsphere,jdbc,regular expression,0.006103309206349106
+05_shardingsphere,jdbc,static program analysis,0.006357308095238046
+05_shardingsphere,jdbc,validator,0.00807748634920652
+05_shardingsphere,jdbc,text classification,0.008095740793650774
+05_shardingsphere,jdbc,object–relational mapping,0.009094223015872926
+05_shardingsphere,jdbc,code generation,0.009439706031746153
+05_shardingsphere,jdbc,information processing,0.010176098095238117
+05_shardingsphere,jdbc,stream processing,0.010306197301587217
+05_shardingsphere,jdbc,artificial neural network,0.010996381587301707
+05_shardingsphere,jdbc,data analysis,0.01315363158730165
+05_shardingsphere,jdbc,optical character recognition,0.013343190952380901
+05_shardingsphere,jdbc,translation,0.013833169047618998
+05_shardingsphere,jdbc,time series,0.014221467142857214
+05_shardingsphere,jdbc,serialization,0.014850019841269935
+05_shardingsphere,jdbc,logging,0.016521910793650896
+05_shardingsphere,jdbc,pattern matching,0.017575259841269952
+05_shardingsphere,jdbc,compiler,0.01762721920634941
+05_shardingsphere,jdbc,data structure,0.0183719268253969
+05_shardingsphere,jdbc,big data,0.019012610634920768
+05_shardingsphere,jdbc,support vector machine,0.0198768304761906
+05_shardingsphere,jdbc,Parser combinator,0.020780815079365134
+05_shardingsphere,jdbc,text processing,0.02106682126984144
+05_shardingsphere,jdbc,data,0.021556528888888926
+05_shardingsphere,jdbc,static program analysis tool,0.021725459365079414
+05_shardingsphere,jdbc,automation,0.024037782857142975
+05_shardingsphere,jdbc,smart contract,0.024222196031745913
+05_shardingsphere,jdbc,data visualization,0.026076670476190444
+05_shardingsphere,jdbc,synchronization,0.026133373968253992
+05_shardingsphere,jdbc,linear regression,0.02644915174603174
+05_shardingsphere,jdbc,data compression,0.02655233841269844
+05_shardingsphere,jdbc,regression analysis,0.026675805396825403
+05_shardingsphere,jdbc,encryption,0.027115107619047618
+05_shardingsphere,jdbc,algorithm,0.027692172539682702
+05_shardingsphere,jdbc,test automation,0.028123337936507897
+05_shardingsphere,jdbc,dependency injection,0.03281420047619049
+05_shardingsphere,jdbc,virtual reality,0.03863397825396819
+05_shardingsphere,jdbc,password manager,0.04021108873015872
+05_shardingsphere,jdbc,client,0.04051408142857166
+05_shardingsphere,jdbc,signal processing,0.04085929904761898
+05_shardingsphere,jdbc,database management,0.04293501698412705
+05_shardingsphere,jdbc,information retrieval,0.04422071095238106
+05_shardingsphere,jdbc,command-line interface,0.04473152380952372
+05_shardingsphere,jdbc,language model,0.045322106984126975
+05_shardingsphere,jdbc,microservices,0.04559760111111122
+05_shardingsphere,jdbc,HTTP server,0.04677849142857149
+05_shardingsphere,jdbc,game server,0.04751528190476195
+05_shardingsphere,jdbc,distributed database,0.0486113033333333
+05_shardingsphere,jdbc,sentiment analysis,0.04900162682539677
+05_shardingsphere,jdbc,cloud computing,0.050267363968253986
+05_shardingsphere,jdbc,software testing,0.05199303126984123
+05_shardingsphere,jdbc,penetration test,0.05232821730158732
+05_shardingsphere,jdbc,web service,0.05266757857142873
+05_shardingsphere,jdbc,computer data storage,0.053573410000000043
+05_shardingsphere,jdbc,graphical user interface,0.05394881000000007
+05_shardingsphere,jdbc,telecommunications network,0.05457340222222212
+05_shardingsphere,jdbc,static site generator,0.05483097888888888
+05_shardingsphere,jdbc,network monitoring,0.05545070126984131
+05_shardingsphere,jdbc,database,0.05587054873015884
+05_shardingsphere,jdbc,front end,0.056696576190476244
+05_shardingsphere,jdbc,server,0.05703008857142855
+05_shardingsphere,jdbc,middleware,0.05716856095238093
+05_shardingsphere,jdbc,speech synthesis,0.057965121904761885
+05_shardingsphere,jdbc,content management system,0.060483926666666576
+05_shardingsphere,jdbc,web application security,0.06329383650793657
+05_shardingsphere,jdbc,software development,0.0646515342857143
+05_shardingsphere,jdbc,user interface,0.0649031998412698
+05_shardingsphere,jdbc,blockchain,0.0659410755555555
+05_shardingsphere,jdbc,instant messaging,0.06710570666666676
+05_shardingsphere,jdbc,World Wide Web,0.06750848142857135
+05_shardingsphere,jdbc,web server,0.06751490984126979
+05_shardingsphere,jdbc,file system,0.06851038000000009
+05_shardingsphere,jdbc,security,0.06863708142857133
+05_shardingsphere,jdbc,back end,0.0698615577777778
+05_shardingsphere,jdbc,operating system,0.0700985931746031
+05_shardingsphere,jdbc,graph database,0.07024903063492072
+05_shardingsphere,jdbc,computer configuration,0.07064761492063498
+05_shardingsphere,jdbc,package management system,0.07120687047619051
+05_shardingsphere,jdbc,distributed system,0.07220536301587305
+05_shardingsphere,jdbc,File Transfer Protocol,0.07378065761904778
+05_shardingsphere,jdbc,embedded system,0.07760128015873008
+05_shardingsphere,jdbc,e-commerce,0.08886319095238104
+05_shardingsphere,jdbc,website,0.09651621047619047
+05_shardingsphere,jdbc,web application,0.11056579206349204
+05_shardingsphere,jdbc,router,0.11295913206349212
+05_shardingsphere,jdbc,streaming media,0.11674258539682536
+05_shardingsphere,jdbc,recommender system,0.1330770553968254

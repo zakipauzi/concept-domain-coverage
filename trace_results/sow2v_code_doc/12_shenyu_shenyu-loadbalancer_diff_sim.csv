@@ -1,0 +1,15 @@
+project_name,module,domain,diff_sim
+12_shenyu,shenyu-loadbalancer,database,0.0015265538888888375
+12_shenyu,shenyu-loadbalancer,search,0.002427760277777802
+12_shenyu,shenyu-loadbalancer,encryption,0.026405815861111098
+12_shenyu,shenyu-loadbalancer,scheduler,0.030896372777777792
+12_shenyu,shenyu-loadbalancer,blockchain,0.0346745091666667
+12_shenyu,shenyu-loadbalancer,analytics,0.0383392771111111
+12_shenyu,shenyu-loadbalancer,data,0.0500210983333334
+12_shenyu,shenyu-loadbalancer,microservices,0.0518792646111111
+12_shenyu,shenyu-loadbalancer,server,0.062042476944444425
+12_shenyu,shenyu-loadbalancer,security,0.09128366916666669
+12_shenyu,shenyu-loadbalancer,client,0.1339975341666667
+12_shenyu,shenyu-loadbalancer,algorithm,0.13951118972222232
+12_shenyu,shenyu-loadbalancer,middleware,0.16029976555555558
+12_shenyu,shenyu-loadbalancer,website,0.17781954730000002

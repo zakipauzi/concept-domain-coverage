@@ -1,0 +1,146 @@
+project_name,module,domain,diff_sim
+03_flink,flink-optimizer,content management system,0.0002032934722223656
+03_flink,flink-optimizer,distributed database,0.0006029250000000319
+03_flink,flink-optimizer,algorithm,0.0007018615277777362
+03_flink,flink-optimizer,static program analysis tool,0.0014381498611111265
+03_flink,flink-optimizer,security,0.001544135694444504
+03_flink,flink-optimizer,scheduler,0.0016114775000001247
+03_flink,flink-optimizer,video game development,0.0017192776388889053
+03_flink,flink-optimizer,continuous delivery,0.0020452770833333522
+03_flink,flink-optimizer,audio signal processing,0.0022761441666666604
+03_flink,flink-optimizer,mobile application development,0.0022971458333334027
+03_flink,flink-optimizer,software testing,0.0029605779166666513
+03_flink,flink-optimizer,benchmark,0.0032696415277777557
+03_flink,flink-optimizer,static site generator,0.0032879669444444426
+03_flink,flink-optimizer,big data,0.003463822083333401
+03_flink,flink-optimizer,microservices,0.00352449944444444
+03_flink,flink-optimizer,application performance management,0.004337896388888929
+03_flink,flink-optimizer,analytics,0.004901353750000004
+03_flink,flink-optimizer,virtual machine,0.004988445972222311
+03_flink,flink-optimizer,data structure,0.0050466452777776505
+03_flink,flink-optimizer,penetration test,0.005202532500000023
+03_flink,flink-optimizer,HTTP client,0.005462738611111184
+03_flink,flink-optimizer,digital security,0.005671206666666595
+03_flink,flink-optimizer,client,0.0057106988888889765
+03_flink,flink-optimizer,cryptocurrency,0.005846777777777701
+03_flink,flink-optimizer,Web Components,0.005875272361111072
+03_flink,flink-optimizer,stream processing,0.0063587301388887685
+03_flink,flink-optimizer,web service,0.006859865694444411
+03_flink,flink-optimizer,data,0.0068719123611110655
+03_flink,flink-optimizer,software development,0.007469686666666586
+03_flink,flink-optimizer,search,0.007686540972222267
+03_flink,flink-optimizer,data analysis,0.007964810972222347
+03_flink,flink-optimizer,productivity,0.007971316666666617
+03_flink,flink-optimizer,web crawler,0.00841778458333342
+03_flink,flink-optimizer,distributed system,0.008434011111111084
+03_flink,flink-optimizer,embedded system,0.008712689999999967
+03_flink,flink-optimizer,operating system,0.008999053749999986
+03_flink,flink-optimizer,digital image processing,0.00906431722222234
+03_flink,flink-optimizer,web application security,0.009265623333333417
+03_flink,flink-optimizer,digital audio,0.009463327916666875
+03_flink,flink-optimizer,software architecture,0.009574599999999989
+03_flink,flink-optimizer,translation,0.009583199861111114
+03_flink,flink-optimizer,code generation,0.009659783333333394
+03_flink,flink-optimizer,web application,0.010006297777777784
+03_flink,flink-optimizer,cloud computing,0.010116471250000036
+03_flink,flink-optimizer,computer configuration,0.01015594777777784
+03_flink,flink-optimizer,database,0.010352443055555494
+03_flink,flink-optimizer,blockchain,0.010845646111111162
+03_flink,flink-optimizer,static program analysis,0.011136448611111183
+03_flink,flink-optimizer,File Transfer Protocol,0.01117537097222221
+03_flink,flink-optimizer,statistics,0.011837794166666582
+03_flink,flink-optimizer,cluster analysis,0.011889629305555593
+03_flink,flink-optimizer,data mining,0.012760219999999878
+03_flink,flink-optimizer,unit testing,0.012783417638888905
+03_flink,flink-optimizer,signal processing,0.012839506666666556
+03_flink,flink-optimizer,middleware,0.013134494722222279
+03_flink,flink-optimizer,computer data storage,0.013408363055555483
+03_flink,flink-optimizer,real-time computing,0.013818651527777726
+03_flink,flink-optimizer,graphical user interface,0.01442608166666659
+03_flink,flink-optimizer,functional programming,0.014948025694444422
+03_flink,flink-optimizer,web browser,0.0149507611111111
+03_flink,flink-optimizer,game engine,0.015090202638888939
+03_flink,flink-optimizer,sorting algorithm,0.015195239583333353
+03_flink,flink-optimizer,serverless computing,0.01529652291666661
+03_flink,flink-optimizer,server,0.015469498611111021
+03_flink,flink-optimizer,command-line interface,0.01558144125000005
+03_flink,flink-optimizer,time series,0.015703238194444413
+03_flink,flink-optimizer,design,0.01636298152777782
+03_flink,flink-optimizer,streaming media,0.016456103750000006
+03_flink,flink-optimizer,test automation,0.01658297749999993
+03_flink,flink-optimizer,regular expression,0.01667030138888892
+03_flink,flink-optimizer,smart contract,0.01693128875000005
+03_flink,flink-optimizer,"extract, transform, load",0.016987520833333325
+03_flink,flink-optimizer,data compression,0.01713804652777784
+03_flink,flink-optimizer,distributed computing,0.01715882611111119
+03_flink,flink-optimizer,instant messaging,0.01750962527777783
+03_flink,flink-optimizer,automation,0.017808460138888815
+03_flink,flink-optimizer,back end,0.01884911986111093
+03_flink,flink-optimizer,dependency injection,0.019794023333333355
+03_flink,flink-optimizer,recommender system,0.019960964722222307
+03_flink,flink-optimizer,Bayesian inference,0.02014276625
+03_flink,flink-optimizer,mathematical optimization,0.02024893347222223
+03_flink,flink-optimizer,website,0.020925694861111233
+03_flink,flink-optimizer,Kalman filter,0.021148907500000036
+03_flink,flink-optimizer,HTTP server,0.02142063222222229
+03_flink,flink-optimizer,distributed multimedia communications platform,0.02145159833333332
+03_flink,flink-optimizer,data science,0.021785890138888875
+03_flink,flink-optimizer,compiler,0.021802436944444503
+03_flink,flink-optimizer,web server,0.02210842680555547
+03_flink,flink-optimizer,text processing,0.022934876805555393
+03_flink,flink-optimizer,information processing,0.022999395138888823
+03_flink,flink-optimizer,pattern matching,0.023044279861111017
+03_flink,flink-optimizer,data binding,0.023308034861111104
+03_flink,flink-optimizer,evolutionary algorithm,0.024177156666666644
+03_flink,flink-optimizer,user interface,0.02452057861111101
+03_flink,flink-optimizer,algorithmic trading,0.02507863833333346
+03_flink,flink-optimizer,geographic information system,0.02559081750000003
+03_flink,flink-optimizer,information retrieval,0.025869734305555614
+03_flink,flink-optimizer,database management,0.026185151805555473
+03_flink,flink-optimizer,logging,0.026297656111111067
+03_flink,flink-optimizer,search engine,0.02660496027777781
+03_flink,flink-optimizer,stock market,0.02730579124999999
+03_flink,flink-optimizer,linear regression,0.027382083333333362
+03_flink,flink-optimizer,object–relational mapping,0.027866702500000007
+03_flink,flink-optimizer,electronic trading platform,0.028336849861111013
+03_flink,flink-optimizer,logistic regression model,0.028488171944444418
+03_flink,flink-optimizer,network analysis,0.029017349722222252
+03_flink,flink-optimizer,optical character recognition,0.029600635694444433
+03_flink,flink-optimizer,web browser engine,0.029862166944444435
+03_flink,flink-optimizer,Parser combinator,0.03015921847222225
+03_flink,flink-optimizer,hyperparameter optimization,0.03029664680555555
+03_flink,flink-optimizer,World Wide Web,0.030581363333333444
+03_flink,flink-optimizer,genetic algorithm,0.03228482624999984
+03_flink,flink-optimizer,computer vision,0.032829874027777706
+03_flink,flink-optimizer,image recognition,0.03317108750000003
+03_flink,flink-optimizer,graph algorithm,0.033176485138888934
+03_flink,flink-optimizer,backup,0.033630026666666646
+03_flink,flink-optimizer,graph database,0.034576906527777784
+03_flink,flink-optimizer,package management system,0.035503790694444426
+03_flink,flink-optimizer,internet of things,0.03590082305555542
+03_flink,flink-optimizer,file system,0.03735428597222212
+03_flink,flink-optimizer,telecommunications network,0.038839448055555614
+03_flink,flink-optimizer,computational biology,0.0398357959722222
+03_flink,flink-optimizer,Naive Bayes classifier,0.04019715458333334
+03_flink,flink-optimizer,validator,0.04032879263888889
+03_flink,flink-optimizer,artificial intelligence,0.042170681111111
+03_flink,flink-optimizer,reinforcement learning,0.04305219888888895
+03_flink,flink-optimizer,transfer learning,0.043278117916666636
+03_flink,flink-optimizer,face detection,0.04371080583333331
+03_flink,flink-optimizer,object detection,0.04542295958333342
+03_flink,flink-optimizer,serialization,0.04579411986111115
+03_flink,flink-optimizer,machine learning,0.046476719861111015
+03_flink,flink-optimizer,Semantic Web,0.04651092555555547
+03_flink,flink-optimizer,facial recognition system,0.047178601111111274
+03_flink,flink-optimizer,artificial neural network,0.04762515111111121
+03_flink,flink-optimizer,long short-term memory,0.04778486999999987
+03_flink,flink-optimizer,internet bot,0.048958097777777876
+03_flink,flink-optimizer,support vector machine,0.04917668791666663
+03_flink,flink-optimizer,word embedding,0.049415617916666654
+03_flink,flink-optimizer,convolutional neural network,0.052610765833333295
+03_flink,flink-optimizer,text classification,0.054767197083333385
+03_flink,flink-optimizer,language model,0.056723292361110955
+03_flink,flink-optimizer,deep neural network,0.05684142624999999
+03_flink,flink-optimizer,natural language processing,0.059894205416666624
+03_flink,flink-optimizer,natural language understanding,0.06305322208333342
+03_flink,flink-optimizer,natural language,0.06409191847222234

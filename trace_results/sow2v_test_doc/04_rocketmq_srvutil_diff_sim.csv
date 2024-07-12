@@ -1,0 +1,12 @@
+project_name,module,domain,diff_sim
+04_rocketmq,srvutil,data,0.05201398347222219
+04_rocketmq,srvutil,search,0.07851666390277778
+04_rocketmq,srvutil,website,0.0934076488888889
+04_rocketmq,srvutil,database,0.1232520595833334
+04_rocketmq,srvutil,scheduler,0.1421303251388889
+04_rocketmq,srvutil,analytics,0.1578519280277777
+04_rocketmq,srvutil,logging,0.1698498965277777
+04_rocketmq,srvutil,security,0.1745012772222222
+04_rocketmq,srvutil,microservices,0.1913719749444445
+04_rocketmq,srvutil,server,0.20610843763888892
+04_rocketmq,srvutil,client,0.32619190375000007

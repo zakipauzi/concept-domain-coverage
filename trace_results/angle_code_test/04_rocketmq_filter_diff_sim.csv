@@ -1,0 +1,83 @@
+project_name,module,domain,diff_sim
+04_rocketmq,filter,regular expression,0.0017509484444445667
+04_rocketmq,filter,encryption,0.0020502964444444327
+04_rocketmq,filter,big data,0.002087732666666675
+04_rocketmq,filter,back end,0.0021943162222222146
+04_rocketmq,filter,natural language processing,0.003831368666666779
+04_rocketmq,filter,interpreter,0.00402478911111126
+04_rocketmq,filter,image,0.00443642866666677
+04_rocketmq,filter,user interface,0.005040811333333228
+04_rocketmq,filter,search,0.005453481777777824
+04_rocketmq,filter,signal processing,0.006987439555555586
+04_rocketmq,filter,time series,0.007017541333333321
+04_rocketmq,filter,text classification,0.007052392000000018
+04_rocketmq,filter,front end,0.00709289533333346
+04_rocketmq,filter,malware,0.007202900444444493
+04_rocketmq,filter,database,0.007254629333333318
+04_rocketmq,filter,image captioning,0.008083503777777723
+04_rocketmq,filter,text processing,0.00873915599999997
+04_rocketmq,filter,World Wide Web,0.008861787111111186
+04_rocketmq,filter,automation,0.008892098888888977
+04_rocketmq,filter,data,0.009639064666666641
+04_rocketmq,filter,content management system,0.009883741777777899
+04_rocketmq,filter,sorting algorithm,0.009905222888888898
+04_rocketmq,filter,language model,0.010431123555555533
+04_rocketmq,filter,security,0.01063584422222219
+04_rocketmq,filter,client,0.010971776222222174
+04_rocketmq,filter,digital image processing,0.011371709777777683
+04_rocketmq,filter,operating system,0.012371176666666706
+04_rocketmq,filter,audio signal processing,0.012434855777777698
+04_rocketmq,filter,website,0.01334210800000013
+04_rocketmq,filter,long short-term memory,0.013415472888888946
+04_rocketmq,filter,smart contract,0.013546058666666694
+04_rocketmq,filter,telecommunications network,0.014657758666666632
+04_rocketmq,filter,Kalman filter,0.014881834444444464
+04_rocketmq,filter,data compression,0.015483505555555555
+04_rocketmq,filter,instant messaging,0.01631988200000012
+04_rocketmq,filter,object detection,0.0183016113333333
+04_rocketmq,filter,microservices,0.01882170733333327
+04_rocketmq,filter,lexical analysis,0.01906315555555549
+04_rocketmq,filter,image editing,0.019317411111111127
+04_rocketmq,filter,data binding,0.019618690444444642
+04_rocketmq,filter,computer data storage,0.019804249555555542
+04_rocketmq,filter,machine learning,0.020987661555555592
+04_rocketmq,filter,server,0.02194790200000002
+04_rocketmq,filter,text editor,0.022298385555555522
+04_rocketmq,filter,data analysis,0.022973967555555475
+04_rocketmq,filter,HTTP client,0.02344879422222218
+04_rocketmq,filter,computer science,0.02382346799999996
+04_rocketmq,filter,recommender system,0.023852678000000016
+04_rocketmq,filter,information processing,0.023985895999999896
+04_rocketmq,filter,pattern matching,0.02598269311111112
+04_rocketmq,filter,logging,0.02609056022222228
+04_rocketmq,filter,graphical user interface,0.026170540666666686
+04_rocketmq,filter,Parser combinator,0.026720935999999917
+04_rocketmq,filter,HTTP server,0.026764452222222124
+04_rocketmq,filter,data structure,0.02688550733333328
+04_rocketmq,filter,syntax highlighting,0.02703558666666661
+04_rocketmq,filter,Web Components,0.02733408822222222
+04_rocketmq,filter,support vector machine,0.02908139577777774
+04_rocketmq,filter,static site generator,0.031296285555555525
+04_rocketmq,filter,validator,0.031863880444444326
+04_rocketmq,filter,stream processing,0.03209501777777768
+04_rocketmq,filter,question answering,0.03240464155555556
+04_rocketmq,filter,geographic information system,0.032744869333333315
+04_rocketmq,filter,search engine,0.0333201657777778
+04_rocketmq,filter,test automation,0.03374585088888893
+04_rocketmq,filter,Malware Analysis,0.03447529733333338
+04_rocketmq,filter,Image analysis,0.03495741400000002
+04_rocketmq,filter,backup,0.03669598266666668
+04_rocketmq,filter,video processing,0.03771079711111108
+04_rocketmq,filter,File Transfer Protocol,0.039398111111111134
+04_rocketmq,filter,file system,0.0397240055555555
+04_rocketmq,filter,compiler,0.04068038333333335
+04_rocketmq,filter,penetration test,0.042625578888888904
+04_rocketmq,filter,algorithm,0.04365005777777775
+04_rocketmq,filter,analytics,0.04808514822222226
+04_rocketmq,filter,unit testing,0.04880117888888891
+04_rocketmq,filter,software testing,0.05376437066666673
+04_rocketmq,filter,code generation,0.054959963333333306
+04_rocketmq,filter,streaming media,0.05534984555555561
+04_rocketmq,filter,static program analysis,0.05606331799999986
+04_rocketmq,filter,object–relational mapping,0.06627149977777774
+04_rocketmq,filter,benchmark,0.07707721733333328

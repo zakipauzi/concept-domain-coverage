@@ -1,0 +1,152 @@
+project_name,module,domain,diff_sim
+12_shenyu,shenyu-admin,information extraction,0.0007229449999999193
+12_shenyu,shenyu-admin,convolutional neural network,0.000946574999999894
+12_shenyu,shenyu-admin,image editing,0.0020080322222222335
+12_shenyu,shenyu-admin,Bayesian inference,0.0024431583333333062
+12_shenyu,shenyu-admin,internet bot,0.0029748758333333347
+12_shenyu,shenyu-admin,information retrieval,0.003164448055555491
+12_shenyu,shenyu-admin,computer configuration,0.003468441111111109
+12_shenyu,shenyu-admin,evolutionary algorithm,0.0037801216666665804
+12_shenyu,shenyu-admin,instant messaging,0.0044117558333333085
+12_shenyu,shenyu-admin,e-commerce,0.004435650000000013
+12_shenyu,shenyu-admin,artificial neural network,0.004446112222222187
+12_shenyu,shenyu-admin,File Transfer Protocol,0.004977260833333275
+12_shenyu,shenyu-admin,time series,0.005034468611111176
+12_shenyu,shenyu-admin,image recognition,0.00526324638888892
+12_shenyu,shenyu-admin,search,0.005726482222222218
+12_shenyu,shenyu-admin,router,0.005877131388888901
+12_shenyu,shenyu-admin,World Wide Web,0.006170352499999976
+12_shenyu,shenyu-admin,image classification,0.006422883888888786
+12_shenyu,shenyu-admin,back end,0.006528340000000021
+12_shenyu,shenyu-admin,"extract, transform, load",0.006946829999999959
+12_shenyu,shenyu-admin,support vector machine,0.0077915225000000365
+12_shenyu,shenyu-admin,password manager,0.008236388333333289
+12_shenyu,shenyu-admin,front end,0.008395292499999929
+12_shenyu,shenyu-admin,automation,0.00872772305555547
+12_shenyu,shenyu-admin,algorithmic trading,0.009045546944444427
+12_shenyu,shenyu-admin,question answering,0.009099906388888912
+12_shenyu,shenyu-admin,network monitoring,0.009179580833333367
+12_shenyu,shenyu-admin,graphical user interface,0.009262183888888886
+12_shenyu,shenyu-admin,middleware,0.009551251944444394
+12_shenyu,shenyu-admin,web browser engine,0.010066574166666675
+12_shenyu,shenyu-admin,telecommunications network,0.010173573055555662
+12_shenyu,shenyu-admin,facial recognition system,0.01063788833333329
+12_shenyu,shenyu-admin,security,0.010667334444444398
+12_shenyu,shenyu-admin,chatbot,0.011111637222222193
+12_shenyu,shenyu-admin,plot,0.011700001388888936
+12_shenyu,shenyu-admin,authentication,0.013162731666666594
+12_shenyu,shenyu-admin,algorithm,0.013381327500000095
+12_shenyu,shenyu-admin,artificial intelligence,0.01369093777777769
+12_shenyu,shenyu-admin,mathematical finance,0.013978551111111182
+12_shenyu,shenyu-admin,search engine,0.014037263055555582
+12_shenyu,shenyu-admin,validator,0.014288562777777791
+12_shenyu,shenyu-admin,email,0.014378052777777706
+12_shenyu,shenyu-admin,HTTP client,0.014865215555555533
+12_shenyu,shenyu-admin,data mining,0.014978296111111067
+12_shenyu,shenyu-admin,client,0.015244464444444605
+12_shenyu,shenyu-admin,image,0.015304794999999982
+12_shenyu,shenyu-admin,test automation,0.015683304444444324
+12_shenyu,shenyu-admin,streaming media,0.016131351944444483
+12_shenyu,shenyu-admin,Kalman filter,0.01655502944444448
+12_shenyu,shenyu-admin,digital security,0.01682657916666669
+12_shenyu,shenyu-admin,user interface,0.017052711944444576
+12_shenyu,shenyu-admin,synchronization,0.01764359194444448
+12_shenyu,shenyu-admin,face detection,0.01782640555555548
+12_shenyu,shenyu-admin,web application security,0.01811421805555552
+12_shenyu,shenyu-admin,named-entity recognition,0.018297848888888912
+12_shenyu,shenyu-admin,optical character recognition,0.01856153361111118
+12_shenyu,shenyu-admin,pattern matching,0.01895079277777778
+12_shenyu,shenyu-admin,WebSocket,0.019033918333333344
+12_shenyu,shenyu-admin,mobile computing,0.019145638055555525
+12_shenyu,shenyu-admin,machine learning,0.01986127194444448
+12_shenyu,shenyu-admin,image captioning,0.02022950750000002
+12_shenyu,shenyu-admin,functional programming,0.020269264999999925
+12_shenyu,shenyu-admin,Web Components,0.02092320555555538
+12_shenyu,shenyu-admin,text editor,0.02097391527777781
+12_shenyu,shenyu-admin,logging,0.021391666111111096
+12_shenyu,shenyu-admin,malware,0.021969054722222103
+12_shenyu,shenyu-admin,Malware Analysis,0.02218257694444442
+12_shenyu,shenyu-admin,web application,0.02221553361111106
+12_shenyu,shenyu-admin,backup,0.02238688111111109
+12_shenyu,shenyu-admin,benchmark,0.022623241666666738
+12_shenyu,shenyu-admin,kernel,0.022719104444444416
+12_shenyu,shenyu-admin,static site generator,0.02311829805555543
+12_shenyu,shenyu-admin,data compression,0.023175527222222214
+12_shenyu,shenyu-admin,code generation,0.023577823611111104
+12_shenyu,shenyu-admin,operating system,0.024557701388888853
+12_shenyu,shenyu-admin,information processing,0.024605503888888824
+12_shenyu,shenyu-admin,object detection,0.025629010555555554
+12_shenyu,shenyu-admin,website,0.026160883611111074
+12_shenyu,shenyu-admin,text classification,0.026789939722222267
+12_shenyu,shenyu-admin,mobile application development,0.0268397116666666
+12_shenyu,shenyu-admin,linear regression,0.027708187222222125
+12_shenyu,shenyu-admin,computer data storage,0.027765007777777795
+12_shenyu,shenyu-admin,computational science,0.02788096527777778
+12_shenyu,shenyu-admin,recommender system,0.028502154444444427
+12_shenyu,shenyu-admin,web crawler,0.030980392222222153
+12_shenyu,shenyu-admin,text mining,0.03133372333333323
+12_shenyu,shenyu-admin,web browser,0.03138030666666669
+12_shenyu,shenyu-admin,compiler,0.03200312333333333
+12_shenyu,shenyu-admin,signal processing,0.03229563083333331
+12_shenyu,shenyu-admin,text processing,0.03275445638888891
+12_shenyu,shenyu-admin,content management system,0.03294041833333328
+12_shenyu,shenyu-admin,syntax highlighting,0.033231342777777784
+12_shenyu,shenyu-admin,application performance management,0.03401423499999989
+12_shenyu,shenyu-admin,package management system,0.034294704722222236
+12_shenyu,shenyu-admin,game engine,0.03443546055555552
+12_shenyu,shenyu-admin,analytics,0.0347030061111111
+12_shenyu,shenyu-admin,web scraping,0.03486216805555559
+12_shenyu,shenyu-admin,graph database,0.0352590330555555
+12_shenyu,shenyu-admin,microservices,0.03550873666666671
+12_shenyu,shenyu-admin,cryptocurrency,0.03647890055555558
+12_shenyu,shenyu-admin,data visualization,0.036503720277777874
+12_shenyu,shenyu-admin,data analysis,0.0367548597222222
+12_shenyu,shenyu-admin,regular expression,0.037626395000000035
+12_shenyu,shenyu-admin,static program analysis,0.03777601027777777
+12_shenyu,shenyu-admin,machine translation,0.03791300138888881
+12_shenyu,shenyu-admin,electronic trading platform,0.037971560277777705
+12_shenyu,shenyu-admin,blockchain,0.03804105472222219
+12_shenyu,shenyu-admin,language model,0.03923357083333329
+12_shenyu,shenyu-admin,data structure,0.03962209333333333
+12_shenyu,shenyu-admin,distributed computing,0.04059787138888882
+12_shenyu,shenyu-admin,encryption,0.04078085222222222
+12_shenyu,shenyu-admin,web server,0.04089873444444442
+12_shenyu,shenyu-admin,penetration test,0.04177157944444443
+12_shenyu,shenyu-admin,file system,0.04179833138888889
+12_shenyu,shenyu-admin,command-line interface,0.04217141138888891
+12_shenyu,shenyu-admin,stream processing,0.04252009166666665
+12_shenyu,shenyu-admin,Semantic Web,0.04254902944444444
+12_shenyu,shenyu-admin,static program analysis tool,0.043334397500000066
+12_shenyu,shenyu-admin,3D modeling,0.04360741722222222
+12_shenyu,shenyu-admin,continuous integration,0.04407235027777784
+12_shenyu,shenyu-admin,embedded system,0.0443355663888888
+12_shenyu,shenyu-admin,data science,0.04452304166666665
+12_shenyu,shenyu-admin,server,0.04460788194444448
+12_shenyu,shenyu-admin,dependency injection,0.04510134611111116
+12_shenyu,shenyu-admin,data,0.04539255750000004
+12_shenyu,shenyu-admin,big data,0.04579258972222228
+12_shenyu,shenyu-admin,translation,0.04709986194444443
+12_shenyu,shenyu-admin,business dashboard,0.047468505555555596
+12_shenyu,shenyu-admin,virtual machine,0.0495087386111111
+12_shenyu,shenyu-admin,HTTP server,0.04954950166666661
+12_shenyu,shenyu-admin,DevOps,0.051282134722222206
+12_shenyu,shenyu-admin,scheduler,0.05183937999999999
+12_shenyu,shenyu-admin,virtualization,0.05462218527777779
+12_shenyu,shenyu-admin,stock market,0.05603691361111113
+12_shenyu,shenyu-admin,Containerization,0.056777503888889025
+12_shenyu,shenyu-admin,geographic information system,0.056815678333333286
+12_shenyu,shenyu-admin,software testing,0.0576551194444444
+12_shenyu,shenyu-admin,cloud computing,0.0576717705555555
+12_shenyu,shenyu-admin,distributed system,0.05860760055555564
+12_shenyu,shenyu-admin,reactive programming,0.05863600111111128
+12_shenyu,shenyu-admin,data binding,0.058741207777777915
+12_shenyu,shenyu-admin,database management,0.060735271388888956
+12_shenyu,shenyu-admin,web service,0.06170757666666665
+12_shenyu,shenyu-admin,smart contract,0.06268116722222211
+12_shenyu,shenyu-admin,database,0.0627902769444445
+12_shenyu,shenyu-admin,finance,0.06627608861111117
+12_shenyu,shenyu-admin,distributed database,0.0762372922222222
+12_shenyu,shenyu-admin,unit testing,0.07845308305555565
+12_shenyu,shenyu-admin,schema migration,0.09154271416666676
+12_shenyu,shenyu-admin,serialization,0.0916363269444444
+12_shenyu,shenyu-admin,object–relational mapping,0.1037595686111113
